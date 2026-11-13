@@ -67,6 +67,19 @@ from crawler_service import (
 LOGGER = logging.getLogger(__name__)
 
 # ==========================================
+# CẤU HÌNH API KEY AN TOÀN CHO CLOUD
+# ==========================================
+def get_gemini_api_key() -> str:
+    """Lấy API Key từ biến môi trường hoặc Streamlit Cloud Secrets."""
+    key = os.getenv("GEMINI_API_KEY", "")
+    if not key and hasattr(st, "secrets"):
+        try:
+            key = st.secrets.get("GEMINI_API_KEY", "")
+        except Exception:
+            pass
+    return key or ""
+
+# ==========================================
 # CÁC HÀM QUẢN LÝ LỊCH SỬ CHAT (GIỮ NGUYÊN)
 # ==========================================
 HISTORY_DIR = Path("data/chat_history")
@@ -153,8 +166,11 @@ def verify_login(username: str, password: str) -> bool:
 def text_to_speech(text: str) -> bytes | None:
     """Chuyển đổi văn bản thành âm thanh tiếng Việt."""
     try:
-        clean_text = re.sub(r"[*#_]", "", text)
-        tts = gTTS(text=clean_text, lang="vi")
+        clean_text = re.sub(r"[*#_`\[\]()]", " ", text)
+        clean_text = re.sub(r"\s+", " ", clean_text).strip()
+        if not clean_text:
+            return None
+        tts = gTTS(text=clean_text[:500], lang="vi")
         fp = io.BytesIO()
         tts.write_to_fp(fp)
         return fp.getvalue()
@@ -164,153 +180,167 @@ def text_to_speech(text: str) -> bytes | None:
 
 
 # ==========================================
-# STREAMLIT CONFIG & ASSETS
+# STREAMLIT CONFIG (WIDE LAYOUT & METADATA)
 # ==========================================
 st.set_page_config(
-    page_title="AI Digital Library · Thư viện sách thông minh",
+    page_title="AI Digital Library · Thư viện Số & Trợ lý Đa phương thức",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
 # ==========================================
-# COVER & AVATAR SVG PLACEHOLDERS
+# COVER & AVATAR SVG PLACEHOLDERS (EMERALD & GOLD)
 # ==========================================
 def get_book_cover_placeholder_uri(title: str, genre: str = "Sách") -> str:
-    """Tạo ảnh bìa vector SVG Navy & Gold cao cấp khi sách không có cover_url."""
+    """Tạo ảnh bìa vector SVG Emerald & Gold cao cấp khi sách không có cover_url."""
     safe_title = html.escape(str(title or "Thư viện AI"))[:40]
     safe_genre = html.escape(str(genre or "Sách số"))[:20]
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
       <defs>
         <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#0B1F3A"/>
-          <stop offset="60%" stop-color="#123B66"/>
-          <stop offset="100%" stop-color="#1E4E79"/>
+          <stop offset="0%" stop-color="#0F172A"/>
+          <stop offset="50%" stop-color="#064E3B"/>
+          <stop offset="100%" stop-color="#0F766E"/>
         </linearGradient>
         <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#C9A227"/>
-          <stop offset="100%" stop-color="#E8D28A"/>
+          <stop offset="0%" stop-color="#F59E0B"/>
+          <stop offset="100%" stop-color="#FDE68A"/>
         </linearGradient>
       </defs>
-      <rect width="300" height="450" rx="8" fill="url(#bgGrad)"/>
-      <rect x="12" y="12" width="276" height="426" rx="6" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.6"/>
-      <rect x="18" y="18" width="264" height="414" rx="4" fill="none" stroke="#EAF1F8" stroke-width="0.75" stroke-opacity="0.25"/>
-      <circle cx="150" cy="140" r="46" fill="#123B66" stroke="#C9A227" stroke-width="1.5"/>
-      <text x="150" y="152" font-family="-apple-system, sans-serif" font-size="34" fill="#E8D28A" text-anchor="middle">📖</text>
-      <rect x="60" y="215" width="180" height="24" rx="12" fill="#0B1F3A" fill-opacity="0.8" stroke="#C9A227" stroke-width="1"/>
-      <text x="150" y="231" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#E8D28A" text-anchor="middle" letter-spacing="1">{safe_genre.upper()}</text>
-      <text x="150" y="280" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle" width="240">
+      <rect width="300" height="450" rx="12" fill="url(#bgGrad)"/>
+      <rect x="12" y="12" width="276" height="426" rx="8" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-opacity="0.6"/>
+      <rect x="18" y="18" width="264" height="414" rx="6" fill="none" stroke="#CCFBF1" stroke-width="0.75" stroke-opacity="0.25"/>
+      <circle cx="150" cy="140" r="48" fill="#047857" stroke="#F59E0B" stroke-width="2"/>
+      <text x="150" y="153" font-family="-apple-system, sans-serif" font-size="34" fill="#FDE68A" text-anchor="middle">📖</text>
+      <rect x="50" y="215" width="200" height="26" rx="13" fill="#0F172A" fill-opacity="0.85" stroke="#10B981" stroke-width="1"/>
+      <text x="150" y="232" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#6EE7B7" text-anchor="middle" letter-spacing="1.2">{safe_genre.upper()}</text>
+      <text x="150" y="280" font-family="-apple-system, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">
         <tspan x="150" dy="0">{safe_title[:22]}</tspan>
         <tspan x="150" dy="22">{safe_title[22:44]}</tspan>
       </text>
-      <line x1="80" y1="340" x2="220" y2="340" stroke="#C9A227" stroke-width="1" stroke-opacity="0.5"/>
-      <text x="150" y="375" font-family="-apple-system, sans-serif" font-size="11" fill="#EAF1F8" fill-opacity="0.7" text-anchor="middle" letter-spacing="2">AI DIGITAL LIBRARY</text>
+      <line x1="80" y1="340" x2="220" y2="340" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.6"/>
+      <text x="150" y="375" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#CCFBF1" fill-opacity="0.85" text-anchor="middle" letter-spacing="2">AI DIGITAL LIBRARY</text>
     </svg>"""
     return f"data:image/svg+xml;base64,{base64.b64encode(svg.encode('utf-8')).decode('utf-8')}"
 
 
 def get_author_avatar_placeholder_uri(name: str) -> str:
-    """Tạo avatar SVG monogram Navy & Gold khi tác giả không có photo_url."""
+    """Tạo avatar SVG monogram Emerald & Gold khi tác giả không có photo_url."""
     safe_name = html.escape(str(name or "Tác giả"))
     initials = "".join([part[0] for part in safe_name.split()[:2]]).upper() or "TG"
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
       <defs>
         <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#0B1F3A"/>
-          <stop offset="100%" stop-color="#123B66"/>
+          <stop offset="0%" stop-color="#064E3B"/>
+          <stop offset="100%" stop-color="#0D9488"/>
         </linearGradient>
       </defs>
-      <circle cx="80" cy="80" r="76" fill="url(#avatarGrad)" stroke="#C9A227" stroke-width="3"/>
-      <circle cx="80" cy="80" r="70" fill="none" stroke="#E8D28A" stroke-width="1" stroke-dasharray="4,4"/>
-      <text x="80" y="92" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#E8D28A" text-anchor="middle">{initials}</text>
+      <circle cx="80" cy="80" r="76" fill="url(#avatarGrad)" stroke="#F59E0B" stroke-width="3"/>
+      <circle cx="80" cy="80" r="70" fill="none" stroke="#FDE68A" stroke-width="1" stroke-dasharray="4,4"/>
+      <text x="80" y="93" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#FDE68A" text-anchor="middle">{initials}</text>
     </svg>"""
     return f"data:image/svg+xml;base64,{base64.b64encode(svg.encode('utf-8')).decode('utf-8')}"
 
 
 # ==========================================
-# STYLESHEET "PREMIUM AI DIGITAL LIBRARY"
+# STYLESHEET "MODERN EMERALD & SLATE LUXURY"
 # ==========================================
 st.markdown(
     """
     <style>
     /* CSS Variables & Palette */
     :root {
-        --navy-dark: #0B1F3A;
-        --navy: #123B66;
-        --navy-light: #EAF1F8;
-        --navy-subtle: #F0F5FA;
-        --gold: #C9A227;
-        --gold-light: #E8D28A;
-        --gold-subtle: #FDF9EC;
-        --bg-main: #F7F9FC;
+        --teal-primary: #0D9488;
+        --teal-dark: #0F766E;
+        --teal-deep: #115E59;
+        --teal-light: #14B8A6;
+        --teal-subtle: #F0FDFA;
+        --teal-chip-bg: #CCFBF1;
+        --teal-chip-text: #0F766E;
+
+        --slate-dark: #0F172A;
+        --slate-mid: #1E293B;
+        --slate-light: #F1F5F9;
+        --canvas-bg: #F8FAFC;
         --surface-white: #FFFFFF;
-        --text-primary: #172033;
-        --text-secondary: #4B5E76;
-        --text-muted: #7A8CA3;
+
+        --text-primary: #0F172A;
+        --text-secondary: #475569;
+        --text-muted: #64748B;
+
+        --gold: #F59E0B;
+        --gold-light: #FDE68A;
+        --gold-subtle: #FFFBEB;
+
         --border-light: #E2E8F0;
-        --border-gold: rgba(201, 162, 39, 0.4);
-        --shadow-sm: 0 2px 6px rgba(11, 31, 58, 0.05);
-        --shadow-md: 0 6px 18px rgba(11, 31, 58, 0.08);
-        --shadow-lg: 0 12px 30px rgba(11, 31, 58, 0.12);
+        --border-teal: rgba(13, 148, 136, 0.35);
+
+        --shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.05);
+        --shadow-md: 0 4px 14px -2px rgba(15, 23, 42, 0.08), 0 2px 6px -1px rgba(15, 23, 42, 0.04);
+        --shadow-lg: 0 12px 28px -4px rgba(15, 23, 42, 0.12), 0 4px 12px -2px rgba(15, 23, 42, 0.05);
+        --shadow-teal: 0 12px 24px -4px rgba(13, 148, 136, 0.25);
+
         --radius-sm: 8px;
         --radius-md: 12px;
         --radius-lg: 16px;
+        --radius-full: 9999px;
     }
 
-    /* Chỉ ẩn nút Deploy, giữ lại menu 3 chấm */
-    .stDeployButton {
-        display: none !important;
-    }
-    
-    /* Làm trong suốt nền của thanh header để không che mất nội dung của bạn */
-    [data-testid="stHeader"] {
-        background-color: transparent !important;
-    }
+    /* Ẩn các thành phần thừa mặc định của Streamlit */
+    #MainMenu {visibility: hidden !important; display: none !important;}
+    footer {visibility: hidden !important; display: none !important;}
+    header {visibility: hidden !important; display: none !important;}
+    [data-testid="stHeader"] {display: none !important;}
+    .stDeployButton {display: none !important;}
+    [data-testid="stToolbar"] {visibility: hidden !important; display: none !important;}
 
-    /* Main App Layout */
+    /* Bố cục Canvas Chính */
     .stApp {
-        background-color: var(--bg-main);
+        background-color: var(--canvas-bg);
         color: var(--text-primary);
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     }
     .block-container {
-        max-width: 1240px;
-        padding-top: 1.5rem;
-        padding-bottom: 4rem;
+        max-width: 1380px !important;
+        padding-top: 1rem !important;
+        padding-bottom: 3.5rem !important;
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
     }
 
-    /* Typography & Section Titles */
+    /* Typography & Tiêu đề Mục */
     h1, h2, h3, h4, h5, h6 {
-        color: var(--navy-dark);
-        font-weight: 700;
-        letter-spacing: -0.01em;
+        color: var(--slate-dark);
+        font-weight: 750;
+        letter-spacing: -0.015em;
     }
     .lib-section-title {
-        color: var(--navy-dark);
-        font-size: 1.45rem;
+        color: var(--slate-dark);
+        font-size: 1.4rem;
         font-weight: 750;
         display: flex;
         align-items: center;
         gap: 0.6rem;
-        margin: 2rem 0 1rem 0;
+        margin: 1.8rem 0 1rem 0;
         padding-bottom: 0.5rem;
-        border-bottom: 2px solid var(--navy-light);
+        border-bottom: 2px solid var(--border-light);
     }
     .lib-section-title::before {
         content: "";
         display: inline-block;
         width: 5px;
         height: 1.3rem;
-        background: var(--gold);
+        background: linear-gradient(180deg, var(--teal-primary), var(--teal-dark));
         border-radius: 3px;
     }
 
-    /* Topbar & Global Search Banner */
+    /* Topbar Điều hướng & Tìm kiếm Toàn cục */
     .top-header-bar {
         background: var(--surface-white);
         border: 1px solid var(--border-light);
         border-radius: var(--radius-md);
-        padding: 0.8rem 1.2rem;
+        padding: 0.75rem 1.2rem;
         margin-bottom: 1.2rem;
         box-shadow: var(--shadow-sm);
         display: flex;
@@ -318,88 +348,104 @@ st.markdown(
         justify-content: space-between;
     }
 
-    /* Hero Banner */
+    /* Hero Banner Hiện đại */
     .hero-banner {
-        background: linear-gradient(135deg, #0B1F3A 0%, #123B66 60%, #1A4676 100%);
+        background: linear-gradient(135deg, #0F172A 0%, #064E3B 45%, #0F766E 85%, #0D9488 100%);
         border-radius: var(--radius-lg);
-        padding: 2.6rem 2.8rem;
+        padding: 2.4rem 2.8rem;
         color: #FFFFFF;
         position: relative;
         overflow: hidden;
         border-bottom: 4px solid var(--gold);
         box-shadow: var(--shadow-lg);
-        margin-bottom: 1.8rem;
+        margin-bottom: 1.6rem;
     }
     .hero-badge {
         display: inline-flex;
         align-items: center;
-        gap: 0.4rem;
-        background: rgba(201, 162, 39, 0.2);
+        gap: 0.5rem;
+        background: rgba(245, 158, 11, 0.2);
         border: 1px solid var(--gold-light);
         color: var(--gold-light);
-        padding: 0.35rem 0.85rem;
-        border-radius: 20px;
-        font-size: 0.82rem;
-        font-weight: 650;
-        letter-spacing: 0.04em;
+        padding: 0.35rem 0.9rem;
+        border-radius: var(--radius-full);
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
         text-transform: uppercase;
         margin-bottom: 1rem;
     }
+    .hero-badge-dot {
+        width: 7px;
+        height: 7px;
+        background-color: var(--gold);
+        border-radius: 50%;
+        display: inline-block;
+        box-shadow: 0 0 8px var(--gold);
+    }
     .hero-title {
-        font-size: 2.3rem;
-        font-weight: 800;
+        font-size: 2.25rem;
+        font-weight: 850;
         color: #FFFFFF;
-        margin: 0 0 0.6rem 0;
+        margin: 0 0 0.5rem 0;
         line-height: 1.25;
     }
     .hero-title span {
-        color: var(--gold-light);
+        background: linear-gradient(90deg, #FDE68A 0%, #F59E0B 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
     .hero-desc {
-        font-size: 1.05rem;
-        color: var(--navy-light);
-        margin: 0 0 1.5rem 0;
-        max-width: 780px;
+        font-size: 1.02rem;
+        color: #CCFBF1;
+        margin: 0 0 1.6rem 0;
+        max-width: 820px;
         line-height: 1.55;
     }
 
-    /* Stats Row */
-    .stats-card {
-        background: var(--surface-white);
-        border: 1px solid var(--border-light);
+    /* Thẻ thống kê 4 cột trong Hero */
+    .hero-stats-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+        margin-top: 1.2rem;
+    }
+    .hero-stat-item {
+        background: rgba(255, 255, 255, 0.12);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
         border-radius: var(--radius-md);
-        padding: 1.1rem 1.2rem;
+        padding: 1rem;
         text-align: center;
-        box-shadow: var(--shadow-sm);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        transition: all 0.2s ease;
     }
-    .stats-card:hover {
-        transform: translateY(-2px);
-        box-shadow: var(--shadow-md);
+    .hero-stat-item:hover {
+        background: rgba(255, 255, 255, 0.18);
         border-color: var(--gold-light);
+        transform: translateY(-2px);
     }
-    .stats-num {
-        font-size: 1.75rem;
-        font-weight: 800;
-        color: var(--navy);
-        margin-bottom: 0.2rem;
+    .hero-stat-num {
+        font-size: 1.65rem;
+        font-weight: 850;
+        color: #FFFFFF;
+        margin-bottom: 0.15rem;
     }
-    .stats-label {
-        font-size: 0.84rem;
-        color: var(--text-secondary);
-        font-weight: 550;
-        text-transform: uppercase;
-        letter-spacing: 0.03em;
+    .hero-stat-label {
+        font-size: 0.8rem;
+        color: #E2E8F0;
+        font-weight: 600;
+        letter-spacing: 0.02em;
     }
 
-    /* Book Card Component */
+    /* Thẻ sách (Book Card Container) */
     .book-card-container {
         background: var(--surface-white);
         border: 1px solid var(--border-light);
         border-radius: var(--radius-md);
         overflow: hidden;
         box-shadow: var(--shadow-sm);
-        transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+        transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.25s ease, border-color 0.25s ease;
         display: flex;
         flex-direction: column;
         margin-bottom: 1rem;
@@ -407,13 +453,13 @@ st.markdown(
     }
     .book-card-container:hover {
         transform: translateY(-4px);
-        box-shadow: var(--shadow-md);
-        border-color: var(--gold-light);
+        box-shadow: var(--shadow-teal);
+        border-color: var(--teal-primary);
     }
     .book-cover-wrap {
         width: 100%;
         height: 220px;
-        background: var(--navy-dark);
+        background: var(--slate-dark);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -427,19 +473,19 @@ st.markdown(
         transition: transform 0.3s ease;
     }
     .book-card-container:hover .book-cover-img {
-        transform: scale(1.03);
+        transform: scale(1.04);
     }
     .book-badge-featured {
         position: absolute;
         top: 10px;
         right: 10px;
-        background: var(--gold);
-        color: var(--navy-dark);
+        background: linear-gradient(135deg, #F59E0B, #D97706);
+        color: #FFFFFF;
         font-size: 0.72rem;
         font-weight: 750;
-        padding: 0.25rem 0.6rem;
-        border-radius: 12px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+        padding: 0.25rem 0.65rem;
+        border-radius: var(--radius-full);
+        box-shadow: 0 2px 6px rgba(0,0,0,0.25);
     }
     .book-card-body {
         padding: 1rem 1.1rem;
@@ -449,17 +495,17 @@ st.markdown(
     }
     .book-genre-chip {
         display: inline-block;
-        background: var(--navy-light);
-        color: var(--navy);
+        background: var(--teal-chip-bg);
+        color: var(--teal-chip-text);
         font-size: 0.75rem;
         font-weight: 650;
-        padding: 0.2rem 0.55rem;
+        padding: 0.2rem 0.6rem;
         border-radius: 6px;
         margin-bottom: 0.45rem;
         width: fit-content;
     }
     .book-card-title {
-        color: var(--navy-dark);
+        color: var(--slate-dark);
         font-size: 1.02rem;
         font-weight: 700;
         margin: 0 0 0.3rem 0;
@@ -482,7 +528,7 @@ st.markdown(
     .book-card-meta {
         display: flex;
         align-items: center;
-        gap: 0.6rem;
+        gap: 0.7rem;
         font-size: 0.8rem;
         color: var(--text-muted);
         margin-bottom: 0.5rem;
@@ -499,7 +545,7 @@ st.markdown(
         margin-bottom: 0.8rem;
     }
 
-    /* Detail Book Panel */
+    /* Thẻ Chi tiết sách */
     .detail-card {
         background: var(--surface-white);
         border: 1px solid var(--border-light);
@@ -515,57 +561,56 @@ st.markdown(
         margin: 0.8rem 0 1.2rem 0;
     }
     .detail-tag-item {
-        background: var(--navy-light);
-        color: var(--navy);
+        background: var(--teal-chip-bg);
+        color: var(--teal-chip-text);
         font-size: 0.82rem;
         font-weight: 600;
-        padding: 0.3rem 0.75rem;
-        border-radius: 20px;
+        padding: 0.3rem 0.8rem;
+        border-radius: var(--radius-full);
     }
     .detail-tag-item.gold {
         background: var(--gold-subtle);
         border: 1px solid var(--gold-light);
-        color: #8A6810;
+        color: #92400E;
     }
 
-    /* Sidebar Styling */
+    /* Sidebar Dark Slate & Teal Styling */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #0B1F3A 0%, #0E2849 100%) !important;
-        border-right: 1px solid rgba(201, 162, 39, 0.2);
+        background: linear-gradient(180deg, #0F172A 0%, #1E293B 100%) !important;
+        border-right: 1px solid rgba(13, 148, 136, 0.25);
     }
     [data-testid="stSidebar"] * {
         color: #FFFFFF !important;
     }
     [data-testid="stSidebar"] hr {
-        border-color: rgba(234, 241, 248, 0.15) !important;
+        border-color: rgba(255, 255, 255, 0.12) !important;
     }
     [data-testid="stSidebar"] .stCaption p {
-        color: #A9BFD6 !important;
+        color: #94A3B8 !important;
     }
     [data-testid="stSidebar"] .stButton button {
-        background: #123B66 !important;
+        background: #1E293B !important;
         color: #FFFFFF !important;
-        border: 1px solid rgba(232, 210, 138, 0.35) !important;
+        border: 1px solid rgba(13, 148, 136, 0.4) !important;
         border-radius: var(--radius-sm);
         transition: all 0.2s ease;
     }
     [data-testid="stSidebar"] .stButton button:hover {
-        background: #1A4E82 !important;
-        border-color: var(--gold) !important;
-        color: var(--gold-light) !important;
+        background: #0F766E !important;
+        border-color: var(--teal-light) !important;
+        color: #FFFFFF !important;
     }
     [data-testid="stSidebar"] .stButton button[kind="primary"] {
-        background: var(--gold) !important;
-        color: var(--navy-dark) !important;
+        background: linear-gradient(135deg, var(--teal-primary), var(--teal-dark)) !important;
+        color: #FFFFFF !important;
         font-weight: 700 !important;
         border: none !important;
     }
     [data-testid="stSidebar"] .stButton button[kind="primary"]:hover {
-        background: var(--gold-light) !important;
-        color: var(--navy-dark) !important;
+        background: linear-gradient(135deg, var(--teal-light), var(--teal-primary)) !important;
     }
 
-    /* Chat Messages */
+    /* Chat Messages - User & Assistant */
     [data-testid="stChatMessage"] {
         border-radius: var(--radius-md) !important;
         margin: 0.8rem 0 !important;
@@ -574,8 +619,8 @@ st.markdown(
     }
     /* User Message Bubble */
     [data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"]) {
-        background: linear-gradient(135deg, #0B1F3A 0%, #123B66 100%) !important;
-        border: 1px solid rgba(201, 162, 39, 0.4) !important;
+        background: linear-gradient(135deg, #0F766E 0%, #0D9488 100%) !important;
+        border: 1px solid rgba(13, 148, 136, 0.4) !important;
         border-radius: 18px 18px 4px 18px !important;
     }
     [data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"]) [data-testid="stMarkdownContainer"] * {
@@ -585,33 +630,57 @@ st.markdown(
     [data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-assistant"]) {
         background: var(--surface-white) !important;
         border: 1px solid var(--border-light) !important;
-        border-left: 4px solid var(--gold) !important;
+        border-left: 4px solid var(--teal-primary) !important;
         border-radius: 18px 18px 18px 4px !important;
     }
     [data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-assistant"]) [data-testid="stMarkdownContainer"] * {
         color: var(--text-primary) !important;
     }
     [data-testid="stChatInput"] {
-        border: 1.5px solid var(--navy) !important;
-        border-radius: 24px !important;
+        border: 1.5px solid var(--teal-primary) !important;
+        border-radius: 26px !important;
         box-shadow: var(--shadow-sm);
     }
 
-    /* General Buttons on Main Page */
+    /* Tabs Styling Hiện đại */
+    .stTabs [data-baseweb="tab-list"] {
+        gap: 8px;
+        background-color: var(--slate-light);
+        padding: 6px;
+        border-radius: var(--radius-md);
+        border: 1px solid var(--border-light);
+    }
+    .stTabs [data-baseweb="tab"] {
+        height: 42px;
+        border-radius: var(--radius-sm);
+        font-weight: 600;
+        font-size: 0.92rem;
+        color: var(--text-secondary);
+        background-color: transparent;
+        border: none;
+        padding: 0 18px;
+    }
+    .stTabs [aria-selected="true"] {
+        background-color: var(--surface-white) !important;
+        color: var(--teal-dark) !important;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06) !important;
+    }
+
+    /* Nút bấm chung trên trang chính */
     .stButton button {
         border-radius: var(--radius-sm);
         font-weight: 600;
         transition: all 0.2s ease;
     }
     .stButton button[kind="primary"] {
-        background: var(--gold) !important;
-        color: var(--navy-dark) !important;
-        border: 1px solid var(--gold) !important;
+        background: linear-gradient(135deg, var(--teal-primary), var(--teal-dark)) !important;
+        color: #FFFFFF !important;
+        border: none !important;
+        box-shadow: 0 2px 6px rgba(13, 148, 136, 0.3) !important;
     }
     .stButton button[kind="primary"]:hover {
-        background: var(--gold-light) !important;
-        border-color: var(--gold-light) !important;
-        color: var(--navy-dark) !important;
+        background: linear-gradient(135deg, var(--teal-light), var(--teal-primary)) !important;
+        box-shadow: 0 4px 12px rgba(13, 148, 136, 0.4) !important;
     }
 
     /* Category Cards */
@@ -627,12 +696,12 @@ st.markdown(
         flex-direction: column;
     }
     .genre-card:hover {
-        border-color: var(--gold);
+        border-color: var(--teal-primary);
         transform: translateY(-3px);
         box-shadow: var(--shadow-md);
     }
 
-    /* Empty state box */
+    /* Hộp Empty State */
     .empty-state-box {
         text-align: center;
         padding: 3rem 1.5rem;
@@ -652,13 +721,17 @@ st.markdown(
 
 
 # ==========================================
-# DATA LOADING & CACHE
+# DATA LOADING & CACHE (TƯƠNG THÍCH CLOUD)
 # ==========================================
 @st.cache_data
 def load_library_data(books_mtime: float = 0.0, authors_mtime: float = 0.0, genres_mtime: float = 0.0) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     books = load_books()
     authors = load_authors()
-    genres = pd.read_csv("data/genres.csv").fillna("")
+    genres_path = "data/genres.csv"
+    if os.path.exists(genres_path):
+        genres = pd.read_csv(genres_path).fillna("")
+    else:
+        genres = pd.DataFrame(columns=["genre_id", "name", "description"])
     return books, authors, genres
 
 
@@ -681,6 +754,7 @@ def init_state() -> None:
         "current_session_id": str(uuid.uuid4()),
         "global_search_query": "",
         "global_search_open": False,
+        "top_k": TOP_K_DEFAULT,
     }
     for key, value in defaults.items():
         if key not in st.session_state:
@@ -716,7 +790,7 @@ def render_cover_image(book: dict[str, Any], height: int = 220, is_large: bool =
 # RENDER BOOK CARD & GRID
 # ==========================================
 def render_book_card(book: dict[str, Any], key_prefix: str) -> None:
-    """Render một thẻ sách chuẩn Premium AI Digital Library."""
+    """Render một thẻ sách chuẩn Modern Luxury UI."""
     book_id = str(book.get("book_id", ""))
     title = str(book.get("title", "Không rõ"))
     author = str(book.get("author", "Không rõ"))
@@ -786,7 +860,7 @@ def render_retrieved_books(books: list[dict[str, Any]], key_prefix: str) -> None
     """Hiển thị nguồn sách grounding được truy xuất từ ChromaDB."""
     if not books:
         return
-    with st.expander(f"📚 Nguồn sách trích xuất từ kho dữ liệu ({len(books)} cuốn)", expanded=False):
+    with st.expander(f"📚 Nguồn sách trích xuất từ ChromaDB ({len(books)} ấn phẩm)", expanded=False):
         for index, item in enumerate(books):
             meta = item.get("metadata", {})
             title = str(meta.get("title", "Không rõ"))
@@ -800,12 +874,12 @@ def render_retrieved_books(books: list[dict[str, Any]], key_prefix: str) -> None
             cols = st.columns([1, 4, 1.5])
             with cols[0]:
                 st.markdown(
-                    f'<img src="{cover_uri}" style="width:100%; max-height:80px; object-fit:cover; border-radius:4px; box-shadow:var(--shadow-sm);"/>',
+                    f'<img src="{cover_uri}" style="width:100%; max-height:85px; object-fit:cover; border-radius:6px; box-shadow:var(--shadow-sm);"/>',
                     unsafe_allow_html=True,
                 )
             with cols[1]:
                 st.markdown(f"**{html.escape(title)}** · *{html.escape(author)}* ({year})")
-                st.caption(f"Thể loại: {genre} | Độ phù hợp (vector distance): `{distance}`")
+                st.caption(f"Thể loại: {genre} | Khoảng cách vector: `{distance}`")
             with cols[2]:
                 if book_id and st.button("Xem chi tiết", key=f"{key_prefix}_ret_{index}_{book_id}", use_container_width=True):
                     st.session_state.selected_book_id = book_id
@@ -815,11 +889,11 @@ def render_retrieved_books(books: list[dict[str, Any]], key_prefix: str) -> None
 
 
 def handle_location_request(question: str, user_location: str) -> tuple[str, dict[str, Any] | None]:
-    """Xử lý truy vấn địa điểm bằng SerpApi."""
+    """Xử lý truy vấn địa điểm bằng SerpApi / Local Fallback."""
     intent = classify_intent(question)
     location = extract_user_location(question) or str(user_location or "").strip()
     if not location:
-        return "Bạn muốn tìm địa điểm ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội.", None
+        return "Bạn muốn tìm địa điểm ở khu vực nào? Ví dụ: Đà Nẵng, Huế hoặc Hà Nội.", None
     if intent == FIND_LIBRARY:
         results = search_libraries(location)
         return (
@@ -850,7 +924,7 @@ def process_pending_location(
 ) -> tuple[str, str, dict[str, Any] | None]:
     location = normalize_user_location(extract_user_location(question) or question.strip().rstrip("?.!"))
     if not location:
-        return "Bạn đang ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội.", current_location, None
+        return "Bạn đang ở khu vực nào? Ví dụ: Đà Nẵng, Huế hoặc Hà Nội.", current_location, None
     if pending_kind not in {"library", "bookstore"}:
         return (
             f"Đã ghi nhận khu vực của bạn là **{location}**. Bạn có thể yêu cầu mình tìm nhà sách hoặc thư viện gần đó.",
@@ -901,7 +975,7 @@ def render_location_results(location_data: dict[str, Any], key_prefix: str) -> N
 # GLOBAL SEARCH MODAL / SECTION
 # ==========================================
 def render_global_search_view(books: pd.DataFrame, authors: pd.DataFrame) -> None:
-    """Trang kết quả Tìm kiếm toàn cục phân nhóm BOOKS và AUTHORS."""
+    """Trang kết quả Tìm kiếm toàn cục phân nhóm SÁCH và TÁC GIẢ."""
     query = st.session_state.get("global_search_query", "").strip()
     st.markdown('<div class="lib-section-title">🔍 Kết quả Tìm kiếm Toàn cục</div>', unsafe_allow_html=True)
     st.caption(f"Từ khóa: **{html.escape(query)}** (tra cứu trực tiếp trong dữ liệu)")
@@ -917,9 +991,7 @@ def render_global_search_view(books: pd.DataFrame, authors: pd.DataFrame) -> Non
         st.info("Vui lòng nhập từ khóa tìm kiếm.")
         return
 
-    # Lọc Books
     books_result = search_books(books, query=query)
-    # Lọc Authors
     authors_result = search_authors(authors, query=query)
 
     tab_books, tab_authors = st.tabs([f"📚 SÁCH ({len(books_result)})", f"✍️ TÁC GIẢ ({len(authors_result)})"])
@@ -964,19 +1036,40 @@ def render_global_search_view(books: pd.DataFrame, authors: pd.DataFrame) -> Non
 
 
 # ==========================================
-# TRANG CHỦ (HERO BANNER & SECTIONS)
+# TRANG CHỦ (HERO BANNER & TAB BỐ CỤC 2 CỘT)
 # ==========================================
 def render_home(books: pd.DataFrame, authors: pd.DataFrame, genres: pd.DataFrame) -> None:
-    # 1. Hero Banner
+    # 1. Hero Banner Hiện Đại
+    available_read_count = len(books[books["reading_available"]]) if "reading_available" in books.columns else 0
     st.markdown(
         f"""
         <section class="hero-banner">
-            <div class="hero-badge">🏛️ THƯ VIỆN SỐ THÔNG MINH · CÔNG NGHỆ RAG & GEMINI</div>
-            <h1 class="hero-title">Khám Phá Tri Thức & <span>Chọn Sách Thông Minh</span></h1>
+            <div class="hero-badge">
+                <span class="hero-badge-dot"></span>
+                THƯ VIỆN SỐ THÔNG MINH · TRỢ LÝ AI ĐA PHƯƠNG THỨC
+            </div>
+            <h1 class="hero-title">Khám Phá Tri Thức & <span>Tư Vấn Sách Thông Minh</span></h1>
             <p class="hero-desc">
-                Hệ thống thư viện số hiện đại tích hợp AI Grounding, hỗ trợ tra cứu ngữ nghĩa chuyên sâu, 
-                đọc thử sách trực tuyến và đồng hành cùng bạn trên hành trình phát triển bản thân.
+                Hệ thống thư viện số hiện đại kết hợp kiến trúc RAG, Google Gemini, nhận diện ảnh bìa qua Computer Vision và đàm thoại giọng nói 2 chiều tiếng Việt.
             </p>
+            <div class="hero-stats-grid">
+                <div class="hero-stat-item">
+                    <div class="hero-stat-num">{len(books)}+</div>
+                    <div class="hero-stat-label">Đầu sách chuẩn hóa</div>
+                </div>
+                <div class="hero-stat-item">
+                    <div class="hero-stat-num">768-D</div>
+                    <div class="hero-stat-label">ChromaDB RAG Vector</div>
+                </div>
+                <div class="hero-stat-item">
+                    <div class="hero-stat-num">AI Vision</div>
+                    <div class="hero-stat-label">Quét bìa tự động</div>
+                </div>
+                <div class="hero-stat-item">
+                    <div class="hero-stat-num">Voice 2-Way</div>
+                    <div class="hero-stat-label">STT & TTS Stream MP3</div>
+                </div>
+            </div>
         </section>
         """,
         unsafe_allow_html=True,
@@ -1000,86 +1093,96 @@ def render_home(books: pd.DataFrame, authors: pd.DataFrame, genres: pd.DataFrame
             navigate("Kho sách")
             st.rerun()
 
-    # 3. Live Stats Bar
-    stat_cols = st.columns(4)
-    with stat_cols[0]:
+    # 3. Bố cục Tabs Linh Hoạt: Trợ lý AI Tư vấn | Khám phá Kho sách | Nổi bật & Thể loại
+    home_tab_chat, home_tab_explore, home_tab_featured = st.tabs([
+        "🤖 Trợ lý AI Tư vấn (Live Console)",
+        "📚 Khám phá Kho sách (Book Explorer)",
+        "⭐ Tuyển tập Nổi bật & Thể loại",
+    ])
+
+    with home_tab_chat:
         st.markdown(
-            f"""<div class="stats-card"><div class="stats-num">{len(books)}</div><div class="stats-label">Đầu sách tinh tuyển</div></div>""",
-            unsafe_allow_html=True,
-        )
-    with stat_cols[1]:
-        st.markdown(
-            f"""<div class="stats-card"><div class="stats-num">{len(authors)}</div><div class="stats-label">Tác giả xuất sắc</div></div>""",
-            unsafe_allow_html=True,
-        )
-    with stat_cols[2]:
-        st.markdown(
-            f"""<div class="stats-card"><div class="stats-num">{len(genres)}</div><div class="stats-label">Thể loại đa dạng</div></div>""",
-            unsafe_allow_html=True,
-        )
-    with stat_cols[3]:
-        available_read_count = len(books[books["reading_available"]])
-        st.markdown(
-            f"""<div class="stats-card"><div class="stats-num">{available_read_count}</div><div class="stats-label">Bản đọc trực tuyến</div></div>""",
+            """
+            <div style="background:var(--surface-white); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:1rem 1.4rem; margin-bottom:1rem;">
+                <b style="color:var(--teal-dark); font-size:1.05rem;">Trò chuyện cùng Thủ thư AI trực tiếp tại Trang chủ</b>
+                <p style="margin:0.2rem 0 0 0; font-size:0.88rem; color:var(--text-secondary);">
+                    Đặt câu hỏi về nội dung, xin gợi ý sách theo tâm trạng hoặc yêu cầu so sánh đa tài liệu. AI sẽ tra cứu ngữ nghĩa ChromaDB và đưa ra câu trả lời chuẩn xác.
+                </p>
+            </div>
+            """,
             unsafe_allow_html=True,
         )
 
-    # 4. Quick Actions
-    st.write("")
-    cta_cols = st.columns(2)
-    with cta_cols[0]:
-        if st.button("📚 Khám phá toàn bộ Kho sách", use_container_width=True):
+        # Gợi ý nhanh (Quick Chips)
+        st.markdown("<p style='font-size:0.85rem; color:var(--text-secondary); margin-bottom:0.4rem;'>💡 <b>Gợi ý câu hỏi bắt đầu:</b></p>", unsafe_allow_html=True)
+        chip_cols = st.columns(4)
+        suggestions = [
+            ("🤖 Sách về AI cho người mới", "Tìm sách về AI cho người mới bắt đầu"),
+            ("🌱 Phát triển bản thân", "Tôi muốn tìm sách phát triển bản thân và tư duy tích cực"),
+            ("🧠 Tâm lý học hành vi", "Gợi ý sách hay về tâm lý học và thấu hiểu con người"),
+            ("⚡ Xây dựng thói quen", "Tìm sách giúp xây dựng thói quen tốt và kỷ luật bản thân"),
+        ]
+        for col, (label, query_text) in zip(chip_cols, suggestions):
+            with col:
+                if st.button(label, key=f"chip_home_{label}", use_container_width=True):
+                    st.session_state.pending_question = query_text
+                    navigate("AI Trợ lý")
+                    st.rerun()
+
+        # Hiển thị các tin nhắn gần nhất nếu có
+        if st.session_state.messages:
+            st.write("")
+            for msg_idx, msg in enumerate(st.session_state.messages[-4:]):
+                avatar_icon = ":material/person:" if msg["role"] == "user" else ":material/auto_awesome:"
+                with st.chat_message(msg["role"], avatar=avatar_icon):
+                    st.markdown(msg["content"])
+                    if msg["role"] == "assistant" and msg.get("books"):
+                        render_retrieved_books(msg["books"], f"home_ret_{msg_idx}")
+
+        chat_cta_cols = st.columns([3, 1])
+        with chat_cta_cols[0]:
+            quick_q = st.text_input("Nhập câu hỏi để bắt đầu trò chuyện với AI:", placeholder="Ví dụ: Tôi cảm thấy mất tập trung, nên đọc cuốn sách nào?...", key="home_quick_chat_input")
+        with chat_cta_cols[1]:
+            st.write("")
+            if st.button("🚀 Gửi cho AI", type="primary", use_container_width=True):
+                if quick_q.strip():
+                    st.session_state.pending_question = quick_q.strip()
+                    navigate("AI Trợ lý")
+                    st.rerun()
+
+    with home_tab_explore:
+        st.markdown('<div class="lib-section-title">📚 Danh mục ấn phẩm mới cập nhật</div>', unsafe_allow_html=True)
+        explore_books = books.head(9)
+        render_book_grid(explore_books, "home_explore")
+        if st.button("👉 Xem toàn bộ kho sách (" + str(len(books)) + " cuốn)", use_container_width=True):
             navigate("Kho sách")
             st.rerun()
-    with cta_cols[1]:
-        if st.button("🤖 Trò chuyện cùng AI Trợ lý", type="primary", use_container_width=True):
-            navigate("AI Trợ lý")
-            st.rerun()
 
-    # 5. Sách nổi bật
-    st.markdown('<div class="lib-section-title">⭐ Tuyển tập sách nổi bật</div>', unsafe_allow_html=True)
-    featured_df = get_featured_books(books, 6)
-    render_book_grid(featured_df, "home_featured")
+    with home_tab_featured:
+        st.markdown('<div class="lib-section-title">⭐ Tuyển tập sách được độc giả yêu thích</div>', unsafe_allow_html=True)
+        featured_df = get_featured_books(books, 6)
+        render_book_grid(featured_df, "home_featured")
 
-    # 6. Khám phá thể loại phổ biến
-    st.markdown('<div class="lib-section-title">🏷️ Khám phá theo thể loại</div>', unsafe_allow_html=True)
-    g_cols = st.columns(4)
-    for col, (_, genre) in zip(g_cols, genres.head(8).iterrows()):
-        with col:
-            g_books_count = len(books[books["genre"] == genre["name"]])
-            st.markdown(
-                f"""
-                <div class="genre-card">
-                    <div style="font-size:1.5rem; margin-bottom:0.4rem;">📚</div>
-                    <h4 style="margin:0 0 0.4rem 0; font-size:1.05rem;">{html.escape(str(genre['name']))}</h4>
-                    <p style="font-size:0.83rem; color:var(--text-secondary); flex-grow:1; margin-bottom:0.6rem;">{html.escape(str(genre['description']))}</p>
-                    <span style="font-size:0.78rem; font-weight:600; color:var(--navy);">{g_books_count} cuốn sách</span>
-                </div>
-                """,
-                unsafe_allow_html=True,
-            )
-            if st.button("Duyệt thể loại", key=f"home_genre_{genre['genre_id']}", use_container_width=True):
-                st.session_state.genre_filter = genre["name"]
-                navigate("Kho sách")
-                st.rerun()
-
-    # 7. AI Recommendation CTA Card
-    st.markdown('<div class="lib-section-title">🤖 Cần tư vấn chọn sách cá nhân hóa?</div>', unsafe_allow_html=True)
-    with st.container(border=True):
-        ai_cols = st.columns([3, 1])
-        with ai_cols[0]:
-            st.markdown(
-                """
-                **Chưa biết nên bắt đầu đọc từ cuốn nào?**  
-                Trợ lý AI của chúng tôi sẽ thấu cảm tâm trạng, mục tiêu học tập và phong cách đọc của bạn 
-                để gợi ý chính xác những cuốn sách phù hợp nhất từ kho dữ liệu số.
-                """
-            )
-        with ai_cols[1]:
-            if st.button("✨ Nhận gợi ý từ AI", type="primary", use_container_width=True):
-                navigate("AI Trợ lý")
-                st.session_state.pending_question = "Tôi muốn tìm một cuốn sách phù hợp với tôi."
-                st.rerun()
+        st.markdown('<div class="lib-section-title">🏷️ Khám phá theo thể loại</div>', unsafe_allow_html=True)
+        g_cols = st.columns(4)
+        for col, (_, genre) in zip(g_cols, genres.head(8).iterrows()):
+            with col:
+                g_books_count = len(books[books["genre"] == genre["name"]]) if "genre" in books.columns else 0
+                st.markdown(
+                    f"""
+                    <div class="genre-card">
+                        <div style="font-size:1.5rem; margin-bottom:0.4rem;">📚</div>
+                        <h4 style="margin:0 0 0.4rem 0; font-size:1.05rem;">{html.escape(str(genre['name']))}</h4>
+                        <p style="font-size:0.83rem; color:var(--text-secondary); flex-grow:1; margin-bottom:0.6rem;">{html.escape(str(genre['description']))}</p>
+                        <span style="font-size:0.78rem; font-weight:600; color:var(--teal-primary);">{g_books_count} cuốn sách</span>
+                    </div>
+                    """,
+                    unsafe_allow_html=True,
+                )
+                if st.button("Duyệt thể loại", key=f"home_genre_{genre['genre_id']}", use_container_width=True):
+                    st.session_state.genre_filter = genre["name"]
+                    navigate("Kho sách")
+                    st.rerun()
 
 
 # ==========================================
@@ -1089,7 +1192,7 @@ def render_catalog(books: pd.DataFrame, authors: pd.DataFrame, genres: pd.DataFr
     st.markdown('<div class="lib-section-title">📚 Kho sách Thư viện</div>', unsafe_allow_html=True)
 
     with st.container(border=True):
-        st.markdown("<b style='color:var(--navy-dark);'>Bộ lọc & Tìm kiếm Nâng cao</b>", unsafe_allow_html=True)
+        st.markdown("<b style='color:var(--slate-dark); font-size:1.05rem;'>Bộ lọc & Tìm kiếm Nâng cao</b>", unsafe_allow_html=True)
         col1, col2, col3, col4 = st.columns([3, 2, 2, 2])
         with col1:
             query = st.text_input(
@@ -1137,7 +1240,7 @@ def render_catalog(books: pd.DataFrame, authors: pd.DataFrame, genres: pd.DataFr
     res_cols = st.columns([4, 1])
     with res_cols[0]:
         st.markdown(
-            f"<p style='color:var(--text-secondary); margin:0.8rem 0;'>Tìm thấy <b style='color:var(--navy);'>{len(result)}</b> cuốn sách phù hợp trong kho.</p>",
+            f"<p style='color:var(--text-secondary); margin:0.8rem 0;'>Tìm thấy <b style='color:var(--teal-primary); font-size:1.05rem;'>{len(result)}</b> cuốn sách phù hợp trong kho.</p>",
             unsafe_allow_html=True,
         )
     with res_cols[1]:
@@ -1218,7 +1321,7 @@ def render_detail(books: pd.DataFrame, authors: pd.DataFrame) -> None:
             f"""
             <div class="detail-card">
             <span class="book-genre-chip" style="font-size:0.85rem;">{html.escape(str(book['genre']))}</span>
-            <h1 style="color:var(--navy-dark); font-size:2rem; margin:0.3rem 0 0.5rem 0;">{html.escape(str(book['title']))}</h1>
+            <h1 style="color:var(--slate-dark); font-size:2rem; margin:0.3rem 0 0.5rem 0;">{html.escape(str(book['title']))}</h1>
             <h4 style="color:var(--text-secondary); margin:0 0 1rem 0; font-weight:550;">Tác giả: {html.escape(str(book['author']))}</h4>
             <div class="detail-tag-cloud">
             <span class="detail-tag-item">🎯 {html.escape(str(book.get('target_audience', 'Mọi độc giả')))}</span>
@@ -1226,9 +1329,9 @@ def render_detail(books: pd.DataFrame, authors: pd.DataFrame) -> None:
             <span class="detail-tag-item gold">💡 Tâm trạng: {html.escape(str(book.get('mood', 'Tích cực')))}</span>
             </div>
             <hr style="border-color:var(--border-light); margin:1rem 0;"/>
-            <h4 style="color:var(--navy); margin-bottom:0.4rem;">Mô tả nội dung</h4>
+            <h4 style="color:var(--teal-dark); margin-bottom:0.4rem;">Mô tả nội dung</h4>
             <p style="color:var(--text-primary); line-height:1.6; margin-bottom:1.2rem;">{html.escape(str(book['description']))}</p>
-            <h4 style="color:var(--navy); margin-bottom:0.4rem;">Tóm tắt cốt lõi</h4>
+            <h4 style="color:var(--teal-dark); margin-bottom:0.4rem;">Tóm tắt cốt lõi</h4>
             <p style="color:var(--text-secondary); line-height:1.6; margin-bottom:1.2rem;">{html.escape(str(book['summary']))}</p>
             <p style="font-size:0.85rem; color:var(--text-muted);"><b>Tags:</b> {html.escape(str(book.get('tags', '')))}</p>
             </div>
@@ -1333,7 +1436,6 @@ def render_authors(books: pd.DataFrame, authors: pd.DataFrame) -> None:
             render_book_grid(auth_books, "auth_books")
             return
 
-    # Danh sách tác giả
     col_search, _ = st.columns([3, 1])
     with col_search:
         auth_query = st.text_input("Tìm kiếm tác giả", placeholder="Nhập tên tác giả để tìm kiếm...")
@@ -1359,7 +1461,7 @@ def render_authors(books: pd.DataFrame, authors: pd.DataFrame) -> None:
                             </div>
                         </div>
                         <p style="font-size:0.84rem; color:var(--text-secondary); flex-grow:1; margin-bottom:0.6rem;">{html.escape(str(author.get('bio', ''))[:110])}...</p>
-                        <span style="font-size:0.78rem; font-weight:600; color:var(--navy);">{auth_work_count} tác phẩm trong kho</span>
+                        <span style="font-size:0.78rem; font-weight:600; color:var(--teal-primary);">{auth_work_count} tác phẩm trong kho</span>
                     </div>
                     """,
                     unsafe_allow_html=True,
@@ -1388,7 +1490,7 @@ def render_genres(books: pd.DataFrame, genres: pd.DataFrame) -> None:
                     <div class="genre-card">
                         <h4 style="margin:0 0 0.4rem 0;">📚 {html.escape(str(genre['name']))}</h4>
                         <p style="font-size:0.85rem; color:var(--text-secondary); flex-grow:1;">{html.escape(str(genre['description']))}</p>
-                        <span style="font-size:0.8rem; font-weight:600; color:var(--navy);">{g_count} cuốn sách</span>
+                        <span style="font-size:0.8rem; font-weight:600; color:var(--teal-primary);">{g_count} cuốn sách</span>
                     </div>
                     """,
                     unsafe_allow_html=True,
@@ -1423,8 +1525,8 @@ def render_reading(books: pd.DataFrame) -> None:
 
             st.markdown(
                 f"""
-                <div style="background:var(--surface-white); border:1px solid var(--border-light); border-left:4px solid var(--gold); padding:1rem 1.4rem; border-radius:var(--radius-md); margin-bottom:1.2rem;">
-                    <h3 style="margin:0; color:var(--navy-dark);">{html.escape(str(selected_book['title']))}</h3>
+                <div style="background:var(--surface-white); border:1px solid var(--border-light); border-left:4px solid var(--teal-primary); padding:1rem 1.4rem; border-radius:var(--radius-md); margin-bottom:1.2rem;">
+                    <h3 style="margin:0; color:var(--slate-dark);">{html.escape(str(selected_book['title']))}</h3>
                     <p style="margin:0.2rem 0 0 0; color:var(--text-secondary);">Tác giả: {html.escape(str(selected_book['author']))} · Thể loại: {html.escape(str(selected_book['genre']))}</p>
                 </div>
                 """,
@@ -1456,7 +1558,7 @@ def render_reading(books: pd.DataFrame) -> None:
 
     st.markdown(
         """
-        <div style="background:var(--navy-subtle); border-left:4px solid var(--navy); padding:0.9rem 1.2rem; border-radius:var(--radius-sm); margin-bottom:1.2rem;">
+        <div style="background:var(--teal-subtle); border-left:4px solid var(--teal-primary); padding:0.9rem 1.2rem; border-radius:var(--radius-sm); margin-bottom:1.2rem;">
             <b>Chính sách thư viện số:</b> Chỉ những tệp đọc hợp pháp được lưu trữ an toàn trong <code>data/sample_books</code> và được cấp phép mới có thể mở toàn văn.
         </div>
         """,
@@ -1478,7 +1580,7 @@ def render_locations() -> None:
             location = st.text_input(
                 "Khu vực / Thành phố",
                 value=st.session_state.pop("location_query", ""),
-                placeholder="Ví dụ: Huế, Đà Nẵng, Hà Nội, TP.HCM...",
+                placeholder="Ví dụ: Đà Nẵng, Huế, Hà Nội, TP.HCM...",
             )
         with f_cols[1]:
             kind_label = st.selectbox("Loại địa điểm", ["Nhà sách", "Thư viện"])
@@ -1538,151 +1640,184 @@ def render_locations() -> None:
 
 
 # ==========================================
-# TRANG AI TRỢ LÝ (CHATBOT)
+# TRANG AI TRỢ LÝ (BỐ CỤC 2 CỘT CHUYÊN NGHIỆP)
 # ==========================================
 def render_chat() -> None:
     st.markdown('<div class="lib-section-title">🤖 Trợ lý Thủ thư AI (Gemini Grounded RAG)</div>', unsafe_allow_html=True)
     st.caption("AI hỗ trợ tìm kiếm ngữ nghĩa, giải đáp thắc mắc, phân tích cảm xúc và gợi ý sách cá nhân hóa dựa trên dữ liệu thư viện.")
 
-    # 1. Multi-modal AI Vision
-    with st.expander("📸 Chụp / Tải ảnh bìa sách để nhận diện (Multi-modal Vision)", expanded=False):
-        st.caption("AI Gemini 1.5 Flash sẽ tự động phân tích hình ảnh, đọc chữ trên bìa và tìm trong kho sách.")
-        uploaded_file = st.file_uploader(
-            "Chọn ảnh bìa (JPG, PNG)", type=["jpg", "jpeg", "png"], label_visibility="collapsed"
-        )
-        if uploaded_file is not None:
-            image = PIL.Image.open(uploaded_file)
-            st.image(image, caption="Ảnh bìa đã tải lên", width=200)
-            if st.button("🔍 Quét ảnh & Tìm sách", type="primary"):
-                with st.spinner("AI Vision đang đọc ảnh bìa..."):
-                    try:
-                        genai.configure(api_key=os.getenv("GEMINI_API_KEY", ""))
-                        vision_model = genai.GenerativeModel("gemini-3.5-flash")
-                        prompt = "Bạn là thủ thư. Hãy đọc chữ trên ảnh bìa sách này và trích xuất đúng tên cuốn sách (và tác giả nếu thấy). Tuyệt đối chỉ in ra tên sách, không giải thích dài dòng."
-                        response = vision_model.generate_content([prompt, image])
-                        extracted_title = response.text.strip()
-                        st.success(f"✨ AI đọc được: **{extracted_title}**")
-                        st.session_state.pending_question = f"Hãy tìm cho tôi cuốn sách có tên: {extracted_title}"
-                        st.rerun()
-                    except Exception as e:
-                        st.error(f"Lỗi nhận diện ảnh: {e}")
+    # Bố cục 2 Cột: Cột trái (70%) là Chat Console, Cột phải (30%) là Multimodal Toolbox
+    chat_col, tool_col = st.columns([2.5, 1.2])
 
-    # 2. Câu hỏi gợi ý nhanh (Suggestion Chips)
-    if not st.session_state.messages:
-        st.markdown("<p style='font-size:0.88rem; color:var(--text-secondary); margin-bottom:0.4rem;'>💡 <b>Gợi ý câu hỏi bắt đầu:</b></p>", unsafe_allow_html=True)
-        chip_cols = st.columns(3)
-        suggestions = [
-            "Tìm sách về AI cho người mới bắt đầu",
-            "Tôi muốn tìm sách phù hợp với tôi",
-            "Tìm sách giúp xây dựng thói quen tốt",
-        ]
-        for col, text in zip(chip_cols, suggestions):
-            with col:
-                if st.button(text, use_container_width=True):
-                    st.session_state.pending_question = text
-                    st.rerun()
-
-    # 3. Lịch sử tin nhắn
-    for message_index, message in enumerate(st.session_state.messages):
-        avatar_icon = ":material/person:" if message["role"] == "user" else ":material/auto_awesome:"
-        with st.chat_message(message["role"], avatar=avatar_icon):
-            st.markdown(message["content"])
-            if message["role"] == "assistant" and message.get("books"):
-                render_retrieved_books(message["books"], f"hist_source_{message_index}")
-            if message["role"] == "assistant" and message.get("location"):
-                render_location_results(message["location"], f"hist_loc_{message_index}")
-
-    # 4. Input & Voice STT
-    pending = st.session_state.pop("pending_question", "")
-    stt_col, _ = st.columns([1.5, 4])
-    with stt_col:
-        spoken_text = speech_to_text(
-            language="vi-VN",
-            start_prompt="🎙️ Bấm để nói",
-            stop_prompt="🛑 Đang nghe...",
-            just_once=True,
-            key="STT",
-        )
-
-    question = st.chat_input("Hỏi thủ thư AI về sách, tác giả hoặc chủ đề cần đọc...") or pending or spoken_text
-    if not question:
-        return
-
-    # Lưu và hiển thị câu hỏi của User
-    st.session_state.messages.append({"role": "user", "content": question})
-    with st.chat_message("user", avatar=":material/person:"):
-        st.markdown(question)
-
-    # Xử lý phản hồi của Assistant
-    with st.chat_message("assistant", avatar=":material/auto_awesome:"):
-        try:
-            intent = classify_intent(question, st.session_state.messages[:-1])
-            location_result = None
-            explicit_location = extract_user_location(question)
-
-            if intent == SET_LOCATION and not explicit_location:
-                explicit_location = question.strip().rstrip("?.!")
-            if explicit_location:
-                st.session_state.user_location = normalize_user_location(explicit_location)
-
-            if intent == SET_LOCATION:
-                if st.session_state.pending_location_kind:
-                    pending_kind = st.session_state.pending_location_kind
-                    answer, st.session_state.user_location, location_result = process_pending_location(
-                        question, pending_kind, st.session_state.user_location
-                    )
-                    if location_result:
-                        st.session_state.pending_location_kind = ""
-                else:
-                    answer = f"Đã ghi nhận khu vực của bạn là **{st.session_state.user_location}**. Bạn có thể yêu cầu mình tìm nhà sách hoặc thư viện gần đó."
-                retrieved = []
-            elif intent in {FIND_BOOKSTORE, FIND_LIBRARY, LOCATION_SEARCH}:
-                if not explicit_location and not st.session_state.user_location:
-                    st.session_state.pending_location_kind = "library" if intent == FIND_LIBRARY else "bookstore"
-                    answer = "Bạn đang ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội."
-                    retrieved = []
-                else:
-                    answer, location_result = handle_location_request(question, st.session_state.user_location)
-                    retrieved = []
-            elif intent == LOCATION_HELP:
-                answer = "Bạn đang ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội."
-                retrieved = []
-            else:
-                with st.spinner("AI Thủ thư đang tra cứu và suy luận..."):
-                    answer, retrieved, _ = handle_user_message(
-                        question,
-                        st.session_state.top_k,
-                        st.session_state.messages[:-1],
-                        st.session_state.reader_profile,
-                    )
-
-            st.markdown(answer)
-
-            # Phát âm thanh câu trả lời (TTS)
-            audio_bytes = text_to_speech(answer)
-            if audio_bytes:
-                st.audio(audio_bytes, format="audio/mp3", autoplay=True)
-
-            if retrieved:
-                render_retrieved_books(retrieved, f"live_source_{len(st.session_state.messages)}")
-            if location_result:
-                try:
-                    render_location_results(location_result, f"live_loc_{len(st.session_state.messages)}")
-                except Exception:
-                    LOGGER.exception("Chat location result rendering failed: keys=%s", list(location_result.keys()))
-                    st.error("Dữ liệu địa điểm đã được truy vấn nhưng giao diện chưa thể hiển thị kết quả.")
-
-            st.session_state.messages.append(
-                {"role": "assistant", "content": answer, "books": retrieved, "location": location_result}
+    with tool_col:
+        # 1. Hộp công cụ AI Vision
+        with st.container(border=True):
+            st.markdown("<b>📸 Quét ảnh bìa sách (Vision AI)</b>", unsafe_allow_html=True)
+            st.caption("Tải ảnh bìa (JPG, PNG) để Gemini Vision tự đọc tiêu đề và tìm trong kho.")
+            uploaded_file = st.file_uploader(
+                "Chọn ảnh bìa", type=["jpg", "jpeg", "png"], label_visibility="collapsed", key="chat_vision_uploader"
             )
-            save_chat_session(st.session_state.username, st.session_state.current_session_id, st.session_state.messages)
+            if uploaded_file is not None:
+                image = PIL.Image.open(uploaded_file)
+                st.image(image, caption="Ảnh tải lên", use_container_width=True)
+                if st.button("🔍 Quét & Tìm sách", type="primary", use_container_width=True, key="btn_vision_scan"):
+                    with st.spinner("AI Vision đang đọc ảnh bìa..."):
+                        try:
+                            gemini_key = get_gemini_api_key()
+                            if not gemini_key:
+                                st.error("Chưa cấu hình GEMINI_API_KEY!")
+                            else:
+                                genai.configure(api_key=gemini_key)
+                                vision_model = genai.GenerativeModel("gemini-2.5-flash")
+                                prompt = "Bạn là thủ thư. Hãy đọc chữ trên ảnh bìa sách này và trích xuất đúng tên cuốn sách (và tác giả nếu thấy). Tuyệt đối chỉ in ra tên sách, không giải thích dài dòng."
+                                response = vision_model.generate_content([prompt, image])
+                                extracted_title = response.text.strip()
+                                st.success(f"✨ AI đọc được: **{extracted_title}**")
+                                st.session_state.pending_question = f"Hãy tìm cho tôi cuốn sách có tên: {extracted_title}"
+                                st.rerun()
+                        except Exception as e:
+                            st.error(f"Lỗi nhận diện ảnh: {e}")
 
-        except LocationServiceError:
-            LOGGER.exception("Chat location search failed")
-            st.error("Hiện tại mình không thể truy vấn dữ liệu địa điểm. Bạn có thể thử lại sau.")
-        except (ValueError, RuntimeError):
-            LOGGER.exception("AI request failed")
-            st.error("Xin lỗi, hệ thống AI tạm thời chưa thể xử lý yêu cầu này. Bạn có thể thử lại sau ít giây.")
+        # 2. Hộp công cụ Giọng nói (STT)
+        with st.container(border=True):
+            st.markdown("<b>🎙️ Nhập bằng giọng nói (STT)</b>", unsafe_allow_html=True)
+            st.caption("Bấm nút để nói tiếng Việt trực tiếp:")
+            spoken_text = speech_to_text(
+                language="vi-VN",
+                start_prompt="🎙️ Bấm để nói",
+                stop_prompt="🛑 Đang lắng nghe...",
+                just_once=True,
+                key="STT_tool",
+            )
+            if spoken_text:
+                st.session_state.pending_question = spoken_text
+                st.rerun()
+
+        # 3. Thông số RAG & Thao tác nhanh
+        with st.container(border=True):
+            st.markdown("<b>⚙️ Trạng thái AI Grounding</b>", unsafe_allow_html=True)
+            try:
+                vec_count = get_library_book_count()
+                st.caption(f"Kho tri thức: **{vec_count}** vector ChromaDB")
+            except Exception:
+                st.caption("ChromaDB chưa nạp dữ liệu.")
+            st.caption(f"Top-K truy xuất: **{st.session_state.get('top_k', TOP_K_DEFAULT)}** sách")
+
+            if st.button("🗑️ Xóa tin nhắn phiên này", use_container_width=True):
+                st.session_state.messages = []
+                st.session_state.reader_profile = create_reader_profile()
+                st.session_state.user_location = ""
+                st.session_state.pending_location_kind = ""
+                st.rerun()
+
+    with chat_col:
+        # Gợi ý câu hỏi bắt đầu nếu chưa có tin nhắn
+        if not st.session_state.messages:
+            st.markdown("<p style='font-size:0.88rem; color:var(--text-secondary); margin-bottom:0.4rem;'>💡 <b>Câu hỏi mẫu để bắt đầu:</b></p>", unsafe_allow_html=True)
+            chip_cols = st.columns(3)
+            suggestions = [
+                "Tìm sách về AI cho người mới bắt đầu",
+                "Tôi muốn tìm sách phát triển bản thân",
+                "Tìm sách giúp xây dựng thói quen tốt",
+            ]
+            for col, text in zip(chip_cols, suggestions):
+                with col:
+                    if st.button(text, key=f"chip_chat_{text[:15]}", use_container_width=True):
+                        st.session_state.pending_question = text
+                        st.rerun()
+
+        # Lịch sử tin nhắn
+        for message_index, message in enumerate(st.session_state.messages):
+            avatar_icon = ":material/person:" if message["role"] == "user" else ":material/auto_awesome:"
+            with st.chat_message(message["role"], avatar=avatar_icon):
+                st.markdown(message["content"])
+                if message["role"] == "assistant" and message.get("books"):
+                    render_retrieved_books(message["books"], f"hist_source_{message_index}")
+                if message["role"] == "assistant" and message.get("location"):
+                    render_location_results(message["location"], f"hist_loc_{message_index}")
+
+        # Input & Xử lý câu hỏi
+        pending = st.session_state.pop("pending_question", "")
+        question = st.chat_input("Hỏi thủ thư AI về sách, tác giả hoặc chủ đề cần đọc...") or pending
+
+        if not question:
+            return
+
+        # Lưu và hiển thị câu hỏi của User
+        st.session_state.messages.append({"role": "user", "content": question})
+        with st.chat_message("user", avatar=":material/person:"):
+            st.markdown(question)
+
+        # Xử lý phản hồi của Assistant
+        with st.chat_message("assistant", avatar=":material/auto_awesome:"):
+            try:
+                intent = classify_intent(question, st.session_state.messages[:-1])
+                location_result = None
+                explicit_location = extract_user_location(question)
+
+                if intent == SET_LOCATION and not explicit_location:
+                    explicit_location = question.strip().rstrip("?.!")
+                if explicit_location:
+                    st.session_state.user_location = normalize_user_location(explicit_location)
+
+                if intent == SET_LOCATION:
+                    if st.session_state.pending_location_kind:
+                        pending_kind = st.session_state.pending_location_kind
+                        answer, st.session_state.user_location, location_result = process_pending_location(
+                            question, pending_kind, st.session_state.user_location
+                        )
+                        if location_result:
+                            st.session_state.pending_location_kind = ""
+                    else:
+                        answer = f"Đã ghi nhận khu vực của bạn là **{st.session_state.user_location}**. Bạn có thể yêu cầu mình tìm nhà sách hoặc thư viện gần đó."
+                    retrieved = []
+                elif intent in {FIND_BOOKSTORE, FIND_LIBRARY, LOCATION_SEARCH}:
+                    if not explicit_location and not st.session_state.user_location:
+                        st.session_state.pending_location_kind = "library" if intent == FIND_LIBRARY else "bookstore"
+                        answer = "Bạn đang ở khu vực nào? Ví dụ: Đà Nẵng, Huế hoặc Hà Nội."
+                        retrieved = []
+                    else:
+                        answer, location_result = handle_location_request(question, st.session_state.user_location)
+                        retrieved = []
+                elif intent == LOCATION_HELP:
+                    answer = "Bạn đang ở khu vực nào? Ví dụ: Đà Nẵng, Huế hoặc Hà Nội."
+                    retrieved = []
+                else:
+                    with st.spinner("AI Thủ thư đang tra cứu và suy luận..."):
+                        answer, retrieved, _ = handle_user_message(
+                            question,
+                            st.session_state.top_k,
+                            st.session_state.messages[:-1],
+                            st.session_state.reader_profile,
+                        )
+
+                st.markdown(answer)
+
+                # Phát âm thanh câu trả lời (TTS)
+                audio_bytes = text_to_speech(answer)
+                if audio_bytes:
+                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
+
+                if retrieved:
+                    render_retrieved_books(retrieved, f"live_source_{len(st.session_state.messages)}")
+                if location_result:
+                    try:
+                        render_location_results(location_result, f"live_loc_{len(st.session_state.messages)}")
+                    except Exception:
+                        LOGGER.exception("Chat location result rendering failed: keys=%s", list(location_result.keys()))
+                        st.error("Dữ liệu địa điểm đã được truy vấn nhưng giao diện chưa thể hiển thị kết quả.")
+
+                st.session_state.messages.append(
+                    {"role": "assistant", "content": answer, "books": retrieved, "location": location_result}
+                )
+                save_chat_session(st.session_state.username, st.session_state.current_session_id, st.session_state.messages)
+
+            except LocationServiceError:
+                LOGGER.exception("Chat location search failed")
+                st.error("Hiện tại mình không thể truy vấn dữ liệu địa điểm. Bạn có thể thử lại sau.")
+            except (ValueError, RuntimeError):
+                LOGGER.exception("AI request failed")
+                st.error("Xin lỗi, hệ thống AI tạm thời chưa thể xử lý yêu cầu này. Bạn có thể thử lại sau ít giây.")
 
 
 # ==========================================
@@ -1703,10 +1838,10 @@ if not st.session_state.logged_in:
     with c_box:
         st.markdown(
             """
-            <div style="background:var(--surface-white); border:1px solid var(--border-light); border-top:5px solid var(--gold); border-radius:var(--radius-lg); padding:2.2rem 2.4rem; box-shadow:var(--shadow-lg); text-align:center;">
+            <div style="background:var(--surface-white); border:1px solid var(--border-light); border-top:5px solid var(--teal-primary); border-radius:var(--radius-lg); padding:2.2rem 2.4rem; box-shadow:var(--shadow-lg); text-align:center;">
                 <div style="font-size:3rem; margin-bottom:0.5rem;">📚</div>
-                <h2 style="color:var(--navy-dark); margin:0 0 0.4rem 0;">AI LIBRARY</h2>
-                <p style="color:var(--text-secondary); font-size:0.92rem; margin:0 0 1.5rem 0;">Hệ thống thư viện số thông minh & Trợ lý Tri thức RAG</p>
+                <h2 style="color:var(--slate-dark); margin:0 0 0.4rem 0;">AI DIGITAL LIBRARY</h2>
+                <p style="color:var(--text-secondary); font-size:0.92rem; margin:0 0 1.5rem 0;">Hệ thống thư viện số thông minh & Trợ lý Tri thức RAG Đa phương thức</p>
             </div>
             """,
             unsafe_allow_html=True,
@@ -1744,17 +1879,17 @@ if not st.session_state.logged_in:
 
 
 # ==========================================
-# SIDEBAR
+# SIDEBAR HIỆN ĐẠI
 # ==========================================
 with st.sidebar:
     st.markdown(
         """
         <div style="padding:0.5rem 0 0.8rem 0;">
-            <div style="display:flex; align-items:center; gap:0.6rem;">
-                <span style="font-size:1.8rem;">📚</span>
+            <div style="display:flex; align-items:center; gap:0.7rem;">
+                <span style="font-size:1.9rem;">📚</span>
                 <div>
                     <h3 style="margin:0; font-size:1.15rem; color:#FFFFFF;">TRI THỨC SỐ</h3>
-                    <span style="font-size:0.75rem; color:var(--gold-light); letter-spacing:0.04em;">HỆ THỐNG THÔNG MINH</span>
+                    <span style="font-size:0.75rem; color:#6EE7B7; letter-spacing:0.04em;">HỆ THỐNG THÔNG MINH</span>
                 </div>
             </div>
         </div>
@@ -1834,9 +1969,9 @@ with st.sidebar:
         )
         try:
             st.caption(f"Vector Database: {get_library_book_count()} bản ghi ChromaDB")
-        except RuntimeError:
+        except Exception:
             st.caption("ChromaDB chưa được ingest.")
-        if st.button("Xóa tin nhắn phiên này", use_container_width=True):
+        if st.button("Xóa tin nhắn phiên này", use_container_width=True, key="sidebar_clear_chat"):
             st.session_state.messages = []
             st.session_state.reader_profile = create_reader_profile()
             st.session_state.user_location = ""
@@ -1845,9 +1980,8 @@ with st.sidebar:
 
 
 # ==========================================
-# AI CRAWLER PAGE
+# AI CRAWLER PAGE (BẢO TOÀN NGUYÊN VẸN 100%)
 # ==========================================
-
 def render_crawler() -> None:  # noqa: C901 — intentionally single function for page
     """Render the AI Crawler admin page."""
     import os
