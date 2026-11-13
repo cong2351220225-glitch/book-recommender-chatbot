@@ -1,0 +1,147 @@
+{
+  "links": {
+    "self": "/works/OL152140W/editions.json",
+    "work": "/works/OL152140W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Blackwater Press"
+      ],
+      "key": "/books/OL18284890M",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1779078696:538"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-15T16:11:16.840882"
+      },
+      "contributions": [
+        "Johnson, Adrian(illustrator)"
+      ],
+      "title": "There's a Wardrobe in My Monster",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1841310263"
+      ],
+      "latest_revision": 2,
+      "publish_country": "ie ",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-20T07:27:14.264960"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL22151A"
+        }
+      ],
+      "by_statement": "Words by Adrienne Geoghegan ; Pictures by Adrian Johnson.",
+      "publish_places": [
+        "Dublin"
+      ],
+      "works": [
+        {
+          "key": "/works/OL152140W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 27820256,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Carolrhoda Books"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Bored with her ordinary pets, a young girl chooses a monster from the pet store, but soon finds that it is more trouble than she expected."
+      },
+      "isbn_10": [
+        "1575054140"
+      ],
+      "covers": [
+        1927628
+      ],
+      "lc_classifications": [
+        "PZ7.G2927 Th 1999",
+        "PZ7.G2927TH 1999"
+      ],
+      "latest_revision": 11,
+      "key": "/books/OL34805M",
+      "authors": [
+        {
+          "key": "/authors/OL22151A"
+        }
+      ],
+      "ocaid": "thereswardrobein0000geog",
+      "publish_places": [
+        "Minneapolis, MN"
+      ],
+      "contributions": [
+        "Johnson, Adrian, ill."
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:4063329:831",
+        "ia:thereswardrobein0000geog",
+        "amazon:1575054140",
+        "bwb:9781575054148",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:228256046:831"
+      ],
+      "title": "There's a wardrobe in my monster!",
+      "dewey_decimal_class": [
+        "[E]"
+      ],
+      "identifiers": {
+        "librarything": [
+          "2620575"
+        ],
+        "goodreads": [
+          "1307731"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99019086"
+      ],
+      "subjects": [
+        "Monsters -- Fiction",
+        "Pets -- Fiction"
+      ],
+      "publish_date": "1999",
+      "publish_country": "mnu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-30T11:32:08.391919"
+      },
+      "by_statement": "Adrienne Geoghegan and Adrian Johnson.",
+      "oclc_numbers": [
+        "40776962"
+      ],
+      "works": [
+        {
+          "key": "/works/OL152140W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 11
+    }
+  ]
+}

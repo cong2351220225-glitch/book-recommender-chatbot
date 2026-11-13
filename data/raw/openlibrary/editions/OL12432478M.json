@@ -1,0 +1,67 @@
+{
+  "publishers": [
+    "Ediciones Universal"
+  ],
+  "physical_format": "Paperback",
+  "weight": "1 pounds",
+  "source_records": [
+    "amazon:1593880529",
+    "marc:marc_loc_2016/BooksAll.2016.part33.utf8:82754862:689",
+    "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:714021767:709",
+    "bwb:9781593880521",
+    "marc:harvard_bibliographic_metadata/20220215_045.bib.mrc:17247928:1344"
+  ],
+  "title": "Inspiradores",
+  "isbn_13": [
+    "9781593880521"
+  ],
+  "languages": [
+    {
+      "key": "/languages/spa"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL35322A"
+    }
+  ],
+  "isbn_10": [
+    "1593880529"
+  ],
+  "publish_date": "January 30, 2006",
+  "key": "/books/OL12432478M",
+  "subjects": [
+    "Historical - General",
+    "Biography & Autobiography",
+    "Spanish: Adult Nonfiction"
+  ],
+  "works": [
+    {
+      "key": "/works/OL71810W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.9 x 5.9 x 0.6 inches",
+  "lccn": [
+    "2005926494"
+  ],
+  "lc_classifications": [
+    "CT184 .M37 2006"
+  ],
+  "oclc_numbers": [
+    "64386059"
+  ],
+  "number_of_pages": 350,
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-23T22:10:11.858477"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "William Wordsworth",
+  "bio": {
+    "type": "/type/text",
+    "value": "William Wordsworth was a major English Romantic poet who, with Samuel Taylor Coleridge, helped to launch the Romantic Age in English literature with the 1798 joint publication Lyrical Ballads. ([Source][1].)\r\n\r\n[1]:http://en.wikipedia.org/wiki/William_Wordsworth"
+  },
+  "personal_name": "William Wordsworth",
+  "death_date": "23 April 1850",
+  "alternate_names": [
+    "Wordsworth William",
+    "William WORDSWORTH",
+    "William Wordworth",
+    "William [poetical works] Wordsworth",
+    "WORDSWORTH, WILLIAM, 1770-1850."
+  ],
+  "photos": [
+    14418215,
+    3367018
+  ],
+  "birth_date": "7 April 1770",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "isni": "0000000121278691",
+    "viaf": "35723133",
+    "wikidata": "Q45546",
+    "bookbrainz": "134c454e-ec21-4aca-b128-0a3bd4f10fc8",
+    "musicbrainz": "6a0e8574-d332-4562-91bb-ecd51479af6a",
+    "lc_naf": "n79006595",
+    "project_gutenberg": "2879",
+    "opac_sbn": "CFIV085984",
+    "imdb": "nm1887440"
+  },
+  "key": "/authors/OL26159A",
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T20:25:41.219565"
+  }
+}

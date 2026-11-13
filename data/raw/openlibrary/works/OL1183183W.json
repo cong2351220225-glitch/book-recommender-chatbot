@@ -1,0 +1,40 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-10-05T15:44:41.846387"
+  },
+  "latest_revision": 4,
+  "key": "/works/OL1183183W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL119550A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:40:16.133957"
+  },
+  "title": "Manifesto regionalista",
+  "subject_places": [
+    "Brazil",
+    "Recife (Brazil)"
+  ],
+  "subjects": [
+    "Brazil",
+    "Brazilian Cookery",
+    "Civilization",
+    "Cookery, Brazilian",
+    "Regionalism",
+    "Brazilian Cooking"
+  ],
+  "subject_people": [
+    "Gilberto Freyre (1900-)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

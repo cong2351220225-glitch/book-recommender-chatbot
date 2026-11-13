@@ -1,0 +1,71 @@
+{
+  "links": {
+    "self": "/works/OL1420556W/editions.json",
+    "work": "/works/OL1420556W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "Observations from Disko Island, west Greenland."
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "Caption title.\n\nReprinted from: Developments in sedimentology, vol. 1 (1964).\n\nIncludes bibliographical references (p. 169)."
+      },
+      "title": "Lagoon sediments in Greenland",
+      "authors": [
+        {
+          "key": "/authors/OL147068A"
+        }
+      ],
+      "publish_date": "1964",
+      "publishers": [
+        "s.n."
+      ],
+      "series": [
+        "Publications from the Danish Arctic Station on Disko Island, Greenland -- no. 37",
+        "Developments in sedimentology -- v. 1"
+      ],
+      "publish_places": [
+        "[Denmark"
+      ],
+      "pagination": "p. 165-169 :",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Sediments (Geology) -- Greenland -- Disko Island",
+        "Marine sediments -- Greenland -- Disko Island"
+      ],
+      "publish_country": "dk ",
+      "by_statement": "K. Hansen.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1379973059:907"
+      ],
+      "key": "/books/OL17370424M",
+      "number_of_pages": 169,
+      "works": [
+        {
+          "key": "/works/OL1420556W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-28T14:11:27.694331"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-30T18:49:24.702805"
+      }
+    }
+  ]
+}

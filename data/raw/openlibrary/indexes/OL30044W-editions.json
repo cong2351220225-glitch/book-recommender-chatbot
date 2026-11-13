@@ -1,0 +1,2527 @@
+{
+  "links": {
+    "self": "/works/OL30044W/editions.json",
+    "work": "/works/OL30044W"
+  },
+  "size": 42,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "168",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798846500129"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.386 ",
+      "subtitle": "Volume 6 - Large Print",
+      "full_title": "Aunt Jo's Scrap Bag Volume 6 - Large Print",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL46616153M",
+      "identifiers": {},
+      "isbn_13": [
+        "9798846500129"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T07:34:26.861275"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T18:01:19.686035"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798771581101"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "150",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798771581101"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Vol VI",
+      "weight": "0.223",
+      "subtitle": "First Edition",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL46739825M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T15:06:09.323401"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:56:01.189652"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070601076"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "170",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070601076"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI",
+      "weight": "0.314",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL41231449M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T06:13:01.176236"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:56:01.189652"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798676260392"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "141",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798676260392"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI",
+      "weight": "0.268",
+      "full_title": "Aunt Jo's Scrap-Bag VI",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL48400099M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:13:45.844466"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709890152"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "141",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709890152"
+      ],
+      "title": "Aunt Jo's Scrap Bag VI",
+      "weight": "0.432",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL48263399M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T11:49:57.507471"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798579966414"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "141",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798579966414"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI",
+      "weight": "0.432",
+      "full_title": "Aunt Jo's Scrap-Bag VI",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42431818M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T03:40:47.172727"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798665432694"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "220",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798665432694"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI",
+      "weight": "0.391",
+      "full_title": "Aunt Jo's Scrap-Bag VI",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42431739M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T03:40:34.533870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798707075056"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "141",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798707075056"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI",
+      "weight": "0.209",
+      "full_title": "Aunt Jo's Scrap-Bag VI",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42298134M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T09:13:04.231003"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798696612805"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "132",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798696612805"
+      ],
+      "title": "Aunt Jo's Scrap Bag, Volume 6",
+      "weight": "0.355",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42181322M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T14:23:39.702604"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798832380858"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "125",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798832380858"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.218",
+      "subtitle": "Volume 6",
+      "full_title": "Aunt Jo's Scrap Bag Volume 6",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL38523372M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-19T18:54:48.943314"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:49:20.129010"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "One page of publisher's advertisements before text; six pages of them following text.\r\n\r\nBound in red cloth, stamped in gold on the spine.\r\n\r\nSigned on title page, \"Julia N. H. Brock, from her father.\""
+      },
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "An old-fashioned Thanksgiving, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1889",
+      "other_titles": [
+        "An old-fashioned Thanksgiving, etc."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "An old-fashioned Thanksgiving",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "How it all happened",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The dolls' journey from Minnesota to Maine",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Morning-glories",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Shadow-children",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Poppy's pranks",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the swallows did",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little Gulliver",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The whale's story",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A strange island",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Fancy's friend.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 6"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "[i], 234, [6], [2] leaves of plates,",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0192.out:263208:1405"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL18213616M",
+      "number_of_pages": 234,
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-12T00:17:01.443156"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T01:49:51.834831"
+      }
+    },
+    {
+      "publishers": [
+        "Little, Brown"
+      ],
+      "pagination": "234 p. :",
+      "subtitle": "An old-fashioned Thanksgiving, etc.",
+      "source_records": [
+        "marc:SanFranPL06/SanFranPL06.out:65499516:785"
+      ],
+      "title": "Aunt Jo's scrap-bag",
+      "number_of_pages": 234,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1910",
+      "publish_country": "mau",
+      "key": "/books/OL23026843M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "by_statement": "by Louisa M. Alcott.",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T02:49:43.647753"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:12:07.887135"
+      }
+    },
+    {
+      "other_titles": [
+        "Old-fashioned Thanksgiving."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subtitle": "An old-fashioned Thanksgiving, etc.",
+      "covers": [
+        7172410
+      ],
+      "key": "/books/OL22850303M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "4p.l., 7-234p., 4l.",
+      "source_records": [
+        "ia:auntjosscrapbago00alco"
+      ],
+      "title": "Aunt Jo's scrap-bag.",
+      "number_of_pages": 234,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1882",
+      "publish_country": "mau",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "auntjosscrapbago00alco",
+      "classifications": {},
+      "lc_classifications": [
+        "PZ7.A335 A 1887x"
+      ],
+      "oclc_numbers": [
+        "1843882"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-07T20:34:29.696765"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-25T09:24:16.835671"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342314"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342314"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 6",
+      "subtitle": "An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL49316751M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:18:16.736137"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342307"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342307"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 6",
+      "subtitle": "An Old-Fashioned Thanksgiving",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 6 An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL49317689M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:26:55.839462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342321"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342321"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 6",
+      "subtitle": "An Old-Fashioned Thanksgiving",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 6 An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL49323535M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T10:20:49.575361"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798366301268"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "120",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798366301268"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.236",
+      "subtitle": "Volume 6",
+      "full_title": "Aunt Jo's Scrap Bag Volume 6",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL46188995M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T13:50:57.012659"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781016658256"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "236",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781016658256"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.509",
+      "subtitle": "An Old-Fashioned Thanksgiving",
+      "full_title": "Aunt Jo's Scrap-Bag An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL46201185M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T14:31:54.254839"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798566274058"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "108",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798566274058",
+        "promise:bwb_daily_pallets_2024-01-12:P9-CXJ-187"
+      ],
+      "title": "Old-Fashioned Thanksgiving and Other Stories",
+      "weight": "0.214",
+      "subtitle": "Aunt Jo's Scrap-Bag, Vol. 6",
+      "full_title": "Old-Fashioned Thanksgiving and Other Stories Aunt Jo's Scrap-Bag, Vol. 6",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42493286M",
+      "local_id": [
+        "urn:bwbsku:P9-CXJ-187"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B08NRQRQHJ"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T13:30:00.205480"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-14T01:00:53.531995"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681461609"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "246",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681461609"
+      ],
+      "title": "Aunt Jo's Scrap Bag Volume 6 : (an Old-Fashioned Thanksgiving, Etc. )",
+      "weight": "0.432",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL42261925M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T03:41:52.501138"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798616935199"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "170",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798616935199"
+      ],
+      "title": "Aunt Jo's Scrap-Bag VI an Old-Fashioned Thanksgiving, Etc",
+      "weight": "0.314",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL41957046M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T01:37:31.951219"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1635960371"
+      ],
+      "isbn_13": [
+        "9781635960372"
+      ],
+      "number_of_pages": 24,
+      "physical_format": "paperback",
+      "publish_date": "Feb 01, 2017",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "amazon:1635960371"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "full_title": "An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL40298522M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-16T22:28:25.326763"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1776764404"
+      ],
+      "isbn_13": [
+        "9781776764402"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: An Old-Fashioned Thanksgiving (Dramatic Reading)"
+      },
+      "physical_format": "mp3 cd",
+      "publish_date": "Nov 16, 2019",
+      "publishers": [
+        "IDB Productions"
+      ],
+      "source_records": [
+        "amazon:1776764404"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "full_title": "An Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL40298523M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-16T22:28:26.097987"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL342112A"
+        }
+      ],
+      "isbn_13": [
+        "9780397315154"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "72",
+      "publish_date": "1974",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780397315154",
+        "promise:bwb_daily_pallets_2020-04-30"
+      ],
+      "subjects": [
+        "Thanksgiving day, fiction",
+        "New england, fiction"
+      ],
+      "title": "Old-Fashioned Thanksgiving",
+      "weight": "0.314",
+      "full_title": "Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL37345683M",
+      "local_id": [
+        "urn:bwbsku:O6-CHV-200"
+      ],
+      "identifiers": {
+        "amazon": [
+          ""
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T12:57:53.399749"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633553897"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "109",
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633553897"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL36789835M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T00:57:09.510460"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633553903"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "129",
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633553903"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "subtitle": "An Old-Fashioned Thanksgiving, Etc",
+      "full_title": "Aunt Jo's Scrap Bag An Old-Fashioned Thanksgiving, Etc",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL36789841M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T00:57:13.110123"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781625587503"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "21",
+      "publish_date": "2013",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781625587503"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Old-Fashioned Thanksgiving",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL36786040M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-27T23:58:06.982788"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:56:44.601666"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "An Old-Fashioned Thanksgiving",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Apr 09, 2013",
+      "source_records": [
+        "amazon:1617209120"
+      ],
+      "number_of_pages": 24,
+      "publishers": [
+        "SMK Books"
+      ],
+      "isbn_10": [
+        "1617209120"
+      ],
+      "isbn_13": [
+        "9781617209123"
+      ],
+      "physical_format": "paperback",
+      "full_title": "An Old-Fashioned Thanksgiving",
+      "covers": [
+        10897844
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "key": "/books/OL32269574M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-30T15:06:34.284159"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "SMK Books"
+      ],
+      "number_of_pages": 24,
+      "source_records": [
+        "amazon:1515426645"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "identifiers": {
+        "amazon": [
+          "1515426645"
+        ]
+      },
+      "covers": [
+        9219117
+      ],
+      "physical_format": "hardcover",
+      "full_title": "An Old-Fashioned Thanksgiving",
+      "publish_date": "Apr 03, 2018",
+      "key": "/books/OL27824302M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1515426645"
+      ],
+      "isbn_13": [
+        "9781515426646"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-18T17:10:30.501208"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "Ideals Children's Books"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "This abridged edition follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+      },
+      "full_title": "An old-fashioned Thanksgiving",
+      "lc_classifications": [
+        "PZ7.A335 Om 2010",
+        "PZ7.O452 1993"
+      ],
+      "key": "/books/OL31095871M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Nashville, Tenn"
+      ],
+      "contributions": [
+        "Wheeler, Jody, ill"
+      ],
+      "isbn_13": [
+        "9780824956202"
+      ],
+      "pagination": "1 v. (unpaged)",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part37.utf8:127577577:1030",
+        "bwb:9780824956202"
+      ],
+      "title": "An old-fashioned Thanksgiving",
+      "lccn": [
+        "2010014131"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "[E]"
+      ],
+      "subject_places": [
+        "New England"
+      ],
+      "subjects": [
+        "Family life",
+        "Fiction",
+        "Thanksgiving Day",
+        "History"
+      ],
+      "publish_date": "2010",
+      "publish_country": "tnu",
+      "by_statement": "written by Louisa May Alcott ; illustrated by Jody Wheeler",
+      "subject_times": [
+        "19th century"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T14:24:36.566573"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-02T19:54:18.940444"
+      }
+    },
+    {
+      "publishers": [
+        "Penguin (Non-Classics)"
+      ],
+      "number_of_pages": 96,
+      "title": "An Old-fashioned Thanksgiving and Other Stories",
+      "identifiers": {
+        "goodreads": [
+          "612691"
+        ],
+        "librarything": [
+          "1130703"
+        ]
+      },
+      "isbn_13": [
+        "9780146001109"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0146001109"
+      ],
+      "publish_date": "September 1, 1995",
+      "key": "/books/OL7362236M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "bwb:9780146001109"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T11:54:51.017198"
+      }
+    },
+    {
+      "publishers": [
+        "Ideals Children's Books"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+      },
+      "isbn_10": [
+        "082498630X",
+        "0824986202"
+      ],
+      "subject_place": [
+        "New England"
+      ],
+      "covers": [
+        4741533,
+        3937208,
+        1568448
+      ],
+      "lc_classifications": [
+        "PZ7 .O452 1993",
+        "PZ7.A335 Om 1993",
+        "PZ7.A335Om 1993"
+      ],
+      "key": "/books/OL1411524M",
+      "publish_places": [
+        "Nashville, Tenn"
+      ],
+      "contributions": [
+        "Wheeler, Jody, ill.",
+        "Alcott, Louisa May, 1832-1888."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part22.utf8:165088521:1041",
+        "bwb:9780824986209",
+        "bwb:9780824986308"
+      ],
+      "title": "An Old-fashioned Thanksgiving",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1130703"
+        ],
+        "goodreads": [
+          "2754557"
+        ]
+      },
+      "edition_name": "1st ed.",
+      "lccn": [
+        "93020352"
+      ],
+      "subjects": [
+        "Family life -- Fiction.",
+        "Thanksgiving Day -- Fiction.",
+        "New England -- Fiction."
+      ],
+      "publish_date": "1993",
+      "publish_country": "tnu",
+      "by_statement": "by Louisa May Alcott ; illustrated by Jody Wheeler.",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T07:46:49.146996"
+      }
+    },
+    {
+      "publishers": [
+        "Ideals Publications",
+        "Ideals Publishing Company"
+      ],
+      "number_of_pages": 40,
+      "weight": "4.8 ounces",
+      "physical_format": "Paperback",
+      "key": "/books/OL8730061M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "contributions": [
+        "Jody Wheeler (Illustrator)"
+      ],
+      "subjects": [
+        "Thanksgiving Day",
+        "Holidays & Celebrations - Thanksgiving",
+        "Family - General",
+        "Juvenile Fiction",
+        "Children's 4-8 - Picturebooks",
+        "Children: Grades 4-6",
+        "JUV017060",
+        "JUV",
+        "Family life",
+        "Fiction"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "source_records": [
+        "amazon:1571020535:fp:26454415:211720",
+        "promise:bwb_daily_pallets_2020-07-07",
+        "amazon:1571020535",
+        "bwb:9781571020536"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "identifiers": {
+        "librarything": [
+          "1130703"
+        ]
+      },
+      "isbn_13": [
+        "9781571020536"
+      ],
+      "isbn_10": [
+        "0590678051"
+      ],
+      "publish_date": "August 1995",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.2 x 9 x 0.2 inches",
+      "local_id": [
+        "urn:bwbsku:P4-AZQ-061"
+      ],
+      "covers": [
+        13904334
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T08:59:52.052725"
+      }
+    },
+    {
+      "publishers": [
+        "Ideals Publications"
+      ],
+      "number_of_pages": 1,
+      "weight": "14.9 ounces",
+      "covers": [
+        4741534,
+        3937209
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-30T01:04:51.908902"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL8162625M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "contributions": [
+        "Jody Wheeler (Illustrator)"
+      ],
+      "subjects": [
+        "Thanksgiving Day",
+        "Holidays & Celebrations - Thanksgiving",
+        "Family life",
+        "Juvenile Fiction",
+        "Children's 4-8 - Fiction - General",
+        "Children: Grades 4-6",
+        "JUV017060",
+        "JUV",
+        "General",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "source_records": [
+        "amazon:0824986202:do:878836406:211073"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "identifiers": {
+        "librarything": [
+          "1130703"
+        ],
+        "goodreads": [
+          "2754557"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "isbn_13": [
+        "9780824986209"
+      ],
+      "isbn_10": [
+        "0824986202"
+      ],
+      "publish_date": "August 1993",
+      "oclc_numbers": [
+        "27812163"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.3 x 9.2 x 0.4 inches",
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "Eager Minds Press"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:07.659047"
+      },
+      "source_records": [
+        "amazon:159093072X"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "isbn_13": [
+        "9781590930724"
+      ],
+      "covers": [
+        2952138
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "159093072X"
+      ],
+      "publish_date": "August 1993",
+      "key": "/books/OL12371504M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Holidays & Celebrations - Thanksgiving",
+        "Juvenile Fiction",
+        "Children's 4-8 - Fiction - General",
+        "Family life",
+        "Fiction",
+        "New England",
+        "Thanksgiving Day",
+        "Children: Grades 4-6"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Ideals Publications"
+      ],
+      "weight": "14.4 ounces",
+      "covers": [
+        1568447
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-28T23:02:46.839725"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL8162627M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "contributions": [
+        "Jody Wheeler (Illustrator)"
+      ],
+      "subjects": [
+        "Juvenile Historical Fiction",
+        "Holidays & Celebrations - Thanksgiving",
+        "Juvenile Fiction",
+        "Children's 4-8 - Fiction - General",
+        "Thanksgiving Day",
+        "Children: Grades 4-6",
+        "New England",
+        "General",
+        "Family life",
+        "Fiction"
+      ],
+      "edition_name": "1st ed edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "source_records": [
+        "amazon:082498630X:do:880308262:211686"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "number_of_pages": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "isbn_13": [
+        "9780824986308"
+      ],
+      "isbn_10": [
+        "082498630X"
+      ],
+      "publish_date": "August 1993",
+      "oclc_numbers": [
+        "27812163"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.5 x 9.5 x 0.5 inches",
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Holiday House"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2855803"
+        ],
+        "librarything": [
+          "1130703"
+        ]
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+      },
+      "isbn_10": [
+        "0823407721"
+      ],
+      "subject_place": [
+        "New England"
+      ],
+      "covers": [
+        10178812
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Om 1989"
+      ],
+      "latest_revision": 9,
+      "key": "/books/OL2184080M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "McCurdy, Michael, ill."
+      ],
+      "subjects": [
+        "Family life -- Fiction",
+        "Thanksgiving Day -- Fiction",
+        "New England -- Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "31 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part20.dat:129944379:938",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:13861856:2235",
+        "amazon:0823407721",
+        "marc:marc_loc_2016/BooksAll.2016.part19.utf8:87670078:938"
+      ],
+      "title": "An old-fashioned Thanksgiving",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "number_of_pages": 31,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "1st ed.",
+      "lccn": [
+        "89001908"
+      ],
+      "local_id": [
+        "urn:sfpl:31223025235483",
+        "urn:sfpl:31223025235491"
+      ],
+      "publish_date": "1989",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-09T04:17:40.277795"
+      },
+      "by_statement": "by Louisa May Alcott ; illustrated by Michael McCurdy.",
+      "oclc_numbers": [
+        "19323767"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 9
+    },
+    {
+      "publishers": [
+        "Penguin"
+      ],
+      "number_of_pages": 73,
+      "ia_box_id": [
+        "IA116720"
+      ],
+      "isbn_10": [
+        "0146001109"
+      ],
+      "subject_place": [
+        "New England"
+      ],
+      "covers": [
+        7048835
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Om"
+      ],
+      "latest_revision": 14,
+      "key": "/books/OL5422055M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "oldfashionedthan00alco",
+      "publish_places": [
+        "New York, USA"
+      ],
+      "contributions": [
+        "Johnson, Holly, illus."
+      ],
+      "description": "The activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "86 p.",
+      "classifications": {},
+      "source_records": [
+        "marc:marc_records_scriblio_net/part07.dat:111264581:879",
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:3558785:1316",
+        "ia:oldfashionedthan00alco",
+        "ia:oldfashionedthan00alco",
+        "ia:oldfashionedthan00loui",
+        "marc:marc_loc_2016/BooksAll.2016.part08.utf8:9444525:879"
+      ],
+      "title": "An Old-Fashioned Thanksgiving and Other Stories",
+      "lccn": [
+        "73015698"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1130703"
+        ],
+        "goodreads": [
+          "4954046"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "[1st ed.]",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "subjects": [
+        "Family life -- Fiction",
+        "Thanksgiving Day -- Fiction",
+        "New England -- Fiction"
+      ],
+      "publish_date": "1995",
+      "publish_country": "pau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-07T00:57:12.314331"
+      },
+      "by_statement": "Illustrated by Holly Johnson.",
+      "oclc_numbers": [
+        "703272"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 14
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1554131"
+        ]
+      },
+      "weight": "3.5 ounces",
+      "covers": [
+        1798903
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:07.659047"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9837296M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's Books/Ages 4-8 Fiction",
+        "Children: Grades 4-6",
+        "General",
+        "Juvenile Fiction / General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "source_records": [
+        "amazon:1419106635:2-aw:2112026724:216131"
+      ],
+      "title": "An Old Fashioned Thanksgiving",
+      "number_of_pages": 48,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781419106637"
+      ],
+      "isbn_10": [
+        "1419106635"
+      ],
+      "publish_date": "June 17, 2004",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 7.5 x 0.1 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Applewood Books"
+      ],
+      "number_of_pages": 61,
+      "description": {
+        "type": "/type/text",
+        "value": "Follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+      },
+      "isbn_10": [
+        "1557091358"
+      ],
+      "subject_place": [
+        "New England"
+      ],
+      "covers": [
+        779398
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Om 1990",
+        "PZ7.A335Om 1990"
+      ],
+      "key": "/books/OL1425910M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Bedford, Mass"
+      ],
+      "pagination": "61 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part23.dat:123459009:830",
+        "marc:marc_loc_updates/v35.i20.records.utf8:3787249:931",
+        "marc:marc_loc_updates/v37.i25.records.utf8:20554499:1047",
+        "marc:marc_loc_2016/BooksAll.2016.part22.utf8:178041534:1047",
+        "bwb:9781557091352",
+        "promise:bwb_daily_pallets_2020-04-09"
+      ],
+      "title": "An old-fashioned Thanksgiving",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1130703"
+        ],
+        "goodreads": [
+          "3011572"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "93036951"
+      ],
+      "subjects": [
+        "Family life -- Fiction",
+        "Thanksgiving Day -- Fiction",
+        "New England -- Fiction"
+      ],
+      "publish_date": "1990",
+      "publish_country": "mau",
+      "by_statement": "Louisa May Alcott.",
+      "oclc_numbers": [
+        "29029812"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O6-BZB-063"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T11:07:03.427981"
+      }
+    },
+    {
+      "publishers": [
+        "Eager Minds"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:07.659047"
+      },
+      "source_records": [
+        "amazon:1590930738"
+      ],
+      "title": "An Old-Fashioned Thanksgiving",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "isbn_13": [
+        "9781590930731"
+      ],
+      "covers": [
+        2952139
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "1590930738"
+      ],
+      "publish_date": "August 1995",
+      "key": "/books/OL12371505M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Holidays & Celebrations - Thanksgiving",
+        "Juvenile Fiction",
+        "Family life",
+        "Fiction",
+        "New England",
+        "Thanksgiving Day",
+        "Children: Grades 4-6"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "HarperCollinsPublishers"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "This adaptation of the original story follows the activities of seven in children nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+      },
+      "isbn_10": [
+        "0060004509",
+        "0060004517"
+      ],
+      "subject_place": [
+        "New England"
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "covers": [
+        20303,
+        20302
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Om 2005",
+        "PZ7.A335Om 2005"
+      ],
+      "key": "/books/OL3297119M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Bernardin, James, ill."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:17712291:1208",
+        "marc:marc_loc_updates/v37.i22.records.utf8:11232752:1429",
+        "marc:marc_loc_2016/BooksAll.2016.part31.utf8:161837125:1429",
+        "bwb:9780060004514"
+      ],
+      "title": "An old-fashioned Thanksgiving",
+      "dewey_decimal_class": [
+        "[E]"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Ages 4-8.\n\"Recipe for Louisa May Alcott's Apple Slump on page [32] printed by permission of Orchard House, Concord, Massachusetts, www.louisamayalcott.org.\""
+      },
+      "identifiers": {
+        "goodreads": [
+          "17548",
+          "2039055"
+        ],
+        "librarything": [
+          "1130703"
+        ]
+      },
+      "edition_name": "1st ed.",
+      "lccn": [
+        "2004022103"
+      ],
+      "subjects": [
+        "Family life -- Fiction",
+        "Thanksgiving Day -- Fiction",
+        "New England -- Fiction"
+      ],
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "by_statement": "Louisa May Alcott ; illustrated by James Bernardin.",
+      "works": [
+        {
+          "key": "/works/OL30044W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T12:11:56.088724"
+      }
+    }
+  ]
+}

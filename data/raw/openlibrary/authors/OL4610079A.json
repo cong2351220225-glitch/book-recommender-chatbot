@@ -1,0 +1,33 @@
+{
+  "name": "United States. Congress. Senate",
+  "alternate_names": [
+    "United States. Congress. Senate.",
+    "United States. Congress Senate.",
+    "United States. Congress Senate",
+    "United States Congress. Senate",
+    "United States Congress Senate"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "entity_type": "org",
+  "remote_ids": {
+    "wikidata": "Q66096",
+    "isni": "0000000123238060",
+    "viaf": "129637095",
+    "musicbrainz": "37a14d09-1b87-4867-8720-93a5e98d48ac",
+    "lc_naf": "n79022161",
+    "project_gutenberg": "41364"
+  },
+  "key": "/authors/OL4610079A",
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-12T22:28:33.304054"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T22:34:03.289563"
+  }
+}

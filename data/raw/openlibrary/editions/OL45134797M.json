@@ -1,0 +1,70 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "1966",
+  "publish_country": "mx",
+  "languages": [
+    {
+      "key": "/languages/spa"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL5071357A"
+    }
+  ],
+  "oclc_numbers": [
+    "1243274"
+  ],
+  "edition_name": "1a ed.",
+  "series": [
+    "Colección México heroico -- 62",
+    "Colección México heroico -- no. 62."
+  ],
+  "contributions": [
+    "Fuentes Mares, José"
+  ],
+  "subject_times": [
+    "1810-"
+  ],
+  "subjects": [
+    "History",
+    "Historia"
+  ],
+  "subject_places": [
+    "Mexico",
+    "México"
+  ],
+  "title": "Las memorias de Blas Pavón",
+  "by_statement": "José Fuentes Mares",
+  "publishers": [
+    "Editorial Jus"
+  ],
+  "publish_places": [
+    "México"
+  ],
+  "pagination": "xi, 169 pages",
+  "number_of_pages": 169,
+  "source_records": [
+    "marc:marc_columbia/Columbia-extract-20221130-011.mrc:136234634:1105",
+    "marc:harvard_bibliographic_metadata/20220215_020.bib.mrc:203129273:1695"
+  ],
+  "full_title": "Las memorias de Blas Pavón",
+  "works": [
+    {
+      "key": "/works/OL10359W"
+    }
+  ],
+  "key": "/books/OL45134797M",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-12-31T00:51:37.224873"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-31T04:15:10.330609"
+  }
+}

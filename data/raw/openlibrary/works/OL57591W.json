@@ -1,0 +1,31 @@
+{
+  "title": "Hannah's Winter of Hope (Pioneer Daughters)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T21:35:48.749013"
+  },
+  "covers": [
+    1314818
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T09:10:22.871503"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL57591W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL21432A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34848689,
+  "revision": 2
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Buddhavāda Rāmalakkhaṇa",
+  "key": "/works/OL1072970W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL109442A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Commentaries",
+    "Tipiṭaka"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Commentary on Dasarathajātaka of Khuddakanikāya, Buddhist canon."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:23:27.496339"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-03T11:40:40.906280"
+  }
+}

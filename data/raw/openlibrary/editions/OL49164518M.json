@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9798727557587"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "101",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798727557587"
+  ],
+  "title": "Flower Fables",
+  "weight": "0.164",
+  "full_title": "Flower Fables",
+  "works": [
+    {
+      "key": "/works/OL30056W"
+    }
+  ],
+  "key": "/books/OL49164518M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-07-18T12:29:18.480654"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T06:29:04.761668"
+  }
+}

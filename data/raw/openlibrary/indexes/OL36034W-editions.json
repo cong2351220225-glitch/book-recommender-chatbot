@@ -1,0 +1,483 @@
+{
+  "links": {
+    "self": "/works/OL36034W/editions.json",
+    "work": "/works/OL36034W"
+  },
+  "size": 6,
+  "entries": [
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "number_of_pages": 122,
+      "subtitle": "A Psychological Study",
+      "weight": "6.6 ounces",
+      "covers": [
+        2895752
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-17T10:07:00.591732"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL11980760M",
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "subjects": [
+        "Psychology & Psychiatry / General"
+      ],
+      "isbn_13": [
+        "9781434674906"
+      ],
+      "source_records": [
+        "amazon:1434674908"
+      ],
+      "title": "The Photoplay",
+      "identifiers": {
+        "goodreads": [
+          "6892408"
+        ],
+        "librarything": [
+          "5894043"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1434674908"
+      ],
+      "publish_date": "October 27, 2007",
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5 x 0.3 inches",
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "D. Appleton and company"
+      ],
+      "subtitle": "a psychological study",
+      "covers": [
+        5741628
+      ],
+      "local_id": [
+        "urn:phillips:31867007250793"
+      ],
+      "lc_classifications": [
+        "PN1994 .M8"
+      ],
+      "key": "/books/OL14034294M",
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "ocaid": "photoplaypsychol00mnrich",
+      "publish_places": [
+        "New York [etc.]"
+      ],
+      "pagination": "4 p. L., 3-232, 1 p.",
+      "source_records": [
+        "ia:photoplaypsychol00mnrich",
+        "ia:photoplayapsych00mngoog",
+        "ia:photoplayapsych01mngoog",
+        "ia:cu31924084110653",
+        "marc:marc_openlibraries_phillipsacademy/PANO_FOR_IA_05072019.mrc:97693250:1661",
+        "ia:photoplaypsychol0000mnst",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:66172894:808",
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:211788841:562",
+        "marc:harvard_bibliographic_metadata/20220215_020.bib.mrc:53174860:2044"
+      ],
+      "title": "The photoplay",
+      "lccn": [
+        "16007528"
+      ],
+      "number_of_pages": 232,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Motion pictures"
+      ],
+      "publish_date": "1916",
+      "publish_country": "xx ",
+      "by_statement": "by Hugo Münsterberg.",
+      "oclc_numbers": [
+        "2506795"
+      ],
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "GLAD",
+        "LAGE",
+        "CSLD"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-06T09:02:52.775240"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-25T11:05:27.641136"
+      }
+    },
+    {
+      "publishers": [
+        "Dover Publications"
+      ],
+      "identifiers": {
+        "librarything": [
+          "36089"
+        ],
+        "goodreads": [
+          "5049514"
+        ]
+      },
+      "subtitle": "the silent photoplay in 1916.",
+      "covers": [
+        8059361
+      ],
+      "local_id": [
+        "urn:cst:10017002512",
+        "urn:scms:0188500506269"
+      ],
+      "lc_classifications": [
+        "PN1995 .M75 1970",
+        "PN1995"
+      ],
+      "key": "/books/OL4911176M",
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "ocaid": "filmpsychologica00mnst",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Motion pictures -- Psychological aspects",
+        "Motion pictures -- Aesthetics"
+      ],
+      "pagination": "xv, 100 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part09.dat:105121566:768",
+        "ia:filmpsychologica00mnst",
+        "marc:marc_claremont_school_theology/CSTMARC1_barcode.mrc:4828408:2134",
+        "marc:marc_loc_2016/BooksAll.2016.part10.utf8:2703888:763",
+        "marc:marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:4830088:2134",
+        "bwb:9780486224763",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:63319701:1502",
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:280007661:1279"
+      ],
+      "title": "The film: a psychological study",
+      "dewey_decimal_class": [
+        "791.43/01/9"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Reprint of the 1916 ed., published under title: The photoplay, and with a new foreword by Richard Griffith."
+      },
+      "number_of_pages": 100,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "76094325"
+      ],
+      "isbn_10": [
+        "0486224767"
+      ],
+      "publish_date": "1970",
+      "publish_country": "nyu",
+      "work_title": [
+        "Photoplay"
+      ],
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "84979"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T04:47:20.744518"
+      }
+    },
+    {
+      "subtitle": "A Psychological Study",
+      "weight": "11.4 ounces",
+      "covers": [
+        2895753
+      ],
+      "latest_revision": 4,
+      "id": 15796539,
+      "source_records": [
+        "amazon:1434674916"
+      ],
+      "title": "The Photoplay (Large Print Edition)",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Psychology & Psychiatry / General"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.7 x 7.4 x 0.3 inches",
+      "revision": 4,
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-13T07:20:38.601082"
+      },
+      "key": "/books/OL11980761M",
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "number_of_pages": 134,
+      "isbn_13": [
+        "9781434674913"
+      ],
+      "isbn_10": [
+        "1434674916"
+      ],
+      "publish_date": "October 27, 2007",
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "Arno Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1058019"
+        ]
+      },
+      "isbn_10": [
+        "040501628X"
+      ],
+      "series": [
+        "The Literature of cinema"
+      ],
+      "covers": [
+        4619119,
+        4405945
+      ],
+      "lc_classifications": [
+        "PN1994 .M8 1970"
+      ],
+      "key": "/books/OL4460731M",
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "232 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part11.dat:145021775:508",
+        "marc:marc_loc_2016/BooksAll.2016.part12.utf8:42922819:504",
+        "ia:photoplay0000muns",
+        "promise:bwb_daily_pallets_2021-01-26"
+      ],
+      "title": "The photoplay.",
+      "dewey_decimal_class": [
+        "791.43"
+      ],
+      "number_of_pages": 232,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "79124021"
+      ],
+      "subjects": [
+        "Motion pictures"
+      ],
+      "publish_date": "1970",
+      "publish_country": "nyu",
+      "oclc_numbers": [
+        "100045"
+      ],
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "photoplay0000muns",
+      "local_id": [
+        "urn:bwbsku:O5-RBZ-359"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T05:11:11.259513"
+      }
+    },
+    {
+      "publishers": [
+        "Dover Pub."
+      ],
+      "number_of_pages": 100,
+      "subtitle": "a psychological study",
+      "isbn_10": [
+        "0486433862"
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL18223A"
+        }
+      ],
+      "covers": [
+        314072
+      ],
+      "lc_classifications": [
+        "PN1995 .M75 2004",
+        "PN1995.M75 2004"
+      ],
+      "key": "/books/OL3324847M",
+      "by_statement": "Hugo Münsterberg ; foreword to the Dover edition by Richard Griffith.",
+      "publish_places": [
+        "Mineola, N.Y"
+      ],
+      "contributions": [
+        "Griffith, Richard, 1912-",
+        "Münsterberg, Hugo, 1863-1916."
+      ],
+      "work_title": [
+        "Photoplay"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "xv, 100 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:44850175:1053",
+        "marc:marc_loc_2016/BooksAll.2016.part31.utf8:220793377:1159",
+        "ia:filmpsychologica0000muns",
+        "bwb:9780486433868",
+        "amazon:0486433862",
+        "idb:9780486433868"
+      ],
+      "title": "The film",
+      "dewey_decimal_class": [
+        "791.43/01/9"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Dover ed. first published in 1970 and reissued in 2004.  Originally published in 1916 under the title The photoplay : a psychological study."
+      },
+      "identifiers": {
+        "goodreads": [
+          "134132"
+        ],
+        "librarything": [
+          "36089"
+        ]
+      },
+      "edition_name": "[Dover ed.]",
+      "lccn": [
+        "2004298085"
+      ],
+      "subjects": [
+        "Motion pictures -- Psychological aspects",
+        "Motion pictures -- Aesthetics"
+      ],
+      "publish_date": "2004",
+      "publish_country": "nyu",
+      "oclc_numbers": [
+        "54445884"
+      ],
+      "works": [
+        {
+          "key": "/works/OL36034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "filmpsychologica0000muns",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-19T22:47:08.706238"
+      }
+    }
+  ]
+}

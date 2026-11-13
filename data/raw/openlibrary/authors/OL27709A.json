@@ -1,0 +1,76 @@
+{
+  "name": "Doris Lessing",
+  "bio": {
+    "type": "/type/text",
+    "value": "Doris May Lessing CH (née Tayler; born 22 October 1919) is a British writer, author of works such as the novels The Grass is Singing and The Golden Notebook.\r\n\r\nIn 2007, Lessing won the Nobel Prize in Literature. She was described by the Swedish Academy as \"that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny\". Lessing was the eleventh woman and the oldest person ever to win the Literature Prize.\r\n\r\nIn 2001, Lessing was awarded the David Cohen Prize for a lifetime's achievement in British Literature. In 2008, The Times ranked her fifth on a list of \"The 50 greatest British writers since 1945\"."
+  },
+  "source_records": [
+    "bwb:9780007498802",
+    "ia:mantwowomen0000less",
+    "amazon:2290329584",
+    "amazon:8483466996",
+    "amazon:0060084928",
+    "amazon:9875780952",
+    "bwb:9788482643977",
+    "promise:bwb_daily_pallets_2022-10-07",
+    "bwb:9780141920122",
+    "promise:bwb_daily_pallets_2022-03-17",
+    "promise:bwb_daily_pallets_2022-12-28",
+    "promise:bwb_daily_pallets_2022-08-13",
+    "promise:bwb_daily_pallets_2021-01-13",
+    "bwb:9781014906878",
+    "promise:bwb_daily_pallets_2022-04-01:O8-AJF-781",
+    "promise:bwb_daily_pallets_2023-03-10:KS-262-084",
+    "promise:bwb_daily_pallets_2024-01-08:P9-BMW-808",
+    "promise:bwb_daily_pallets_2024-01-08:P8-BZM-274",
+    "bwb:9782226182142",
+    "ia:bwb_KU-253-205",
+    "ia:bwb_P9-BXA-226"
+  ],
+  "death_date": "17 November 2013",
+  "type": {
+    "key": "/type/author"
+  },
+  "birth_date": "1919",
+  "photos": [
+    6665537,
+    7277109
+  ],
+  "personal_name": "Doris May Lessing",
+  "alternate_names": [
+    "Somers Jane",
+    "Doris May Lessing",
+    "D. Lessing",
+    "Dorris Lessing",
+    "Dois Lessing",
+    "D Lessing",
+    "Jane Somers",
+    "doris lessing"
+  ],
+  "remote_ids": {
+    "goodreads": "7728",
+    "wikidata": "Q40874",
+    "isni": "0000000121009715",
+    "amazon": "B000APSMBE",
+    "librarything": "lessingdoris",
+    "storygraph": "86073bd8-6596-47d7-9577-bde811a513fe",
+    "viaf": "44301766",
+    "bookbrainz": "8fe27ad6-9624-47fe-9b2b-3d932790cb8a",
+    "gnd": "118572113",
+    "lc_naf": "n79041772",
+    "imdb": "nm0504363",
+    "musicbrainz": "ce9dd9c7-fdd3-4f19-96a2-503bf7106dbb",
+    "opac_sbn": "CFIV010236"
+  },
+  "key": "/authors/OL27709A",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T20:31:38.151603"
+  }
+}

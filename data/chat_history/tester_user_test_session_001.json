@@ -1,0 +1,211 @@
+{
+  "id": "test_session_001",
+  "title": "Xin chào, bạn có thể tư vấn sách gì cho ",
+  "timestamp": "2026-11-03 21:39:07",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào, bạn có thể tư vấn sách gì cho tôi?",
+      "timestamp": "21:36"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Thư viện hiện đang có 3 cuốn sách gợi ý cho bạn dựa trên từng nhu cầu và sở thích khác nhau:\n\n1. **Sapiens: Lược sử loài người**\n   - **Tác giả:** Yuval Noah Harari\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Lịch sử\n   - **Phù hợp khi:** Bạn ham khám phá và muốn học hỏi về bức tranh bao quát lịch sử nhân loại, từ Cách mạng Nhận thức đến những biến đổi hiện đại.\n\n2. **Nhà giả kim**\n   - **Tác giả:** Paulo Coelho\n   - **Năm xuất bản:** 1988\n   - **Thể loại:** Văn học\n   - **Phù hợp khi:** Bạn yêu thích văn học và muốn tìm kiếm động lực qua một hành trình nhẹ nhàng, truyền cảm hứng về việc theo đuổi ước mơ.\n\n3. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Phù hợp khi:** Bạn muốn bắt đầu thay đổi bản thân, cần tìm hệ thống phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu thông qua những thay đổi nhỏ, đều đặn.\n\nTùy theo tâm trạng và mục đích đọc lúc này, bạn có thể chọn cuốn sách phù hợp nhất với mình!",
+      "timestamp": "21:36",
+      "sources": [
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "difficulty": "Chuyên sâu",
+            "title": "Sapiens: Lược sử loài người",
+            "book_id": "book_004",
+            "author": "Yuval Noah Harari",
+            "year": 2011,
+            "genre": "Lịch sử",
+            "mood": "Muốn học hỏi",
+            "target_audience": "Độc giả ham khám phá",
+            "author_id": "yuval-noah-harari",
+            "rating": 4.7,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "featured": true
+          },
+          "distance": 0.3139581084251404
+        },
+        {
+          "document": "Title: Nhà giả kim\nAuthor: Paulo Coelho\nGenre: Văn học\nPublication year: 1988\nTags: ước mơ, hành trình, cảm hứng\nTarget audience: Độc giả yêu văn học\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một hành trình nhẹ nhàng về ước mơ.\nDescription: Tiểu thuyết truyền cảm hứng kể về hành trình theo đuổi ước mơ và khám phá ý nghĩa cá nhân của cuộc sống.",
+          "metadata": {
+            "target_audience": "Độc giả yêu văn học",
+            "author_id": "paulo-coelho",
+            "title": "Nhà giả kim",
+            "year": 1988,
+            "difficulty": "Dễ đọc",
+            "author": "Paulo Coelho",
+            "featured": true,
+            "genre": "Văn học",
+            "book_id": "book_005",
+            "tags": "ước mơ, hành trình, cảm hứng",
+            "mood": "Muốn có động lực",
+            "rating": 4.6
+          },
+          "distance": 0.31400632858276367
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "author_id": "james-clear",
+            "rating": 4.8,
+            "difficulty": "Dễ đọc",
+            "author": "James Clear",
+            "genre": "Kỹ năng sống",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "year": 2018,
+            "mood": "Mất động lực",
+            "book_id": "book_001",
+            "featured": true,
+            "title": "Atomic Habits",
+            "tags": "thói quen, năng suất, thay đổi"
+          },
+          "distance": 0.316240131855011
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Xin chào, bạn có thể tư vấn sách gì cho tôi?",
+      "timestamp": "21:37"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Dưới đây là 3 cuốn sách hiện có trong thư viện để bạn lựa chọn tùy theo mục tiêu và sở thích:\n\n1. **Sapiens: Lược sử loài người**\n   - **Tác giả:** Yuval Noah Harari\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Lịch sử\n   - **Lý do phù hợp:** Thích hợp cho độc giả ham khám phá, muốn có một cái nhìn bao quát và chuyên sâu về bức tranh lớn của hành trình lịch sử nhân loại.\n\n2. **Nhà giả kim**\n   - **Tác giả:** Paulo Coelho\n   - **Năm xuất bản:** 1988\n   - **Thể loại:** Văn học\n   - **Lý do phù hợp:** Phù hợp với những ai yêu thích văn học, dễ đọc và đang tìm kiếm động lực qua một câu chuyện truyền cảm hứng nhẹ nhàng về hành trình theo đuổi ước mơ.\n\n3. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Lý do phù hợp:** Phù hợp cho người muốn bắt đầu thay đổi bản thân, giúp bạn xây dựng thói quen tốt và loại bỏ thói quen xấu thông qua những thay đổi nhỏ, đều đặn.\n\nBạn có thể cho mình biết thêm về nhu cầu đọc hiện tại để nhận sự tư vấn chi tiết hơn nhé!",
+      "timestamp": "21:37",
+      "sources": [
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "target_audience": "Độc giả ham khám phá",
+            "genre": "Lịch sử",
+            "difficulty": "Chuyên sâu",
+            "featured": true,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "title": "Sapiens: Lược sử loài người",
+            "rating": 4.7,
+            "mood": "Muốn học hỏi",
+            "author_id": "yuval-noah-harari",
+            "author": "Yuval Noah Harari",
+            "book_id": "book_004",
+            "year": 2011
+          },
+          "distance": 0.3139581084251404
+        },
+        {
+          "document": "Title: Nhà giả kim\nAuthor: Paulo Coelho\nGenre: Văn học\nPublication year: 1988\nTags: ước mơ, hành trình, cảm hứng\nTarget audience: Độc giả yêu văn học\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một hành trình nhẹ nhàng về ước mơ.\nDescription: Tiểu thuyết truyền cảm hứng kể về hành trình theo đuổi ước mơ và khám phá ý nghĩa cá nhân của cuộc sống.",
+          "metadata": {
+            "author": "Paulo Coelho",
+            "difficulty": "Dễ đọc",
+            "target_audience": "Độc giả yêu văn học",
+            "featured": true,
+            "book_id": "book_005",
+            "title": "Nhà giả kim",
+            "author_id": "paulo-coelho",
+            "tags": "ước mơ, hành trình, cảm hứng",
+            "mood": "Muốn có động lực",
+            "rating": 4.6,
+            "genre": "Văn học",
+            "year": 1988
+          },
+          "distance": 0.31400632858276367
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "book_id": "book_001",
+            "mood": "Mất động lực",
+            "difficulty": "Dễ đọc",
+            "author_id": "james-clear",
+            "tags": "thói quen, năng suất, thay đổi",
+            "genre": "Kỹ năng sống",
+            "year": 2018,
+            "author": "James Clear",
+            "featured": true,
+            "rating": 4.8,
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "title": "Atomic Habits"
+          },
+          "distance": 0.316240131855011
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Xin chào, bạn có thể tư vấn sách gì cho tôi?",
+      "timestamp": "21:38"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Thư viện hiện có 3 cuốn sách phù hợp với từng nhu cầu và mục đích đọc khác nhau để tư vấn cho bạn:\n\n1. **Sapiens: Lược sử loài người**\n   - **Tác giả:** Yuval Noah Harari\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Lịch sử\n   - **Lý do phù hợp:** Phù hợp với độc giả ham khám phá, muốn học hỏi chuyên sâu về bức tranh bao quát lịch sử nhân loại từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.\n\n2. **Nhà giả kim**\n   - **Tác giả:** Paulo Coelho\n   - **Năm xuất bản:** 1988\n   - **Thể loại:** Văn học\n   - **Lý do phù hợp:** Cuốn tiểu thuyết dễ đọc, truyền cảm hứng cho người muốn tìm kiếm động lực thông qua hành trình nhẹ nhàng theo đuổi ước mơ và khám phá ý nghĩa cá nhân của cuộc sống.\n\n3. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Lý do phù hợp:** Cuốn sách dễ đọc, phù hợp cho người muốn bắt đầu thay đổi bản thân, giúp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.\n\nBạn có thể chia sẻ thêm về tâm trạng hoặc chủ đề mình đang quan tâm để nhận sự tư vấn chi tiết hơn nhé!",
+      "timestamp": "21:38",
+      "sources": [
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "mood": "Muốn học hỏi",
+            "rating": 4.7,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "genre": "Lịch sử",
+            "target_audience": "Độc giả ham khám phá",
+            "book_id": "book_004",
+            "featured": true,
+            "author": "Yuval Noah Harari",
+            "title": "Sapiens: Lược sử loài người",
+            "difficulty": "Chuyên sâu",
+            "year": 2011,
+            "author_id": "yuval-noah-harari"
+          },
+          "distance": 0.3139581084251404
+        },
+        {
+          "document": "Title: Nhà giả kim\nAuthor: Paulo Coelho\nGenre: Văn học\nPublication year: 1988\nTags: ước mơ, hành trình, cảm hứng\nTarget audience: Độc giả yêu văn học\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một hành trình nhẹ nhàng về ước mơ.\nDescription: Tiểu thuyết truyền cảm hứng kể về hành trình theo đuổi ước mơ và khám phá ý nghĩa cá nhân của cuộc sống.",
+          "metadata": {
+            "mood": "Muốn có động lực",
+            "target_audience": "Độc giả yêu văn học",
+            "author_id": "paulo-coelho",
+            "rating": 4.6,
+            "tags": "ước mơ, hành trình, cảm hứng",
+            "book_id": "book_005",
+            "year": 1988,
+            "author": "Paulo Coelho",
+            "difficulty": "Dễ đọc",
+            "title": "Nhà giả kim",
+            "featured": true,
+            "genre": "Văn học"
+          },
+          "distance": 0.31400632858276367
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "author_id": "james-clear",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "author": "James Clear",
+            "featured": true,
+            "genre": "Kỹ năng sống",
+            "tags": "thói quen, năng suất, thay đổi",
+            "book_id": "book_001",
+            "difficulty": "Dễ đọc",
+            "title": "Atomic Habits",
+            "mood": "Mất động lực",
+            "year": 2018,
+            "rating": 4.8
+          },
+          "distance": 0.316240131855011
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7ded3315-9a19-4abc-b1e7-a100bb4879ba",
+  "title": "Thời tiết ngày mai ở thành phố Paris thế",
+  "timestamp": "2026-11-03 14:49:50",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thành phố Paris thế nào?",
+      "timestamp": "14:49"
+    },
+    {
+      "role": "assistant",
+      "content": "Đã ghi nhận khu vực của bạn là **thành phố Paris thế**. Bạn muốn tìm nhà sách hay thư viện ở khu vực này?",
+      "timestamp": "14:49",
+      "sources": [],
+      "locations": [],
+      "intent": "set_location"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "links": {
+    "self": "/works/OL46583W/editions.json",
+    "work": "/works/OL46583W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "other_titles": [
+        "12-year-old vows revenge!"
+      ],
+      "publishers": [
+        "Delacorte Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2295681"
+        ],
+        "librarything": [
+          "1043204"
+        ]
+      },
+      "subtitle": "after being dumped by extraterrestrial on first date : entire disgusting story begins on page 3",
+      "description": {
+        "type": "/type/text",
+        "value": "Two student newspaper reporters spend the summer trying to get even with each other, and in the process, abuse the right of a free press."
+      },
+      "isbn_10": [
+        "0385300425"
+      ],
+      "pagination": "vi, 119 p. :",
+      "covers": [
+        8230518
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-08-21T04:46:46.396750"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL23260206M",
+      "authors": [
+        {
+          "key": "/authors/OL34268A"
+        }
+      ],
+      "ocaid": "twelveyearoldvow00roos",
+      "publish_places": [
+        "New York, N.Y"
+      ],
+      "contributions": [
+        "Newsom, Carol."
+      ],
+      "genres": [
+        "Juvenile fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:45426340:1269",
+        "ia:twelveyearoldvow00roos"
+      ],
+      "title": "Twelve-year-old vows revenge!",
+      "notes": {
+        "type": "/type/text",
+        "value": "\"June 1990\"--T.p. verso.\n\n\"008-012\"--Jacket.\n\nj-134,794"
+      },
+      "number_of_pages": 119,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-29T15:14:26.784431"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Tabloid newspapers -- Juvenile fiction",
+        "Humorous stories -- Juvenile fiction"
+      ],
+      "publish_date": "1990",
+      "publish_country": "nyu",
+      "by_statement": "Stephen Roos ; illustrated by Carol Newsom.",
+      "works": [
+        {
+          "key": "/works/OL46583W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Yearling"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0440404657:bk:1322171638:149565",
+        "bwb:9780440404651"
+      ],
+      "title": "Twelve Year Old Vows Revenge",
+      "identifiers": {
+        "goodreads": [
+          "1507634"
+        ],
+        "librarything": [
+          "1043204"
+        ]
+      },
+      "isbn_13": [
+        "9780440404651"
+      ],
+      "isbn_10": [
+        "0440404657"
+      ],
+      "publish_date": "May 1, 1991",
+      "key": "/books/OL7520922M",
+      "authors": [
+        {
+          "key": "/authors/OL34268A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL46583W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T05:45:35.320189"
+      }
+    },
+    {
+      "other_titles": [
+        "12-year-old vows revenge!"
+      ],
+      "publishers": [
+        "Delacorte Press"
+      ],
+      "number_of_pages": 119,
+      "subtitle": "after being dumped by extraterrestrial on first date : entire disgusting story begins on page 3",
+      "description": {
+        "type": "/type/text",
+        "value": "Two student newspaper reporters spend the summer trying to get even with each other, and in the process, abuse the right of a free press."
+      },
+      "isbn_10": [
+        "0385300425"
+      ],
+      "lc_classifications": [
+        "PZ7.R6753 Tw 1990"
+      ],
+      "key": "/books/OL2201918M",
+      "authors": [
+        {
+          "key": "/authors/OL34268A"
+        }
+      ],
+      "publish_places": [
+        "New York, N.Y"
+      ],
+      "contributions": [
+        "Newsom, Carol, ill."
+      ],
+      "pagination": "vi, 119 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part20.dat:145931434:1056",
+        "marc:marc_loc_2016/BooksAll.2016.part19.utf8:103813229:1056",
+        "promise:bwb_daily_pallets_2022-09-07",
+        "amazon:0385300425"
+      ],
+      "title": "Twelve-year-old vows revenge!",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"June 1990\"--T.p. verso.\n\"008-012\"--Jacket."
+      },
+      "identifiers": {
+        "librarything": [
+          "1043204"
+        ],
+        "goodreads": [
+          "2295681"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "89023616"
+      ],
+      "subjects": [
+        "Tabloid newspapers -- Fiction",
+        "Humorous stories"
+      ],
+      "publish_date": "1990",
+      "publish_country": "nyu",
+      "by_statement": "Stephen Roos ; illustrated by Carol Newsom.",
+      "works": [
+        {
+          "key": "/works/OL46583W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W7-CQW-372"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T02:54:31.638224"
+      }
+    }
+  ]
+}

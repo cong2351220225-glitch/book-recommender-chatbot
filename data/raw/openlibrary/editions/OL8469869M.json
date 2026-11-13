@@ -1,0 +1,73 @@
+{
+  "publishers": [
+    "Kessinger Publishing"
+  ],
+  "number_of_pages": 48,
+  "weight": "2.4 ounces",
+  "covers": [
+    762920
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-25T15:21:27.631044"
+  },
+  "latest_revision": 7,
+  "key": "/books/OL8469869M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "subjects": [
+    "General & Literary Fiction",
+    "Fiction - General",
+    "Fiction",
+    "General"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "As we rolled along, I scanned my companion covertly, and saw much to interest a girl of seventeen."
+  },
+  "source_records": [
+    "amazon:1419104187:ff:3707436449:159706"
+  ],
+  "title": "A Whisper In The Dark",
+  "identifiers": {
+    "librarything": [
+      "258064"
+    ],
+    "goodreads": [
+      "615201"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "isbn_13": [
+    "9781419104183"
+  ],
+  "isbn_10": [
+    "1419104187"
+  ],
+  "publish_date": "June 30, 2004",
+  "oclc_numbers": [
+    "85791751"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30009W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9.2 x 7.4 x 0.2 inches",
+  "revision": 7
+}

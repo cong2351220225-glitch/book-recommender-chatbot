@@ -1,0 +1,72 @@
+{
+  "identifiers": {
+    "goodreads": [
+      "11592"
+    ],
+    "librarything": [
+      "50088"
+    ]
+  },
+  "title": "The Dark Tower Gift Collection, Books 1-3",
+  "subtitle": "The Gunslinger, The Drawing of The Three, and The Waste Lands",
+  "publish_date": "December 7, 1998",
+  "publishers": [
+    "Fantasy Books"
+  ],
+  "weight": "7 pounds",
+  "covers": [
+    926671
+  ],
+  "physical_format": "Hardcover",
+  "subjects": [
+    "General & Literary Fiction",
+    "Modern fiction",
+    "Horror",
+    "Fiction - Horror",
+    "Fiction",
+    "Horror - General",
+    "Best Seller",
+    "Fantasy",
+    "Science Fiction",
+    "General"
+  ],
+  "edition_name": "Limited edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9781880418406"
+  ],
+  "isbn_10": [
+    "1880418401"
+  ],
+  "oclc_numbers": [
+    "40741319"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "10.5 x 7 x 4 inches",
+  "source_records": [
+    "amazon:1880418401"
+  ],
+  "key": "/books/OL8679150M",
+  "number_of_pages": 1132,
+  "works": [
+    {
+      "key": "/works/OL149174W"
+    }
+  ],
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T08:14:56.482104"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-15T15:25:00.995711"
+  }
+}

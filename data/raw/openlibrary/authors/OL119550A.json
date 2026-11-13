@@ -1,0 +1,31 @@
+{
+  "name": "Gilberto Freyre",
+  "personal_name": "Freyre, Gilberto",
+  "death_date": "1987",
+  "alternate_names": [
+    "Gilberto, Freyre"
+  ],
+  "birth_date": "1900",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "97825667",
+    "wikidata": "Q677769",
+    "isni": "0000000121447264",
+    "lc_naf": "n79147880",
+    "opac_sbn": "PBEV004325",
+    "goodreads": "243631"
+  },
+  "key": "/authors/OL119550A",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T17:29:11.199290"
+  }
+}

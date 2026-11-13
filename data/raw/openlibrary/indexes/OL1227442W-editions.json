@@ -1,0 +1,59 @@
+{
+  "links": {
+    "self": "/works/OL1227442W/editions.json",
+    "work": "/works/OL1227442W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Caption title.\n\nContained in: Down Ink lane (Spring, 1966)."
+      },
+      "title": "Haiku",
+      "authors": [
+        {
+          "key": "/authors/OL123818A"
+        }
+      ],
+      "publish_date": "1966",
+      "publishers": [
+        "J. & C. Transcripts"
+      ],
+      "publish_places": [
+        "[Kanona, N.Y"
+      ],
+      "pagination": "p. 23",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by Earle Birney.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:4644239252:490"
+      ],
+      "key": "/books/OL22584627M",
+      "number_of_pages": 23,
+      "works": [
+        {
+          "key": "/works/OL1227442W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-16T16:31:00.162849"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T03:25:39.046454"
+      }
+    }
+  ]
+}

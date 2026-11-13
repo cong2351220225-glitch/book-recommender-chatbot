@@ -1,0 +1,20 @@
+{
+  "name": "Ecuador",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "photos": [
+    -1
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-22T21:47:21.174307"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL54381A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}

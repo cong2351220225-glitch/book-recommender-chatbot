@@ -1,0 +1,50 @@
+{
+  "subtitle": "Written By Jo And Meg And Acted By The Little Women",
+  "title": "Comic tragedies",
+  "covers": [
+    2500308,
+    5702405,
+    11365477,
+    10891721
+  ],
+  "first_publish_date": "1893",
+  "key": "/works/OL30038W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "812.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Melodrama",
+    "Fiction",
+    "Juvenile fiction",
+    "Bibliography",
+    "Portrait"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Fans of Louisa May Alcott's Little Women will remember the elaborate plays which the March sisters loved to perform. This volume, published after Alcott's death, is a compilation of the real plays written by her and her sisters, which were fictionalized in *Little Women*."
+  },
+  "location": "/works/OL24667816W",
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-25T03:45:33.820568"
+  }
+}

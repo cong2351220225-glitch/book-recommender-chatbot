@@ -1,0 +1,47 @@
+{
+  "first_publish_date": "June 30, 2004",
+  "title": "Debby's Debut",
+  "covers": [
+    2794210
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "On a cheery June day Mrs. Penelope Carroll and her niece Debby Wilder were whizzing along on their way to a certain gay watering-place, both in the best of humors with each other and all the world beside."
+  },
+  "key": "/works/OL30032W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "On a cheery June day Mrs. Penelope Carroll and her niece Debby Wilder were whizzing along on their way to a certain gay watering-place, both in the best of humors with each other and all the world beside."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, general"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T05:54:07.346973"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "subtitle": "practice, research, and theory",
+  "latest_revision": 2,
+  "contributions": [
+    "Humenick, Sharron Smith."
+  ],
+  "id": 33463945,
+  "source_records": [
+    "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1239962149:541"
+  ],
+  "title": "Childbirth education",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_country": "xxu",
+  "by_statement": "Francine H. Nichols, Sharron Smith Humenick.",
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 2,
+  "publishers": [
+    "W. B. Saunders"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T10:14:51.113371"
+  },
+  "key": "/books/OL22828412M",
+  "authors": [
+    {
+      "key": "/authors/OL26683A"
+    }
+  ],
+  "publish_places": [
+    "Philadelphia"
+  ],
+  "pagination": "xxix,586p.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-01-05T03:25:32.486049"
+  },
+  "number_of_pages": 586,
+  "isbn_10": [
+    "0721667791"
+  ],
+  "publish_date": "1988",
+  "works": [
+    {
+      "key": "/works/OL30081W"
+    }
+  ]
+}

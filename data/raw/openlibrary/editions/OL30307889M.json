@@ -1,0 +1,47 @@
+{
+  "publishers": [
+    "Bibliotech Press"
+  ],
+  "source_records": [
+    "bwb:9781647995195"
+  ],
+  "title": "Proverb Stories",
+  "number_of_pages": 178,
+  "isbn_13": [
+    "9781647995195"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "full_title": "Proverb Stories",
+  "lc_classifications": [
+    ""
+  ],
+  "publish_date": "2020",
+  "key": "/books/OL30307889M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL30045W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-09-17T17:46:06.505152"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T17:08:01.873169"
+  }
+}

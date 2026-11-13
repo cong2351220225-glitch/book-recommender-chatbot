@@ -1,0 +1,24 @@
+{
+  "name": "United States. Bureau of Mines.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "alternate_names": [
+    "United States. Bureau of mines",
+    "United States. Bureau of mines.",
+    "UNITED STATES.  BUREAU OF MINES",
+    "United States Bureau of Mines",
+    "United States. Bureau of Mines"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-05-20T00:21:12.781843"
+  },
+  "latest_revision": 4,
+  "key": "/authors/OL160635A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 4
+}

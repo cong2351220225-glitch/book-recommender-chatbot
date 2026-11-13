@@ -1,0 +1,20 @@
+{
+  "id": "test_stream_be2754f2",
+  "title": "Chào bạn, bạn là ai?",
+  "timestamp": "2026-11-03 14:24:59",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào bạn, bạn là ai?",
+      "timestamp": "14:24"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Mình là AI Thủ thư Thư viện số. Mình luôn sẵn sàng giúp bạn tìm sách, tra cứu thông tin tác giả, hoặc tìm kiếm nhà sách và thư viện gần bạn. Bạn cần hỗ trợ gì nhé?",
+      "timestamp": "14:24",
+      "sources": [],
+      "locations": [],
+      "intent": "small_talk"
+    }
+  ]
+}

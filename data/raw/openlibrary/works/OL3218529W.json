@@ -1,0 +1,39 @@
+{
+  "first_publish_date": "1993",
+  "description": {
+    "type": "/type/text",
+    "value": "On the works of ʻAbdulḥaq, 1869-1961, Urdu writer."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-18T03:48:51.170729"
+  },
+  "title": "Bābā-yi Urdū ʻAbdulḥaq, baḥaisīyat-i tanqīd nigār",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T02:53:36.451842"
+  },
+  "lc_classifications": [
+    "PK2199.H3 Z94 1993"
+  ],
+  "subject_people": [
+    "ʻAbdulḥaq (1869-1961)"
+  ],
+  "key": "/works/OL3218529W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL521145A"
+      }
+    }
+  ],
+  "latest_revision": 3,
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Criticism and interpretation"
+  ],
+  "revision": 3
+}

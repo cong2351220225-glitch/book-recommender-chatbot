@@ -1,0 +1,35 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:29:38.129473"
+  },
+  "subjects": [
+    "Technique",
+    "Histology",
+    "Microscopy"
+  ],
+  "latest_revision": 4,
+  "key": "/works/OL1097241W",
+  "title": "The microscope and microscopical technilogy",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL113486A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-08-07T20:35:18.302848"
+  },
+  "covers": [
+    5582827
+  ],
+  "revision": 4
+}

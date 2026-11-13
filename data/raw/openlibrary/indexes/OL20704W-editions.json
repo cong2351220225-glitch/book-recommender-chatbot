@@ -1,0 +1,264 @@
+{
+  "links": {
+    "self": "/works/OL20704W/editions.json",
+    "work": "/works/OL20704W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "publishers": [
+        "Macmillan Pub Co"
+      ],
+      "physical_format": "Paperback",
+      "source_records": [
+        "amazon:0672609681:cf:3553126837:149151",
+        "bwb:9780672609688",
+        "promise:bwb_daily_pallets_2021-02-15"
+      ],
+      "title": "Guilliver's Travels",
+      "identifiers": {
+        "goodreads": [
+          "291890"
+        ],
+        "librarything": [
+          "3373"
+        ]
+      },
+      "isbn_13": [
+        "9780672609688"
+      ],
+      "isbn_10": [
+        "0672609681"
+      ],
+      "publish_date": "June 1963",
+      "key": "/books/OL7668994M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL20704W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Literature: Classics"
+      ],
+      "local_id": [
+        "urn:bwbsku:W6-BAE-979"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T22:16:28.336024"
+      }
+    },
+    {
+      "publishers": [
+        "Doubleday"
+      ],
+      "lc_classifications": [
+        "PR3724 .G7 1945a"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL22088877M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "publish_places": [
+        "Garden City, N.Y"
+      ],
+      "contributions": [
+        "Corbino, Jon, 1905-1964"
+      ],
+      "pagination": "[3] l., v-x, 308 p.",
+      "revision": 3,
+      "source_records": [
+        "marc:marc_binghamton_univ/bgm_openlib_final_0-5.mrc:258002149:720"
+      ],
+      "title": "Guilliver's travels",
+      "dewey_decimal_class": [
+        "827.52"
+      ],
+      "number_of_pages": 308,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-06T17:38:24.200351"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "48004511"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-14T19:21:36.446639"
+      },
+      "publish_date": "1945",
+      "publish_country": "nyu",
+      "by_statement": "illus. by Jon Corbino.",
+      "works": [
+        {
+          "key": "/works/OL20704W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "BIN"
+      ]
+    },
+    {
+      "publishers": [
+        "Scholar's Facsimiles & Reprints"
+      ],
+      "pagination": "xiii, xvi, 199 p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2867335442:674"
+      ],
+      "title": "Guilliver's travels",
+      "contributions": [
+        "McKelvie, Colin."
+      ],
+      "number_of_pages": 199,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T08:06:07.242047"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-14T19:21:36.446639"
+      },
+      "publish_date": "1976",
+      "publish_country": "xxu",
+      "key": "/books/OL19189053M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "by_statement": "A facsimile reproduction of a large-paper copy of the first edition (1726)containing the author's annotations and with an introduction by Colin McKelvie (etc.).",
+      "publish_places": [
+        "Delmar, N.Y"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20704W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Nextext"
+      ],
+      "number_of_pages": 206,
+      "description": {
+        "type": "/type/text",
+        "value": "A retelling, in simple language, of the classic tale of the eighteenth-century Englishman whose voyages carry him to such strange places as Lilliput, where people are six inches tall, and Brobdingnag, a land peopled by giants."
+      },
+      "isbn_10": [
+        "0618031499"
+      ],
+      "series": [
+        "A Classic retelling"
+      ],
+      "pagination": "206 p. :",
+      "covers": [
+        1324312
+      ],
+      "lc_classifications": [
+        "PZ7.S979 Gu 2001"
+      ],
+      "key": "/books/OL3966312M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "publish_places": [
+        "Evanston, Ill"
+      ],
+      "genres": [
+        "Early works to 1800.",
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part13.dat:156260076:1035",
+        "marc:marc_loc_2016/BooksAll.2016.part29.utf8:8646654:1035",
+        "bwb:9780618031498"
+      ],
+      "title": "Guilliver's travels",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3963619"
+        ],
+        "librarything": [
+          "5022952"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2001271586"
+      ],
+      "subjects": [
+        "Voyages, Imaginary -- Early works to 1800",
+        "Voyages and travels -- Fiction",
+        "Travelers -- Fiction",
+        "Fantasy"
+      ],
+      "publish_date": "2001",
+      "publish_country": "ilu",
+      "by_statement": "by Jonathan Swift.",
+      "works": [
+        {
+          "key": "/works/OL20704W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T02:39:52.457142"
+      }
+    }
+  ]
+}

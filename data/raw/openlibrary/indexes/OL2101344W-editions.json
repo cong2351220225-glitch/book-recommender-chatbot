@@ -1,0 +1,79 @@
+{
+  "links": {
+    "self": "/works/OL2101344W/editions.json",
+    "work": "/works/OL2101344W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Kharkivsʹkyĭ derz͡h︡. pedahohichnyĭ universytet im. H.S. Skovorody"
+      ],
+      "subject_place": [
+        "Ukraine"
+      ],
+      "lc_classifications": [
+        "B4218.S474 U83 1997"
+      ],
+      "key": "/books/OL420630M",
+      "authors": [
+        {
+          "key": "/authors/OL259745A"
+        }
+      ],
+      "publish_places": [
+        "Kharkiv"
+      ],
+      "subject_time": [
+        "18th century."
+      ],
+      "pagination": "178 p. ;",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:75174642:672",
+        "marc:harvard_bibliographic_metadata/20220215_004.bib.mrc:246705328:1369"
+      ],
+      "title": "Hryhoriĭ Skovoroda i antychna kulʹtura",
+      "lccn": [
+        "98125081"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references."
+      },
+      "number_of_pages": 178,
+      "languages": [
+        {
+          "key": "/languages/ukr"
+        }
+      ],
+      "subjects": [
+        "Skovoroda, Hryhoriĭ Savych, 1722-1794 -- Philosophy.",
+        "Philosophers -- Ukraine -- 18th century."
+      ],
+      "publish_date": "1997",
+      "publish_country": "un ",
+      "by_statement": "Leonid Ushkalov.",
+      "works": [
+        {
+          "key": "/works/OL2101344W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "39505159"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-18T19:12:17.112698"
+      }
+    }
+  ]
+}

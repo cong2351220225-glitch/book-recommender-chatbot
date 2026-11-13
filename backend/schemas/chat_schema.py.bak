@@ -1,0 +1,34 @@
+from __future__ import annotations
+
+from typing import Any
+from pydantic import BaseModel, Field
+
+
+class ChatRequest(BaseModel):
+    message: str = Field(..., min_length=1, description="User question or input")
+    session_id: str | None = Field(None, description="Optional conversation session ID")
+    top_k: int = Field(3, ge=1, le=10, description="Top K books to retrieve for context")
+    reader_profile: dict[str, Any] | None = Field(None, description="User preference profile")
+
+
+class ChatResponse(BaseModel):
+    answer: str
+    books: list[dict[str, Any]] = []
+    locations: list[dict[str, Any]] = []
+    intent: str
+    session_id: str
+    reader_profile: dict[str, Any] | None = None
+
+
+class ChatMessageItem(BaseModel):
+    role: str
+    content: str
+    timestamp: str | None = None
+    sources: list[dict[str, Any]] = []
+    locations: list[dict[str, Any]] = []
+
+
+class ChatHistoryResponse(BaseModel):
+    session_id: str
+    messages: list[ChatMessageItem]
+

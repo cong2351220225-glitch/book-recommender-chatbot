@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL14966W",
+  "key": "/works/OL14922W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T17:14:21.941321"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-02-24T23:05:40.611433"
+  }
+}

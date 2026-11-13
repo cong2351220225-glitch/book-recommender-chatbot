@@ -1,0 +1,66 @@
+{
+  "identifiers": {
+    "goodreads": [
+      "979574"
+    ],
+    "librarything": [
+      "2601315"
+    ]
+  },
+  "title": "Die Technologiefalle",
+  "authors": [
+    {
+      "key": "/authors/OL29655A"
+    }
+  ],
+  "publish_date": "June 1, 2002",
+  "publishers": [
+    "Suhrkamp"
+  ],
+  "weight": "6.9 ounces",
+  "covers": [
+    2212724
+  ],
+  "physical_format": "Paperback",
+  "languages": [
+    {
+      "key": "/languages/ger"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7 x 4.4 x 0.8 inches",
+  "isbn_10": [
+    "3518398857"
+  ],
+  "isbn_13": [
+    "9783518398852"
+  ],
+  "translated_from": [
+    {
+      "key": "/languages/pol"
+    }
+  ],
+  "translation_of": "Tajemnica chińskiego pokoju",
+  "source_records": [
+    "amazon:3518398857"
+  ],
+  "key": "/books/OL9051273M",
+  "number_of_pages": 318,
+  "works": [
+    {
+      "key": "/works/OL109506W"
+    }
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-06T08:06:21.566219"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "alternate_names": [
+    "Stephen J Spignesi",
+    "Stephen Spignesi",
+    "STEPHEN SPIGNESI"
+  ],
+  "links": [
+    {
+      "url": "https://stephenspignesi.weebly.com/",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "stephenspignesi.weebly.com"
+    }
+  ],
+  "bio": {
+    "type": "/type/text",
+    "value": "Stephen Spignesi is a New York Times bestselling author who writes about historical biography, popular culture, television, film, American and world history, and contemporary fiction. He is also a university professor, novelist, poet, screenwriter, and musician.\r\n([source][1])\r\n\r\n\r\n  [1]: https://stephenspignesi.weebly.com/"
+  },
+  "name": "Stephen J. Spignesi",
+  "type": {
+    "key": "/type/author"
+  },
+  "source_records": [
+    "bwb:9781634508889",
+    "promise:bwb_daily_pallets_2022-11-04:KR-467-828"
+  ],
+  "personal_name": "Stephen J. Spignesi",
+  "photos": [
+    8412957
+  ],
+  "key": "/authors/OL29986A",
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-31T00:04:48.425475"
+  }
+}

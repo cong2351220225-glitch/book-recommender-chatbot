@@ -1,0 +1,20 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Haleigh DeRocher",
+  "key": "/authors/OL9644714A",
+  "source_records": [
+    "bwb:9798742337676"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-01T12:12:52.752066"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-01T12:12:52.752066"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "links": {
+    "self": "/works/OL30087W/editions.json",
+    "work": "/works/OL30087W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "title": "Viajes De Ensueno (Elige Tu Propia Aventura/Dream Trips)",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "March 1986",
+      "publishers": [
+        "Timun Mas"
+      ],
+      "physical_format": "Paperback",
+      "weight": "3.2 ounces",
+      "isbn_13": [
+        "9788471768933"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "8471768933"
+      ],
+      "oclc_numbers": [
+        "14696834"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Dreams",
+        "Fiction",
+        "Plot-your-own stories",
+        "Spanish language materials",
+        "Spanish: Grades 3-4"
+      ],
+      "physical_dimensions": "7.5 x 5.2 x 0.5 inches",
+      "source_records": [
+        "amazon:8471768933"
+      ],
+      "key": "/books/OL13278886M",
+      "works": [
+        {
+          "key": "/works/OL30087W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-07T19:46:43.385132"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Skylark Choose Your Own Adventure"
+      },
+      "identifiers": {
+        "librarything": [
+          "2948265"
+        ],
+        "goodreads": [
+          "191089"
+        ]
+      },
+      "title": "DREAM TRIPS",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "May 1, 1983",
+      "publishers": [
+        "Yearling"
+      ],
+      "series": [
+        "Choose Your Own Adventure# 9"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Dreams",
+        "Fiction",
+        "Literary recreations",
+        "Children's 9-12 - Fiction - General",
+        "Juvenile Fiction"
+      ],
+      "edition_name": "Reissue edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780553151909"
+      ],
+      "isbn_10": [
+        "0553151908"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0553151908"
+      ],
+      "key": "/books/OL7818995M",
+      "number_of_pages": 64,
+      "works": [
+        {
+          "key": "/works/OL30087W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-30T00:51:12.587445"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "2948265"
+        ],
+        "goodreads": [
+          "2051403"
+        ]
+      },
+      "title": "DREAM TRIPS # 9",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "May 1, 1983",
+      "publishers": [
+        "Yearling"
+      ],
+      "series": [
+        "Choose Your Own Adventure, No 9"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Fiction",
+        "Children's 9-12 - Fiction - General",
+        "Dreams",
+        "Literary recreations"
+      ],
+      "isbn_13": [
+        "9780553155068"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553155067"
+      ],
+      "oclc_numbers": [
+        "233582842"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0553155067"
+      ],
+      "key": "/books/OL7819215M",
+      "works": [
+        {
+          "key": "/works/OL30087W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-07T03:22:40.224001"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Skylark"
+      ],
+      "number_of_pages": 52,
+      "series": [
+        "Choose your own adventure -- 9"
+      ],
+      "key": "/books/OL21522349M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Tomei, Lorna."
+      ],
+      "pagination": "52p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:622984828:688",
+        "promise:bwb_daily_pallets_2022-08-30",
+        "amazon:0553151908"
+      ],
+      "title": "Dream trips",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "191089"
+        ],
+        "librarything": [
+          "2948265"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553151908"
+      ],
+      "publish_date": "1983",
+      "publish_country": "xxk",
+      "by_statement": "Edward Packard ; illustrated by Lorna Tomei.",
+      "works": [
+        {
+          "key": "/works/OL30087W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12689038
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-CFR-790"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T22:46:56.267867"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-04T01:35:59.956498"
+      }
+    },
+    {
+      "publishers": [
+        "Timun Mas"
+      ],
+      "series": [
+        "Elige tu propia aventura. Globo azul -- 11."
+      ],
+      "key": "/books/OL19855022M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Barcelona"
+      ],
+      "contributions": [
+        "Tomei, Lorna."
+      ],
+      "pagination": "52 p. :",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:918426356:975"
+      ],
+      "title": "Viajes de ensuenõ",
+      "work_titles": [
+        "Dream trips."
+      ],
+      "notes": "Translation of: Dream trips.",
+      "number_of_pages": 52,
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Adventure stories"
+      ],
+      "publish_date": "1986",
+      "publish_country": "sp ",
+      "by_statement": "Edward Packard ; ilustraciones, Lorna Tomei ; [traducción al castellano, Horacio González Trejo].",
+      "works": [
+        {
+          "key": "/works/OL30087W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "8471768933"
+      ],
+      "oclc_numbers": [
+        "14696834"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-24T09:37:41.170812"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-25T19:26:24.975488"
+      }
+    }
+  ]
+}

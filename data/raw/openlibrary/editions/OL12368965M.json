@@ -1,0 +1,91 @@
+{
+  "publishers": [
+    "Shadow Mountain"
+  ],
+  "identifiers": {
+    "librarything": [
+      "4216060"
+    ],
+    "goodreads": [
+      "1837857"
+    ]
+  },
+  "weight": "14.4 ounces",
+  "covers": [
+    2951091
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL12368965M",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "Fiction - Mystery/ Detective",
+    "Romance: Modern",
+    "Mystery & Detective - General",
+    "Literature & Fiction",
+    "Romance - Contemporary",
+    "Adult children",
+    "Identity (Philosophical concept)",
+    "Orphans"
+  ],
+  "edition_name": "1 edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": [
+    "amazon:1590387988",
+    "marc:marc_loc_2016/BooksAll.2016.part34.utf8:132862382:737",
+    "ia:flyinghome0000nune",
+    "bwb:9781590387986",
+    "promise:bwb_daily_pallets_2020-10-07",
+    "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:375685978:794"
+  ],
+  "title": "Flying Home",
+  "number_of_pages": 320,
+  "isbn_13": [
+    "9781590387986"
+  ],
+  "isbn_10": [
+    "1590387988"
+  ],
+  "publish_date": "September 24, 2007",
+  "oclc_numbers": [
+    "144774371"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30073W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.8 x 5.9 x 0.9 inches",
+  "lccn": [
+    "2007025621"
+  ],
+  "lc_classifications": [
+    "PS3564.U468 F59 2007",
+    "PS3564.U468F59 2007"
+  ],
+  "ocaid": "flyinghome0000nune",
+  "local_id": [
+    "urn:bwbsku:O5-NCB-795"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-05-28T11:03:34.984679"
+  }
+}

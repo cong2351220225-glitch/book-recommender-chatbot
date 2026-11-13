@@ -1,0 +1,25 @@
+{
+  "name": "Diane Stein",
+  "personal_name": "Diane Stein",
+  "birth_date": "1948",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "99243360",
+    "wikidata": "Q5271578",
+    "isni": "0000000109284407",
+    "lc_naf": "n85219306"
+  },
+  "key": "/authors/OL27248A",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T21:30:12.616680"
+  }
+}

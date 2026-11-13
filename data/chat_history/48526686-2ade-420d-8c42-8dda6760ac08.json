@@ -1,0 +1,20 @@
+{
+  "id": "48526686-2ade-420d-8c42-8dda6760ac08",
+  "title": "alo",
+  "timestamp": "2026-11-03 02:49:38",
+  "messages": [
+    {
+      "role": "user",
+      "content": "alo",
+      "timestamp": "02:49"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào bạn! Mình là trợ lý AI của thư viện sách điện tử. \n\nHôm nay mình có thể hỗ trợ gì cho bạn? Bạn cần giải đáp kiến thức, hỗ trợ học tập, viết lách hay tư vấn thông tin nào không?",
+      "timestamp": "02:49",
+      "sources": [],
+      "locations": [],
+      "intent": "out_of_domain"
+    }
+  ]
+}

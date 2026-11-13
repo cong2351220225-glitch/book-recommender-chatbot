@@ -1,0 +1,2525 @@
+{
+  "links": {
+    "self": "/works/OL30052W/editions.json",
+    "work": "/works/OL30052W",
+    "next": "/works/OL30052W/editions.json?offset=50"
+  },
+  "size": 56,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798686870925"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "226",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798686870925"
+      ],
+      "title": "Moods",
+      "weight": "0.400",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL49034999M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T04:28:13.803657"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798726419329"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "175",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798726419329"
+      ],
+      "title": "Moods",
+      "weight": "0.286",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL48419054M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:15:34.208894"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798726419282"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "168",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798726419282"
+      ],
+      "title": "Moods",
+      "weight": "0.400",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL48376980M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:15:57.353094"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9644714A"
+        },
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798742339489"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "205",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798742339489"
+      ],
+      "title": "Moods",
+      "weight": "0.368",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL48296775M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T13:51:45.847669"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798631323346"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "176",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798631323346"
+      ],
+      "title": "Moods",
+      "weight": "0.323",
+      "subtitle": "The Louisa May Alcott's First Novel, Published in 1864, Four Years Before the Best-Selling Little Women",
+      "full_title": "Moods The Louisa May Alcott's First Novel, Published in 1864, Four Years Before the Best-Selling Little Women",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL48414572M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:02:47.846189"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681385646"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "391",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681385646"
+      ],
+      "title": "Moods",
+      "weight": "0.664",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL48288868M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T13:16:16.864783"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798836743253"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "184",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798836743253"
+      ],
+      "title": "Moods",
+      "weight": "0.336",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL44355561M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-18T02:38:47.272592"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798366751315"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "223",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798366751315"
+      ],
+      "title": "Moods",
+      "weight": "0.518",
+      "subtitle": "Square Sized Edition",
+      "full_title": "Moods Square Sized Edition",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL46740081M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T15:06:54.307376"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1890",
+      "copyright_date": "1881",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "904350561"
+      ],
+      "title": "Moods",
+      "by_statement": "a novel by Louisa M. Alcott",
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "359 pages",
+      "number_of_pages": 359,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:423033969:754"
+      ],
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL43748205M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-11T01:18:46.826777"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781387858415"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "178",
+      "publish_date": "2022",
+      "publishers": [
+        "Lulu Press, Inc."
+      ],
+      "source_records": [
+        "bwb:9781387858415"
+      ],
+      "title": "Moods",
+      "weight": "0.241",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42838477M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T17:31:07.325312"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798596663235"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "226",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798596663235"
+      ],
+      "title": "Moods",
+      "weight": "0.664",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42606000M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T02:40:26.809618"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798594843523"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "360",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798594843523"
+      ],
+      "title": "Moods",
+      "weight": "0.614",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42261790M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T03:40:44.697752"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798640589887"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "149",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798640589887"
+      ],
+      "title": "Moods",
+      "weight": "0.455",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42075689M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T20:35:58.753148"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634077246"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "264",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634077246"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41953020M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T01:00:38.591187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798638491536"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "264",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798638491536"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42027555M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:17:43.714713"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798697920558"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "264",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798697920558",
+        "promise:bwb_daily_pallets_2024-03-01:P9-CPO-612"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42234942M",
+      "local_id": [
+        "urn:bwbsku:P9-CPO-612"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B003ZWC62K"
+        ],
+        "better_world_books": [
+          "BWBM59184418"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T23:34:07.102868"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-03T01:09:18.281295"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681824589"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "264",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681824589"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL42238684M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T00:08:31.687724"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707565382"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "263",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707565382"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41828978M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T05:48:20.649556"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781692885106"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "208",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781692885106"
+      ],
+      "title": "Moods",
+      "weight": "0.373",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41459459M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T20:43:34.915585"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781688032248"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781688032248"
+      ],
+      "title": "Moods",
+      "weight": "0.332",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41450108M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T19:18:18.592173"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070900285"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "263",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070900285"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41313903M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T20:00:23.295719"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781080981137"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "187",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781080981137"
+      ],
+      "title": "Moods",
+      "weight": "0.341",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41268437M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T12:09:42.023001"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781792147913"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "298",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781792147913"
+      ],
+      "title": "Moods",
+      "weight": "0.441",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL40986535M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-22T14:47:56.712460"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607427177"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "263",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607427177"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL41874114M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T12:36:30.925870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980599340"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "263",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980599340"
+      ],
+      "title": "Moods",
+      "weight": "0.459",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL40763178M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-21T02:45:24.523863"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781521237762"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "187",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781521237762"
+      ],
+      "title": "Moods (Annotated and Illustrated)",
+      "weight": "0.341",
+      "full_title": "Moods (Annotated and Illustrated)",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL40688256M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T15:08:14.794271"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781520359465"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "384",
+      "publish_date": "2016",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781520359465"
+      ],
+      "title": "Moods",
+      "weight": "0.650",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL40681979M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T14:13:43.865562"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781411441828"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "342",
+      "publish_date": "2011",
+      "publishers": [
+        "Barnes & Noble, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781411441828"
+      ],
+      "title": "Moods",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL39292505M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-17T20:14:28.834292"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798702242057"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "223",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798702242057"
+      ],
+      "title": "Moods",
+      "weight": "0.305",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL37567580M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-02T20:50:29.446984"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781625588951"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "228",
+      "publish_date": "2013",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781625588951"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Moods",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL36794846M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T02:09:02.199939"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:57:05.971271"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 264,
+      "source_records": [
+        "amazon:1986094375",
+        "bwb:9781986094375"
+      ],
+      "title": "Moods",
+      "identifiers": {
+        "amazon": [
+          "1986094375"
+        ]
+      },
+      "isbn_13": [
+        "9781986094375"
+      ],
+      "covers": [
+        9177618
+      ],
+      "physical_format": "paperback",
+      "full_title": "Moods",
+      "isbn_10": [
+        "1986094375"
+      ],
+      "publish_date": "Mar 05, 2018",
+      "key": "/books/OL27768429M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-10T23:15:30.692222"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T08:03:23.304536"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1887",
+      "copyright_date": "1881",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "702612098"
+      ],
+      "lc_classifications": [
+        "PZ3.A355 Mo8"
+      ],
+      "subjects": [
+        "Love stories",
+        "Marriage",
+        "Juvenile fiction"
+      ],
+      "title": "Moods",
+      "subtitle": "A novel",
+      "by_statement": "By Louisa M. Alcott",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "viii, 359 p.",
+      "number_of_pages": 359,
+      "ocaid": "moodsnovel00alco_0",
+      "source_records": [
+        "ia:moodsnovel00alco_0"
+      ],
+      "full_title": "Moods A novel",
+      "covers": [
+        11901127
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL33192748M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-04T12:17:27.911494"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-02T16:34:04.077311"
+      }
+    },
+    {
+      "publishers": [
+        "Hurst & Company, publishers"
+      ],
+      "full_title": "Moods",
+      "lc_classifications": [
+        "PS1017 .M6 1900z"
+      ],
+      "key": "/books/OL31090996M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Hurst & Company",
+        "Decorative Designers (Firm)"
+      ],
+      "pagination": "335 pages, 1 unnumbered leaf of plates",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part40.utf8:173019464:1152"
+      ],
+      "title": "Moods",
+      "lccn": [
+        "2012660317"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "In original publisher's binding: green cloth stapmped in red, white, and green with three women characters inside a floral border. Binding and illustrated endpapers signed: DD.\n\nEstimated date of publication inferred from binding.\n\nLC copy is the gift of Robert Hooker, March 3, 1967."
+      },
+      "number_of_pages": 335,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1900",
+      "publish_country": "nyu",
+      "by_statement": "by Louisa M. Alcott, author of Little women, Little men, Flower fables, Hospital sketches, etc., etc",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T13:31:00.703937"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-02T16:34:04.077311"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 126,
+      "source_records": [
+        "amazon:1499147724",
+        "bwb:9781499147728"
+      ],
+      "title": "Moods",
+      "identifiers": {
+        "amazon": [
+          "1499147724"
+        ]
+      },
+      "covers": [
+        9006076
+      ],
+      "physical_format": "paperback",
+      "full_title": "Moods",
+      "publish_date": "Apr 15, 2014",
+      "key": "/books/OL27550600M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1499147724"
+      ],
+      "isbn_13": [
+        "9781499147728"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-25T09:49:54.546990"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T12:16:06.013439"
+      }
+    },
+    {
+      "publishers": [
+        "SMK Books"
+      ],
+      "number_of_pages": 198,
+      "source_records": [
+        "amazon:1617209287"
+      ],
+      "title": "Moods",
+      "identifiers": {
+        "amazon": [
+          "1617209287"
+        ]
+      },
+      "isbn_13": [
+        "9781617209284"
+      ],
+      "covers": [
+        9029440
+      ],
+      "physical_format": "paperback",
+      "full_title": "Moods",
+      "isbn_10": [
+        "1617209287"
+      ],
+      "publish_date": "Apr 16, 2013",
+      "key": "/books/OL27574829M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-27T09:29:00.296979"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 200,
+      "source_records": [
+        "amazon:1478375337",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "bwb:9781478375333"
+      ],
+      "title": "Moods",
+      "identifiers": {
+        "amazon": [
+          "1478375337"
+        ]
+      },
+      "isbn_13": [
+        "9781478375333"
+      ],
+      "covers": [
+        9060687
+      ],
+      "physical_format": "paperback",
+      "full_title": "Moods",
+      "isbn_10": [
+        "1478375337"
+      ],
+      "publish_date": "Aug 06, 2012",
+      "key": "/books/OL27611017M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W7-AFR-471"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-02T10:26:10.101036"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-18T18:43:00.734599"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Moods",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Apr 03, 2018",
+      "source_records": [
+        "amazon:151542636X"
+      ],
+      "number_of_pages": 198,
+      "publishers": [
+        "SMK Books"
+      ],
+      "isbn_10": [
+        "151542636X"
+      ],
+      "isbn_13": [
+        "9781515426363"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Moods",
+      "covers": [
+        11762996
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL33061492M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-23T18:01:07.092308"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Moods",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Feb 09, 2018",
+      "source_records": [
+        "amazon:1985203863"
+      ],
+      "number_of_pages": 220,
+      "publishers": [
+        "Createspace Independent Publishing Platform",
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1985203863"
+      ],
+      "isbn_13": [
+        "9781985203860"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Moods",
+      "covers": [
+        11733243
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL33038553M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-21T00:15:14.295913"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781636009872"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Loki's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781636009872"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Moods",
+      "full_title": "Moods",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL34319611M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:43:39.784041"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781636009889"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Loki's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781636009889"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Moods Large Print",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "key": "/books/OL34319618M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:43:43.490290"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subtitle": "a novel",
+      "covers": [
+        6541240
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Mo1890x"
+      ],
+      "key": "/books/OL23320573M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "moodsnovel00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "viii, 359, [2], 4 p. ;",
+      "source_records": [
+        "ia:moodsnovel00alco"
+      ],
+      "title": "Moods",
+      "number_of_pages": 359,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1890",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott...",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "8075750"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-01T23:36:27.364704"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T04:33:33.671719"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "viii, 359 p. ;",
+      "subtitle": "a novel",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0016.out:3683780:648"
+      ],
+      "title": "Moods",
+      "number_of_pages": 359,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-12T21:20:28.534640"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:27.630641"
+      },
+      "publish_date": "1892",
+      "publish_country": "mau",
+      "key": "/books/OL14481150M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "by_statement": "by Louisa M. Alcott",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subtitle": "a novel",
+      "covers": [
+        5774712
+      ],
+      "key": "/books/OL7231670M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "moodsnovel00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "viii, 359, 4 p. ;",
+      "source_records": [
+        "ia:moodsnovel00alcorich"
+      ],
+      "title": "Moods",
+      "publish_date": "1881",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "13501377"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 359,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T04:33:36.362059"
+      }
+    },
+    {
+      "publishers": [
+        "Loring"
+      ],
+      "number_of_pages": 297,
+      "lc_classifications": [
+        "PS1017 .M6 1864"
+      ],
+      "key": "/books/OL6646029M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "297 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:94789709:644",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:184577147:644",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:322531877:926",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:682569893:553"
+      ],
+      "title": "Moods",
+      "lccn": [
+        "22015156"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "T.p. without date of imprint; copyright statement appears on t.p. verso.\nHalf-title, illustrated."
+      },
+      "identifiers": {
+        "librarything": [
+          "83821"
+        ]
+      },
+      "edition_name": "[1st ed.]",
+      "publish_date": "1864",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "3400787"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-21T06:11:39.553831"
+      }
+    },
+    {
+      "publishers": [
+        "Loring"
+      ],
+      "series": [
+        "Wright American fiction -- v. 2 (1851-1875), no.32"
+      ],
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-02T20:17:55.363895"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL15346682M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "297 p.",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0140.out:4470686:954"
+      ],
+      "title": "Moods",
+      "lccn": [
+        "87312251"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Master microform held by: LCP\n\nMicrofiche. Louisville, KY : Lost Cause Press. 1967. microfiches. (Wright American fiction ; v. 2 (1851-1875), no.32"
+      },
+      "number_of_pages": 297,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-19T11:39:09.317443"
+      },
+      "edition_name": "2nd ed",
+      "publish_date": "1865",
+      "publish_country": "kyu",
+      "by_statement": "By Louisa M. Alcott ..",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subtitle": "A novel.",
+      "lc_classifications": [
+        "PZ3.A355 Mo8",
+        "PS1017 Mo8"
+      ],
+      "key": "/books/OL6547319M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "359 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:18150042:464",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:102113463:464",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:684173389:1063"
+      ],
+      "title": "Moods.",
+      "lccn": [
+        "12023272"
+      ],
+      "number_of_pages": 359,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1882",
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott.",
+      "oclc_numbers": [
+        "6508109"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-21T09:27:47.830793"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "Sylvia Yule marries one of her brother's two best friends, only to discover she has chosen the wrong man."
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. xliii-xlvii)."
+      },
+      "identifiers": {
+        "librarything": [
+          "83821"
+        ],
+        "goodreads": [
+          "17550"
+        ]
+      },
+      "title": "Moods",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1991",
+      "publishers": [
+        "Rutgers University Press"
+      ],
+      "series": [
+        "American women writers series"
+      ],
+      "covers": [
+        608707
+      ],
+      "lc_classifications": [
+        "PS1017 .M6 1991",
+        "PS1017.M6 1991"
+      ],
+      "ocaid": "moods00alco",
+      "publish_places": [
+        "New Brunswick"
+      ],
+      "contributions": [
+        "Elbert, Sarah."
+      ],
+      "pagination": "xlvii, 284 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part21.dat:90583656:745",
+        "ia:moods00alco",
+        "bwb:9780813516707",
+        "bwb:9780813516691",
+        "marc:marc_loc_2016/BooksAll.2016.part20.utf8:65016129:745",
+        "amazon:0813516692",
+        "marc:marc_columbia/Columbia-extract-20221130-002.mrc:521856349:1309",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:113140558:1335",
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:238909289:2546"
+      ],
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "90048069"
+      ],
+      "isbn_10": [
+        "0813516692",
+        "0813516706"
+      ],
+      "publish_country": "nju",
+      "by_statement": "Louisa May Alcott ; edited and with an introduction by Sarah Elbert.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "22422436"
+      ],
+      "key": "/books/OL1886877M",
+      "number_of_pages": 284,
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-26T22:03:52.374559"
+      }
+    },
+    {
+      "publishers": [
+        "Loring"
+      ],
+      "pagination": "297 p.",
+      "source_records": [
+        "ia:moodsalcott00alcouoft"
+      ],
+      "title": "Moods",
+      "covers": [
+        5605825
+      ],
+      "lc_classifications": [
+        "PS1017"
+      ],
+      "publish_date": "1864",
+      "publish_country": "mau",
+      "key": "/books/OL7084277M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "moodsalcott00alcouoft",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "by Louisa M. Alcott.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 297,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T04:26:07.855698"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Notable American Authors Series - Part I"
+      },
+      "title": "Moods",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "January 1864",
+      "publishers": [
+        "Reprint Services Corp"
+      ],
+      "weight": "1.4 pounds",
+      "physical_format": "Library Binding",
+      "subjects": [
+        "Fiction",
+        "Literary",
+        "American Literature",
+        "Literature",
+        "Literature - Classics / Criticism"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "THE ROOM fronted the west, but a black cloud, barred with red, robbed the hour of twilight's tranquil charm."
+      },
+      "isbn_13": [
+        "9780781216265"
+      ],
+      "isbn_10": [
+        "0781216265"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.3 x 6.3 x 1.1 inches",
+      "source_records": [
+        "amazon:0781216265"
+      ],
+      "key": "/books/OL9838203M",
+      "number_of_pages": 297,
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-11T19:42:44.595713"
+      }
+    },
+    {
+      "publishers": [
+        "Loring"
+      ],
+      "covers": [
+        5923098
+      ],
+      "lc_classifications": [
+        "PS1017 .M6 1864"
+      ],
+      "key": "/books/OL7222771M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "moodsalcott00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "297 p. :",
+      "source_records": [
+        "ia:moodsalcott00alco"
+      ],
+      "title": "Moods",
+      "dewey_decimal_class": [
+        "813.4"
+      ],
+      "identifiers": {
+        "librarything": [
+          "83821"
+        ]
+      },
+      "edition_name": "[1st ed.].",
+      "lccn": [
+        "22015156"
+      ],
+      "publish_date": "1864",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30052W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "3400787"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 297,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T04:29:17.165145"
+      }
+    }
+  ]
+}

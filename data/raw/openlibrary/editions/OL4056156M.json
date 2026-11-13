@@ -1,0 +1,152 @@
+{
+  "publishers": [
+    "B.A.Seaby Ltd"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "3539183"
+    ]
+  },
+  "table_of_contents": [
+    {
+      "level": 1,
+      "label": "",
+      "title": "Foreward",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Preface",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 2,
+      "label": "Chapter 1",
+      "title": "The Arctic Medal 1818-55",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 2,
+      "label": "Chapter 2",
+      "title": "The Arctic medal 1875-76",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 2,
+      "label": "Chapter 3",
+      "title": "The Polar Medal 1904",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 2,
+      "label": "Chapter 4",
+      "title": "The Royal Geographical Awards",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 1,
+      "label": "",
+      "title": "Appendices (11)",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    }
+  ],
+  "weight": "780 grams",
+  "isbn_10": [
+    "0900652004"
+  ],
+  "subject_place": [
+    "Polar regions",
+    "Great Britain."
+  ],
+  "covers": [
+    7243992
+  ],
+  "physical_format": "Hardcover, black cloth, endpaper maps",
+  "lc_classifications": [
+    "CJ6117.P6 P6"
+  ],
+  "key": "/books/OL4056156M",
+  "authors": [
+    {
+      "key": "/authors/OL1637821A"
+    }
+  ],
+  "subtitle": "A medallic record of British polar expeditions",
+  "publish_places": [
+    "London"
+  ],
+  "subjects": [
+    "Medals -- Great Britain.",
+    "Polar regions -- Medals."
+  ],
+  "pagination": "216 p., 9 plates.",
+  "classifications": {},
+  "source_records": [
+    "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:172585798:1312",
+    "marc:marc_loc_2016/BooksAll.2016.part12.utf8:118025887:653",
+    "amazon:0900652004"
+  ],
+  "title": "The White Ribbon",
+  "lccn": [
+    "79449093"
+  ],
+  "number_of_pages": 216,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "dewey_decimal_class": [
+    "910.09/1/1"
+  ],
+  "local_id": [
+    "urn:sfpl:31223003757151"
+  ],
+  "publish_date": "1968",
+  "publish_country": "enk",
+  "by_statement": "[by] Neville W. Poulsom.",
+  "oclc_numbers": [
+    "61828"
+  ],
+  "works": [
+    {
+      "key": "/works/OL6278358W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "25.5 x 19.5 x 2.5 centimeters",
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-10-28T23:04:48.656134"
+  }
+}

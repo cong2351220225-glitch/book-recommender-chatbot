@@ -1,0 +1,19 @@
+{
+  "name": "Kathi Jackson",
+  "personal_name": "Kathi Jackson",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2017-08-23T08:01:56.262450"
+  },
+  "latest_revision": 3,
+  "key": "/authors/OL34418A",
+  "birth_date": "1951",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 3
+}

@@ -1,0 +1,20 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "B. McL Ranft",
+  "key": "/authors/OL9736227A",
+  "source_records": [
+    "bwb:9781911423577"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-06T22:06:52.988612"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-06T22:06:52.988612"
+  }
+}

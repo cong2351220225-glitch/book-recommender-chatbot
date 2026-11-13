@@ -1,0 +1,79 @@
+{
+  "links": {
+    "self": "/works/OL3218529W/editions.json",
+    "work": "/works/OL3218529W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Mauḍarn Pablishing Hāʼūs"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "On the works of ʻAbdulḥaq, 1869-1961, Urdu writer."
+      },
+      "lc_classifications": [
+        "PK2199.H3 Z94 1993"
+      ],
+      "key": "/books/OL1064126M",
+      "authors": [
+        {
+          "key": "/authors/OL521145A"
+        }
+      ],
+      "publish_places": [
+        "Naʼī Dihlī"
+      ],
+      "pagination": "155 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part24.dat:29027725:769",
+        "marc:marc_loc_updates/v37.i42.records.utf8:29995719:800",
+        "marc:marc_loc_2016/BooksAll.2016.part23.utf8:100283248:800",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:39609480:1031",
+        "marc:harvard_bibliographic_metadata/20220215_042.bib.mrc:244996811:1108"
+      ],
+      "title": "Bābā-yi Urdū ʻAbdulḥaq, baḥaisīyat-i tanqīd nigār",
+      "lccn": [
+        "93910788"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 150-155).\nIn Urdu."
+      },
+      "number_of_pages": 155,
+      "languages": [
+        {
+          "key": "/languages/urd"
+        }
+      ],
+      "subjects": [
+        "ʻAbdulḥaq, 1869-1961 -- Criticism and interpretation"
+      ],
+      "publish_date": "1993",
+      "publish_country": "ii ",
+      "by_statement": "Vajīburraḥmān.",
+      "works": [
+        {
+          "key": "/works/OL3218529W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "30159226"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-13T13:58:30.431860"
+      }
+    }
+  ]
+}

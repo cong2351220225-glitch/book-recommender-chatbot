@@ -1,0 +1,51 @@
+{
+  "publishers": [
+    "Penguin Random House"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": [
+    "bwb:9780099537021"
+  ],
+  "title": "Painted House",
+  "number_of_pages": 480,
+  "isbn_13": [
+    "9780099537021"
+  ],
+  "full_title": "Painted House",
+  "lc_classifications": [
+    "PS3557.R5355"
+  ],
+  "publish_date": "2013",
+  "key": "/books/OL28437413M",
+  "authors": [
+    {
+      "key": "/authors/OL39329A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL76991W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Arkansas, fiction",
+    "Fiction, historical"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-01T18:39:39.857812"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-23T12:15:47.795599"
+  }
+}

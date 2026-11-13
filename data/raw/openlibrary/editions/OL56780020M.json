@@ -1,0 +1,48 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "dewey_decimal_class": [
+    "973.776"
+  ],
+  "isbn_13": [
+    "9781726297967"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 60,
+  "publish_date": "2018",
+  "publishers": [
+    "CreateSpace Independent Publishing Platform"
+  ],
+  "source_records": [
+    "bwb:9781726297967"
+  ],
+  "title": "Hospital Sketches",
+  "weight": "0.209",
+  "full_title": "Hospital Sketches",
+  "works": [
+    {
+      "key": "/works/OL30060W"
+    }
+  ],
+  "key": "/books/OL56780020M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-10-05T12:32:03.486330"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-20T20:38:37.520092"
+  }
+}

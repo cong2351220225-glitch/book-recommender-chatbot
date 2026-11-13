@@ -1,0 +1,48 @@
+{
+  "title": "The Perfect Planet",
+  "covers": [
+    8871757,
+    4672946,
+    8871755,
+    4672945,
+    -1
+  ],
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "first_publish_date": "1988",
+  "key": "/works/OL30097W",
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Plot-your-own stories",
+    "Juvenile fiction",
+    "choose your own adventure",
+    "pick your path",
+    "find your fate",
+    "gamebook",
+    "collectionID:CYOA2"
+  ],
+  "description": "Utopa has always been known as the \"perfect planet\" because of its natural beauty and the peace among its inhabitants. But when assigned scout duty there, the reader finds Utopa in the clutches of an evil tyrant who will ruin the perfect planet.",
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-02-01T02:38:20.309718"
+  }
+}

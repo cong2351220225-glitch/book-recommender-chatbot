@@ -1,0 +1,38 @@
+{
+  "username": "user_a_4059fe",
+  "items": {
+    "book_001_favorite_8ea99a": {
+      "id": "book_001_favorite_8ea99a",
+      "book_id": "book_001",
+      "status": "favorite",
+      "progress_page": 0,
+      "total_pages": "320",
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-03T03:03:11.142463",
+      "updated_at": "2026-11-03T03:03:11.142463"
+    },
+    "book_002_reading_2b1114": {
+      "id": "book_002_reading_2b1114",
+      "book_id": "book_002",
+      "status": "reading",
+      "progress_page": 0,
+      "total_pages": "280",
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-03T03:03:11.195052",
+      "updated_at": "2026-11-03T03:03:11.195052"
+    },
+    "book_003_completed_85c9cb": {
+      "id": "book_003_completed_85c9cb",
+      "book_id": "book_003",
+      "status": "completed",
+      "progress_page": 0,
+      "total_pages": "500",
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-03T03:03:11.387083",
+      "updated_at": "2026-11-03T03:03:11.387083"
+    }
+  }
+}

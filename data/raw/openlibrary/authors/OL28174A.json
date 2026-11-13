@@ -1,0 +1,43 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Dan Gutman",
+  "source_records": [
+    "bwb:9781536471632",
+    "bwb:9780063206984",
+    "promise:bwb_daily_pallets_2021-02-15",
+    "bwb:9781646840137"
+  ],
+  "bio": {
+    "type": "/type/text",
+    "value": "Dan Gutman (born October 19, 1955) is an American writer, primarily of children's fiction.\r\n\r\nHis works include the Baseball Card Adventures children's book series and the My Weird School series.\r\n[source](https://en.wikipedia.org/wiki/Dan_Gutman)\r\n\r\nHis wife is Nina Wallace ​(m. 1983)​ and he has two children."
+  },
+  "remote_ids": {
+    "viaf": "67331764",
+    "wikidata": "Q5213621",
+    "isni": "0000000081475710",
+    "bookbrainz": "849c9ac9-b706-4378-a6f9-f63668ee7f28",
+    "goodreads": "53249",
+    "lc_naf": "n85064710"
+  },
+  "photos": [
+    12903148
+  ],
+  "alternate_names": [
+    "D. Gutman"
+  ],
+  "key": "/authors/OL28174A",
+  "birth_date": "19 October 1955",
+  "personal_name": "Dan Gutman",
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-04T22:09:56.216624"
+  }
+}

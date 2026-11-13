@@ -1,0 +1,27 @@
+{
+  "name": "Frey, Heinrich",
+  "personal_name": "Frey, Heinrich",
+  "remote_ids": {
+    "viaf": "64153531",
+    "wikidata": "Q68455",
+    "isni": "0000000109093619",
+    "lc_naf": "n86840972",
+    "opac_sbn": "RMSV020013"
+  },
+  "death_date": "1890",
+  "birth_date": "1822",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL113486A",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-12T17:23:19.964300"
+  }
+}

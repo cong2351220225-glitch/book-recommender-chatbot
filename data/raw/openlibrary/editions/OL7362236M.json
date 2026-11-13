@@ -1,0 +1,54 @@
+{
+  "publishers": [
+    "Penguin (Non-Classics)"
+  ],
+  "number_of_pages": 96,
+  "title": "An Old-fashioned Thanksgiving and Other Stories",
+  "identifiers": {
+    "goodreads": [
+      "612691"
+    ],
+    "librarything": [
+      "1130703"
+    ]
+  },
+  "isbn_13": [
+    "9780146001109"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0146001109"
+  ],
+  "publish_date": "September 1, 1995",
+  "key": "/books/OL7362236M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL30044W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "bwb:9780146001109"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T11:54:51.017198"
+  }
+}

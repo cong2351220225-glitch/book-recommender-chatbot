@@ -1,0 +1,54 @@
+{
+  "title": "Congratulations on Your Baby Girl for All Ages",
+  "subtitle": "Cd Greeting Card",
+  "authors": [
+    {
+      "key": "/authors/OL3043083A"
+    }
+  ],
+  "publish_date": "March 2005",
+  "publishers": [
+    "Twin Sisters"
+  ],
+  "physical_format": "Audio CD",
+  "isbn_13": [
+    "9781575836898"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1575836890"
+  ],
+  "oclc_numbers": [
+    "149410943"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Teaching Methods & Materials - General",
+    "Education"
+  ],
+  "source_records": [
+    "amazon:1575836890"
+  ],
+  "key": "/books/OL12236452M",
+  "works": [
+    {
+      "key": "/works/OL8860711W"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-04T05:20:07.445149"
+  }
+}

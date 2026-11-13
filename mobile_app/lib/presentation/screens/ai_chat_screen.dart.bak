@@ -1,0 +1,307 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import '../../core/constants/app_colors.dart';
+import '../../providers/chat_provider.dart';
+import '../widgets/chat_bubble.dart';
+
+class AiChatScreen extends StatefulWidget {
+  const AiChatScreen({super.key});
+
+  @override
+  State<AiChatScreen> createState() => _AiChatScreenState();
+}
+
+class _AiChatScreenState extends State<AiChatScreen> {
+  final TextEditingController _inputController = TextEditingController();
+  final ScrollController _scrollController = ScrollController();
+  final FocusNode _focusNode = FocusNode();
+
+  @override
+  void initState() {
+    super.initState();
+  }
+
+  @override
+  void dispose() {
+    _inputController.dispose();
+    _scrollController.dispose();
+    _focusNode.dispose();
+    super.dispose();
+  }
+
+  void _scrollToBottom() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_scrollController.hasClients) {
+        _scrollController.animateTo(
+          _scrollController.position.maxScrollExtent,
+          duration: const Duration(milliseconds: 250),
+          curve: Curves.easeOut,
+        );
+      }
+    });
+  }
+
+  void _handleSend() {
+    final text = _inputController.text.trim();
+    if (text.isEmpty) return;
+
+    _inputController.clear();
+    final chatProvider = context.read<ChatProvider>();
+    chatProvider.sendMessage(text);
+    _scrollToBottom();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final chatProvider = context.watch<ChatProvider>();
+    final messages = chatProvider.messages;
+    final isStreaming = chatProvider.isStreaming;
+
+    // Auto-scroll when new content arrives
+    if (isStreaming) {
+      _scrollToBottom();
+    }
+
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      appBar: AppBar(
+        title: const Row(
+          children: [
+            Icon(Icons.smart_toy_rounded, size: 20, color: AppColors.gold),
+            SizedBox(width: 8),
+            Text('Trợ Lý AI Thư Viện'),
+          ],
+        ),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.add_comment_rounded),
+            tooltip: 'Đoạn chat mới',
+            onPressed: () {
+              chatProvider.startNewSession();
+            },
+          ),
+        ],
+      ),
+      body: Column(
+        children: [
+          // Main Messages Area
+          Expanded(
+            child: messages.isEmpty
+                ? _buildEmptyWelcome(context, chatProvider)
+                : Center(
+                    child: ConstrainedBox(
+                      constraints: const BoxConstraints(maxWidth: 900),
+                      child: ListView.builder(
+                        controller: _scrollController,
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
+                        itemCount: messages.length,
+                        itemBuilder: (context, index) {
+                          return ChatBubble(message: messages[index]);
+                        },
+                      ),
+                    ),
+                  ),
+          ),
+
+          // Stop Generation Button Banner
+          if (isStreaming)
+            Padding(
+              padding: const EdgeInsets.only(bottom: 8.0),
+              child: Center(
+                child: OutlinedButton.icon(
+                  icon: const Icon(Icons.stop_circle_outlined, size: 16, color: AppColors.error),
+                  label: const Text(
+                    'Dừng phản hồi',
+                    style: TextStyle(fontSize: 12, color: AppColors.error, fontWeight: FontWeight.bold),
+                  ),
+                  onPressed: () => chatProvider.stopResponse(),
+                  style: OutlinedButton.styleFrom(
+                    side: const BorderSide(color: AppColors.error),
+                    backgroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+                  ),
+                ),
+              ),
+            ),
+
+          // Error Banner if present
+          if (chatProvider.errorMessage != null && !isStreaming)
+            Container(
+              color: AppColors.error.withOpacity(0.08),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              child: Row(
+                children: [
+                  const Icon(Icons.error_outline_rounded, size: 16, color: AppColors.error),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      chatProvider.errorMessage!,
+                      style: const TextStyle(fontSize: 12, color: AppColors.error),
+                    ),
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.close_rounded, size: 16, color: AppColors.error),
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                    tooltip: 'Đóng thông báo',
+                    onPressed: () => chatProvider.clearError(),
+                  ),
+                ],
+              ),
+            ),
+
+          // Bottom Input Bar
+          _buildInputBar(context, isStreaming),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildEmptyWelcome(BuildContext context, ChatProvider chatProvider) {
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(24.0),
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 700),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const SizedBox(height: 20),
+              Container(
+                padding: const EdgeInsets.all(18),
+                decoration: BoxDecoration(
+                  color: AppColors.navyDark,
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: AppColors.gold.withOpacity(0.15),
+                      blurRadius: 16,
+                    ),
+                  ],
+                ),
+                child: const Icon(
+                  Icons.auto_awesome,
+                  size: 40,
+                  color: AppColors.gold,
+                ),
+              ),
+              const SizedBox(height: 18),
+              const Text(
+                'Xin chào! Tôi có thể giúp gì cho bạn?',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                  color: AppColors.navyDark,
+                ),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                'Hỏi đáp về 208 đầu sách, nội dung tác phẩm, tác giả hoặc nhận gợi ý đọc sách cá nhân hóa dựa trên RAG.',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 13,
+                  color: AppColors.textSecondary,
+                  height: 1.4,
+                ),
+              ),
+              const SizedBox(height: 28),
+
+              // Suggested Prompt Chips
+              const Align(
+                alignment: Alignment.centerLeft,
+                child: Text(
+                  'GỢI Ý CÂU HỎI NHANH:',
+                  style: TextStyle(
+                    fontSize: 11,
+                    fontWeight: FontWeight.w800,
+                    color: AppColors.goldDark,
+                    letterSpacing: 0.5,
+                  ),
+                ),
+              ),
+              const SizedBox(height: 10),
+              Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                children: chatProvider.suggestedPrompts.map((prompt) {
+                  return ActionChip(
+                    label: Text(prompt),
+                    avatar: const Icon(Icons.help_outline_rounded, size: 14, color: AppColors.navy),
+                    backgroundColor: Colors.white,
+                    side: const BorderSide(color: AppColors.border),
+                    padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+                    onPressed: () {
+                      _inputController.text = prompt;
+                      _handleSend();
+                    },
+                  );
+                }).toList(),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildInputBar(BuildContext context, bool isStreaming) {
+    return Container(
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+      decoration: const BoxDecoration(
+        color: Colors.white,
+        border: Border(top: BorderSide(color: AppColors.border)),
+      ),
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 900),
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.end,
+            children: [
+              Expanded(
+                child: Container(
+                  decoration: BoxDecoration(
+                    color: AppColors.surfaceVariant,
+                    borderRadius: BorderRadius.circular(12),
+                    border: Border.all(color: AppColors.border),
+                  ),
+                  child: TextField(
+                    controller: _inputController,
+                    focusNode: _focusNode,
+                    minLines: 1,
+                    maxLines: 4,
+                    textInputAction: TextInputAction.send,
+                    onSubmitted: (_) => _handleSend(),
+                    decoration: const InputDecoration(
+                      hintText: 'Hỏi về sách, tác giả hoặc tìm nhà sách, thư viện gần đây...',
+                      hintStyle: TextStyle(fontSize: 13, color: AppColors.textMuted),
+                      border: InputBorder.none,
+                      enabledBorder: InputBorder.none,
+                      focusedBorder: InputBorder.none,
+                      contentPadding: EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+                    ),
+                  ),
+                ),
+              ),
+              const SizedBox(width: 8),
+              Container(
+                height: 46,
+                width: 46,
+                decoration: BoxDecoration(
+                  color: isStreaming ? AppColors.textMuted : AppColors.navy,
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: IconButton(
+                  icon: const Icon(Icons.send_rounded, color: Colors.white, size: 20),
+                  onPressed: isStreaming ? null : _handleSend,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+

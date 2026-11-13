@@ -1,0 +1,74 @@
+{
+  "links": {
+    "self": "/works/OL816045W/editions.json",
+    "work": "/works/OL816045W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Pathfinder"
+      },
+      "identifiers": {
+        "librarything": [
+          "8071987"
+        ]
+      },
+      "title": "Exploring Otherness",
+      "authors": [
+        {
+          "key": "/authors/OL68747A"
+        }
+      ],
+      "publish_date": "March 31, 1995",
+      "publishers": [
+        "CILT Publications"
+      ],
+      "covers": [
+        3020465
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Cultural studies",
+        "English language",
+        "Language teaching theory & methods"
+      ],
+      "isbn_13": [
+        "9781874016427"
+      ],
+      "isbn_10": [
+        "1874016429"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KJ-832-496"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-08-15",
+        "ia:exploringotherne0000jone",
+        "idb:9781874016427"
+      ],
+      "ocaid": "exploringotherne0000jone",
+      "key": "/books/OL12102813M",
+      "number_of_pages": 45,
+      "works": [
+        {
+          "key": "/works/OL816045W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-20T03:47:30.045193"
+      }
+    }
+  ]
+}

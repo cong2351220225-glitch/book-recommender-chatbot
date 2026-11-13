@@ -1,0 +1,33 @@
+{
+  "lc_classifications": [
+    "PS3521.I717 M3"
+  ],
+  "key": "/works/OL1523455W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T21:46:50.194985"
+  },
+  "title": "Married at sunrise",
+  "first_publish_date": "1946",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-01-30T23:55:28.966665"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL161640A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "812.5"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 36701854,
+  "revision": 2
+}

@@ -1,0 +1,173 @@
+{
+  "links": {
+    "self": "/works/OL27427W/editions.json",
+    "work": "/works/OL27427W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Lerner Classroom",
+        "Lerner Publishing Group"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "954680"
+        ]
+      },
+      "subtitle": "Chief Justice (Gateway Biographies)",
+      "weight": "4 ounces",
+      "covers": [
+        2655319
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL11425565M",
+      "authors": [
+        {
+          "key": "/authors/OL26332A"
+        }
+      ],
+      "subjects": [
+        "Biography & Autobiography - General",
+        "Law & Crime",
+        "Children's Books/Ages 9-12 Biography"
+      ],
+      "isbn_13": [
+        "9780822564287"
+      ],
+      "source_records": [
+        "amazon:0822564289",
+        "bwb:9780822564287"
+      ],
+      "title": "John G. Roberts, Jr.",
+      "number_of_pages": 48,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0822564289"
+      ],
+      "publish_date": "October 2006",
+      "oclc_numbers": [
+        "62858046"
+      ],
+      "works": [
+        {
+          "key": "/works/OL27427W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 7 x 0.2 inches",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T04:55:15.908045"
+      }
+    },
+    {
+      "publishers": [
+        "Lerner Publications",
+        "Lerner Publishing Group"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2060452"
+        ]
+      },
+      "subtitle": "Chief Justice (Gateway Biographies)",
+      "weight": "10.4 ounces",
+      "covers": [
+        2655295
+      ],
+      "physical_format": "Library Binding",
+      "key": "/books/OL11425544M",
+      "authors": [
+        {
+          "key": "/authors/OL26332A"
+        }
+      ],
+      "ocaid": "johngrobertsjrch00mcel_0",
+      "subjects": [
+        "Biography & Autobiography - General",
+        "Law & Crime",
+        "Biography & Autobiography - Political",
+        "Juvenile Nonfiction",
+        "Children's Books/Ages 9-12 Biography",
+        "1955-",
+        "Biography",
+        "Judges",
+        "Juvenile literature",
+        "Roberts, John G.,",
+        "Supreme Court",
+        "United States",
+        "United States",
+        "Children: Grades 3-4"
+      ],
+      "isbn_13": [
+        "9780822563891"
+      ],
+      "source_records": [
+        "amazon:0822563894",
+        "marc:marc_loc_updates/v37.i12.records.utf8:6770172:1350",
+        "marc:marc_loc_updates/v37.i13.records.utf8:5478115:1350",
+        "ia:johngrobertsjrch00mcel_0",
+        "bwb:9780822563891",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:90703436:1350",
+        "promise:bwb_daily_pallets_2020-07-07",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:231060789:1281"
+      ],
+      "title": "John G. Roberts Jr.",
+      "number_of_pages": 48,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0822563894"
+      ],
+      "publish_date": "October 6, 2006",
+      "oclc_numbers": [
+        "62858046"
+      ],
+      "works": [
+        {
+          "key": "/works/OL27427W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 7.6 x 0.4 inches",
+      "lccn": [
+        "2006000244"
+      ],
+      "lc_classifications": [
+        "KF8745.R6 M43 2007",
+        "KF8745.R6M43 2007"
+      ],
+      "local_id": [
+        "urn:bwbsku:P6-AOX-413"
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-02T05:25:11.448273"
+      }
+    }
+  ]
+}

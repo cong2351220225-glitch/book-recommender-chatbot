@@ -1,0 +1,493 @@
+{
+  "links": {
+    "self": "/works/OL30027W/editions.json",
+    "work": "/works/OL30027W"
+  },
+  "size": 9,
+  "entries": [
+    {
+      "publishers": [
+        "SMK Books"
+      ],
+      "number_of_pages": 42,
+      "source_records": [
+        "amazon:1617209260"
+      ],
+      "title": "May Flowers",
+      "identifiers": {
+        "amazon": [
+          "1617209260"
+        ]
+      },
+      "isbn_13": [
+        "9781617209260"
+      ],
+      "covers": [
+        8940181
+      ],
+      "physical_format": "paperback",
+      "full_title": "May Flowers",
+      "isbn_10": [
+        "1617209260"
+      ],
+      "publish_date": "Apr 16, 2013",
+      "key": "/books/OL27482280M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-17T08:08:01.955219"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "SMK Books"
+      ],
+      "number_of_pages": 42,
+      "source_records": [
+        "amazon:1515426378"
+      ],
+      "title": "May Flowers",
+      "identifiers": {
+        "amazon": [
+          "1515426378"
+        ]
+      },
+      "covers": [
+        9219106
+      ],
+      "physical_format": "hardcover",
+      "full_title": "May Flowers",
+      "publish_date": "Apr 03, 2018",
+      "key": "/books/OL27824288M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1515426378"
+      ],
+      "isbn_13": [
+        "9781515426370"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-18T17:08:39.403870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 24,
+      "source_records": [
+        "amazon:1985203839",
+        "bwb:9781985203839"
+      ],
+      "title": "May Flowers",
+      "identifiers": {
+        "amazon": [
+          "1985203839"
+        ]
+      },
+      "isbn_13": [
+        "9781985203839"
+      ],
+      "covers": [
+        9184245
+      ],
+      "physical_format": "paperback",
+      "full_title": "May Flowers",
+      "isbn_10": [
+        "1985203839"
+      ],
+      "publish_date": "Feb 09, 2018",
+      "key": "/books/OL27777535M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-12T06:09:12.089420"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T04:34:41.511915"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "May Flowers",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Dec 11, 2015",
+      "source_records": [
+        "amazon:1519799535"
+      ],
+      "number_of_pages": 36,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1519799535"
+      ],
+      "isbn_13": [
+        "9781519799531"
+      ],
+      "physical_format": "paperback",
+      "full_title": "May Flowers",
+      "covers": [
+        12020274
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "key": "/books/OL34023830M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T16:44:27.576936"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "May Flowers",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Feb 27, 2018",
+      "source_records": [
+        "amazon:1985781239"
+      ],
+      "number_of_pages": 32,
+      "publishers": [
+        "Createspace Independent Publishing Platform",
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1985781239"
+      ],
+      "isbn_13": [
+        "9781985781238"
+      ],
+      "physical_format": "paperback",
+      "full_title": "May Flowers",
+      "covers": [
+        12027424
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "key": "/books/OL34204493M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T00:12:57.645363"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "weight": "4 ounces",
+      "covers": [
+        2513283
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-28T01:20:48.204618"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL10582810M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9780548394793"
+      ],
+      "source_records": [
+        "amazon:0548394792"
+      ],
+      "title": "May Flowers",
+      "number_of_pages": 68,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0548394792"
+      ],
+      "publish_date": "August 29, 2007",
+      "oclc_numbers": [
+        "179776073"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Little, Brown and company"
+      ],
+      "covers": [
+        5689600
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Ma"
+      ],
+      "key": "/books/OL7218455M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "mayflowers00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "56 p., 4 leaves of plates :",
+      "source_records": [
+        "ia:mayflowers00alcorich",
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:59269413:1732"
+      ],
+      "title": "May flowers",
+      "lccn": [
+        "99004860"
+      ],
+      "identifiers": {
+        "librarything": [
+          "541230"
+        ]
+      },
+      "publish_date": "1899",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "4383326"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 56,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T15:12:46.419257"
+      }
+    },
+    {
+      "publishers": [
+        "Little, Brown and company"
+      ],
+      "number_of_pages": 56,
+      "covers": [
+        9921663
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Ma"
+      ],
+      "latest_revision": 6,
+      "key": "/books/OL529650M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "mayflowers00alcogoog",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "1 p. l., 56 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part27.dat:225817570:507",
+        "ia:mayflowers00alcogoog",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:219106010:507"
+      ],
+      "title": "May flowers",
+      "lccn": [
+        "99004860"
+      ],
+      "identifiers": {
+        "librarything": [
+          "541230"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-30T09:43:26.331611"
+      },
+      "publish_date": "1899",
+      "publish_country": "xx ",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "4383326"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:20.610584"
+      },
+      "source_records": [
+        "amazon:0548418144"
+      ],
+      "title": "May Flowers",
+      "number_of_pages": 108,
+      "isbn_13": [
+        "9780548418147"
+      ],
+      "covers": [
+        2515058
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0548418144"
+      ],
+      "publish_date": "August 29, 2007",
+      "key": "/books/OL10584586M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30027W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    }
+  ]
+}

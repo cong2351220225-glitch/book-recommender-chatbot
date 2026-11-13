@@ -1,0 +1,162 @@
+{
+  "links": {
+    "self": "/works/OL106689W/editions.json",
+    "work": "/works/OL106689W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Beaufort Books"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2520482",
+          "1861562"
+        ],
+        "librarything": [
+          "614208"
+        ]
+      },
+      "subtitle": "herbal drinks for pleasure, health, and beauty",
+      "isbn_10": [
+        "0825302854",
+        "0825302862"
+      ],
+      "lc_classifications": [
+        "RM666.H33 D38 1985"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL2861587M",
+      "authors": [
+        {
+          "key": "/authors/OL20334A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "viii, 144 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part17.dat:65664578:779",
+        "marc:marc_loc_2016/BooksAll.2016.part15.utf8:135082630:779"
+      ],
+      "title": "A garden of miracles",
+      "dewey_decimal_class": [
+        "615/.321"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes index."
+      },
+      "number_of_pages": 144,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "1st American ed.",
+      "lccn": [
+        "84024413"
+      ],
+      "subjects": [
+        "Herbs -- Therapeutic use",
+        "Herbal teas",
+        "Herbs",
+        "Herb gardening"
+      ],
+      "publish_date": "1985",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-30T19:57:23.994317"
+      },
+      "by_statement": "Jill Davies ; with a foreword by Kitty Campion.",
+      "works": [
+        {
+          "key": "/works/OL106689W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Beaufort Books"
+      ],
+      "subtitle": "herbal drinks for health, pleasure, and beauty",
+      "isbn_10": [
+        "0825302854",
+        "0825302862"
+      ],
+      "lc_classifications": [
+        "RM666.H33"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL22331064M",
+      "authors": [
+        {
+          "key": "/authors/OL20334A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "p. cm",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1462421973:737"
+      ],
+      "title": "A garden of miracles",
+      "dewey_decimal_class": [
+        "615/.321"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2520482",
+          "1861562"
+        ],
+        "librarything": [
+          "614208"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-10T12:48:44.123873"
+      },
+      "edition_name": "1st ed.",
+      "subjects": [
+        "Herbs -- Therapeutic use",
+        "Herbal teas",
+        "Herbs",
+        "Herb gardening"
+      ],
+      "publish_date": "1985",
+      "publish_country": "xxu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-19T03:44:25.645063"
+      },
+      "works": [
+        {
+          "key": "/works/OL106689W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "Jill Davies.",
+      "revision": 4
+    }
+  ]
+}

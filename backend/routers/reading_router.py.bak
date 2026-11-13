@@ -1,0 +1,66 @@
+from __future__ import annotations
+
+from typing import Any
+from fastapi import APIRouter, HTTPException, status
+from fastapi.responses import FileResponse
+
+from backend.core.database import get_books_df
+from book_service import get_book_by_id
+from reading_service import can_read, reading_status, validate_local_file
+
+router = APIRouter(prefix="/reading", tags=["Reading"])
+
+
+@router.get("/status/{book_id}")
+def get_reading_status(book_id: str) -> dict[str, Any]:
+    books_df = get_books_df()
+    book_rec = get_book_by_id(book_id, books=books_df)
+    if not book_rec:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Book with id '{book_id}' not found",
+        )
+
+    return {
+        "book_id": book_id,
+        "title": book_rec.get("title", ""),
+        "reading_available": bool(book_rec.get("reading_available")),
+        "reading_type": book_rec.get("reading_type", ""),
+        "reading_url": book_rec.get("reading_url", ""),
+        "can_read_locally": can_read(book_rec),
+        "status_label": reading_status(book_rec),
+    }
+
+
+@router.get("/file/{book_id}")
+def get_reading_file(book_id: str):
+    books_df = get_books_df()
+    book_rec = get_book_by_id(book_id, books=books_df)
+    if not book_rec:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"Book with id '{book_id}' not found",
+        )
+
+    local_file = str(book_rec.get("local_file", "")).strip()
+    if not local_file:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="No local reading file attached to this book",
+        )
+
+    file_path = validate_local_file(local_file)
+    if not file_path or not file_path.exists():
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Reading file not found or path is unsafe",
+        )
+
+    # Determine media type
+    media_type = "application/pdf" if file_path.suffix.lower() == ".pdf" else "application/epub+zip"
+    return FileResponse(
+        path=str(file_path),
+        filename=file_path.name,
+        media_type=media_type,
+    )
+

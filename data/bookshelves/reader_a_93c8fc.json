@@ -1,0 +1,16 @@
+{
+  "username": "reader_a_93c8fc",
+  "items": {
+    "book_203_reading_auto": {
+      "id": "book_203_reading_auto",
+      "book_id": "book_203",
+      "status": "reading",
+      "progress_page": 4,
+      "total_pages": 5,
+      "rating": 0,
+      "notes": "Tự động ghi nhận từ Trình đọc sách số",
+      "added_at": "2026-11-02T16:01:41.992886",
+      "updated_at": "2026-11-02T16:01:41.992886"
+    }
+  }
+}

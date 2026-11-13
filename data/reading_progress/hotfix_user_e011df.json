@@ -1,0 +1,10 @@
+{
+  "book_001": {
+    "book_id": "book_001",
+    "current_page": 90,
+    "total_pages": 300,
+    "progress_percent": 30.0,
+    "last_read_location": "Trang 90",
+    "updated_at": "2026-11-02T19:04:41.340490"
+  }
+}

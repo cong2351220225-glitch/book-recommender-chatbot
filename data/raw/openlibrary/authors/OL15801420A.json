@@ -1,0 +1,21 @@
+{
+  "name": "H. D. (late Clerk to Justice R.)",
+  "key": "/authors/OL15801420A",
+  "type": {
+    "key": "/type/author"
+  },
+  "bio": {
+    "type": "/type/text",
+    "value": "Work sometimes attributed to Daniel Defoe, though this is disputed."
+  },
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-09-03T18:17:48.118855"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-03T18:19:06.871813"
+  }
+}

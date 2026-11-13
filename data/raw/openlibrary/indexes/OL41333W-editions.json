@@ -1,0 +1,783 @@
+{
+  "links": {
+    "self": "/works/OL41333W/editions.json",
+    "work": "/works/OL41333W"
+  },
+  "size": 13,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "isbn_10": [
+        "0756975255"
+      ],
+      "isbn_13": [
+        "9780756975258"
+      ],
+      "local_id": [
+        "urn:bwbsku:T3-AFF-812"
+      ],
+      "publish_date": "2005-10-01",
+      "publishers": [
+        "Perfection Learning"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-03-07:T3-AFF-812"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL47747136M",
+      "covers": [
+        14695374
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-04T06:15:05.758179"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-23T01:24:28.449885"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Pazartesi Gelmese!",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_date": "Jan 03, 2017",
+      "source_records": [
+        "amazon:9944827886"
+      ],
+      "number_of_pages": 160,
+      "publishers": [
+        "Epsilon Yayınları",
+        "Epsilon Yaynlar"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Miss Lazar is Bizarre (Turkish Edition)"
+      },
+      "covers": [
+        12358088
+      ],
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL35651286M",
+      "identifiers": {},
+      "isbn_10": [
+        "9944827886"
+      ],
+      "isbn_13": [
+        "9789944827881"
+      ],
+      "classifications": {},
+      "other_titles": [
+        "Miss Lazar is Bizarre"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-07T15:53:07.506422"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-20T13:23:37.677134"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "isbn_13": [
+        "9781536433890"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2005",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9781536433890"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL37481429M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-02T04:09:24.010757"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-15T17:56:17.677165"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        },
+        {
+          "key": "/authors/OL1604762A"
+        }
+      ],
+      "isbn_13": [
+        "9780061723186"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2008",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061723186"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL37381721M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T04:01:45.026612"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-12T14:39:23.418559"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        },
+        {
+          "key": "/authors/OL1604762A"
+        }
+      ],
+      "isbn_13": [
+        "9780061723179"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2008",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061723179"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL37362655M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T23:18:49.466433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-12T14:39:23.418559"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        },
+        {
+          "key": "/authors/OL1604762A"
+        }
+      ],
+      "isbn_13": [
+        "9780061723193"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2008",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061723193"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL37374080M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T02:10:16.589112"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-12T14:39:23.418559"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        },
+        {
+          "key": "/authors/OL1604762A"
+        }
+      ],
+      "isbn_13": [
+        "9780061723216"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2008",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061723216"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "full_title": "Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL37377905M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T03:05:22.064343"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-12T14:39:23.418559"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        },
+        {
+          "key": "/authors/OL1604762A"
+        }
+      ],
+      "isbn_13": [
+        "9780061973499"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2009",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061973499"
+      ],
+      "title": "My Weird School #9",
+      "subtitle": "Miss Lazar Is Bizarre!",
+      "full_title": "My Weird School #9 Miss Lazar Is Bizarre!",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "key": "/books/OL36191861M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-29T03:55:37.844222"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-12T14:39:23.418559"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "My Weird School (Paperback)"
+      },
+      "title": "My Weird School #9",
+      "subtitle": "Miss Lazar Is Bizarre!",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_date": "October 2005",
+      "publishers": [
+        "Tandem Library"
+      ],
+      "physical_format": "Unknown Binding",
+      "contributions": [
+        "Jim Paillot (Illustrator)"
+      ],
+      "subjects": [
+        "Humorous Stories",
+        "Readers - Chapter Books",
+        "School & Education",
+        "Children's Books/Ages 9-12 Fiction"
+      ],
+      "isbn_13": [
+        "9781417735952"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1417735953"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:1417735953"
+      ],
+      "key": "/books/OL9567731M",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-27T14:05:52.860712"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Hardcover\r\nMy Weird School"
+      },
+      "identifiers": {
+        "goodreads": [
+          "7181057"
+        ]
+      },
+      "title": "Miss Lazar Is Bizarre",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_date": "October 2005",
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "covers": [
+        1315969
+      ],
+      "physical_format": "Unknown Binding",
+      "contributions": [
+        "Jim Paillot (Illustrator)"
+      ],
+      "subjects": [
+        "Humorous Stories",
+        "Readers - Chapter Books",
+        "School & Education",
+        "Children's 9-12 - Fiction - General"
+      ],
+      "isbn_13": [
+        "9780606344821"
+      ],
+      "isbn_10": [
+        "0606344829"
+      ],
+      "oclc_numbers": [
+        "149670828"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.7 x 5.2 x 0.4 inches",
+      "source_records": [
+        "amazon:0606344829"
+      ],
+      "key": "/books/OL9828595M",
+      "number_of_pages": 86,
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-07T22:48:49.989600"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins"
+      ],
+      "covers": [
+        6408921
+      ],
+      "physical_format": "Electronic resource",
+      "key": "/books/OL24260766M",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "isbn_13": [
+        "9780061723155",
+        "9780061723162"
+      ],
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11j.mrc:4016007:1588",
+        "bwb:9780061723162"
+      ],
+      "title": "Miss Lazar Is Bizarre!",
+      "identifiers": {
+        "overdrive": [
+          "3157347E-C636-4FFB-A4E5-7F8DD92EB3F4"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2008",
+      "publish_country": "nyu",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-17T20:22:09.345042"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-28T18:16:24.591663"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "A.J. and his friends find out what amazing things Miss Lazar, the Super Custodian at their school, can do."
+      },
+      "identifiers": {
+        "goodreads": [
+          "6483027",
+          "1265681"
+        ],
+        "librarything": [
+          "2725523"
+        ]
+      },
+      "title": "Miss Lazar is bizarre!",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_date": "2005",
+      "publishers": [
+        "HarperCollins"
+      ],
+      "series": [
+        "My weird school ;"
+      ],
+      "pagination": "p. cm.",
+      "covers": [
+        37023,
+        37022
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Paillot, Jim, ill."
+      ],
+      "subjects": [
+        "Janitors -- Fiction",
+        "Schools -- Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:119948545:984",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run04.mrc:106954346:3648",
+        "bwb:9780060822255",
+        "ia:misslazarisbizar0000gutm",
+        "marc:marc_loc_2016/BooksAll.2016.part32.utf8:134928887:1139",
+        "bwb:9780060822262",
+        "promise:bwb_daily_pallets_2020-06-04",
+        "midcolumbia:1479118"
+      ],
+      "edition_name": "1st ed.",
+      "local_id": [
+        "urn:sfpl:31223113257050",
+        "urn:sfpl:31223113256995",
+        "urn:sfpl:31223113257019",
+        "urn:sfpl:31223113256946",
+        "urn:sfpl:31223113257043",
+        "urn:sfpl:31223113257068",
+        "urn:sfpl:31223113257027",
+        "urn:sfpl:31223113256987",
+        "urn:sfpl:31223113257035",
+        "urn:bwbsku:O6-CEB-733"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "Dan Gutman ; pictures by Jim Paillot.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "misslazarisbizar0000gutm",
+      "isbn_10": [
+        "0060822252",
+        "0060822260"
+      ],
+      "isbn_13": [
+        "9780060822255",
+        "9780060822262"
+      ],
+      "lccn": [
+        "2005014974"
+      ],
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "lc_classifications": [
+        "PZ7.G9846 Mkm 2005",
+        "PZ7.G9846Mkm 2005"
+      ],
+      "contributors": [
+        {
+          "role": "Illustrator",
+          "name": "Jim Paillot"
+        }
+      ],
+      "lexile": "650",
+      "key": "/books/OL3400642M",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-11T00:23:05.219259"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins"
+      ],
+      "number_of_pages": 86,
+      "description": {
+        "type": "/type/text",
+        "value": "A.J. and his friends find out what amazing things Miss Lazar, the Super Custodian at their school, can do."
+      },
+      "isbn_10": [
+        "0060822252",
+        "0060822260"
+      ],
+      "series": [
+        "My weird school"
+      ],
+      "pagination": "86 p. :",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-19T13:01:48.417763"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL23277887M",
+      "authors": [
+        {
+          "key": "/authors/OL28174A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Paillot, Jim."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Juvenile fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:78257361:1490"
+      ],
+      "title": "Miss Lazar is bizarre!",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "650  Lexile.\n\nAccelerated Reader AR LG 3.8 1.0 102956."
+      },
+      "identifiers": {
+        "goodreads": [
+          "1265681",
+          "6483027"
+        ],
+        "librarything": [
+          "2725523"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-29T22:35:36.028455"
+      },
+      "edition_name": "1st Harper Trophy ed.",
+      "lccn": [
+        "2005014974"
+      ],
+      "subjects": [
+        "Janitors -- Juvenile fiction",
+        "Schools -- Juvenile fiction"
+      ],
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "by_statement": "Dan Gutman ; pictures by Jim Paillot.",
+      "works": [
+        {
+          "key": "/works/OL41333W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    }
+  ]
+}

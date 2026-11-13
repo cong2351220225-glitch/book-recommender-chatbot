@@ -1,0 +1,69 @@
+{
+  "publishers": [
+    "Houghton Mifflin"
+  ],
+  "lc_classifications": [
+    "LB2806 .U57"
+  ],
+  "key": "/books/OL5293795M",
+  "authors": [
+    {
+      "key": "/authors/OL2031845A"
+    }
+  ],
+  "publish_places": [
+    "Boston"
+  ],
+  "contributions": [
+    "Turner, Harold E., joint author."
+  ],
+  "pagination": "vii, 333 p.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part07.utf8:99638642:582",
+    "marc:harvard_bibliographic_metadata/20220215_027.bib.mrc:39503431:2270"
+  ],
+  "title": "Supervision for change and innovation",
+  "dewey_decimal_class": [
+    "371.2/013"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographies."
+  },
+  "number_of_pages": 333,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "72014998"
+  ],
+  "subjects": [
+    "School supervision."
+  ],
+  "publish_date": "1970",
+  "publish_country": "mau",
+  "by_statement": "[by] Adolph Unruh [and] Harold E. Turner.",
+  "works": [
+    {
+      "key": "/works/OL7140939W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "oclc_numbers": [
+    "88628"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-10T11:25:42.542836"
+  }
+}

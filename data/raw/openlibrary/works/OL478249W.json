@@ -1,0 +1,41 @@
+{
+  "covers": [
+    8481441
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-02-28T10:35:56.072994"
+  },
+  "latest_revision": 5,
+  "key": "/works/OL478249W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL29970A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T03:08:02.564024"
+  },
+  "title": "A simplified guide to marriage, census, and other indexes in Great Britain",
+  "subject_places": [
+    "Great Britain"
+  ],
+  "subjects": [
+    "Census",
+    "Bibliography",
+    "Genealogy",
+    "Indexes",
+    "Marriage records",
+    "Registers of births"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 5
+}

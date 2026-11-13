@@ -1,0 +1,90 @@
+{
+  "publishers": [
+    "Skylark"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "191091"
+    ],
+    "librarything": [
+      "1217407"
+    ]
+  },
+  "weight": "2.4 ounces",
+  "series": [
+    "Choose Your Own Adventure #146"
+  ],
+  "covers": [
+    4673640
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL7828980M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "classifications": {},
+  "source_records": [
+    "amazon:0553560115:bx:3685683829:158622",
+    "marc:marc_loc_updates/v38.i33.records.utf8:13623571:895",
+    "ia:soccerstar00pack",
+    "marc:marc_loc_2016/BooksAll.2016.part27.utf8:171945705:895",
+    "amazon:0553560115"
+  ],
+  "title": "Soccer Star",
+  "number_of_pages": 128,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Adventure stories",
+    "Specimens",
+    "General",
+    "Children's 9-12 - Fiction - General",
+    "Children: Grades 4-6",
+    "Juvenile Fiction / General",
+    "Fiction",
+    "Plot-your-own stories",
+    "Soccer"
+  ],
+  "publish_date": "March 1, 1994",
+  "works": [
+    {
+      "key": "/works/OL30089W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7 x 4.2 x 0.5 inches",
+  "ocaid": "soccerstar00pack",
+  "isbn_10": [
+    "0553560115"
+  ],
+  "isbn_13": [
+    "9780553560114"
+  ],
+  "lccn": [
+    "98809120"
+  ],
+  "oclc_numbers": [
+    "29996366"
+  ],
+  "lc_classifications": [
+    "CPB Box no. 982 vol. 1"
+  ],
+  "subtitle": "Choose Your Own Adventure #146",
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-10-30T05:48:56.006080"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL12737091A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "2025",
+  "publishers": [
+    "Scholastic"
+  ],
+  "source_records": [
+    "bwb:9780702342387"
+  ],
+  "title": "The Hunger Games",
+  "works": [
+    {
+      "key": "/works/OL5735363W"
+    }
+  ],
+  "key": "/books/OL57558534M",
+  "identifiers": {
+    "amazon": [
+      "0702342386"
+    ],
+    "goodreads": [
+      "234667346"
+    ]
+  },
+  "isbn_13": [
+    "9780702342387"
+  ],
+  "isbn_10": [
+    "0702342386"
+  ],
+  "other_titles": [
+    "Hunger Games Deluxe (PB)"
+  ],
+  "physical_format": "Paperback",
+  "number_of_pages": 384,
+  "covers": [
+    15229595
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-01-24T23:45:52.402138"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-14T08:11:30.195370"
+  }
+}

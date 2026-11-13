@@ -1,0 +1,15 @@
+{
+  "name": "Barry Jones",
+  "personal_name": "Barry Jones",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-08 07:59:01.488496"
+  },
+  "key": "/authors/OL68747A",
+  "birth_date": "1927",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 171204,
+  "revision": 2
+}

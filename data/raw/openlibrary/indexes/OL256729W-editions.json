@@ -1,0 +1,163 @@
+{
+  "links": {
+    "self": "/works/OL256729W/editions.json",
+    "work": "/works/OL256729W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Glass & Hoover, printers"
+      ],
+      "subtitle": "from the accusations of the Bureau of Ethnology, of the Smithsonian Institution.",
+      "authors": [
+        {
+          "key": "/authors/OL2617695A"
+        }
+      ],
+      "covers": [
+        5925020
+      ],
+      "lc_classifications": [
+        "E73 .P982"
+      ],
+      "key": "/books/OL7240209M",
+      "ocaid": "avindicationaut00putngoog",
+      "publish_places": [
+        "Davenport, Ia"
+      ],
+      "contributions": [
+        "Davenport Academy of Sciences."
+      ],
+      "pagination": "38, [2] p.",
+      "source_records": [
+        "ia:vindicationauth00putnrich",
+        "ia:avindicationaut00putngoog",
+        "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:264335015:3807"
+      ],
+      "title": "A vindication of the authenticity of the elephant pipes and inscribed tablets in the museum of the Davenport Academy of Natural Sciences",
+      "lccn": [
+        "10031973"
+      ],
+      "identifiers": {
+        "librarything": [
+          "3225968"
+        ]
+      },
+      "subjects": [
+        "Henshaw, Henry W. 1850-1930",
+        "Mounds -- Iowa",
+        "Iowa -- Antiquities"
+      ],
+      "publish_date": "1885",
+      "publish_country": "iau",
+      "by_statement": "By Charles E. Putnam, president of the Davenport Academy of Natural Sciences ...",
+      "oclc_numbers": [
+        "783247"
+      ],
+      "works": [
+        {
+          "key": "/works/OL256729W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 38,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T20:02:42.810184"
+      }
+    },
+    {
+      "publishers": [
+        "Glass & Hoover, printers"
+      ],
+      "identifiers": {
+        "librarything": [
+          "3225968"
+        ]
+      },
+      "subtitle": "from the accusations of the Bureau of Ethnology, of the Smithsonian Institution.",
+      "covers": [
+        5746311
+      ],
+      "lc_classifications": [
+        "E73 .P982"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL23356682M",
+      "authors": [
+        {
+          "key": "/authors/OL2617695A"
+        }
+      ],
+      "ocaid": "vindicationauth00putnrich",
+      "publish_places": [
+        "Davenport, Ia"
+      ],
+      "contributions": [
+        "Davenport Academy of Sciences."
+      ],
+      "pagination": "38, [2] p.",
+      "revision": 4,
+      "source_records": [
+        "ia:vindicationauth00putnrich"
+      ],
+      "title": "A vindication of the authenticity of the elephant pipes and inscribed tablets in the museum of the Davenport Academy of Natural Sciences",
+      "lccn": [
+        "10031973"
+      ],
+      "number_of_pages": 38,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-05T23:42:27.075822"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Henshaw, Henry W. 1850-1930",
+        "Mounds -- Iowa",
+        "Iowa -- Antiquities"
+      ],
+      "publish_date": "1885",
+      "publish_country": "iau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-19T13:03:56.977701"
+      },
+      "oclc_numbers": [
+        "783247"
+      ],
+      "works": [
+        {
+          "key": "/works/OL256729W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "By Charles E. Putnam, president of the Davenport Academy of Natural Sciences ...",
+      "location": [
+        "GLAD",
+        "LAGE",
+        "GLAD",
+        "GLAD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-12-02T02:14:12.395098"
+  },
+  "subject_places": [
+    "Japan"
+  ],
+  "subjects": [
+    "Japan",
+    "Japan. Teikoku Gikai. Shūgiin",
+    "Legislators",
+    "Biography"
+  ],
+  "latest_revision": 1,
+  "key": "/works/OL15528854W",
+  "title": "Shin daigishi meikan",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6862931A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-02T02:14:12.395098"
+  },
+  "revision": 1
+}

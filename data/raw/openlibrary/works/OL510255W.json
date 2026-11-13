@@ -1,0 +1,38 @@
+{
+  "title": "LifeGoals",
+  "subjects": [
+    "Conduct of life",
+    "Goal (Psychology)",
+    "Psychological aspects",
+    "Psychological aspects of Success",
+    "Self-realization",
+    "Success"
+  ],
+  "key": "/works/OL510255W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL33867A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    11670995
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:06:31.826253"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-08-17T07:11:48.043149"
+  }
+}

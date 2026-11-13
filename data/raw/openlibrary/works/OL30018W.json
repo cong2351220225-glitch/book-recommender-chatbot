@@ -1,0 +1,53 @@
+{
+  "subtitle": "more unknown thrillers of Louisa May Alcott",
+  "title": "Plots and counterplots",
+  "covers": [
+    4448353
+  ],
+  "first_publish_date": "1976",
+  "key": "/works/OL30018W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "American Detective and mystery stories",
+    "Social life and customs",
+    "Man-woman relationships",
+    "Sex role",
+    "Feminism",
+    "Women",
+    "American fiction (fictional works by one author)",
+    "Man-woman relationships, fiction"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Mind control, violence, madness, incest, manipulation, and drug addiction and experimentation are dealt with in six tales with such titles as A Marble Woman and Periilous Play. Bibliogs."
+  },
+  "genres": [
+    "/tags/OL177T"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-07T10:02:12.680098"
+  }
+}

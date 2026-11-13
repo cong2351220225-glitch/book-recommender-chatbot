@@ -1,0 +1,73 @@
+{
+  "id": "test_cancel_ad3a9ad2",
+  "title": "Xin chào, hãy giới thiệu 5 cuốn sách hay",
+  "timestamp": "2026-11-02 20:17:15",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào, hãy giới thiệu 5 cuốn sách hay nhất",
+      "timestamp": "20:17"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "20:17",
+      "sources": [
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "tags": "thói quen, năng suất, thay đổi",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "mood": "Mất động lực",
+            "year": 2018,
+            "book_id": "book_001",
+            "title": "Atomic Habits",
+            "difficulty": "Dễ đọc",
+            "genre": "Kỹ năng sống",
+            "rating": 4.8,
+            "author": "James Clear",
+            "featured": true,
+            "author_id": "james-clear"
+          },
+          "distance": 0.33804142475128174
+        },
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "author": "Yuval Noah Harari",
+            "mood": "Muốn học hỏi",
+            "title": "Sapiens: Lược sử loài người",
+            "difficulty": "Chuyên sâu",
+            "year": 2011,
+            "author_id": "yuval-noah-harari",
+            "book_id": "book_004",
+            "featured": true,
+            "genre": "Lịch sử",
+            "rating": 4.7,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "target_audience": "Độc giả ham khám phá"
+          },
+          "distance": 0.34037959575653076
+        },
+        {
+          "document": "Title: Thế giới phẳng\nAuthor: Thomas L. Friedman\nGenre: Kinh tế\nPublication year: 2005\nTags: toàn cầu hóa, công nghệ, kinh tế\nTarget audience: Độc giả quan tâm xã hội\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Góc nhìn về thế giới kết nối.\nDescription: Dữ liệu mô tả demo về toàn cầu hóa, công nghệ và sự thay đổi của công việc.",
+          "metadata": {
+            "book_id": "book_022",
+            "mood": "Muốn học hỏi",
+            "difficulty": "Chuyên sâu",
+            "title": "Thế giới phẳng",
+            "rating": 4.0,
+            "author_id": "thomas-friedman",
+            "year": 2005,
+            "author": "Thomas L. Friedman",
+            "tags": "toàn cầu hóa, công nghệ, kinh tế",
+            "featured": false,
+            "target_audience": "Độc giả quan tâm xã hội",
+            "genre": "Kinh tế"
+          },
+          "distance": 0.3427847623825073
+        }
+      ]
+    }
+  ]
+}

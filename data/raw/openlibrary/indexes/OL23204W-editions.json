@@ -1,0 +1,2248 @@
+{
+  "links": {
+    "self": "/works/OL23204W/editions.json",
+    "work": "/works/OL23204W",
+    "next": "/works/OL23204W/editions.json?offset=50"
+  },
+  "size": 292,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1946",
+      "publish_country": "fr",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "work_titles": [
+        "Of mice and men"
+      ],
+      "title": "Des souris et des hommes",
+      "by_statement": "par John Steinbeck ; traduction de Marcel Duhamel.--p. 5-67, 91-124 : ill. ; 24 cm",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "oclc_numbers": [
+        "8799817"
+      ],
+      "lc_classifications": [
+        "PS3537.T3234 O33 1946b"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "I̲ṉ Le Magasin du spectacle.--2.-3. (juin-juil. 1946)\n\nTranslation of: Of mice and men.\n\nPlay."
+      },
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_032.bib.mrc:110984596:890"
+      ],
+      "full_title": "Des souris et des hommes",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL61317727M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-15T11:57:57.796486"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:49:52.558458"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2014",
+      "publish_country": "tu",
+      "languages": [
+        {
+          "key": "/languages/cau"
+        }
+      ],
+      "work_titles": [
+        "Of mice and men"
+      ],
+      "title": "Mtugepe do k̆oçepe",
+      "by_statement": "John Steinbeck ; Lazuri, Hasan Uzunhasanoğlu",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL16183597A"
+        }
+      ],
+      "notes": "In Laz, translated from English.",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "People with mental disabilities",
+        "Male friendship",
+        "Ranch life",
+        "Cowboys"
+      ],
+      "subject_places": [
+        "Salinas River Valley (Calif.)",
+        "California",
+        "Salinas River Valley"
+      ],
+      "publishers": [
+        "Lazi Kültür Yayınları"
+      ],
+      "publish_places": [
+        "Istanbul"
+      ],
+      "pagination": "120 pages",
+      "number_of_pages": 120,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_031.bib.mrc:62054440:2635"
+      ],
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL61303498M",
+      "identifiers": {},
+      "isbn_10": [
+        "6056482111"
+      ],
+      "isbn_13": [
+        "9786056482113"
+      ],
+      "oclc_numbers": [
+        "902873687"
+      ],
+      "lc_classifications": [
+        "PS3537.T3234 O21639 2014"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Hasan Uzunhasanoğlu"
+        }
+      ],
+      "translation_of": "Of Mice and Men",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-13T12:02:36.372051"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:49:52.558458"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1937",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Of mice and men",
+      "by_statement": "John Steinbeck",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "oclc_numbers": [
+        "2748643"
+      ],
+      "publishers": [
+        "Collier"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "186 p.",
+      "number_of_pages": 186,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:442442745:449"
+      ],
+      "full_title": "Of mice and men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL57683953M",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-07T14:49:39.043246"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:49:52.558458"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL60991559M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_S0-BTP-495",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15154068
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:46:08.771345"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:47:02.036665"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "P. F. Collier & Son Corporation"
+      ],
+      "publish_date": "1937",
+      "key": "/books/OL60991549M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_C0-CEG-797",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15154067
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:44:32.036534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:45:00.631961"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Pathfinder Editions"
+      ],
+      "publish_date": "1972?",
+      "key": "/books/OL60991515M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_S0-CDM-044",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15154066
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:39:27.839672"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:39:46.605648"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL60991386M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "ofmicemen0000john_g0t3",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15154062
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:18:15.667446"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:19:22.492550"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "생쥐 와 인간",
+      "publishers": [
+        "맑은 소리"
+      ],
+      "publish_date": "1998",
+      "key": "/books/OL60991317M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "8980501404"
+      ],
+      "ocaid": "isbn_9788980501403",
+      "languages": [
+        {
+          "key": "/languages/kor"
+        }
+      ],
+      "covers": [
+        15154061
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:10:57.714907"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-20T10:11:29.379809"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "publish_date": "2017",
+      "key": "/books/OL60987525M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9781405964098"
+      ],
+      "ocaid": "isbn_9781405964098",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153901
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T18:51:08.115316"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T18:51:59.339422"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Covici-Friede Publishers"
+      ],
+      "publish_date": "1937",
+      "key": "/books/OL60987293M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_Y0-BXJ-880",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153893
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T17:58:31.794523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T17:59:48.691049"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "1963"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL60985775M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_P9-EBZ-319_b4a3",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T13:02:04.254481"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T13:02:17.815510"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL60985752M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_Y0-BZL-397",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153824
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:58:40.604817"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:59:36.465784"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Pathfinder Editions"
+      ],
+      "publish_date": "1972",
+      "key": "/books/OL60985686M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "ofmicemenbyjohns0000stei",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153816
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:49:23.805955"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:49:44.277821"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Perfection Learning"
+      ],
+      "publish_date": "1984",
+      "key": "/books/OL60985558M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0081241631"
+      ],
+      "ocaid": "steinbeckofmicem0000john",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153807
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:27:47.794669"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:28:18.121960"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "1967",
+      "key": "/books/OL60985413M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "52thingskidsneed0000payl_n0z8",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153799
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:10:22.709864"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:10:47.226682"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL60984592M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_P8-AJD-007",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153740
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:36:43.607986"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:37:43.124697"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "1977",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 98,
+      "publishers": [
+        "Pan Books in association with William Heinemann"
+      ],
+      "source_records": [
+        "ia:bwb_S0-ASZ-383"
+      ],
+      "full_title": "Of Mice and Men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL58690822M",
+      "identifiers": {},
+      "ocaid": "bwb_S0-ASZ-383",
+      "isbn_10": [
+        "0330241443"
+      ],
+      "covers": [
+        15153819
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T15:16:59.279139"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:56:55.473741"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "1940",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 196,
+      "publishers": [
+        "Triangle Books"
+      ],
+      "source_records": [
+        "ia:bwb_P9-ASY-990"
+      ],
+      "full_title": "of mice and men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL58663342M",
+      "identifiers": {},
+      "ocaid": "bwb_P9-ASY-990",
+      "covers": [
+        15153806
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T08:48:20.368442"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:56:55.473741"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of mice and men",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "publish_date": "1937",
+      "key": "/books/OL54991104M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780606002004"
+      ],
+      "classifications": {},
+      "covers": [
+        14819794,
+        14819793
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-24T15:25:34.811574"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "1942",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 194,
+      "publishers": [
+        "Triangle Books"
+      ],
+      "source_records": [
+        "ia:bwb_O6-AZB-571"
+      ],
+      "full_title": "Of Mice and Men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL58642583M",
+      "identifiers": {},
+      "ocaid": "bwb_O6-AZB-571",
+      "copyright_date": "1937",
+      "covers": [
+        15153731
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T22:36:17.610506"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T05:56:55.473741"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12231776A"
+        }
+      ],
+      "isbn_13": [
+        "9780141396033"
+      ],
+      "publish_date": "2001",
+      "publishers": [
+        "Penguin Classics"
+      ],
+      "source_records": [
+        "idb:9780141396033"
+      ],
+      "title": "Of Mice And Men (penguin Modern Classics)",
+      "full_title": "Of Mice And Men (penguin Modern Classics)",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL50498140M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-12-19T20:58:32.015099"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B003F137Y2"
+        ],
+        "better_world_books": [
+          "BWBM53316104"
+        ]
+      },
+      "title": "Of Mice And Men (Thirteenth Printing)",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KS-215-747"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-02-14:KS-215-747"
+      ],
+      "full_title": "Of Mice And Men (Thirteenth Printing)",
+      "key": "/books/OL46866752M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-27T20:50:36.342121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B00158P4E8"
+        ],
+        "better_world_books": [
+          "BWB37036221"
+        ]
+      },
+      "title": "Of Mice and Men a Viking Largetype Book",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P2-EJI-531"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-02-15"
+      ],
+      "key": "/books/OL45883149M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T03:55:37.366327"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "title": "Of Mice and Men",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1436240972"
+      ],
+      "isbn_13": [
+        "9781436240970"
+      ],
+      "local_id": [
+        "urn:bwbsku:166-BAB-279"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-03-10"
+      ],
+      "full_title": "Of Mice and Men",
+      "key": "/books/OL43430130M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T19:43:38.070385"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B08289JFRK"
+        ],
+        "better_world_books": [
+          "BWBM51030843"
+        ]
+      },
+      "title": "OF MICE AND MEN With an Introduction by Joseph Henry Jackson",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O7-CQQ-283"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "key": "/books/OL43093239M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T09:32:40.552666"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "موش‌ها و آدم‌ها",
+      "publishers": [
+        "نشر به سخن"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL35705539M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "covers": [
+        12445218
+      ],
+      "isbn_13": [
+        "9786007987018"
+      ],
+      "number_of_pages": 160,
+      "edition_name": "چاپ چهارم",
+      "publish_places": [
+        "تهران، ایران"
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "translation_of": "Of Mice and Men",
+      "contributors": [
+        {
+          "name": "مهدی افشار",
+          "role": "Translator"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/per"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-10T18:56:34.680779"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "publishers": [
+        "Dtv"
+      ],
+      "number_of_pages": 112,
+      "weight": "5.1 ounces",
+      "covers": [
+        15153655
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9032309M",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "source_records": [
+        "amazon:3423107979:gs:442565069:143165"
+      ],
+      "title": "Von Mäusen und Menschen",
+      "identifiers": {
+        "goodreads": [
+          "942442"
+        ],
+        "librarything": [
+          "3657"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "publish_date": "1997",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.6 x 4.8 x 0.4 inches",
+      "isbn_10": [
+        "3423107979"
+      ],
+      "isbn_13": [
+        "9783423107976"
+      ],
+      "ocaid": "isbn_9783423107976",
+      "latest_revision": 19,
+      "revision": 19,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:19:02.094921"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B0BFLTZJCK"
+        ],
+        "better_world_books": [
+          "BWBM56904375"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W8-CBB-747"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-05-19:W8-CBB-747"
+      ],
+      "title": "Of mice and men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL47826012M",
+      "publishers": [
+        "Triangle Books"
+      ],
+      "publish_date": "1939",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-24T01:54:33.649534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T08:20:57.814613"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B00ES26CO4"
+        ],
+        "better_world_books": [
+          "BWB24250093"
+        ]
+      },
+      "title": "of mice and men by STEINBECK, John published by Bantam (1977) Paperback",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P8-AJD-007"
+      ],
+      "publishers": [
+        "Bantam"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-01-catchup:P8-AJD-007"
+      ],
+      "full_title": "of mice and men by STEINBECK, John published by Bantam (1977) Paperback",
+      "key": "/books/OL50997722M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-07T02:26:09.438669"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T19:26:43.630601"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Penguin Audio"
+      ],
+      "publish_date": "1992",
+      "key": "/books/OL60980097M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780142429181"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153637
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T17:47:07.348814"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T17:47:41.099778"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Recorded Books"
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL60980067M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780788737244"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153636
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T17:43:00.769822"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T17:43:15.739259"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Of Mice and Men",
+      "publishers": [
+        "Minerva"
+      ],
+      "publish_date": "1997",
+      "key": "/books/OL60979579M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780749397791"
+      ],
+      "ocaid": "ofmicemen0000stei_z9r4",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15153609
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T16:48:15.292037"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T16:48:36.786311"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "title": "Von Mäusen und Menschen",
+      "publishers": [
+        "Ullstein"
+      ],
+      "publish_date": "1980",
+      "key": "/books/OL60979559M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "3548026931"
+      ],
+      "ocaid": "vonmausenundmens0000stei",
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "covers": [
+        15153604
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T16:39:47.906808"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T16:40:16.171620"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL8342075A"
+        }
+      ],
+      "isbn_13": [
+        "9781534761353"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781534761353"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.186",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL56608868M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Brittany Grace"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T11:48:46.665393"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "isbn_13": [
+        "9781542505628"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 56,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781542505628"
+      ],
+      "title": "De Ratones y Hombres (Spanish Edition)",
+      "weight": "0.136",
+      "full_title": "De Ratones y Hombres (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL55948635M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T10:33:11.473519"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL3545379A"
+        }
+      ],
+      "isbn_13": [
+        "9781535144384"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781535144384"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.159",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL54787411M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Ricardo Martinez"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T08:30:06.835888"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL8339403A"
+        }
+      ],
+      "isbn_13": [
+        "9781517444853"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 104,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781517444853"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.214",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL54865119M",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Natalie Montoto"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T20:32:23.100878"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL10034570A"
+        }
+      ],
+      "isbn_13": [
+        "9781718769205"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781718769205"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.186",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL55267659M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Luke Davis"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T06:24:35.028565"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-12T20:56:18.645163"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL1385584A"
+        }
+      ],
+      "isbn_13": [
+        "9781537401812"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781537401812"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.186",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL55520860M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T20:30:47.881473"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL8341886A"
+        }
+      ],
+      "isbn_13": [
+        "9781535144407"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781535144407"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.159",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL55859478M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T21:03:50.806011"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL7514627A"
+        }
+      ],
+      "isbn_13": [
+        "9781533549327"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 74,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781533549327"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.164",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL56032979M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T22:50:37.494178"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "isbn_13": [
+        "9781516843893"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 74,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781516843893"
+      ],
+      "title": "De Ratones y Hombres",
+      "weight": "0.164",
+      "full_title": "De Ratones y Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL56197805M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T23:13:37.343416"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "isbn_10": [
+        "3403702030"
+      ],
+      "isbn_13": [
+        "9783403702030"
+      ],
+      "local_id": [
+        "urn:bwbsku:W9-AIH-645"
+      ],
+      "publish_date": "2020-10-12",
+      "publishers": [
+        "Medina Univ Pr Intl"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-10:W9-AIH-645"
+      ],
+      "title": "De Ratones a Hombres",
+      "full_title": "De Ratones a Hombres",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL52331390M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-07-12T01:38:50.125288"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Saguak eta gizonak",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL12708501A"
+        }
+      ],
+      "publish_date": "Apr 10, 2012",
+      "source_records": [
+        "amazon:8498683580"
+      ],
+      "number_of_pages": 168,
+      "publishers": [
+        "Alberdania"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Saguak eta gizonak",
+      "covers": [
+        14131227
+      ],
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL47516475M",
+      "identifiers": {},
+      "isbn_10": [
+        "8498683580"
+      ],
+      "isbn_13": [
+        "9788498683585"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Íñigo Errasti Aranbarri"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/baq"
+        }
+      ],
+      "translation_of": "Of Mice and Men",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-18T12:46:27.551280"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1939",
+      "publish_country": "sw",
+      "languages": [
+        {
+          "key": "/languages/swe"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "oclc_numbers": [
+        "7198903"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Of mice and men.\n\nStatement of responsibility transposed from head of title.\n\nGoldstone D549"
+      },
+      "title": "Möss och människor",
+      "by_statement": "John Steinbeck ; med inledning av Anders Österling ; fran engelskan av Sven Barthel",
+      "publishers": [
+        "Bonniers"
+      ],
+      "publish_places": [
+        "Stockholm"
+      ],
+      "pagination": "[2], 182 p.",
+      "number_of_pages": 182,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-012.mrc:58483256:894"
+      ],
+      "full_title": "Möss och människor",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL45052609M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-29T12:12:44.217474"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "De Ratones a Hombres",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "Sep 28, 2010",
+      "source_records": [
+        "amazon:6074157472",
+        "promise:bwb_daily_pallets_2023-10-23:O9-BPW-911"
+      ],
+      "number_of_pages": 150,
+      "publishers": [
+        "TOMO",
+        "Tomo"
+      ],
+      "isbn_10": [
+        "6074157472"
+      ],
+      "isbn_13": [
+        "9786074157475"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: De Ratones a Hombres (Spanish Edition)"
+      },
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL39198985M",
+      "local_id": [
+        "urn:bwbsku:O9-BPW-911"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-07-22T08:22:48.093167"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "title": "De ratones y hombres",
+      "publish_date": "2020",
+      "publishers": [
+        "Contempla",
+        "Editorial Luis Vives (Edelvives)"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        11953737
+      ],
+      "isbn_13": [
+        "9788414030554"
+      ],
+      "key": "/books/OL33329510M",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "source_records": [
+        "amazon:8414030556"
+      ],
+      "number_of_pages": 425,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-14T16:20:02.390040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-29T21:02:11.769946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "19uu",
+      "publish_country": "xx",
+      "languages": [
+        {
+          "key": "/languages/yid"
+        }
+      ],
+      "work_titles": [
+        "Of mice and men"
+      ],
+      "title": "Ṿegn mayz un menṭshn",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        },
+        {
+          "key": "/authors/OL15274167A"
+        }
+      ],
+      "description": "Typescript of play.",
+      "pagination": "64 leaves.",
+      "number_of_pages": 64,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_013.bib.mrc:246058767:770",
+        "marc:harvard_bibliographic_metadata/20220215_032.bib.mrc:226109369:927"
+      ],
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL59828220M",
+      "identifiers": {},
+      "oclc_numbers": [
+        "80361836"
+      ],
+      "translation_of": "Of Mice and Men",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-14T06:12:08.204632"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-09T11:15:49.073999"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "1965",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 214,
+      "publishers": [
+        "Modern Library"
+      ],
+      "source_records": [
+        "ia:ofmicemen0000john_v5q2"
+      ],
+      "full_title": "of mice and men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL58968943M",
+      "covers": [
+        15153811
+      ],
+      "identifiers": {},
+      "ocaid": "ofmicemen0000john_v5q2",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-09T02:42:40.123741"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:32:24.624478"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Of Mice and Men",
+      "authors": [
+        {
+          "key": "/authors/OL25788A"
+        }
+      ],
+      "publish_date": "1975",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 130,
+      "publishers": [
+        "Bantam Books"
+      ],
+      "source_records": [
+        "ia:bwb_P8-DAV-400"
+      ],
+      "full_title": "of mice and men",
+      "works": [
+        {
+          "key": "/works/OL23204W"
+        }
+      ],
+      "key": "/books/OL58658811M",
+      "identifiers": {},
+      "ocaid": "bwb_P8-DAV-400",
+      "covers": [
+        15153796
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T06:56:23.316911"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T12:06:25.580000"
+      }
+    }
+  ]
+}

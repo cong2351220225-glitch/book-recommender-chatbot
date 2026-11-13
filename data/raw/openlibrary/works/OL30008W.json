@@ -1,0 +1,38 @@
+{
+  "covers": [
+    5886121
+  ],
+  "first_publish_date": "1919",
+  "key": "/works/OL30008W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "title": "Three unpublished poems",
+  "subject_people": [
+    "Amos Bronson Alcott (1799-1888)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "Commentary discusses the Alcotts at Fruitlands; poems by Louisa concern A. Bronson Alcott."
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-30T01:00:56.906757"
+  }
+}

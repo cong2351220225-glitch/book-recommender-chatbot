@@ -1,0 +1,80 @@
+{
+  "publishers": [
+    "Bantam Books"
+  ],
+  "identifiers": {
+    "librarything": [
+      "193226"
+    ],
+    "goodreads": [
+      "191007"
+    ]
+  },
+  "ia_box_id": [
+    "IA104515"
+  ],
+  "series": [
+    "Choose Your Own Adventure #12"
+  ],
+  "covers": [
+    6979939,
+    6255195
+  ],
+  "physical_format": "Mass Market Paperback",
+  "ia_loaded_id": [
+    "insid544000pack"
+  ],
+  "key": "/books/OL7819930M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "source_records": [
+    "amazon:0553201972:bx:1390148781:192883",
+    "marc:marc_loc_updates/v37.i38.records.utf8:37158730:845",
+    "ia:insideufo544000pack",
+    "ia:insid544000pack",
+    "marc:marc_loc_2016/BooksAll.2016.part37.utf8:42800831:845"
+  ],
+  "title": "Inside UFO 54-40",
+  "number_of_pages": 118,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1982",
+  "works": [
+    {
+      "key": "/works/OL30093W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "subtitle": "Choose Your Own Adventure #12",
+  "ocaid": "insideufo544000pack",
+  "isbn_10": [
+    "0553201972"
+  ],
+  "isbn_13": [
+    "9780553201970"
+  ],
+  "lccn": [
+    "2009484824"
+  ],
+  "lc_classifications": [
+    "CPB Box no. 2963 vol. 17"
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-02-01T02:29:47.079734"
+  }
+}

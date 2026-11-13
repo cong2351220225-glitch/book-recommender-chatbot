@@ -1,0 +1,54 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL10232883A"
+    },
+    {
+      "key": "/authors/OL10234241A"
+    },
+    {
+      "key": "/authors/OL10234242A"
+    },
+    {
+      "key": "/authors/OL811941A"
+    }
+  ],
+  "isbn_13": [
+    "9783111407050"
+  ],
+  "languages": [
+    {
+      "key": "/languages/ger"
+    }
+  ],
+  "pagination": "178",
+  "publish_date": "2019",
+  "publishers": [
+    "de Gruyter GmbH, Walter"
+  ],
+  "source_records": [
+    "bwb:9783111407050"
+  ],
+  "title": "Experimentelle und Theoretische Untersuchungen über Die Atmosphärischen Zirkulationen, Den Jet Stream und Die Zyklonalen Störungen",
+  "subtitle": "Experimental and Theoretical Research on the Atmospheric Circulations the Jet Stream and the Cyclonic Disturbances",
+  "full_title": "Experimentelle und Theoretische Untersuchungen über Die Atmosphärischen Zirkulationen, Den Jet Stream und Die Zyklonalen Störungen Experimental and Theoretical Research on the Atmospheric Circulations the Jet Stream and the Cyclonic Disturbances",
+  "works": [
+    {
+      "key": "/works/OL27341854W"
+    }
+  ],
+  "key": "/books/OL37136987M",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T07:28:12.744204"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T07:28:12.744204"
+  }
+}

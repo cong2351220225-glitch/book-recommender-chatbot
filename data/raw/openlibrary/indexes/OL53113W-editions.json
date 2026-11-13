@@ -1,0 +1,245 @@
+{
+  "links": {
+    "self": "/works/OL53113W/editions.json",
+    "work": "/works/OL53113W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34350A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00005WRKE"
+        ],
+        "better_world_books": [
+          "BWB13506017"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:T2-DGJ-493"
+      ],
+      "publish_date": "1970-01-01",
+      "publishers": [
+        "Houghton Mifflin Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-05-16:T2-DGJ-493"
+      ],
+      "title": "The Scorpion and the Tarantula",
+      "subtitle": "The Struggle to Control Atomic Weapons, 1945-1949",
+      "full_title": "The Scorpion and the Tarantula The Struggle to Control Atomic Weapons, 1945-1949",
+      "works": [
+        {
+          "key": "/works/OL53113W"
+        }
+      ],
+      "key": "/books/OL47048992M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T10:10:54.375559"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T10:10:54.375559"
+      }
+    },
+    {
+      "publishers": [
+        "Houghton Mifflin Co."
+      ],
+      "subtitle": "the struggle to control atomic weapons 1945-1949.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:234236933:430"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-02T00:33:29.243978"
+      },
+      "title": "The scorpion and the tarantula",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-15T19:42:06.322559"
+      },
+      "latest_revision": 2,
+      "publish_country": "xxu",
+      "key": "/books/OL13898190M",
+      "authors": [
+        {
+          "key": "/authors/OL34350A"
+        }
+      ],
+      "publish_date": "1970",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL53113W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 18406501,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "identifiers": {
+        "librarything": [
+          "4736834"
+        ]
+      },
+      "subtitle": "the struggle to control atomic weapons, 1945-1949",
+      "lc_classifications": [
+        "JX1974.7 .L46",
+        "JZ5665 .L54 1970"
+      ],
+      "key": "/books/OL4766945M",
+      "authors": [
+        {
+          "key": "/authors/OL34350A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "xiv, 460 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part10.dat:188586433:649",
+        "marc:marc_ithaca_college/ic_marc.mrc:50704398:711",
+        "marc:marc_loc_2016/BooksAll.2016.part11.utf8:87421122:643",
+        "marc:marc_columbia/Columbia-extract-20221130-002.mrc:85954785:1234",
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:245925901:621",
+        "marc:harvard_bibliographic_metadata/20220215_067.bib.mrc:213520495:2826"
+      ],
+      "title": "The scorpion and the tarantula",
+      "dewey_decimal_class": [
+        "341.6/7"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. [435]-440."
+      },
+      "number_of_pages": 460,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "78120823"
+      ],
+      "subjects": [
+        "Nuclear weapons (International law)",
+        "Nuclear disarmament"
+      ],
+      "publish_date": "1970",
+      "publish_country": "mau",
+      "by_statement": "[by] Joseph I. Lieberman.",
+      "works": [
+        {
+          "key": "/works/OL53113W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "98286"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "SCOTT (copy 1): from the John Holmes Library collection."
+      },
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-20T19:36:52.608661"
+      }
+    },
+    {
+      "subtitle": "the struggle to control atomic weapons, 1945-1949",
+      "lc_classifications": [
+        "JX1974.7 .L46"
+      ],
+      "latest_revision": 2,
+      "id": 27189550,
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:177479135:915"
+      ],
+      "title": "The scorpion and the tarantula",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Nuclear weapons (International law)",
+        "Nuclear disarmament"
+      ],
+      "publish_country": "mau",
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "[by] Joseph I. Lieberman.",
+      "revision": 2,
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-15T19:42:06.322559"
+      },
+      "key": "/books/OL17753228M",
+      "authors": [
+        {
+          "key": "/authors/OL34350A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "xiv, 460 p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-30T22:07:23.650275"
+      },
+      "dewey_decimal_class": [
+        "341.6/7"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. [435]-440."
+      },
+      "number_of_pages": 460,
+      "publish_date": "1970",
+      "works": [
+        {
+          "key": "/works/OL53113W"
+        }
+      ]
+    }
+  ]
+}

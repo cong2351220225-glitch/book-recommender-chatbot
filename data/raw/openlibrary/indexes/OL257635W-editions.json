@@ -1,0 +1,155 @@
+{
+  "links": {
+    "self": "/works/OL257635W/editions.json",
+    "work": "/works/OL257635W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "number_of_pages": 512,
+      "weight": "1.1 pounds",
+      "covers": [
+        10054
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-26T18:59:39.855680"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL9216758M",
+      "authors": [
+        {
+          "key": "/authors/OL2621762A"
+        }
+      ],
+      "subjects": [
+        "Botany & plant sciences",
+        "NATURAL HISTORY, COUNTRY LIFE & PETS",
+        "Nature",
+        "Science",
+        "Nature/Ecology",
+        "British Isles",
+        "United Kingdom, Great Britain",
+        "Life Sciences - Botany",
+        "Life Sciences - Zoology - General",
+        "BOTANY_GREAT BRITAIN",
+        "Science / Botany",
+        "ZOOLOGY_GREAT BRITAIN",
+        "Wildlife"
+      ],
+      "isbn_13": [
+        "9780007137169"
+      ],
+      "source_records": [
+        "amazon:0007137168:o-0:2166846350:150487",
+        "amazon:0007137168:1:1884090134:157853"
+      ],
+      "title": "Wild Guide to British Wildlife (Wildlife Guide)",
+      "identifiers": {
+        "librarything": [
+          "672897"
+        ],
+        "goodreads": [
+          "7063176"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0007137168"
+      ],
+      "publish_date": "April 1, 2002",
+      "oclc_numbers": [
+        "48678509"
+      ],
+      "works": [
+        {
+          "key": "/works/OL257635W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.8 x 3.8 x 1.2 inches",
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "number_of_pages": 512,
+      "source_records": [
+        "amazon:0007137168:o-0:2166846350:150487",
+        "amazon:0007137168:1:1884090134:157853",
+        "ia:britishwildlifee0000unse",
+        "promise:bwb_daily_pallets_2021-05-12"
+      ],
+      "title": "Wild Guide to British Wildlife (Wildlife Guide)",
+      "identifiers": {
+        "librarything": [
+          "672897"
+        ],
+        "goodreads": [
+          "7063176"
+        ]
+      },
+      "isbn_13": [
+        "9780007137169"
+      ],
+      "covers": [
+        10053
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0007137168"
+      ],
+      "publish_date": "April 1, 2002",
+      "key": "/books/OL7262043M",
+      "authors": [
+        {
+          "key": "/authors/OL2621762A"
+        }
+      ],
+      "oclc_numbers": [
+        "48678509"
+      ],
+      "works": [
+        {
+          "key": "/works/OL257635W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "britishwildlifee0000unse",
+      "local_id": [
+        "urn:bwbsku:KP-283-295"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T12:51:00.106027"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Blas Pavón",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-25T03:30:46.447889"
+  },
+  "death_date": "1877",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-05-15T09:41:47.273573"
+  },
+  "latest_revision": 2,
+  "key": "/authors/OL5071357A",
+  "birth_date": "1790",
+  "personal_name": "Blas Pavón",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 24006784,
+  "revision": 2
+}

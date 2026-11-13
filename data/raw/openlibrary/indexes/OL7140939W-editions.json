@@ -1,0 +1,168 @@
+{
+  "links": {
+    "self": "/works/OL7140939W/editions.json",
+    "work": "/works/OL7140939W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL2031845A"
+        }
+      ],
+      "isbn_10": [
+        "0395054877"
+      ],
+      "isbn_13": [
+        "9780395054871"
+      ],
+      "local_id": [
+        "urn:bwbsku:UR-424-901"
+      ],
+      "publish_date": "1970",
+      "publishers": [
+        "Houghton Mifflin Co"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-01-catchup:UR-424-901"
+      ],
+      "title": "Supervision for Change and Innovation",
+      "full_title": "Supervision for Change and Innovation",
+      "works": [
+        {
+          "key": "/works/OL7140939W"
+        }
+      ],
+      "key": "/books/OL51002235M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-07T02:54:40.883476"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-07T02:54:40.883476"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL2031845A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0006C46A2"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O7-DLR-654"
+      ],
+      "publish_date": "1970-01-01",
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Supervision for change and innovation",
+      "full_title": "Supervision for change and innovation",
+      "works": [
+        {
+          "key": "/works/OL7140939W"
+        }
+      ],
+      "key": "/books/OL43020330M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T00:40:14.829923"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T00:40:14.829923"
+      }
+    },
+    {
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "lc_classifications": [
+        "LB2806 .U57"
+      ],
+      "key": "/books/OL5293795M",
+      "authors": [
+        {
+          "key": "/authors/OL2031845A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Turner, Harold E., joint author."
+      ],
+      "pagination": "vii, 333 p.",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part07.utf8:99638642:582",
+        "marc:harvard_bibliographic_metadata/20220215_027.bib.mrc:39503431:2270"
+      ],
+      "title": "Supervision for change and innovation",
+      "dewey_decimal_class": [
+        "371.2/013"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographies."
+      },
+      "number_of_pages": 333,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "72014998"
+      ],
+      "subjects": [
+        "School supervision."
+      ],
+      "publish_date": "1970",
+      "publish_country": "mau",
+      "by_statement": "[by] Adolph Unruh [and] Harold E. Turner.",
+      "works": [
+        {
+          "key": "/works/OL7140939W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "88628"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-10T11:25:42.542836"
+      }
+    }
+  ]
+}

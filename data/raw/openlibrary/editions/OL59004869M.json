@@ -1,0 +1,82 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "title": "Harry Potter and the Philosopher's Stone",
+  "authors": [
+    {
+      "key": "/authors/OL23919A"
+    }
+  ],
+  "publish_date": "2014-09-01",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 332,
+  "publishers": [
+    "Bloomsbury"
+  ],
+  "source_records": [
+    "ia:rbanms.24646.harrypotterphilo000jkro_e4c6"
+  ],
+  "full_title": "Harry Potter And The Philosopher's Stone 1",
+  "works": [
+    {
+      "key": "/works/OL82563W"
+    }
+  ],
+  "key": "/books/OL59004869M",
+  "identifiers": {
+    "storygraph": [
+      "9385ef1b-abff-4408-8ea0-b7da4967c280"
+    ],
+    "amazon": [
+      "1408855658"
+    ],
+    "goodreads": [
+      "22841994"
+    ]
+  },
+  "covers": [
+    15159585
+  ],
+  "series": [
+    "Harry Potter, 1"
+  ],
+  "physical_format": "Paperback",
+  "ocaid": "rbanms.24646.harrypotterphilo000jkro_e4c6",
+  "isbn_10": [
+    "1408855658"
+  ],
+  "isbn_13": [
+    "9781408855652"
+  ],
+  "oclc_numbers": [
+    "1608435439"
+  ],
+  "dewey_decimal_class": [
+    "823.92"
+  ],
+  "lc_classifications": [
+    "PJ5124"
+  ],
+  "publish_places": [
+    "London, England, UK"
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-05-10T23:19:26.677527"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-18T18:56:19.932143"
+  }
+}

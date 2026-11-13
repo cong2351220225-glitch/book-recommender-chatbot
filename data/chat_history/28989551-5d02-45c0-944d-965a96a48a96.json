@@ -1,0 +1,42 @@
+{
+  "id": "28989551-5d02-45c0-944d-965a96a48a96",
+  "title": "Có thư viện nào gần quận Liên Chiểu khôn",
+  "timestamp": "2026-11-03 02:50:23",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Có thư viện nào gần quận Liên Chiểu không?",
+      "timestamp": "02:50"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **1** thư viện gần khu vực **quận Liên Chiểu** dành cho bạn:",
+      "timestamp": "02:50",
+      "sources": [],
+      "locations": [
+        {
+          "title": "Nhà Truyền thống - Thư viện quận Liên Chiểu",
+          "name": "Nhà Truyền thống - Thư viện quận Liên Chiểu",
+          "address": "2 Trần Đình Tri, Hòa Khánh, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.7,
+          "reviews": 17,
+          "type": "['Thư viện công cộng']",
+          "types": [],
+          "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+          "hours": "[{'thứ ba': '08:00–17:00'}, {'thứ tư': '08:00–17:00'}, {'thứ năm': '08:00–17:00'}, {'thứ sáu': '08:00–17:00'}, {'thứ bảy': 'Đóng cửa'}, {'chủ nhật': 'Đóng cửa'}, {'thứ hai': '08:00–17:00'}]",
+          "phone": "",
+          "website": "",
+          "description": "",
+          "latitude": 16.0810271,
+          "longitude": 108.1544533,
+          "place_id": "ChIJv4XB0K4ZQjERqbvwTAJzkFw",
+          "data_id": "0x314219aed0c185bf:0x5c9073024cf0bba9",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZ_PQLiU61MFuaBjWGZ_ihXZyIQ1trU9gx9EedRDm2hXt5Rx6bewvdZh1eWcpOV0e7sM48lhoTNDyRuHTrM3miXK9PFwlaEPziI6fY7VV1VNmpVa_u_OM-QO50Y5kMPrAt6Ok4=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+Truy%E1%BB%81n+th%E1%BB%91ng+-+Th%C6%B0+vi%E1%BB%87n+qu%E1%BA%ADn+Li%C3%AAn+Chi%E1%BB%83u%2C+2+Tr%E1%BA%A7n+%C4%90%C3%ACnh+Tri%2C+H%C3%B2a+Kh%C3%A1nh%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+Truy%E1%BB%81n+th%E1%BB%91ng+-+Th%C6%B0+vi%E1%BB%87n+qu%E1%BA%ADn+Li%C3%AAn+Chi%E1%BB%83u%2C+2+Tr%E1%BA%A7n+%C4%90%C3%ACnh+Tri%2C+H%C3%B2a+Kh%C3%A1nh%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "intent": "location_library"
+    }
+  ]
+}

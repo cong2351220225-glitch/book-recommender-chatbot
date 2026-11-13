@@ -1,0 +1,42 @@
+{
+  "title": "Las memorias de Blas Pavón",
+  "subject_places": [
+    "Mexico"
+  ],
+  "key": "/works/OL10359W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5071357A"
+      }
+    }
+  ],
+  "subject_people": [
+    "Blas Pavón (1790-1877)"
+  ],
+  "subject_times": [
+    "1810-",
+    "Wars of Independence, 1810-1821",
+    "European intervention, 1861-1867"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "History",
+    "Historia"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-05T19:02:04.347868"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-31T04:15:10.330609"
+  }
+}

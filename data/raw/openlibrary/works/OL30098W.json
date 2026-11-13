@@ -1,0 +1,53 @@
+{
+  "first_publish_date": "1994",
+  "key": "/works/OL30098W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "Plot-your-own stories",
+    "Spanish language books",
+    "Virtual reality",
+    "Computer games",
+    "collectionID:CYOA3",
+    "Children's fiction",
+    "Adventure and adventurers, fiction"
+  ],
+  "title": "Choose Your Own Adventure - The Reality Machine",
+  "dewey_number": [
+    "813.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    8871762,
+    7295475,
+    -1
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"You're The Star! 13 Exciting Endings!Will You Master The Reality Machine?\"\r\n\r\nYou're a whiz at playing the new Virtual Reality machine that's been installed in the local video arcade. That's why a man named Dr. Telos has offered you a fabulous summer job testing the Virtual Reality games being developed by his company. On your first day on the job Dr. Telos tells you about two exciting games, \"Super Time\" and \"Super Space.\" Then he asks which one you'd like to try first. Will it be \"Super Time\" or \"Super Space\" ?\r\n\r\nIf you decide to test \"Supertime\" first, turn to page 17 If you decide to try out \"Super Space,\" turn to page 80. Be careful! The boundaries between reality and virtual reality are very thin. The Reality Machine could give you enough super strength to compete in the Olympics, or it could leave you stranded in a spaceship with crablike aliens!\r\n\r\nWhat happens next in the story? It all depends on the choices you make. How does the story end? Only you can find out! And the best part is that you can keep reading and rereading until you've had not one but many incredibly daring experiences!"
+  },
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T18:25:56.947500"
+  }
+}

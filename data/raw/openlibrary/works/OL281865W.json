@@ -1,0 +1,31 @@
+{
+  "key": "/works/OL281865W",
+  "title": "Frontiers in Neuroendocrinology",
+  "first_publish_date": "April 1982",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2635626A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Neuroendocrinology"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-25T23:53:00.282898"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-21T10:53:13.807629"
+  }
+}

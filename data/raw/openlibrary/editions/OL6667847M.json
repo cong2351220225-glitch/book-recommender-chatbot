@@ -1,0 +1,65 @@
+{
+  "publishers": [
+    "J. Bale, sons & Danielsson, limited"
+  ],
+  "subtitle": "a manual for the medical and legal professions",
+  "lc_classifications": [
+    "RG136 .S8 1923"
+  ],
+  "key": "/books/OL6667847M",
+  "authors": [
+    {
+      "key": "/authors/OL4630807A"
+    }
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "pagination": "xxiii, 418 p., 1 l.",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part02.dat:111157531:851",
+    "marc:marc_loc_2016/BooksAll.2016.part02.utf8:201835494:845",
+    "marc:harvard_bibliographic_metadata/20220215_022.bib.mrc:118110363:2987"
+  ],
+  "title": "Contraception (birth control) its theory, history and practice",
+  "lccn": [
+    "24019464"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "\"First published, June 27th, 1923.  Reprinted, December, 1923.\""
+  },
+  "number_of_pages": 418,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Contraception"
+  ],
+  "publish_date": "1923",
+  "publish_country": "enk",
+  "by_statement": "by Marie Carmichael Stopes... With an introduction by Prof. Sir William Bayliss ... and introductory notes by Sir James Barr ... Dr. C. Rolleston, Dr. Jane Hawthorne & Obscurus.",
+  "works": [
+    {
+      "key": "/works/OL53802W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "oclc_numbers": [
+    "3048413"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-17T13:38:02.756139"
+  }
+}

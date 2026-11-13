@@ -1,0 +1,47 @@
+{
+  "title": "Choose Your Own Adventure - Magic Master",
+  "first_publish_date": "February 1, 1992",
+  "key": "/works/OL30096W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Magic tricks",
+    "Juvenile fiction",
+    "Plot-your-own stories",
+    "Fiction",
+    "Mystery and Detectives",
+    "Magicians",
+    "collectionID:CYOA3",
+    "Adventure and adventurers, fiction",
+    "Children's fiction"
+  ],
+  "covers": [
+    11674815,
+    12578585
+  ],
+  "description": "The reader's decisions control the course of what happens when a boy tries to learn the secrets of a famous magician.",
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T21:09:58.362007"
+  }
+}

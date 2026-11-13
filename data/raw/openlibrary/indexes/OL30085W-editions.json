@@ -1,0 +1,339 @@
+{
+  "links": {
+    "self": "/works/OL30085W/editions.json",
+    "work": "/works/OL30085W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "publishers": [
+        "Héritage"
+      ],
+      "series": [
+        "Choisis ta propre aventure -- 21"
+      ],
+      "covers": [
+        10192188
+      ],
+      "key": "/books/OL28264091M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Saint-Lambert, Québec"
+      ],
+      "contributions": [
+        "Wing, Ron"
+      ],
+      "pagination": "53 pages",
+      "source_records": [
+        "ia:expeditionchezle0000pack"
+      ],
+      "title": "Expédition chez les dinosaures",
+      "notes": {
+        "type": "/type/text",
+        "value": "Traduction de : A day with the dinosaurs.\r\n\r\nLa couverture porte en plus : La vedette de l'histoire, c'est toi!"
+      },
+      "number_of_pages": 53,
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "publish_date": "1992",
+      "publish_country": "quc",
+      "by_statement": "par Edward Packard ; illustrations, Ron Wing ; traduit de l'anglais par Suzanne Spino",
+      "works": [
+        {
+          "key": "/works/OL30085W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "expeditionchezle0000pack",
+      "isbn_10": [
+        "2762571960"
+      ],
+      "isbn_13": [
+        "9782762571967"
+      ],
+      "oclc_numbers": [
+        "26806607"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "j813/.54"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-17T05:37:42.752172"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-29T19:33:18.185840"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Books"
+      ],
+      "series": [
+        "Choose your own adventure -- 46"
+      ],
+      "lc_classifications": [
+        "CPB Box no. 1580 vol. 3"
+      ],
+      "key": "/books/OL24500711M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "New York"
+      ],
+      "contributions": [
+        "Copyright Paperback Collection (Library of Congress)",
+        "Wing, Ron"
+      ],
+      "pagination": "53 p. :",
+      "source_records": [
+        "marc:marc_loc_updates/v38.i33.records.utf8:101331:953"
+      ],
+      "title": "A day with the dinosaurs",
+      "lccn": [
+        "00513001"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"A Bantam Skylark book.\"\n\n\"RL2 007-009.\""
+      },
+      "number_of_pages": 53,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553156128"
+      ],
+      "publish_date": "1988",
+      "publish_country": "onc",
+      "by_statement": "by Edward Packard ; illustrated by Ron Wing",
+      "oclc_numbers": [
+        "18529059"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30085W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-06T08:01:42.887760"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-10T18:46:23.967880"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Skylark Book"
+      ],
+      "identifiers": {
+        "librarything": [
+          "3429725"
+        ],
+        "goodreads": [
+          "191015"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "series": [
+        "Choose your own adventure ;",
+        "46"
+      ],
+      "covers": [
+        12691193,
+        8469561
+      ],
+      "lc_classifications": [
+        "MLCS 91/06115 (P)",
+        "J"
+      ],
+      "key": "/books/OL2114658M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "New York"
+      ],
+      "pagination": "53 p. :",
+      "source_records": [
+        "amazon:0553156128",
+        "marc:marc_loc_2016/BooksAll.2016.part19.utf8:17304021:554",
+        "ia:daywithdinosaurs0000pack",
+        "promise:bwb_daily_pallets_2020-07-23"
+      ],
+      "title": "A day with the dinosaurs",
+      "lccn": [
+        "88169712",
+        "00513001"
+      ],
+      "number_of_pages": 53,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553156128"
+      ],
+      "publish_date": "1988",
+      "publish_country": "onc",
+      "by_statement": "by Edward Packard ; illustrated by Ron Wing.",
+      "oclc_numbers": [
+        "18529059"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30085W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "daywithdinosaurs0000pack",
+      "local_id": [
+        "urn:bwbsku:O6-BEQ-030"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T04:11:51.746674"
+      }
+    },
+    {
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "physical_format": "Hardcover",
+      "source_records": [
+        "amazon:0606037667:2-ai:1429721250:177021"
+      ],
+      "title": "A Day with the Dinosaurs (Choose Your Own Adventure #46)",
+      "number_of_pages": 53,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780606037662"
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0606037667"
+      ],
+      "publish_date": "January 1988",
+      "edition_name": "Turtleback Books edition",
+      "key": "/books/OL9462699M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "General",
+        "Children's 9-12"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30085W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 12746913,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Sagebrush"
+      ],
+      "physical_format": "Library Binding",
+      "source_records": [
+        "amazon:0833520628:2-ao:4274751402:177538"
+      ],
+      "title": "Day with the Dinosaurs (Choose Your Own Adventure #46)",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780833520623"
+      ],
+      "edition_name": "Rebound edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0833520628"
+      ],
+      "publish_date": "November 30, 2003",
+      "key": "/books/OL9632694M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Children: Grades 2-3"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30085W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 12951873,
+      "revision": 2
+    }
+  ]
+}

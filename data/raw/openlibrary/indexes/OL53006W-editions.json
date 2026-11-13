@@ -1,0 +1,768 @@
+{
+  "links": {
+    "self": "/works/OL53006W/editions.json",
+    "work": "/works/OL53006W"
+  },
+  "size": 12,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "isbn_10": [
+        "0439160251"
+      ],
+      "isbn_13": [
+        "9780439160254"
+      ],
+      "local_id": [
+        "urn:bwbsku:P1-BLG-898"
+      ],
+      "publish_date": "1999-01-01",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-08-13"
+      ],
+      "title": "Hello, Red Fox",
+      "full_title": "Hello, Red Fox",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL45779627M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T15:30:52.154571"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-19T11:13:19.650719"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "isbn_10": [
+        "0590635875"
+      ],
+      "isbn_13": [
+        "9780590635875"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-BEV-201"
+      ],
+      "publish_date": "1998-01-01",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-06-03"
+      ],
+      "title": "Hello, Red Fox",
+      "full_title": "Hello, Red Fox",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL43337530M",
+      "covers": [
+        14745538
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T08:55:47.451732"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-23T17:45:25.623222"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "hello, red fox",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "publish_date": "May 31, 2013",
+      "source_records": [
+        "amazon:1442473053"
+      ],
+      "number_of_pages": 0,
+      "publishers": [
+        "Little Simon"
+      ],
+      "isbn_10": [
+        "1442473053"
+      ],
+      "isbn_13": [
+        "9781442473058"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "hello, red fox the world of eric carle",
+      "subtitle": "the world of eric carle",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: hello, red fox: the world of eric carle"
+      },
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL38220879M",
+      "covers": [
+        13008679
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-31T23:17:52.221055"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T09:58:51.860858"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "isbn_13": [
+        "9780689834929"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 26,
+      "publish_date": "2000",
+      "publishers": [
+        "Simon & Schuster Books For Young Readers"
+      ],
+      "source_records": [
+        "bwb:9780689834929",
+        "promise:bwb_daily_pallets_2020-11-19"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Color, fiction",
+        "Frogs, fiction",
+        "Animals, fiction",
+        "Parties, fiction"
+      ],
+      "title": "Hello, Red Fox",
+      "weight": "0.001",
+      "full_title": "Hello, Red Fox",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL33342341M",
+      "local_id": [
+        "urn:bwbsku:KO-363-550"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-15T14:47:13.907277"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T14:22:21.533879"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "isbn_13": [
+        "9780689823718"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1998",
+      "publishers": [
+        "Simon & Schuster Books For Young Readers"
+      ],
+      "source_records": [
+        "bwb:9780689823718"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Birthdays, fiction"
+      ],
+      "title": "Hello, Red Fox",
+      "full_title": "Hello, Red Fox",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL33971154M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T02:15:03.283820"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-11T22:12:46.672178"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "isbn_13": [
+        "9780689005817"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1998",
+      "publishers": [
+        "Simon & Schuster Books For Young Readers"
+      ],
+      "source_records": [
+        "bwb:9780689005817"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Color, fiction",
+        "Frogs, fiction",
+        "Animals, fiction",
+        "Parties, fiction"
+      ],
+      "title": "Hello, Red Fox",
+      "full_title": "Hello, Red Fox",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "key": "/books/OL33971844M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T02:58:24.343141"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-11T22:12:46.672178"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "809197"
+        ],
+        "librarything": [
+          "322058"
+        ]
+      },
+      "title": "Hallo, roter Fuchs.",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "publish_date": "February 1, 1998",
+      "publishers": [
+        "Gerstenberg"
+      ],
+      "weight": "14.1 ounces",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        3267604
+      ],
+      "isbn_13": [
+        "9783806742398"
+      ],
+      "isbn_10": [
+        "3806742391"
+      ],
+      "physical_format": "Hardcover",
+      "physical_dimensions": "10.4 x 10.3 x 0.3 inches",
+      "source_records": [
+        "amazon:3806742391"
+      ],
+      "key": "/books/OL12932599M",
+      "number_of_pages": 32,
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-23T02:28:58.111883"
+      }
+    },
+    {
+      "publishers": [
+        "Simon & Schuster Books for Young Readers"
+      ],
+      "ia_box_id": [
+        "IA135502"
+      ],
+      "covers": [
+        434680
+      ],
+      "local_id": [
+        "urn:sfpl:31223098228399",
+        "urn:sfpl:31223098228423",
+        "urn:sfpl:31223098228340",
+        "urn:sfpl:31223098228431",
+        "urn:sfpl:31223098228365",
+        "urn:sfpl:31223099526486",
+        "urn:sfpl:31223124115446",
+        "urn:sfpl:31223098228357"
+      ],
+      "ia_loaded_id": [
+        "helloredfox00carl"
+      ],
+      "lc_classifications": [
+        "PZ7.C21476 He 1998",
+        "97-15473"
+      ],
+      "key": "/books/OL669616M",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "ocaid": "helloredfox0000carl",
+      "publish_places": [
+        "New York"
+      ],
+      "lccn": [
+        "97015473"
+      ],
+      "subjects": [
+        "Color -- Fiction",
+        "Frogs -- Fiction",
+        "Animals -- Fiction",
+        "Parties -- Fiction",
+        "Birthdays -- Fiction"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Guests at Little Frog's birthday party include the red fox, the purple butterfly, the orange cat, and other colorful animals. The illustrations are designed to demonstrate the concept of complementary colors."
+      },
+      "uri_descriptions": [
+        "Contributor biographical information",
+        "Publisher description"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part26.dat:124577234:1153",
+        "ia:helloredfox0000carl",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:175042324:3001",
+        "bwb:9780689817755",
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:47386381:1153",
+        "amazon:0689817754"
+      ],
+      "title": "Hello, red fox",
+      "dewey_decimal_class": [
+        "[E]"
+      ],
+      "identifiers": {
+        "librarything": [
+          "322058"
+        ],
+        "goodreads": [
+          "3305997"
+        ]
+      },
+      "edition_name": "1st ed.",
+      "url": [
+        "http://www.loc.gov/catdir/bios/simon054/97015473.html",
+        "http://www.loc.gov/catdir/description/simon032/97015473.html"
+      ],
+      "isbn_10": [
+        "0689817754"
+      ],
+      "publish_date": "1998",
+      "publish_country": "nyu",
+      "by_statement": "Eric Carle.",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/bios/simon054/97015473.html",
+        "http://www.loc.gov/catdir/description/simon032/97015473.html"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-15T08:48:14.870168"
+      }
+    },
+    {
+      "publishers": [
+        "Aladdin"
+      ],
+      "number_of_pages": 32,
+      "weight": "8.3 ounces",
+      "covers": [
+        436528
+      ],
+      "physical_format": "Paperback",
+      "lc_classifications": [
+        ""
+      ],
+      "latest_revision": 9,
+      "key": "/books/OL7729741M",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "subjects": [
+        "Fiction",
+        "Color",
+        "Children's 4-8 - Picturebooks",
+        "Juvenile Fiction",
+        "Children's Books/Ages 4-8 Fiction",
+        "Children: Grades 1-2",
+        "Frogs",
+        "JUV",
+        "JUV009020",
+        "Concepts - Colors",
+        "Animals - General",
+        "Celebrations - Parties",
+        "Juvenile Fiction / Concepts / Colors",
+        "Animals"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Your birthday is coming up,\" said Mama Frog."
+      },
+      "source_records": [
+        "amazon:068984431X:ci:3626131516:267629",
+        "bwb:9780689844317"
+      ],
+      "title": "Hello, Red Fox",
+      "identifiers": {
+        "goodreads": [
+          "133935"
+        ],
+        "librarything": [
+          "322058"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "isbn_13": [
+        "9780689844317"
+      ],
+      "isbn_10": [
+        "068984431X"
+      ],
+      "publish_date": "May 1, 2001",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-08T04:16:38.174612"
+      },
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.2 x 10.2 x 0.2 inches",
+      "revision": 9
+    },
+    {
+      "publishers": [
+        "Simon & Schuster Books for Young Readers"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Guests at Little Frog's birthday party include the red fox, the purple butterfly, the orange cat, and other colorful animals. The illustrations are designed to demonstrate the concept of complementary colors."
+      },
+      "isbn_10": [
+        "0689817754",
+        "068984431"
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-19T12:30:25.628396"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL23245122M",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Juvenile fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:26008778:1835"
+      ],
+      "title": "Hello, red fox",
+      "lccn": [
+        "97015473"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3305997"
+        ],
+        "librarything": [
+          "322058"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-29T11:10:21.976191"
+      },
+      "edition_name": "1st ed.",
+      "subjects": [
+        "Color -- Juvenile fiction",
+        "Frogs -- Juvenile fiction",
+        "Animals -- Juvenile fiction",
+        "Parties -- Juvenile fiction",
+        "Birthdays -- Juvenile fiction"
+      ],
+      "publish_date": "1998",
+      "publish_country": "nyu",
+      "by_statement": "Eric Carle.",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "322058"
+        ],
+        "goodreads": [
+          "2077429"
+        ]
+      },
+      "title": "Hello, Red Fox (Aladdin Picture Books)",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "publish_date": "June 2001",
+      "publishers": [
+        "Tandem Library"
+      ],
+      "weight": "1 pounds",
+      "physical_format": "School & Library Binding",
+      "subjects": [
+        "Animals - General",
+        "Celebrations - Birthdays",
+        "Celebrations - Parties",
+        "Concepts - Colors",
+        "Juvenile Fiction",
+        "Children's 4-8 - Picturebooks",
+        "Children's Books/Ages 4-8 Fiction"
+      ],
+      "isbn_13": [
+        "9780613870580"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Your birthday is coming up,\" said Mama Frog."
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0613870581"
+      ],
+      "oclc_numbers": [
+        "318877589"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.2 x 10 x 0.4 inches",
+      "source_records": [
+        "amazon:0613870581"
+      ],
+      "key": "/books/OL9319050M",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-15T05:29:51.411873"
+      }
+    },
+    {
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "covers": [
+        4999443
+      ],
+      "physical_format": "Unknown Binding",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T10:09:19.280664"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL9661088M",
+      "authors": [
+        {
+          "key": "/authors/OL34330A"
+        }
+      ],
+      "subjects": [
+        "Celebrations - Birthdays",
+        "Celebrations - Parties",
+        "Concepts - Colors",
+        "Children's 4-8 - Fiction - General"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Your birthday is coming up,\" said Mama Frog."
+      },
+      "source_records": [
+        "amazon:0606212310:2-ap:2343046992:240079"
+      ],
+      "title": "Hello, Red Fox",
+      "identifiers": {
+        "goodreads": [
+          "532247"
+        ],
+        "librarything": [
+          "322058"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780606212311"
+      ],
+      "isbn_10": [
+        "0606212310"
+      ],
+      "publish_date": "June 2001",
+      "works": [
+        {
+          "key": "/works/OL53006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.5 x 10.3 x 0.4 inches",
+      "revision": 7
+    }
+  ]
+}

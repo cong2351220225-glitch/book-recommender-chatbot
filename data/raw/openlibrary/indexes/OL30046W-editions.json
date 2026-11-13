@@ -1,0 +1,2435 @@
+{
+  "links": {
+    "self": "/works/OL30046W/editions.json",
+    "work": "/works/OL30046W",
+    "next": "/works/OL30046W/editions.json?offset=50"
+  },
+  "size": 82,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1889",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Spinning-wheel stories",
+      "by_statement": "by Louisa M. Alcott",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "20438577"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Vignette head-pieces throughout."
+      },
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "276 p.",
+      "number_of_pages": 276,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:779541172:477",
+        "marc:harvard_bibliographic_metadata/20220215_006.bib.mrc:344517613:1168"
+      ],
+      "full_title": "Spinning-wheel stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL58156737M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-03-14T11:03:02.969330"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781528714266"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 210,
+      "publish_date": "2019",
+      "publishers": [
+        "Read Books"
+      ],
+      "source_records": [
+        "bwb:9781528714266"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.273",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56772081M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T11:24:42.641669"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781506187198"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 188,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781506187198"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.345",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56603109M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T11:04:32.879011"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781539387091"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 262,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781539387091"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.459",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56556252M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T04:17:51.699749"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781540802613"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 116,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781540802613"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.232",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56501122M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T20:49:43.770787"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781977872494"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 184,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977872494"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.336",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56517280M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T22:51:45.626890"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781722304096"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 130,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781722304096"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.255",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56191151M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T22:25:07.818024"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781519799623"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 212,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781519799623"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.382",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56106591M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T09:31:15.612284"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781512198744"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 114,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781512198744"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.227",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL56102399M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T08:57:19.273205"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781977880161"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 184,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977880161"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.336",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55987022M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T16:26:17.207134"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781523432158"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 198,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781523432158"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.418",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55786398M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T10:24:50.142440"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL8337000A"
+        }
+      ],
+      "isbn_13": [
+        "9781508775058"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 160,
+      "publish_date": "2015",
+      "publishers": [
+        "The Perfect Library"
+      ],
+      "source_records": [
+        "bwb:9781508775058"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.300",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55734692M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T03:10:49.293108"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781545278376"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 170,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781545278376"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.314",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55716569M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T00:24:47.240642"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781723073847"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 176,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781723073847"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.323",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55474772M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T13:17:08.109778"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL10220360A"
+        }
+      ],
+      "isbn_13": [
+        "9781984040398"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 132,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781984040398"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.255",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55500352M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Taylor Anderson"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T17:06:59.640745"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781975918064"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 128,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975918064"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.250",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55350555M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T19:07:36.600628"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781546392774"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 118,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781546392774"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.368",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL55168754M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T16:26:07.212162"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781537247748"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 214,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781537247748"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.386",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54912161M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-24T03:17:10.706861"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781542606844"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 214,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781542606844"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.386",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54751308M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T03:24:10.208393"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781484173756"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 108,
+      "publish_date": "2013",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781484173756"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.218",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54389465M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-20T22:14:04.982262"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781463669454"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 164,
+      "publish_date": "2011",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781463669454"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.382",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54423841M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T03:32:24.358630"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781480169722"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 202,
+      "publish_date": "2012",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781480169722"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.459",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54446389M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T06:24:01.378423"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781480169715"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 162,
+      "publish_date": "2012",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781480169715"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.305",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL54177216M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-19T09:49:57.561727"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:41:28.796135"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798467655727"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "182",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798467655727"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.541",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL49052103M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T05:29:57.302197"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721516726"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "146",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721516726"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.245",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL48397654M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:01:30.315984"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798708002181"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "182",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798708002181"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.259",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL48538258M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T03:46:42.980507"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00086X1RA"
+        ],
+        "better_world_books": [
+          "BWB19433110"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BKD-312"
+      ],
+      "publish_date": "1908-01-01",
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-02-28:W8-BKD-312"
+      ],
+      "title": "Spinning-wheel stories, by Louisa M. Alcott; illustrated by William A. McCullough",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL47757901M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-04T07:25:10.469764"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607565510"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607565510"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.395",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL46827206M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T20:30:51.994500"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798763673333"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "211",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798763673333"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.623",
+      "subtitle": "First Edition",
+      "full_title": "Spinning-Wheel Stories First Edition",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL46772580M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T17:01:30.355671"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798743251001"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "164",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798743251001"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.382",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL46704439M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T12:43:52.650321"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781016099998"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "282",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781016099998"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.400",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL46222624M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T15:46:13.587196"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1884",
+      "publish_country": "enk",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "881819"
+      ],
+      "lc_classifications": [
+        "PS1017 .S76 1884"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "[1st. ed.].\n\nPublisher's catalogue follows text.\n\nAlso available via the World Wide Web.\n\nGift; Emma De Long Mills; January 23, 1941."
+      },
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Grandma's story",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Tabby's table-cloth",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Eli's education",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Onawandah",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little things",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The banner of Beaumanoir",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Jerseys, or, The girls' ghost",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The little house in the garden",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Daisy's jewel-box, and how she filled it",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Corny's catamount",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The cooking-class",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The hare and the tortoise.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "http://www.archive.org/details/spinningwheelsto0alco",
+          "title": "Internet Archive, UNC Chapel Hill copy"
+        }
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "University Press (Cambridge, Mass.)",
+        "John Wilson and Son"
+      ],
+      "subjects": [
+        "Children",
+        "Juvenile fiction",
+        "Conduct of life",
+        "Families",
+        "Children's stories"
+      ],
+      "title": "Spinning-wheel stories",
+      "by_statement": "by Louisa M. Alcott",
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "276, [8] pages",
+      "number_of_pages": 276,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131404990:2676"
+      ],
+      "full_title": "Spinning-wheel stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL45014024M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:06:37.325867"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1912",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "3813608"
+      ],
+      "title": "Spinning-wheel stories",
+      "by_statement": "by Louisa M. Alcott",
+      "publishers": [
+        "Little, Brown"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "276 p.",
+      "number_of_pages": 276,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131410306:515"
+      ],
+      "full_title": "Spinning-wheel stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL45014026M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:06:42.001665"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL1866320A"
+        }
+      ],
+      "isbn_13": [
+        "9781010289630"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "298",
+      "publish_date": "2019",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781010289630"
+      ],
+      "title": "Spinning- Wheel Stories",
+      "weight": "0.423",
+      "full_title": "Spinning- Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL44280130M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:34:49.724298"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-18T17:20:04.439412"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL1866320A"
+        }
+      ],
+      "isbn_13": [
+        "9781010289647"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "298",
+      "publish_date": "2019",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781010289647"
+      ],
+      "title": "Spinning- Wheel Stories",
+      "weight": "0.595",
+      "full_title": "Spinning- Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL44280142M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:34:51.529228"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-18T17:20:04.439412"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798774056927"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "269",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798774056927"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.595",
+      "subtitle": "Large Print Edition",
+      "full_title": "Spinning Wheel Stories Large Print Edition",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42631466M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T04:11:25.891392"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681370505"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "331",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681370505"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.568",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42456169M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T05:57:08.266167"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721516696"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "140",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721516696"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.341",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42364839M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T20:09:00.227431"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798723433472"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "182",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798723433472"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.541",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42357334M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T18:44:42.823450"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798690683788"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "163",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798690683788"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.427",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42228722M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T22:35:57.388203"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798617375123"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798617375123"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.395",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL42192347M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T16:32:36.447507"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707592999"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707592999"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.395",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41751924M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T17:55:03.809001"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781688041196"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "186",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781688041196"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.282",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41450124M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T19:18:27.276419"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070976143"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070976143"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.395",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41341442M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T00:56:33.339877"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980598763"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980598763"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.395",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41333875M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T23:33:17.498032"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781081227432"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "149",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781081227432"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.282",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41268909M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T12:14:47.576209"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781717771773"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "173",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781717771773"
+      ],
+      "title": "Spinning Wheel Stories",
+      "weight": "0.318",
+      "full_title": "Spinning Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41333903M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T23:33:33.056228"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781794096141"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "112",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781794096141"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.241",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL41082456M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-23T06:22:54.265479"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781729023358"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "252",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781729023358"
+      ],
+      "title": "Spinning-Wheel Stories",
+      "weight": "0.373",
+      "full_title": "Spinning-Wheel Stories",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL40729792M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T21:38:14.393693"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781521237687"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "151",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781521237687"
+      ],
+      "title": "Spinning-Wheel Stories (Annotated and Illustrated)",
+      "weight": "0.286",
+      "full_title": "Spinning-Wheel Stories (Annotated and Illustrated)",
+      "works": [
+        {
+          "key": "/works/OL30046W"
+        }
+      ],
+      "key": "/books/OL40688667M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T15:12:13.884214"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:11:14.135298"
+      }
+    }
+  ]
+}

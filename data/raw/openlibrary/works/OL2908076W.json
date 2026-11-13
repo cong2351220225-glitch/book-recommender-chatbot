@@ -1,0 +1,27 @@
+{
+  "key": "/works/OL2908076W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T01:01:43.946176"
+  },
+  "title": "Rhetoric and Ethics",
+  "first_publish_date": "August 1991",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-07T03:15:20.473631"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL443036A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 38084926,
+  "revision": 2
+}

@@ -1,0 +1,50 @@
+{
+  "subtitle": "Containing his rise and progress in roguery ... In which all his intrigues, plots and artifices are accounted for, and laid open. Intermix'd with variety of diverting stories.",
+  "key": "/works/OL45129W",
+  "title": "The life of Jonathan Wild, from his birth to his death",
+  "subject_people": [
+    "Jonathan Wild (1682?-1725)"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18283A"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL15801420A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL4770882A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    6530762
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:23:34.130855"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-04T16:39:46.752830"
+  }
+}

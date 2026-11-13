@@ -1,0 +1,67 @@
+{
+  "links": {
+    "self": "/works/OL530060W/editions.json",
+    "work": "/works/OL530060W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Second Edition"
+      },
+      "title": "Mais With Au Cd-rom And Workbook And Cd-rom Program",
+      "authors": [
+        {
+          "key": "/authors/OL37383A"
+        }
+      ],
+      "publish_date": "August 16, 2000",
+      "publishers": [
+        "Houghton Mifflin Company"
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Foreign Language Study / General",
+        "French",
+        "Foreign Language Study",
+        "Foreign Language - Dictionaries / Phrase Books",
+        "Language"
+      ],
+      "edition_name": "2 edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780618129393"
+      ],
+      "isbn_10": [
+        "0618129391"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0618129391"
+      ],
+      "key": "/books/OL10987140M",
+      "works": [
+        {
+          "key": "/works/OL530060W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-12T04:34:08.964030"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "birth_date": "1962-08-10",
+  "name": "Suzanne Collins",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part32.utf8:143699025:1373",
+    "ia:devloek0000coll",
+    "amazon:818477169X",
+    "amazon:1760976156",
+    "amazon:6073807856",
+    "amazon:1407142682",
+    "amazon:9124135879",
+    "amazon:9876091654",
+    "amazon:1531831281",
+    "bwb:9781536425529",
+    "bwb:9781623150259",
+    "promise:bwb_daily_pallets_2023-02-08:KS-099-865",
+    "amazon:8427208405",
+    "amazon:8372789983",
+    "promise:bwb_daily_pallets_2024-10-21:W9-CTO-927",
+    "promise:bwb_daily_pallets_2022-05-23",
+    "amazon:849868403X"
+  ],
+  "bio": "American author of young adult literature, whose works include *The Hunger Games* trilogy and *The Underland Chronicles* series. The daughter of an Air Force officer, she lives in her native home of Connecticut.",
+  "photos": [
+    7026950,
+    -1
+  ],
+  "links": [
+    {
+      "title": "suzannecollinsbooks.com",
+      "url": "http://www.suzannecollinsbooks.com/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "remote_ids": {
+    "viaf": "150638554",
+    "isni": "0000000101214703",
+    "wikidata": "Q228624",
+    "bookbrainz": "e5fb00de-b1e2-4c56-91a5-d167c267a1fc",
+    "musicbrainz": "e7b9a380-237b-4c2d-9ac3-ba7d9fe4effc",
+    "goodreads": "153394",
+    "imdb": "nm1056741",
+    "lc_naf": "n2010078950",
+    "librarything": "collinssuzanne-1",
+    "opac_sbn": "RMSV447668",
+    "storygraph": "63512494-297a-46b4-b1cb-c0338dd29912",
+    "gnd": "130042161"
+  },
+  "personal_name": "Suzanne Collins",
+  "key": "/authors/OL1394359A",
+  "type": {
+    "key": "/type/author"
+  },
+  "alternate_names": [
+    "S. Kollinz",
+    "Collins  Suzanne",
+    "collins suzanne",
+    "Kollinz S."
+  ],
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-29T20:30:13.961022"
+  }
+}

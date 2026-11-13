@@ -1,0 +1,27 @@
+{
+  "title": "Mais With Au Cd-rom And Workbook And Cd-rom Program",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:32:56.592105"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-01-15T06:06:07.426310"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL530060W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL37383A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

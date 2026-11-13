@@ -1,0 +1,62 @@
+{
+  "links": {
+    "self": "/works/OL25752945W/editions.json",
+    "work": "/works/OL25752945W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9736227A"
+        }
+      ],
+      "isbn_13": [
+        "9781911423577"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "DA89.1.B4"
+      ],
+      "publish_date": "2019",
+      "publishers": [
+        "Taylor & Francis Group"
+      ],
+      "source_records": [
+        "bwb:9781911423577"
+      ],
+      "subjects": [
+        "Admirals",
+        "Great britain, history"
+      ],
+      "title": "Beatty Papers : Selections from the Private and Official Correspondence of Admiral of the Fleet Earl Beatty : V. 1",
+      "weight": "1.159",
+      "pagination": "626",
+      "subtitle": "1902-18",
+      "full_title": "Beatty Papers : Selections from the Private and Official Correspondence of Admiral of the Fleet Earl Beatty : V. 1 1902-18",
+      "works": [
+        {
+          "key": "/works/OL25752945W"
+        }
+      ],
+      "key": "/books/OL34657640M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-06T22:06:52.988612"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-06T22:06:52.988612"
+      }
+    }
+  ]
+}

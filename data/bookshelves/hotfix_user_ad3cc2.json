@@ -1,0 +1,27 @@
+{
+  "username": "hotfix_user_ad3cc2",
+  "items": {
+    "book_001_reading_8e89cc": {
+      "id": "book_001_reading_8e89cc",
+      "book_id": "book_001",
+      "status": "reading",
+      "progress_page": 90,
+      "total_pages": 300,
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-02T18:29:43.204599",
+      "updated_at": "2026-11-02T18:29:43.301516"
+    },
+    "book_002_reading_c443e6": {
+      "id": "book_002_reading_c443e6",
+      "book_id": "book_002",
+      "status": "reading",
+      "progress_page": 150,
+      "total_pages": 200,
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-02T18:29:43.247459",
+      "updated_at": "2026-11-02T18:29:43.247459"
+    }
+  }
+}

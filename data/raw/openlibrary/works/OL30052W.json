@@ -1,0 +1,61 @@
+{
+  "subtitle": "a novel",
+  "title": "Moods",
+  "covers": [
+    5923098,
+    9006076,
+    11733243,
+    11901127,
+    9177618
+  ],
+  "first_publish_date": "1864",
+  "key": "/works/OL30052W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9644714A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "American fiction (fictional works by one author)",
+    "Fiction, general",
+    "Love stories",
+    "Marriage",
+    "Juvenile fiction",
+    "American fiction",
+    "Amerikaanse fiksie"
+  ],
+  "location": "/works/OL20341287W",
+  "description": {
+    "type": "/type/text",
+    "value": "Sylvia Yule marries one of her brother's two best friends, only to discover she has chosen the wrong man."
+  },
+  "genres": [
+    "/tags/OL177T"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T13:20:25.072254"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Basic Maintenance Manual",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-06-29T16:06:06.471009"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2016-06-29T16:06:06.471009"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL17351657W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7215741A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

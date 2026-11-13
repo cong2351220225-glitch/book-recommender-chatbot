@@ -1,0 +1,76 @@
+{
+  "title": "Hai gui hui ju Zhongguancun",
+  "subtitle": "Overseas returnees' gathering in Zhongguancun",
+  "authors": [
+    {
+      "key": "/authors/OL9076101A"
+    }
+  ],
+  "publish_date": "2006",
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_country": "cc",
+  "languages": [
+    {
+      "key": "/languages/chi"
+    }
+  ],
+  "lccn": [
+    "2009425119"
+  ],
+  "oclc_numbers": [
+    "182401433"
+  ],
+  "lc_classifications": [
+    "HC426.5.A2 H35 2006"
+  ],
+  "other_titles": [
+    "Overseas returnees' gathering in Zhongguancun."
+  ],
+  "edition_name": "Di 1 ban",
+  "subjects": [
+    "Chief executive officers",
+    "Biography",
+    "Return migration"
+  ],
+  "subject_places": [
+    "China",
+    "Beijing",
+    "Zhongguancun Kejiyuanqu (Beijing, China.)"
+  ],
+  "by_statement": "Xia Yingqi zhu bian",
+  "publishers": [
+    "Zhongguo fa zhan chu ban she"
+  ],
+  "publish_places": [
+    "Beijing Shi"
+  ],
+  "isbn_10": [
+    "7800879607"
+  ],
+  "isbn_13": [
+    "9787800879609"
+  ],
+  "pagination": "4, 6, 390 p.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part36.utf8:279062172:1239"
+  ],
+  "key": "/books/OL31824043M",
+  "number_of_pages": 390,
+  "works": [
+    {
+      "key": "/works/OL24131580W"
+    }
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-12-23T21:41:14.809450"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-29T06:45:22.786624"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "1"
+  },
+  "title": "Mining and Milling Methods and Costs at the Summitville Consolidated Mines, Inc., Summitville, Colo.",
+  "authors": [
+    {
+      "key": "/authors/OL160635A"
+    }
+  ],
+  "publish_date": "1938",
+  "publishers": [
+    "s.n"
+  ],
+  "series": [
+    "Information circular (United States. Bureau of Mines) -- 6990"
+  ],
+  "contributions": [
+    "Guiteras, J."
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_places": [
+    "S.l"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "marc:marc_laurentian/openlibrary.mrc:494619315:827"
+  ],
+  "key": "/books/OL21737333M",
+  "works": [
+    {
+      "key": "/works/OL1509930W"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-11-03T18:55:06.251770"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-05T07:20:35.422846"
+  }
+}

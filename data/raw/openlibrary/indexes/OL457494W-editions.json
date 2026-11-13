@@ -1,0 +1,109 @@
+{
+  "links": {
+    "self": "/works/OL457494W/editions.json",
+    "work": "/works/OL457494W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Slavic Research Group, University of Ottawa"
+      ],
+      "subtitle": "selected correspondence",
+      "isbn_10": [
+        "0889273340"
+      ],
+      "series": [
+        "Tolstoy series -- 8"
+      ],
+      "pagination": "x, 298 p. :",
+      "lc_classifications": [
+        "PG3379.A2 E5 2008"
+      ],
+      "key": "/books/OL16950148M",
+      "authors": [
+        {
+          "key": "/authors/OL26783A"
+        }
+      ],
+      "publish_places": [
+        "Ottawa"
+      ],
+      "contributions": [
+        "Donskov, Andrew, 1939-",
+        "Woodsworth, John, 1944-",
+        "University of Ottawa. Slavic Research Group."
+      ],
+      "isbn_13": [
+        "9780889273344"
+      ],
+      "genres": [
+        "Correspondence.",
+        "Translations into English.",
+        "Correspondance."
+      ],
+      "title": "Leo Tolstoy and Russian peasant sectarian writers",
+      "dewey_decimal_class": [
+        "891.73/3"
+      ],
+      "oclc_number": [
+        "198529318"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 277-291) and index."
+      },
+      "number_of_pages": 298,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2008411279"
+      ],
+      "subjects": [
+        "Tolstoy, Leo, -- graf, -- 1828-1910 -- Correspondence.",
+        "Tolstoy, Leo, -- graf, -- 1828-1910 -- Translations into English.",
+        "Tolstoï, Léon, -- 1828-1910 -- Correspondance.",
+        "Peasants' writings, Russian.",
+        "Peasants as authors -- Russia -- History.",
+        "Authors, Russian -- 19th century -- Correspondence.",
+        "Dissenters, Religious -- Russia -- History -- 19th century.",
+        "Écrits de paysans russes.",
+        "Paysans écrivains -- Russie -- Histoire.",
+        "Écrivains russes -- 19e siècle -- Correspondance.",
+        "Dissidents (Religion) -- Russie -- Histoire -- 19e siècle."
+      ],
+      "publish_date": "2008",
+      "publish_country": "onc",
+      "by_statement": "edited and with an introduction by Andrew Donskov ; correspondence translated from the Russian by John Woodsworth.",
+      "works": [
+        {
+          "key": "/works/OL457494W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part35.utf8:263135069:1919",
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:37552929:1936",
+        "marc:harvard_bibliographic_metadata/20220215_046.bib.mrc:242842420:3368"
+      ],
+      "oclc_numbers": [
+        "198529318"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T19:15:16.773687"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-06T01:46:19.274398"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "subtitle": "Hearings Before a Subcommittee of the Committe",
+  "title": "Science, the Departments of State, Justice, and Commerce, and Related Agencies Appropriations for 2007",
+  "key": "/works/OL76045W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18485A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Appropriations and expenditures",
+    "Appropriations and expenditures, 2007",
+    "United States. Department of State",
+    "United States",
+    "United States. Department of Justice",
+    "United States. Department of Commerce",
+    "United states, appropriations and expenditures",
+    "United states, department of commerce",
+    "United states, department of state"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T10:05:09.889767"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-01-31T02:21:56.020260"
+  }
+}

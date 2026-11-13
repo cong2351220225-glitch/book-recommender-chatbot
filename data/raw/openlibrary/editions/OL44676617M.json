@@ -1,0 +1,70 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "1984",
+  "publish_country": "dcu",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL258059A"
+    }
+  ],
+  "oclc_numbers": [
+    "11473430"
+  ],
+  "lc_classifications": [
+    "HV6133 .M66 1984"
+  ],
+  "series": [
+    "Research in brief",
+    "Research in brief"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Caption title.\n\n\"September 1984.\"\n\nIncludes bibliographical references (p. [5])."
+  },
+  "contributions": [
+    "Steadman, Henry J.",
+    "National Institute of Justice (U.S.)"
+  ],
+  "subjects": [
+    "People with mental disabilities and crime"
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "title": "Crime and mental disorder",
+  "by_statement": "John Monahan and Henry J. Steadman",
+  "publishers": [
+    "U.S. Dept. of Justice, National Institute of Justice"
+  ],
+  "publish_places": [
+    "Washington, D.C"
+  ],
+  "pagination": "1 folded sheet (6 p.)",
+  "source_records": [
+    "marc:marc_columbia/Columbia-extract-20221130-022.mrc:108328929:1402"
+  ],
+  "full_title": "Crime and mental disorder",
+  "works": [
+    {
+      "key": "/works/OL2093551W"
+    }
+  ],
+  "key": "/books/OL44676617M",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-12-21T11:51:14.685057"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-21T11:51:14.685057"
+  }
+}

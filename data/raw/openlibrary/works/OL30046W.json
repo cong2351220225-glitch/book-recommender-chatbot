@@ -1,0 +1,52 @@
+{
+  "title": "Spinning-wheel stories",
+  "covers": [
+    5662873,
+    -1,
+    9009964,
+    11161453,
+    9011618,
+    10887816
+  ],
+  "first_publish_date": "1884",
+  "key": "/works/OL30046W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Juvenile literature",
+    "Conduct of life",
+    "Children's stories",
+    "Family",
+    "Families",
+    "Short stories",
+    "Fiction, general",
+    "Fiction, short stories (single author)",
+    "Children",
+    "Juvenile fiction"
+  ],
+  "location": "/works/OL20344870W",
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-12-25T03:04:20.442433"
+  }
+}

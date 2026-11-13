@@ -1,0 +1,33 @@
+{
+  "name": "Elizabeth George",
+  "personal_name": "Elizabeth George",
+  "photos": [
+    7279367
+  ],
+  "remote_ids": {
+    "viaf": "114891447",
+    "wikidata": "Q236727",
+    "isni": "0000000109379414",
+    "bookbrainz": "2aaca0c7-1af9-4d4c-b415-64d1331a6a2d",
+    "musicbrainz": "2b376c49-c158-4cfe-b2f6-3786831b7b1d",
+    "goodreads": "1402383",
+    "imdb": "nm1109249",
+    "lc_naf": "n87935803",
+    "opac_sbn": "CFIV089937"
+  },
+  "birth_date": "1949",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL6773701A",
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-01-05T21:36:14.422430"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-01T01:07:32.749588"
+  }
+}

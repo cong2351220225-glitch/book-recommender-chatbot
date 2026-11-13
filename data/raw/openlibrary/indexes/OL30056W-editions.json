@@ -1,0 +1,2356 @@
+{
+  "links": {
+    "self": "/works/OL30056W/editions.json",
+    "work": "/works/OL30056W",
+    "next": "/works/OL30056W/editions.json?offset=50"
+  },
+  "size": 448,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798727557587"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "101",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798727557587"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.164",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49164518M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T12:29:18.480654"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342413"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342413"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Flower Fables",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49317855M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:27:20.513948"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342406"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342406"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Flower Fables",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49319720M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:42:53.563488"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342390"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342390"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Flower Fables",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49321779M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:59:09.939465"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798478177942"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798478177942"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49009947M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T02:53:54.679139"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798717882163"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "88",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798717882163",
+        "promise:bwb_daily_pallets_2024-05-29:P9-CDG-158"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.150",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49129783M",
+      "local_id": [
+        "urn:bwbsku:P9-CDG-158"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B002CJACXM"
+        ],
+        "better_world_books": [
+          "BWBM59897315"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T10:17:17.531167"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-31T05:29:57.781485"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798463535023"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "125",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798463535023"
+      ],
+      "title": "Flower Fables Illustreted",
+      "weight": "0.218",
+      "full_title": "Flower Fables Illustreted",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48947393M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T22:59:30.857791"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798730631786"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "101",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798730631786"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.205",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48516603M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T02:38:14.312284"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842436640"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842436640"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.123",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48694939M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T09:35:02.859475"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798655131132"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "144",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798655131132"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.168",
+      "subtitle": "Pocket Edition",
+      "full_title": "Flower Fables Pocket Edition",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48377453M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:17:22.339458"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798745773952"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "97",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798745773952"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.159",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48415097M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:04:18.994580"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798740083810"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "63",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798740083810"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.118",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48419447M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:16:39.495167"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721526367"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "82",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721526367"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48419623M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:17:07.945968"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798740083926"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "60",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798740083926"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.168",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48451530M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T22:54:25.661477"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527527902"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "108",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527527902"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.268",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48492112M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T01:23:24.486874"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798537860600"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "174",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798537860600"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.250",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48523153M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T02:58:59.477673"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527528442"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "166",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527528442"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.250",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48532616M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T03:30:55.077167"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798727491140"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "101",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798727491140"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.205",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48542612M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T03:59:07.469055"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798451155448"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798451155448"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL48871175M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T18:00:35.927971"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798476599333"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "128",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798476599333"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL49022179M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T03:36:57.426037"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B0BW2H5NKG"
+        ],
+        "better_world_books": [
+          "BWBM53507622"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:T3-AGI-065"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-25:T3-AGI-065",
+        "bwb:9798604204610",
+        "bwb:9798579294333",
+        "bwb:9798617629080"
+      ],
+      "title": "Flower Fables",
+      "subtitle": "Perfect Books Studio Edition",
+      "full_title": "Flower Fables Perfect Books Studio Edition",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL47684983M",
+      "publishers": [
+        "Independently Published"
+      ],
+      "publish_date": "2020",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T18:00:21.512353"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607222581"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "107",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607222581"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.214",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46805328M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T19:13:41.741104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798366777667"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "80",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798366777667"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.173",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46786562M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T17:55:54.020828"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798625126632"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "97",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798625126632"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.159",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46833155M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T20:51:12.352679"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798642383438"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "95",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798642383438"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.309",
+      "subtitle": "Large Print",
+      "full_title": "Flower Fables Large Print",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46698381M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T12:21:34.500917"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798809868327"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798809868327"
+      ],
+      "title": "Flower Fables: (Finest Illustration Edition)",
+      "weight": "0.218",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46641848M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T09:05:04.678176"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798842859511"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "105",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798842859511"
+      ],
+      "title": "Flower Fables : (Finest Illustration)",
+      "weight": "0.214",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46377963M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-18T00:46:24.159590"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798366778060"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "95",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798366778060"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.250",
+      "subtitle": "Square Sized Edition",
+      "full_title": "Flower Fables Square Sized Edition",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46205571M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T14:47:02.506703"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1909",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "13467917"
+      ],
+      "lc_classifications": [
+        "PS1017 .F6 1909"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Illustrated title page, in color.\n\nGift; Rachel Anderson."
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Six stories and three poems relate the adventures of the fairy folk and their friends, the flowers."
+      },
+      "contributions": [
+        "Comstock, Frances Bassett, b. 1881"
+      ],
+      "subjects": [
+        "Fairies",
+        "Literary collections",
+        "Flowers"
+      ],
+      "title": "Flower fables",
+      "by_statement": "by Louisa May Alcott ; decorations by Frances Bassett Comstock",
+      "publishers": [
+        "McLoughlin Bros."
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "176 p.",
+      "number_of_pages": 176,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131315344:953"
+      ],
+      "full_title": "Flower fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL45013956M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:04:25.299970"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944107"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944107"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Flower Fables",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL44228218M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T16:36:48.024948"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781681952727"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "78",
+      "publish_date": "2015",
+      "publishers": [
+        "Xist Publishing"
+      ],
+      "source_records": [
+        "bwb:9781681952727"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Flower Fables",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL46098982M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T08:31:37.521086"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1895",
+      "copyright_date": "1895",
+      "publish_country": "pau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "series": [
+        "Altemus' young people's library",
+        "Nineteenth Century Collections Online: Children's Literature and Childhood"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "With thirty-four illustrations.\n\nReproduction of the original from the Baldwin Library of Historical Children's Literature, George A. Smathers Libraries, University of Florida."
+      },
+      "links": [
+        {
+          "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio15656628",
+          "title": "Gale, Nineteenth Century Collections Online"
+        }
+      ],
+      "subjects": [
+        "Conduct of life",
+        "Juvenile literature",
+        "Fairies"
+      ],
+      "title": "Flower fables",
+      "by_statement": "by Louisa May Alcott",
+      "publishers": [
+        "Henry Altemus Company"
+      ],
+      "publish_places": [
+        "Philadelphia"
+      ],
+      "pagination": "1 online resource (210 pages)",
+      "number_of_pages": 210,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:73396301:1386"
+      ],
+      "full_title": "Flower fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL43830940M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T04:16:32.837683"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798834528937"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "116",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798834528937"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.227",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL44334710M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-18T01:10:55.692559"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1906",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "502421547"
+      ],
+      "series": [
+        "The Editha series. New ed -- 26",
+        "Editha series -- 26."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Title in red and black.\n\nIllustrated lining-papers."
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Six stories and three poems relate the adventures of the fairy folk and their friends, the flowers."
+      },
+      "subjects": [
+        "Fairies",
+        "Literary collections",
+        "Flowers"
+      ],
+      "title": "Flower fables",
+      "by_statement": "by Louisa M. Alcott",
+      "publishers": [
+        "H.M. Caldwell Co."
+      ],
+      "publish_places": [
+        "New York",
+        "Boston"
+      ],
+      "pagination": "178 p., [1] leaf of plates",
+      "number_of_pages": 178,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:136284899:1242"
+      ],
+      "full_title": "Flower fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL43359512M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T12:10:30.141102"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798352885161"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "95",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798352885161"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.241",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42711287M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T09:29:07.228787"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798716783058"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "89",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798716783058"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.150",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42528370M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T21:54:21.425163"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798549518308"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "125",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798549518308"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42574691M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T00:59:53.145581"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798547487781"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "125",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798547487781"
+      ],
+      "title": "Flower Fables Illustreted",
+      "weight": "0.218",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42518395M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T19:41:06.671134"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798735438144"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798735438144"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.218",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42398221M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T00:52:16.136930"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798574899441"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798574899441"
+      ],
+      "title": "Flower Fables Illustrted",
+      "weight": "0.218",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42304140M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T10:08:15.384478"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721526374"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "100",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721526374"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.182",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42267888M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T04:36:32.034740"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798655131095"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "144",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798655131095"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.273",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42269050M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T04:47:09.678522"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798745773969"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "91",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798745773969"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.232",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42330571M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T14:11:15.888516"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634900469"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "217",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634900469"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.391",
+      "subtitle": "Large Print",
+      "full_title": "Flower Fables Large Print",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42255570M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T02:43:45.294537"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798624861206"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "97",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798624861206"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.314",
+      "subtitle": "Large Print",
+      "full_title": "Flower Fables Large Print",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL41996931M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T07:38:57.147734"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781676727286"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "98",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781676727286"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.250",
+      "subtitle": "Large Print",
+      "full_title": "Flower Fables Large Print",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42027411M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:16:10.482512"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798642489499"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "104",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798642489499"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.327",
+      "subtitle": "Large Print",
+      "full_title": "Flower Fables Large Print",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42029842M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:43:37.969322"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798678845894"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "105",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798678845894"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.214",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42049220M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T16:04:13.824386"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798640331868"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "65",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798640331868"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.227",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42152380M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T09:37:10.025141"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798623599506"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "94",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798623599506"
+      ],
+      "title": "Flower Fables",
+      "weight": "0.195",
+      "full_title": "Flower Fables",
+      "works": [
+        {
+          "key": "/works/OL30056W"
+        }
+      ],
+      "key": "/books/OL42191889M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T16:28:39.338872"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:29:04.761668"
+      }
+    }
+  ]
+}

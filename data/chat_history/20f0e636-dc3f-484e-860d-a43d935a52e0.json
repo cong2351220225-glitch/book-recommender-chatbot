@@ -1,0 +1,20 @@
+{
+  "id": "20f0e636-dc3f-484e-860d-a43d935a52e0",
+  "title": "Thư viện hiện có bao nhiêu cuốn sách?",
+  "timestamp": "2026-11-03 03:02:42",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thư viện hiện có bao nhiêu cuốn sách?",
+      "timestamp": "03:02"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm thư viện ở khu vực, thành phố hoặc quận nào? (Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn)",
+      "timestamp": "03:02",
+      "sources": [],
+      "locations": [],
+      "intent": "location_library"
+    }
+  ]
+}

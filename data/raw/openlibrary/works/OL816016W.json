@@ -1,0 +1,47 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Learn to Read with Clifford and His Friends\r\n\r\n In this story, we are learning about the \"or\" sounds as in \"horn\" or \"fort.\""
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-02-13T13:54:21.747708"
+  },
+  "title": "Good Sports (Clifford the Big Red Dog Phonics Fun Reading Program, Book 2)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T04:46:50.760843"
+  },
+  "covers": [
+    277661
+  ],
+  "subjects": [
+    "Reading",
+    "Phonetic method",
+    "Fiction",
+    "Reading (Primary)",
+    "Reading readiness",
+    "Reading (Preschool.)",
+    "Clifford (Fictitious character : Bridwell)",
+    "Dogs"
+  ],
+  "subject_people": [
+    "Clifford the Big Red Dog"
+  ],
+  "key": "/works/OL816016W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL68744A"
+      }
+    }
+  ],
+  "latest_revision": 13,
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 13
+}

@@ -1,0 +1,39 @@
+{
+  "description": "Contains:\r\n\r\n - [The Gunslinger][1]\r\n - [The Drawing of the Three][2]\r\n - [The Waste Lands][3]\r\n\r\n\r\n  [1]: https://openlibrary.org/works/OL81628W/The_Gunslinger\r\n  [2]: https://openlibrary.org/works/OL81616W/The_Drawing_of_the_Three\r\n  [3]: https://openlibrary.org/works/OL81625W/The_Waste_Lands",
+  "covers": [
+    14654089,
+    8587791,
+    13892904
+  ],
+  "first_publish_date": "October 1992",
+  "key": "/works/OL149174W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL19981A"
+      }
+    }
+  ],
+  "title": "The Dark Tower (Gunslinger / Drawing of the Three / Waste Lands)",
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, fantasy, epic",
+    "Dark tower (imaginary place), fiction",
+    "Roland (fictitious character : king), fiction"
+  ],
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-19T22:33:49.992711"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-08-19T06:31:00.305024"
+  }
+}

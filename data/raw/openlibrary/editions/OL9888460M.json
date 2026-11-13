@@ -1,0 +1,78 @@
+{
+  "identifiers": {
+    "librarything": [
+      "1509"
+    ],
+    "goodreads": [
+      "3410934"
+    ]
+  },
+  "title": "Roald Dahl's Book of Ghost Stories (Mainstream Series)",
+  "subtitle": "A selection of classic chillers, chosen by the master of macabre.",
+  "authors": [
+    {
+      "key": "/authors/OL34184A"
+    }
+  ],
+  "publish_date": "October 1987",
+  "publishers": [
+    "Isis Large Print Books"
+  ],
+  "covers": [
+    9159709
+  ],
+  "physical_format": "Hardcover",
+  "subjects": [
+    "Ghosts",
+    "Fiction - Horror",
+    "Large Print",
+    "Ghost",
+    "Fiction",
+    "Short stories"
+  ],
+  "edition_name": "Largeprint edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": [
+    "promise:bwb_daily_pallets_2022-03-25:P7-DHN-235",
+    "ia:roalddahlsbookof00roal",
+    "promise:bwb_daily_pallets_2021-06-01:T2-AOF-534"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "ocaid": "roalddahlsbookof00roal",
+  "isbn_10": [
+    "1850891788"
+  ],
+  "isbn_13": [
+    "9781850891789"
+  ],
+  "oclc_numbers": [
+    "15660682"
+  ],
+  "local_id": [
+    "urn:bwbsku:P7-DHN-235",
+    "urn:bwbsku:T2-AOF-534"
+  ],
+  "key": "/books/OL9888460M",
+  "number_of_pages": 317,
+  "works": [
+    {
+      "key": "/works/OL45842W"
+    }
+  ],
+  "latest_revision": 19,
+  "revision": 19,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-28T12:54:33.691718"
+  }
+}

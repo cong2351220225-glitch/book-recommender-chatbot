@@ -1,0 +1,25 @@
+{
+  "title": "Jāne bhora kahāṃ ho jāye",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:27:25.905327"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:27:25.905327"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL1081691W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL111899A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T14:53:52.729159"
+  },
+  "title": "Computer programming in BASIC the easy way",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T14:53:52.729159"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL32152W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL27901A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34799631,
+  "revision": 1
+}

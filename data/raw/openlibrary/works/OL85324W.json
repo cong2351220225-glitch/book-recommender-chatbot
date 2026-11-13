@@ -1,0 +1,31 @@
+{
+  "title": "Physics for Scientists and Engineers (Study Guide and Student Solutions Manual)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T08:18:55.483183"
+  },
+  "covers": [
+    81747
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T09:44:07.374335"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL85324W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL29129A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34885728,
+  "revision": 2
+}

@@ -1,0 +1,70 @@
+{
+  "links": {
+    "self": "/works/OL1081691W/editions.json",
+    "work": "/works/OL1081691W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Ākāṅkshā Prakāśana"
+      ],
+      "lc_classifications": [
+        "PK2098.39.R5194 J36 1993"
+      ],
+      "key": "/books/OL1256033M",
+      "authors": [
+        {
+          "key": "/authors/OL111899A"
+        }
+      ],
+      "publish_places": [
+        "Ludhiyānā"
+      ],
+      "edition_name": "1. saṃskaraṇa.",
+      "pagination": "112 p. ;",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part24.utf8:74015987:639",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:247670734:883"
+      ],
+      "title": "Jāne bhora kahāṃ ho jāye",
+      "lccn": [
+        "94906207"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Poems.\nIn Hindi."
+      },
+      "number_of_pages": 112,
+      "languages": [
+        {
+          "key": "/languages/hin"
+        }
+      ],
+      "publish_date": "1993",
+      "publish_country": "ii ",
+      "by_statement": "Śakuntalā Śrīvāstava.",
+      "works": [
+        {
+          "key": "/works/OL1081691W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "32202570"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-18T04:46:53.650990"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL28174A"
+    }
+  ],
+  "isbn_13": [
+    "9781536433890"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "96",
+  "publish_date": "2005",
+  "publishers": [
+    "HarperCollins Publishers"
+  ],
+  "source_records": [
+    "bwb:9781536433890"
+  ],
+  "title": "Miss Lazar Is Bizarre!",
+  "full_title": "Miss Lazar Is Bizarre!",
+  "works": [
+    {
+      "key": "/works/OL41333W"
+    }
+  ],
+  "key": "/books/OL37481429M",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-03-02T04:09:24.010757"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-09-15T17:56:17.677165"
+  }
+}

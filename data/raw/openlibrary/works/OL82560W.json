@@ -1,0 +1,216 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "covers": [
+    12059372,
+    -1,
+    10447762,
+    10547038,
+    10547039,
+    11217403,
+    13942135,
+    12998627,
+    14171588
+  ],
+  "key": "/works/OL82560W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL23919A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "The fourth book in the Harry Potter franchise sees Harry returning for his fourth year at Hogwarts School of Witchcraft and Wizardry, along with his friends, Ron and Hermione . There is an upcoming tournament between the three major schools of magic, with one participant selected from each school by the Goblet of Fire. When Harry's name is drawn, even though he is not eligible and is a fourth player, he must compete in the dangerous contest.\r\n\r\n---\r\n\r\nContains:\r\n\r\n- [Harry Potter and the Goblet of Fire. 2/4](https://openlibrary.org/works/OL17910198W/Harry_Potter_and_the_Goblet_of_Fire._2_4)"
+  },
+  "links": [
+    {
+      "title": "Wikipedia entry",
+      "url": "http://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "jkrowling.com/book/harry-potter-goblet-fire/",
+      "url": "https://www.jkrowling.com/book/harry-potter-goblet-fire/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire by J K Rowling - review (The Guardian)",
+      "url": "https://www.theguardian.com/childrens-books-site/2014/apr/28/review-j-k-rowling-harry-potter-and-the-goblet-of-fire",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Official page by Scholastic",
+      "url": "http://harrypotter.scholastic.com/goblet_of_fire/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Official page by Bloomsbury",
+      "url": "https://harrypotter.bloomsbury.com/uk/bookshop/thebooks/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "subject_places": [
+    "England",
+    "Angleterre",
+    "Hogwarts School of Witchcraft and Wizardry",
+    "Privet Drive"
+  ],
+  "subjects": [
+    "orphans",
+    "foster homes",
+    "Waisenkind",
+    "Intrige",
+    "Wiederbelebung",
+    "Bewährung",
+    "Wettkampf",
+    "Junge",
+    "Sport",
+    "Rettung",
+    "Jugendbuch",
+    "Mord",
+    "magier",
+    "fictitious schools",
+    "juvenile works",
+    "juvenile audience",
+    "juvenile literature",
+    "children's stories",
+    "Fiction",
+    "Hugo Award Winner",
+    "Wizards",
+    "New York Times bestseller",
+    "nyt:series_books=2006-09-16",
+    "Schools",
+    "award:hugo_award=novel",
+    "School",
+    "Magic",
+    "Open Library Staff Picks",
+    "Sorcellerie",
+    "Écoles",
+    "award:hugo_award=2001",
+    "Sorciers",
+    "Romans nouvelles etc. pour la jeunesse",
+    "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+    "Hermione Granger (Fictitious character)",
+    "Juvenile fiction",
+    "Ron Weasley (Fictitious character)",
+    "Harry Potter (Fictitious character)",
+    "Magia",
+    "Magos",
+    "Ficción juvenil",
+    "Escuelas",
+    "Ficción",
+    "Translations from English",
+    "Magi",
+    "Chinese fiction",
+    "Family",
+    "Fantasy fiction",
+    "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+    "Orphans & Foster Homes",
+    "Social Themes",
+    "Fantasy & Magic",
+    "Friendship",
+    "Hugo Award",
+    "School stories",
+    "Harry Potter (Fictional character)",
+    "Reading Level-Grade 9",
+    "Reading Level-Grade 11",
+    "Reading Level-Grade 10",
+    "Reading Level-Grade 12",
+    "Large type books",
+    "Potter, harry (fictitious character), fiction",
+    "Children's fiction",
+    "England, fiction",
+    "Schools, fiction",
+    "Wizards, fiction",
+    "Magic, fiction",
+    "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+    "English literature",
+    "Potter, harry (fictitious character)",
+    "Fantasy",
+    "Juvenile films",
+    "Drama",
+    "Películas cinematográficas juveniles",
+    "Film adaptations",
+    "Hechiceros",
+    "Potter, Harry (Personaje literario)",
+    "Novela juvenil",
+    "Inglaterra",
+    "Novelas inglesas",
+    "Children's stories, English",
+    "Adventure and adventurers, fiction",
+    "Action & Adventure",
+    "Friendship, fiction",
+    "Poudlard (Organisation imaginaire)",
+    "Romans, nouvelles, etc. pour la jeunesse",
+    "French language",
+    "Reading materials",
+    "Korean language materials",
+    "Angol irodalom",
+    "Ifjúsági regény",
+    "English Fantasy literature",
+    "Translations into Marathi"
+  ],
+  "subject_people": [
+    "Harry Potter",
+    "Dumbledore",
+    "Hagrid",
+    "Ron Weasley",
+    "Hermione Granger",
+    "Hermine Granger",
+    "Ron Weasly",
+    "J. K. Rowling",
+    "Harry Potter (Fictitious character)"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "The villagers of Little Hangleton still called it 'the Riddle House,' even though it had been many years since the Riddle family had lived there.",
+      "comment": "first sentence",
+      "author": {
+        "key": "/people/seabelis"
+      }
+    }
+  ],
+  "subject_times": [
+    "2000-2009"
+  ],
+  "series": [
+    {
+      "series": {
+        "key": "/series/OL326110L"
+      },
+      "position": "4"
+    }
+  ],
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL167T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 38,
+  "revision": 38,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T07:07:29.461716"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-14T13:47:00.574444"
+  }
+}

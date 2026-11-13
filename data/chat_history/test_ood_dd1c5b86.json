@@ -1,0 +1,18 @@
+{
+  "id": "test_ood_dd1c5b86",
+  "title": "Thời tiết ngày mai ở thủ đô Berlin của n",
+  "timestamp": "2026-11-02 22:18:53",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thủ đô Berlin của nước Đức ra sao?",
+      "timestamp": "22:18"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, mình đang gặp trục trặc khi trả lời. Bạn thử nhắn lại cho mình nhé.",
+      "timestamp": "22:18",
+      "sources": []
+    }
+  ]
+}

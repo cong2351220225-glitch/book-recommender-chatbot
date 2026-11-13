@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781088172391"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "100",
+  "publish_date": "2023",
+  "publishers": [
+    "Indy Pub"
+  ],
+  "source_records": [
+    "bwb:9781088172391"
+  ],
+  "title": "Modern Cinderella and Other Stories",
+  "weight": "0.145",
+  "full_title": "Modern Cinderella and Other Stories",
+  "works": [
+    {
+      "key": "/works/OL30028W"
+    }
+  ],
+  "key": "/books/OL49613158M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-09-17T21:19:15.624056"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T15:47:31.678041"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "publishers": [
+    "Skylark"
+  ],
+  "number_of_pages": 119,
+  "weight": "2.4 ounces",
+  "covers": [
+    8869433,
+    8006636
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL7828976M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "source_records": [
+    "amazon:0553560077:bx:3684997185:203393",
+    "ia:dinosaurislandch00edw_jdn",
+    "marc:marc_loc_2016/BooksAll.2016.part39.utf8:100133937:1288",
+    "amazon:0553560077",
+    "bwb:9780553560077"
+  ],
+  "title": "Dinosaur Island",
+  "identifiers": {
+    "librarything": [
+      "1428499"
+    ],
+    "goodreads": [
+      "190933"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Adventure game-books / choose your own adventure",
+    "Specimens",
+    "Fiction",
+    "Children's 9-12 - Fiction - General",
+    "Children: Grades 3-4",
+    "General",
+    "Non-Classifiable",
+    "Dinosaurs",
+    "Plot-your-own stories"
+  ],
+  "publish_date": "July 1, 1993",
+  "works": [
+    {
+      "key": "/works/OL30086W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "6.8 x 4 x 0.5 inches",
+  "subtitle": "Choose Your Own Adventure #138",
+  "ocaid": "dinosaurislandch00edw_jdn",
+  "isbn_10": [
+    "0553560077"
+  ],
+  "isbn_13": [
+    "9780553560077"
+  ],
+  "lccn": [
+    "2011487679"
+  ],
+  "oclc_numbers": [
+    "28490614"
+  ],
+  "lc_classifications": [
+    "CPB Box no. 123 vol. 23",
+    "CPB"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-02-01T02:44:04.642680"
+  }
+}

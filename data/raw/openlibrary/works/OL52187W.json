@@ -1,0 +1,47 @@
+{
+  "title": "The correspondence of H.G. Wells",
+  "subject_places": [
+    "Great Britain"
+  ],
+  "subjects": [
+    "Correspondence",
+    "English Novelists",
+    "Journalists",
+    "Wells, h. g. (herbert george), 1866-1946",
+    "Authors, correspondence",
+    "Journalists, correspondence"
+  ],
+  "subject_people": [
+    "H. G. Wells (1866-1946)"
+  ],
+  "key": "/works/OL52187W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL13066A"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    13589064
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T16:30:47.596577"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-03-18T03:24:00.617994"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T06:47:05.979819"
+  },
+  "subjects": [
+    "English language",
+    "Etymology",
+    "Semantics",
+    "Words",
+    "History",
+    "Woordbetekenis",
+    "Wortschatz",
+    "Engels",
+    "Woorden",
+    "Historische semantiek",
+    "Aufsatzsammlung",
+    "English language, semantics",
+    "English language, etymology"
+  ],
+  "latest_revision": 5,
+  "key": "/works/OL71131W",
+  "title": "Studies in words",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL31574A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-03T15:06:33.815743"
+  },
+  "covers": [
+    9321730
+  ],
+  "revision": 5
+}

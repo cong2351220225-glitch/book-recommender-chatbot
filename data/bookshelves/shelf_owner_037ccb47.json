@@ -1,0 +1,16 @@
+{
+  "username": "shelf_owner_037ccb47",
+  "items": {
+    "book_001_favorite_f1247d": {
+      "id": "book_001_favorite_f1247d",
+      "book_id": "book_001",
+      "status": "favorite",
+      "progress_page": 0,
+      "total_pages": "320",
+      "rating": 0,
+      "notes": "Secret favorite",
+      "added_at": "2026-11-03T21:50:00.639618",
+      "updated_at": "2026-11-03T21:50:00.639618"
+    }
+  }
+}

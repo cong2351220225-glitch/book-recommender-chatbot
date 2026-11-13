@@ -1,0 +1,59 @@
+{
+  "subtitle": "A Christmas Story",
+  "description": {
+    "type": "/type/text",
+    "value": "The Quiet Little Woman, Tilly's Christmas, Rosa's Tale: Three Enchanting Stories by Louisa May Alcott"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-13T23:13:12.466915"
+  },
+  "title": "The quiet little woman",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "covers": [
+    796214
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Patty stood at the window looking thoughtfully down at a group of girls playing in the yard below."
+  },
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "Patty stood at the window looking thoughtfully down at a group of girls playing in the yard below."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "first_publish_date": "1999",
+  "latest_revision": 9,
+  "key": "/works/OL30019W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "American Christmas stories",
+    "Orphans",
+    "Fiction",
+    "Young women",
+    "Juvenile fiction"
+  ],
+  "revision": 9
+}

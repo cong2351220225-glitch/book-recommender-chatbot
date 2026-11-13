@@ -1,0 +1,27 @@
+{
+  "title": "Trees and Nonflowering Plants (North American Wildlife Field Guides)",
+  "key": "/works/OL8501258W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1714233A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:52:54.630162"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-23T13:17:33.258724"
+  }
+}

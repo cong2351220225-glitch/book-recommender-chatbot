@@ -1,0 +1,57 @@
+{
+  "key": "/works/OL30094W",
+  "title": "Alien Invaders",
+  "first_publish_date": "July 2000",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "collectionID:CYOAhawks",
+    "Children's fiction",
+    "Fantasy fiction",
+    "Plot-your-own stories",
+    "Unidentified flying objects",
+    "Fiction",
+    "Life on other planets",
+    "Extraterrestrial beings",
+    "Science fiction",
+    "Livres dont vous êtes le héros",
+    "Ovnis",
+    "Romans, nouvelles",
+    "Vie extraterrestre",
+    "Objetos voladores no identificados",
+    "Novela",
+    "Extraterrestres",
+    "Ciencia ficción",
+    "Determine el final de sus cuentos"
+  ],
+  "covers": [
+    12703541,
+    12955363
+  ],
+  "description": "110 p. : 18 cm",
+  "genres": [
+    "/tags/OL169T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-07T11:11:33.845538"
+  }
+}

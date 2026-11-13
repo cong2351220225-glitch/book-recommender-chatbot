@@ -1,0 +1,69 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Written by Katō Shisen.  Cf. Original t.p.\n\nOriginally published: Tōkyō : Kokumin Kyōikukai, 1924."
+  },
+  "title": "Shin daigishi meikan",
+  "authors": [
+    {
+      "key": "/authors/OL6862931A"
+    }
+  ],
+  "publish_date": "2003",
+  "publishers": [
+    "Nihon Tosho Sentā"
+  ],
+  "series": [
+    "Seijika jinmei shiryō jiten -- dai 2-kan"
+  ],
+  "lc_classifications": [
+    "JQ1651 .S435 2003 vol. 2",
+    "JQ1663.A4 .S435 2003 vol. 2",
+    "JQ1665 .S55 2003"
+  ],
+  "publish_places": [
+    "Tōkyō"
+  ],
+  "languages": [
+    {
+      "key": "/languages/jpn"
+    }
+  ],
+  "pagination": "2, 2, 14, 511 p. :",
+  "source_records": [
+    "marc:marc_loc_updates/v38.i37.records.utf8:4052468:1291",
+    "marc:marc_loc_2016/BooksAll.2016.part32.utf8:95810303:1291",
+    "marc:marc_columbia/Columbia-extract-20221130-010.mrc:354731914:1895"
+  ],
+  "lccn": [
+    "2004553363"
+  ],
+  "edition_name": "Shohan",
+  "isbn_10": [
+    "4820588907"
+  ],
+  "publish_country": "ja ",
+  "type": {
+    "key": "/type/edition"
+  },
+  "key": "/books/OL24486072M",
+  "number_of_pages": 511,
+  "works": [
+    {
+      "key": "/works/OL15528854W"
+    }
+  ],
+  "oclc_numbers": [
+    "502802180"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-12-02T02:14:13.416250"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-08-11T15:23:47.198142"
+  }
+}

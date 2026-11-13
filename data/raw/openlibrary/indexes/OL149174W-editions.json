@@ -1,0 +1,462 @@
+{
+  "links": {
+    "self": "/works/OL149174W/editions.json",
+    "work": "/works/OL149174W"
+  },
+  "size": 8,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL7829295A"
+        }
+      ],
+      "isbn_10": [
+        "1501164422"
+      ],
+      "isbn_13": [
+        "9781501164422"
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-BSF-078"
+      ],
+      "publish_date": "2016-01-01",
+      "publishers": [
+        "Scribner"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-04-11",
+        "amazon:1501164422"
+      ],
+      "title": "IFFYThe Dark Tower I-III (Boxed Set)",
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "key": "/books/OL42985869M",
+      "covers": [
+        13892904
+      ],
+      "number_of_pages": 1424,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-05T17:00:23.274205"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-19T06:31:00.305024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O7-CRU-727"
+      ],
+      "publish_date": "1994",
+      "publishers": [
+        "France loisirs"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "La tour sombre",
+      "subtitle": "Le pistolero, les trois cartes, terres perdues",
+      "full_title": "La tour sombre Le pistolero, les trois cartes, terres perdues",
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "key": "/books/OL43033578M",
+      "identifiers": {},
+      "isbn_10": [
+        "2724281918"
+      ],
+      "isbn_13": [
+        "9782724281910"
+      ],
+      "ocaid": "latoursombre0000king_o7h3",
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "covers": [
+        14654089
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T01:49:16.977245"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-19T06:05:47.173257"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL7829293A"
+        }
+      ],
+      "isbn_13": [
+        "9780751599909"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1992",
+      "publishers": [
+        "Little, Brown Book Group Limited"
+      ],
+      "source_records": [
+        "bwb:9780751599909"
+      ],
+      "title": "Dark Tower 1-3 X12 S/W",
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "key": "/books/OL33514621M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-18T16:12:31.794613"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-18T20:44:18.912052"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: The Dark tower (v. 1. The gunslinger ; v. 2. The drawing of the three."
+      },
+      "title": "Tëmnai︠a︡ bashni︠a︡",
+      "subtitle": "Strelok ; Izvlechenie troikh : [romany]",
+      "publish_date": "1997",
+      "other_titles": [
+        "Izvlechenie troikh.",
+        "Strelok."
+      ],
+      "publishers": [
+        "AST",
+        "Mir"
+      ],
+      "isbn_10": [
+        "5030031928",
+        "5784104977"
+      ],
+      "series": [
+        "Tëmnai︠a︡ bashni︠a︡"
+      ],
+      "pagination": "587 p. ;",
+      "publish_places": [
+        "Moskva"
+      ],
+      "contributions": [
+        "King, Stephen, 1947-",
+        "King, Stephen, 1947-"
+      ],
+      "genres": [
+        "Fiction.",
+        "Translations into Russian."
+      ],
+      "source_records": [
+        "marc:SanFranPL08/SanFranPL08.out:24660667:1547"
+      ],
+      "work_titles": [
+        "Dark tower."
+      ],
+      "languages": [
+        {
+          "key": "/languages/rus"
+        }
+      ],
+      "subjects": [
+        "Good and evil -- Fiction",
+        "Fantasy fiction, American -- Translations into Russian",
+        "Horror tales, American -- Translations into Russian"
+      ],
+      "publish_country": "ru ",
+      "by_statement": "Stiven King ; [perevod s angliĭskogo T. Pokidaevoĭ].",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL22931435M",
+      "number_of_pages": 587,
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-12T12:36:59.346430"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-15T11:47:25.632211"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "11592"
+        ],
+        "librarything": [
+          "50088"
+        ]
+      },
+      "title": "The Dark Tower Gift Collection, Books 1-3",
+      "subtitle": "The Gunslinger, The Drawing of The Three, and The Waste Lands",
+      "publish_date": "December 7, 1998",
+      "publishers": [
+        "Fantasy Books"
+      ],
+      "weight": "7 pounds",
+      "covers": [
+        926671
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "General & Literary Fiction",
+        "Modern fiction",
+        "Horror",
+        "Fiction - Horror",
+        "Fiction",
+        "Horror - General",
+        "Best Seller",
+        "Fantasy",
+        "Science Fiction",
+        "General"
+      ],
+      "edition_name": "Limited edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781880418406"
+      ],
+      "isbn_10": [
+        "1880418401"
+      ],
+      "oclc_numbers": [
+        "40741319"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.5 x 7 x 4 inches",
+      "source_records": [
+        "amazon:1880418401"
+      ],
+      "key": "/books/OL8679150M",
+      "number_of_pages": 1132,
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-15T15:25:00.995711"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "995118"
+        ],
+        "librarything": [
+          "50088"
+        ]
+      },
+      "title": "The Dark Tower, Books 1-3",
+      "subtitle": "The Gunslinger, The Drawing of the Three, and The Waste Lands",
+      "publish_date": "September 1, 1997",
+      "publishers": [
+        "Signet"
+      ],
+      "source_records": [
+        "amazon:0451935543:bn:101392100:233742",
+        "bwb:9780451935540"
+      ],
+      "isbn_13": [
+        "9780451935540"
+      ],
+      "covers": [
+        296002
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0451935543"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7589633M",
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-15T11:57:59.998293"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "204532"
+        ],
+        "librarything": [
+          "50088"
+        ]
+      },
+      "title": "The Dark Tower, Books 1-3",
+      "subtitle": "The Gunslinger, The Drawing of the Three, and The Waste Lands",
+      "publish_date": "October 1992",
+      "publishers": [
+        "Plume Books"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0452153468:bn:202730507:237540",
+        "bwb:9780452153462"
+      ],
+      "covers": [
+        8587791
+      ],
+      "isbn_13": [
+        "9780452153462"
+      ],
+      "isbn_10": [
+        "0452153468"
+      ],
+      "oclc_numbers": [
+        "232589228"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7589987M",
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-15T11:58:06.033030"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "50088"
+        ],
+        "goodreads": [
+          "458450"
+        ]
+      },
+      "title": "The Dark Tower, Books 1-3",
+      "subtitle": "The Gunslinger, The Drawing of the Three, and The Waste Lands",
+      "publish_date": "November 1, 1997",
+      "publishers": [
+        "Plume"
+      ],
+      "covers": [
+        296150
+      ],
+      "isbn_13": [
+        "9780452155619"
+      ],
+      "source_records": [
+        "amazon:0452155614:bn:203165107:235853",
+        "bwb:9780452155619"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0452155614"
+      ],
+      "oclc_numbers": [
+        "228097413"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7589989M",
+      "number_of_pages": 1,
+      "works": [
+        {
+          "key": "/works/OL149174W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-15T11:58:06.538840"
+      }
+    }
+  ]
+}

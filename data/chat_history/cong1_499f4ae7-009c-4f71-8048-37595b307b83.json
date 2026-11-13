@@ -1,0 +1,269 @@
+{
+  "id": "499f4ae7-009c-4f71-8048-37595b307b83",
+  "title": "tôi muốn tìm nhà sách gần đây",
+  "timestamp": "2026-11-02 19:41:19",
+  "messages": [
+    {
+      "role": "user",
+      "content": "tôi muốn tìm nhà sách gần đây"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn đang ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội.",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "huế"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **10** nhà sách gần **Huế**.",
+      "books": [],
+      "location": {
+        "results": [
+          {
+            "title": "Nhà Sách Phát Đạt - Nhà Sách ở Huế",
+            "name": "Nhà Sách Phát Đạt - Nhà Sách ở Huế",
+            "address": "86B Ngự Bình, An Cựu, Huế 52000, Việt Nam",
+            "rating": 4.1,
+            "reviews": 238,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách",
+              "Văn phòng công ty",
+              "Cửa hàng mũ",
+              "Cửa hàng bút viết",
+              "Cửa hàng may",
+              "Cửa hàng",
+              "Cửa hàng len"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 22:00",
+            "hours": "Đang mở cửa · Đóng cửa vào 22:00",
+            "phone": "+84 234 3626 626",
+            "website": "http://www.muasam.vip/",
+            "description": "",
+            "latitude": 16.449871299999998,
+            "longitude": 107.5970153,
+            "place_id": "ChIJXX4dZRWhQTERSgu0AvHQLI0",
+            "data_id": "0x3141a115651d7e5d:0x8d2cd0f102b40b4a",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR46X-mke4rSSXaIJPbCpzdamnfdqXdPUo0acCP6UrVL8ABkRAI24SWa06dh1Nksqr2O5cr1VIRormG1XtShg4nNsknczNOdMvOG6YHyy0vZBa7Pe3e6f_lQXt3R1q9kCIixmR=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Ph%C3%A1t+%C4%90%E1%BA%A1t+-+Nh%C3%A0+S%C3%A1ch+%E1%BB%9F+Hu%E1%BA%BF%2C+86B+Ng%E1%BB%B1+B%C3%ACnh%2C+An+C%E1%BB%B1u%2C+Hu%E1%BA%BF+52000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Ph%C3%A1t+%C4%90%E1%BA%A1t+-+Nh%C3%A0+S%C3%A1ch+%E1%BB%9F+Hu%E1%BA%BF%2C+86B+Ng%E1%BB%B1+B%C3%ACnh%2C+An+C%E1%BB%B1u%2C+Hu%E1%BA%BF+52000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Fahasa Sông Hương",
+            "name": "Nhà Sách Fahasa Sông Hương",
+            "address": "Địa chỉ : L4-01B Tầng 4 TTTM Vincom Plaza Huế 50A Hùng Vương, P.Phú Nhuận, Thuận Hóa, Huế 530000, Việt Nam",
+            "rating": 4.2,
+            "reviews": 112,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 22:00",
+            "hours": "Đang mở cửa · Đóng cửa vào 22:00",
+            "phone": "+84 234 3572 002",
+            "website": "http://fahasasg.com.vn/",
+            "description": "",
+            "latitude": 16.4629224,
+            "longitude": 107.59412839999999,
+            "place_id": "ChIJVY9BPyWhQTERnXh5fRSmR2s",
+            "data_id": "0x3141a1253f418f55:0x6b47a6147d79789d",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwutHH89cp1J2AhdEQSyLuYohAkt3tn9PxkKA8NLzwXP7pvz-bC6rSpRCcWmOOMdpL_FMi8rz4IEuKuuUdNVvERuiNcl60IHMeH2gllW6qq76TdnH_3EJO5T5D3WcwRiVh8Ahz4kVPP8P-=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Fahasa+S%C3%B4ng+H%C6%B0%C6%A1ng%2C+%C4%90%E1%BB%8Ba+ch%E1%BB%89+%3A+L4-01B+T%E1%BA%A7ng+4+TTTM+Vincom+Plaza+Hu%E1%BA%BF+50A+H%C3%B9ng+V%C6%B0%C6%A1ng%2C+P.Ph%C3%BA+Nhu%E1%BA%ADn%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF+530000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Fahasa+S%C3%B4ng+H%C6%B0%C6%A1ng%2C+%C4%90%E1%BB%8Ba+ch%E1%BB%89+%3A+L4-01B+T%E1%BA%A7ng+4+TTTM+Vincom+Plaza+Hu%E1%BA%BF+50A+H%C3%B9ng+V%C6%B0%C6%A1ng%2C+P.Ph%C3%BA+Nhu%E1%BA%ADn%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF+530000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Hồng Đức",
+            "name": "Nhà Sách Hồng Đức",
+            "address": "01 Trương Định, Thuận Hóa, Huế, Việt Nam",
+            "rating": 4.0,
+            "reviews": 97,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 21:00",
+            "hours": "Đang mở cửa · Đóng cửa vào 21:00",
+            "phone": "+84 234 3999 777",
+            "website": "",
+            "description": "",
+            "latitude": 16.464101499999998,
+            "longitude": 107.58782149999999,
+            "place_id": "ChIJN4CrskahQTERJcV18O8kHv4",
+            "data_id": "0x3141a146b2ab8037:0xfe1e24eff075c525",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdk9sFqwdq4Kp4O_sltPKpMifgLlCGBZlXRijjJt-25XdN6eUHjt_DRSGwvCzE936W51wQzNnJn3BMSEB-h12CDHOxhsLQ_272q_FfQkBkFAy13hXKu0i59Pq1WRZHJDr-SrN5CFQ=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+H%E1%BB%93ng+%C4%90%E1%BB%A9c%2C+01+Tr%C6%B0%C6%A1ng+%C4%90%E1%BB%8Bnh%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+H%E1%BB%93ng+%C4%90%E1%BB%A9c%2C+01+Tr%C6%B0%C6%A1ng+%C4%90%E1%BB%8Bnh%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Bến Ngự",
+            "name": "Nhà sách Bến Ngự",
+            "address": "15 Phan Bội Châu, Thuận Hóa, Huế, Việt Nam",
+            "rating": 4.6,
+            "reviews": 5,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Sắp đóng cửa · 20:00 · Mở cửa lúc 6:00 Thứ 3",
+            "hours": "Sắp đóng cửa · 20:00 · Mở cửa lúc 6:00 Thứ 3",
+            "phone": "+84 913 417 862",
+            "website": "",
+            "description": "",
+            "latitude": 16.4561161,
+            "longitude": 107.5841744,
+            "place_id": "ChIJudHM9kihQTERI_dkrRuJqlQ",
+            "data_id": "0x3141a148f6ccd1b9:0x54aa891bad64f723",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc4V0QX57c-XSPzqmblgG_iQXqARrqq1Soc5YtCC3s4oghVqT0MoMyimsKqnkAV6O1PdUBt3GAPq9WRUzImuRYUSDqfgvvLYfpKTqtkF80zJE8xEiia16dfmf2Ehd0gfS6pYhO5=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+B%E1%BA%BFn+Ng%E1%BB%B1%2C+15+Phan+B%E1%BB%99i+Ch%C3%A2u%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+B%E1%BA%BFn+Ng%E1%BB%B1%2C+15+Phan+B%E1%BB%99i+Ch%C3%A2u%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Phương Nam",
+            "name": "Nhà sách Phương Nam",
+            "address": "133 đường Trần Hưng Đạo, Phú Xuân, Huế, Việt Nam",
+            "rating": 4.1,
+            "reviews": 738,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 21:30",
+            "hours": "Đang mở cửa · Đóng cửa vào 21:30",
+            "phone": "+84 946 271 155",
+            "website": "",
+            "description": "",
+            "latitude": 16.470669,
+            "longitude": 107.58671539999999,
+            "place_id": "ChIJ-X-mG6mhQTERXaTb9EEVNGI",
+            "data_id": "0x3141a1a91ba67ff9:0x62341541f4dba45d",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh9aFk5I_IccY8NAjpItqNGdahXsT9Zbk9ukS_Z2iCdDQlHtUnd7UYY2Sxzq0SOHN5njB-k6BB6huD09z_K4sjUAJfPpO9Wh-7Do8rV9hrHomYdPGgoqsaPwOd0qEkJnAvvguqlw=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+133+%C4%91%C6%B0%E1%BB%9Dng+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o%2C+Ph%C3%BA+Xu%C3%A2n%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+133+%C4%91%C6%B0%E1%BB%9Dng+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o%2C+Ph%C3%BA+Xu%C3%A2n%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Trường Tâm 39 Lý Thường Kiệt",
+            "name": "Nhà Sách Trường Tâm 39 Lý Thường Kiệt",
+            "address": "39B Lý Thường Kiệt, Thuận Hóa, Huế 530000, Việt Nam",
+            "rating": 4.2,
+            "reviews": 13,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 21:30",
+            "hours": "Đang mở cửa · Đóng cửa vào 21:30",
+            "phone": "+84 905 336 413",
+            "website": "",
+            "description": "",
+            "latitude": 16.4576522,
+            "longitude": 107.5922631,
+            "place_id": "ChIJPW80rUChQTERArnPVOT6mOs",
+            "data_id": "0x3141a140ad346f3d:0xeb98fae454cfb902",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc535wXkeyE8spI25HzUf08ks7cjJrIf-NeN_fqf94q0FAmsPtyRQEyboGIIJOifOwCQ6kD5pxiW2NexSef4jH6wDHvkm5TajmItyoVj4X8V00hfrJle0w66WB4X4nMgWm-K-Wy3Q=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Tr%C6%B0%E1%BB%9Dng+T%C3%A2m+39+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t%2C+39B+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF+530000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Tr%C6%B0%E1%BB%9Dng+T%C3%A2m+39+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t%2C+39B+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF+530000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Duy Tân",
+            "name": "Nhà Sách Duy Tân",
+            "address": "119 Hùng Vương, Thuận Hóa, Huế, Việt Nam",
+            "rating": 4.9,
+            "reviews": 9,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 21:30",
+            "hours": "Đang mở cửa · Đóng cửa vào 21:30",
+            "phone": "+84 234 3832 324",
+            "website": "",
+            "description": "",
+            "latitude": 16.458843299999998,
+            "longitude": 107.59992659999999,
+            "place_id": "ChIJNRaQOhWhQTERVG3HWMcgg_c",
+            "data_id": "0x3141a1153a901635:0xf78320c758c76d54",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLVLSSqBB7MaDjaYzH-cGM5cHiWl9wUmA0l-a3zGAmidGzpEAIgdyT3u_YYO_Xeu_cBrYDabxM_2YF0APT89E5rizsIAotC5Zg4lX1rk1S5w3USbsAGZOKPnnNfyvQHFp6iMQWsA=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Duy+T%C3%A2n%2C+119+H%C3%B9ng+V%C6%B0%C6%A1ng%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Duy+T%C3%A2n%2C+119+H%C3%B9ng+V%C6%B0%C6%A1ng%2C+Thu%E1%BA%ADn+H%C3%B3a%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Fahasa Huế (Aone Mall Huế)",
+            "name": "Nhà Sách Fahasa Huế (Aone Mall Huế)",
+            "address": "T211 tại Tầng Hai, TTTM Aeon Mall Huế, 8 Võ Nguyên Giáp, An Cựu, Huế, Việt Nam",
+            "rating": 3.7,
+            "reviews": 36,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 22:00",
+            "hours": "Đang mở cửa · Đóng cửa vào 22:00",
+            "phone": "+84 234 3683 339",
+            "website": "http://www.fahasa.com/",
+            "description": "",
+            "latitude": 16.454477699999998,
+            "longitude": 107.61421329999999,
+            "place_id": "ChIJ6-O1FgChQTER-BEMhrUk9vg",
+            "data_id": "0x3141a10016b5e3eb:0xf8f624b5860c11f8",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGUh1Lh_WiPq650PHoP60pZsGjYao4qSovd4RAdSC5sHs6NTNJNQ8yv7H0sZAYf0OVhQbErVBy9Tf6dIYmt-BFG3ZKKCddLIv_MlPq48qyyZ3Rj7XqNfV76SM1NMrNWY5-0IuhSCtV4Boc=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Fahasa+Hu%E1%BA%BF+%28Aone+Mall+Hu%E1%BA%BF%29%2C+T211+t%E1%BA%A1i+T%E1%BA%A7ng+Hai%2C+TTTM+Aeon+Mall+Hu%E1%BA%BF%2C+8+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p%2C+An+C%E1%BB%B1u%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Fahasa+Hu%E1%BA%BF+%28Aone+Mall+Hu%E1%BA%BF%29%2C+T211+t%E1%BA%A1i+T%E1%BA%A7ng+Hai%2C+TTTM+Aeon+Mall+Hu%E1%BA%BF%2C+8+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p%2C+An+C%E1%BB%B1u%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Hàn Thuyên",
+            "name": "Nhà Sách Hàn Thuyên",
+            "address": "49 Phạm Văn Đồng, Vỹ Dạ, Huế, Việt Nam",
+            "rating": 3.1,
+            "reviews": 19,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Mở cả ngày",
+            "hours": "Mở cả ngày",
+            "phone": "+84 234 3534 928",
+            "website": "",
+            "description": "",
+            "latitude": 16.4740042,
+            "longitude": 107.60143509999999,
+            "place_id": "ChIJn_U5CSChQTERugbTQfPGFNo",
+            "data_id": "0x3141a1200939f59f:0xda14c6f341d306ba",
+            "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1L9DY5Kn7WkDnWJcX2C8qg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=291.51016&pitch=-5.746327&thumbfov=100",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+H%C3%A0n+Thuy%C3%AAn%2C+49+Ph%E1%BA%A1m+V%C4%83n+%C4%90%E1%BB%93ng%2C+V%E1%BB%B9+D%E1%BA%A1%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+H%C3%A0n+Thuy%C3%AAn%2C+49+Ph%E1%BA%A1m+V%C4%83n+%C4%90%E1%BB%93ng%2C+V%E1%BB%B9+D%E1%BA%A1%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Thăng Long",
+            "name": "Nhà Sách Thăng Long",
+            "address": "39 Đinh Tiên Hoàng, Phú Xuân, Huế, Việt Nam",
+            "rating": 3.7,
+            "reviews": 11,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đang mở cửa · Đóng cửa vào 21:00",
+            "hours": "Đang mở cửa · Đóng cửa vào 21:00",
+            "phone": "+84 327 614 956",
+            "website": "",
+            "description": "",
+            "latitude": 16.473952699999998,
+            "longitude": 107.5808946,
+            "place_id": "ChIJQ0rpiC6hQTERVq2AftS_HaM",
+            "data_id": "0x3141a12e88e94a43:0xa31dbfd47e80ad56",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcKBJ0a1FXmie78IcJCHPrXBwJp-SY2P2NTaGPqr3sfrE03G8NUehwQHY-ATrNMwMeP-SZjlDbU9bNF3RTbIEprlkSaCXX0A4Nmkq-cZQyQyqpRWbUZk2GvVeWd2QpbHZwZaysvHm4SFZ4=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Th%C4%83ng+Long%2C+39+%C4%90inh+Ti%C3%AAn+Ho%C3%A0ng%2C+Ph%C3%BA+Xu%C3%A2n%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Th%C4%83ng+Long%2C+39+%C4%90inh+Ti%C3%AAn+Ho%C3%A0ng%2C+Ph%C3%BA+Xu%C3%A2n%2C+Hu%E1%BA%BF%2C+Vi%E1%BB%87t+Nam"
+          }
+        ],
+        "url": "https://www.google.com/maps/search/nh%C3%A0+s%C3%A1ch+t%E1%BA%A1i+Hu%E1%BA%BF",
+        "kind": "bookstore",
+        "location": "Huế"
+      }
+    }
+  ]
+}

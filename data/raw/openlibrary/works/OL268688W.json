@@ -1,0 +1,27 @@
+{
+  "title": "High Stakes Math",
+  "key": "/works/OL268688W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL2625871A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 13,
+  "revision": 13,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-24T20:20:11.774564"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-02T11:00:24.619424"
+  }
+}

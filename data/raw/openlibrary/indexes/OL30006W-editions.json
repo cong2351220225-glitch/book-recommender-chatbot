@@ -1,0 +1,136 @@
+{
+  "links": {
+    "self": "/works/OL30006W/editions.json",
+    "work": "/works/OL30006W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Pierpont Morgan Library"
+      ],
+      "subtitle": "a letter from Louisa May Alcott on the dealth of Henry David Thoreau ; with an introductory note by John L. Cooley.",
+      "lc_classifications": [
+        "PS1018 A455 1962"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL21885092M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Ford, Sophia"
+      ],
+      "pagination": "10 p. :",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:2762862086:745"
+      ],
+      "title": "A sprig of andromeda",
+      "notes": {
+        "type": "/type/text",
+        "value": "Letter to Sophia Ford."
+      },
+      "number_of_pages": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-04T13:36:11.118025"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Thoreau, Henry David, -- 1817-1862"
+      ],
+      "publish_date": "1962",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-15T21:37:05.506674"
+      },
+      "works": [
+        {
+          "key": "/works/OL30006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Pierpont Morgan Library"
+      ],
+      "subtitle": "a letter on the death of Henry David Thoreau.",
+      "lc_classifications": [
+        "PS1018 .A4 1962"
+      ],
+      "key": "/books/OL5847202M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Ford, Sophia."
+      ],
+      "pagination": "10 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part05.dat:50798402:687",
+        "marc:marc_loc_2016/BooksAll.2016.part05.utf8:127656988:687",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:681032970:1226"
+      ],
+      "title": "A sprig of andromeda",
+      "lccn": [
+        "62006161"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Letter to Sophia Ford."
+      },
+      "number_of_pages": 10,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Thoreau, Henry David, 1817-1862 -- Death and burial"
+      ],
+      "publish_date": "1962",
+      "publish_country": "xx ",
+      "by_statement": "With an introductory note by John L. Cooley.",
+      "oclc_numbers": [
+        "1201657"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30006W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-21T03:23:13.372302"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "publishers": [
+    "Zondervan Pub. House"
+  ],
+  "number_of_pages": 208,
+  "subtitle": "what happens when a church experiences all God has to offer?",
+  "covers": [
+    169882
+  ],
+  "local_id": [
+    "urn:evs:39663100120815",
+    "urn:bwbsku:O6-AMC-784"
+  ],
+  "lc_classifications": [
+    "BR1640 .B36 1999",
+    "BR1640.B36 1999"
+  ],
+  "key": "/books/OL40488M",
+  "authors": [
+    {
+      "key": "/authors/OL26333A"
+    }
+  ],
+  "publish_places": [
+    "Grand Rapids, Mich"
+  ],
+  "subjects": [
+    "Evangelicalism",
+    "Pentecostalism"
+  ],
+  "pagination": "208 p. ;",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part28.dat:9241217:699",
+    "marc:marc_evangelical_seminary/Evangelical_Seminary_20200728.mrc:31451462:817",
+    "marc:marc_loc_2016/BooksAll.2016.part28.utf8:747817:699",
+    "ia:wordpowerchurchw0000bani",
+    "promise:bwb_daily_pallets_2021-05-05",
+    "bwb:9780310227106"
+  ],
+  "title": "The word and power church",
+  "dewey_decimal_class": [
+    "270.8/29"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographical references (p. 201-208)."
+  },
+  "identifiers": {
+    "goodreads": [
+      "2692114"
+    ],
+    "librarything": [
+      "1047261"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "99031133"
+  ],
+  "isbn_10": [
+    "0310227100"
+  ],
+  "publish_date": "1999",
+  "publish_country": "miu",
+  "by_statement": "Doug Banister.",
+  "oclc_numbers": [
+    "41380505"
+  ],
+  "works": [
+    {
+      "key": "/works/OL27431W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "ocaid": "wordpowerchurchw0000bani",
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-07-17T09:43:24.631228"
+  }
+}

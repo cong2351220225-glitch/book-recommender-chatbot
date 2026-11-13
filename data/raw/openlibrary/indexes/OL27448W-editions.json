@@ -1,0 +1,2721 @@
+{
+  "links": {
+    "self": "/works/OL27448W/editions.json",
+    "work": "/works/OL27448W",
+    "next": "/works/OL27448W/editions.json?offset=50"
+  },
+  "size": 253,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "El seños de los anillos 2, las dos torres",
+      "publishers": [
+        "Booket"
+      ],
+      "publish_date": "1966",
+      "key": "/books/OL62536872M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15252991
+      ],
+      "isbn_13": [
+        "9788445077504"
+      ],
+      "series": [
+        "El senor de los anillos, 2"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-09T17:03:04.654326"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-09T17:04:36.298080"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "Il Signore degli Anelli",
+      "publishers": [
+        "Bompiani"
+      ],
+      "publish_date": "25/01/2023",
+      "key": "/books/OL62445425M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15246502
+      ],
+      "isbn_13": [
+        "978-8830119000"
+      ],
+      "isbn_10": [
+        "8830119008"
+      ],
+      "weight": "1.1 kilos",
+      "publish_places": [
+        "Italy"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Ottavio Fatica"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "translation_of": "The Lord of the Rings",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "In un unico volume La compagnia dell'anello, Le due torri, Il ritorno del re. Il Signore degli Anelli è un romanzo d’eccezione, al di fuori del tempo: chiarissimo ed enigmatico, semplice e sublime. Dona alla felicità del lettore ciò che la narrativa del nostro secolo sembrava incapace di offrire: avventure in luoghi remoti e terribili, episodi d’inesauribile allegria, segreti paurosi che si svelano a poco a poco, draghi crudeli e alberi che camminano, città d’argento e di diamante poco lontane da necropoli tenebrose in cui dimorano esseri che spaventano solo al nominarli, urti giganteschi di eserciti luminosi e oscuri. E tutto questo in un mondo immaginario ma ricostruito con cura meticolosa, e in effetti assolutamente verosimile, perché dietro i suoi simboli si nasconde una realtà che dura oltre e malgrado la storia: la lotta, senza tregua, fra il bene e il male. Leggenda e fiaba, tragedia e poema cavalleresco, il romanzo di Tolkien è in realtà un’allegoria della condizione umana che ripropone in chiave moderna i miti antichi."
+      },
+      "physical_format": "Paperback",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-08-17T18:36:09.800957"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-17T18:39:53.961921"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "O Senhor dos Anéis",
+      "publishers": [
+        "HarperCollins"
+      ],
+      "publish_date": "20 dezembro 2021",
+      "key": "/books/OL58959679M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15024346
+      ],
+      "edition_name": "Edição de Colecionador com Ilustrações de Alan Lee",
+      "contributors": [
+        {
+          "role": "Illustrator",
+          "name": "Alan Lee"
+        },
+        {
+          "role": "Translator",
+          "name": "Ronald Kyrmse"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "The Lord of the Rings",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "Conheça a edição de O Senhor dos Anéis mais completa já produzida no Brasil! Aqui, temos a grande obra-prima de J.R.R. Tolkien como o mestre da fantasia sempre a imaginou: em um volume único. Ainda mais fantástica, esta edição de colecionador conta com luva de acetato transparente, o livro de Mazarbul e ilustrações coloridas de Alan Lee, ganhador do Oscar.\r\n\r\nApesar de ter sido publicado em três volumes – \"A Sociedade do Anel\", \"As Duas Torres\" e \"O Retorno do Rei\" – desde os anos 1950, o Senhor dos Anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido em seu conjunto, segundo a concepção de seu autor, J.R.R. Tolkien. Em volume único, essa edição suntuosa da obra-prima de Tolkien, ilustrada em aquarela pelo aclamado e premiado artista Alan Lee e abrigada em uma caixa transparente, é uma das mais completas edições já publicadas.",
+      "physical_format": "Capa Dura",
+      "number_of_pages": 1376,
+      "isbn_13": [
+        "9786555112511"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T12:59:06.272580"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T13:10:24.378761"
+      }
+    },
+    {
+      "title": "Wladca Pierscieni [The Lord of The Rings - Three Volume Set in Polish]",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "8373199772"
+      ],
+      "isbn_13": [
+        "9788373199774"
+      ],
+      "local_id": [
+        "urn:bwbsku:KQ-495-388"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "key": "/books/OL43140390M",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T13:46:37.792733"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T17:17:37.459017"
+      }
+    },
+    {
+      "publishers": [
+        "Fabbri"
+      ],
+      "subtitle": "II",
+      "source_records": [
+        "amazon:8845290050"
+      ],
+      "title": "Signore Degli Anelli",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Signore Degli Anelli: II (Italian Edition)"
+      },
+      "isbn_13": [
+        "9788845290053"
+      ],
+      "covers": [
+        10515650
+      ],
+      "physical_format": "paperback",
+      "full_title": "Signore Degli Anelli : II",
+      "isbn_10": [
+        "8845290050"
+      ],
+      "publish_date": "Nov 21, 2002",
+      "key": "/books/OL31403985M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-21T15:37:20.577234"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T17:04:17.962024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Pack Trilogía El Señor de los Anillos",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Aug 31, 2022",
+      "source_records": [
+        "amazon:844501384X"
+      ],
+      "number_of_pages": 1662,
+      "publishers": [
+        "Booket"
+      ],
+      "physical_format": "mass market paperback",
+      "full_title": "Pack Trilogía El Señor de los Anillos : Incluye La Comunidad del Anillo, Las Dos Torres, El Retorno del Rey",
+      "subtitle": "Incluye La Comunidad del Anillo, Las Dos Torres, El Retorno del Rey",
+      "notes": "Source title: Pack Trilogía El Señor de los Anillos: Incluye La Comunidad del Anillo, Las Dos Torres, El Retorno del Rey",
+      "covers": [
+        13601172
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL47181069M",
+      "identifiers": {},
+      "isbn_10": [
+        "844501384X"
+      ],
+      "isbn_13": [
+        "9788445013847"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Lord of the Rings Trilogy",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-18T07:08:57.496054"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T17:00:04.922687"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Le Seigneur des Anneaux",
+      "source_records": [
+        "amazon:226611087X"
+      ],
+      "publishers": [
+        "France Loisirs"
+      ],
+      "isbn_10": [
+        "226611087X"
+      ],
+      "isbn_13": [
+        "9782266110877"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Le Seigneur des Anneaux La Communauté de l'Anneau - Les Deux Tours - Le Retour du roi - Appendices et indexes",
+      "subtitle": "La Communauté de l'Anneau - Les Deux Tours - Le Retour du roi - Appendices et indexes",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Le Seigneur des Anneaux (3 volumes) : La Communauté de l'Anneau - Les Deux Tours - Le Retour du roi - Appendices et indexes"
+      },
+      "covers": [
+        13217523
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL46534010M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-02T18:16:34.383778"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T17:00:04.922687"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "publish_date": "2003",
+      "publishers": [
+        "Klett-Cotta"
+      ],
+      "source_records": [
+        "bwb:9783608933536"
+      ],
+      "title": "Herr der Ringe",
+      "subtitle": "Die Wiederkehr des Konigs",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL48608497M",
+      "identifiers": {},
+      "isbn_13": [
+        "9783608933536"
+      ],
+      "classifications": {},
+      "translation_of": "Return of the King",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T04:24:32.457990"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T16:47:26.235123"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Der Herr Der Ringe Box set",
+      "source_records": [
+        "amazon:3129080007"
+      ],
+      "number_of_pages": 1257,
+      "publishers": [
+        "Hobbit press Klett Cotta"
+      ],
+      "isbn_10": [
+        "3129080007"
+      ],
+      "isbn_13": [
+        "9783129080009"
+      ],
+      "physical_format": "perfect paperback",
+      "full_title": "Der Herr Der Ringe Box set : Die Gefahrten, Die zwei Turme, Die Ruckkhr des Konigs",
+      "subtitle": "Die Gefahrten, Die zwei Turme, Die Ruckkhr des Konigs",
+      "covers": [
+        13120659
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL45050302M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-29T11:22:47.723668"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T16:47:26.235123"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "HERR DER RINGE 3 - MP3 - AUDIO",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Sep 12, 2007",
+      "source_records": [
+        "amazon:3867170355"
+      ],
+      "publishers": [
+        "der Hörverlag"
+      ],
+      "physical_format": "mp3 cd",
+      "covers": [
+        11658206
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL33006725M",
+      "identifiers": {},
+      "isbn_10": [
+        "3867170355"
+      ],
+      "isbn_13": [
+        "9783867170352"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "The Return of the King",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-16T15:22:45.743485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T16:47:26.235123"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Lord of the Rings [BOX SET]",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Dec 04, 1999",
+      "source_records": [
+        "amazon:0261103938",
+        "bwb:9780261103931"
+      ],
+      "publishers": [
+        "Harper Collins"
+      ],
+      "physical_format": "hardcover",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL42871495M",
+      "covers": [
+        14166496
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "0261103938"
+      ],
+      "isbn_13": [
+        "9780261103931"
+      ],
+      "classifications": {},
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T01:42:20.070259"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Lord of the Rings",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL10355883A"
+        }
+      ],
+      "publish_date": "May 14, 1992",
+      "source_records": [
+        "amazon:4566023540"
+      ],
+      "publishers": [
+        "Hyoronsha"
+      ],
+      "isbn_10": [
+        "4566023540"
+      ],
+      "isbn_13": [
+        "9784566023543"
+      ],
+      "physical_format": "tankobon hardcover",
+      "full_title": "The Lord of the Rings The Fellowship of the Ring  [Japanese Edition]",
+      "subtitle": "The Fellowship of the Ring  [Japanese Edition]",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Lord of the Rings: The Fellowship of the Ring (Book One) [Japanese Edition] (The Fellowship of the Ring, Volume # 1)"
+      },
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37871183M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-14T07:24:48.479681"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780063274730"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1248",
+      "publish_date": "2022",
+      "publishers": [
+        "HarperCollins Publishers",
+        "William Morrow"
+      ],
+      "source_records": [
+        "bwb:9780063274730",
+        "amazon:0063274736"
+      ],
+      "title": "Lord of the Rings",
+      "weight": "0.455",
+      "subtitle": "Special Edition",
+      "full_title": "Lord of the Rings Special Edition",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL38062258M",
+      "covers": [
+        13806118
+      ],
+      "number_of_pages": 1248,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-26T10:11:00.086786"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780008537753"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2022",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780008537753"
+      ],
+      "title": "Lord of the Rings Boxed Set",
+      "full_title": "Lord of the Rings Boxed Set",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37341977M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T11:01:39.958648"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780008537760"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2022",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780008537760"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37341949M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T11:01:28.260363"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL10271841A"
+        },
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780618433223"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2003",
+      "publishers": [
+        "Houghton Mifflin Harcourt Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9780618433223"
+      ],
+      "subjects": [
+        "Art appreciation"
+      ],
+      "title": "Lord of the Rings",
+      "weight": "1.320",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37347552M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T14:41:10.305204"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780395082577"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1976",
+      "publishers": [
+        "Houghton Mifflin Harcourt Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9780395082577"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Middle earth (imaginary place), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Gandalf (fictitious character), fiction"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37348044M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T15:08:48.519504"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL7958794A"
+        }
+      ],
+      "isbn_13": [
+        "9780395604236"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1200",
+      "publish_date": "1991",
+      "publishers": [
+        "Houghton Mifflin Harcourt Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9780395604236"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Middle earth (imaginary place), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Gandalf (fictitious character), fiction"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37349289M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T16:24:59.311174"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780618345847"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1168",
+      "publish_date": "2003",
+      "publishers": [
+        "Houghton Mifflin Harcourt Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9780618345847"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Middle earth (imaginary place), fiction",
+        "Baggins, frodo (fictitious character), fiction",
+        "Gandalf (fictitious character), fiction"
+      ],
+      "title": "Lord of the Rings",
+      "weight": "1.270",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37353387M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T20:42:27.172164"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL2623360A"
+        }
+      ],
+      "isbn_13": [
+        "9780061917844"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061917844"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37359690M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T22:32:22.170756"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL2623360A"
+        }
+      ],
+      "isbn_13": [
+        "9780061917820"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061917820"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37363400M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-28T23:28:26.813152"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL2623360A"
+        }
+      ],
+      "isbn_13": [
+        "9780061917851"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061917851"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37367325M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T00:30:08.733309"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL2623360A"
+        }
+      ],
+      "isbn_13": [
+        "9780061917837"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780061917837"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37371066M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T01:25:35.200391"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Lord of the Rings Boxed Set : Contains TVTie-In editions of",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Sep 13, 2022",
+      "source_records": [
+        "amazon:0063270927",
+        "bwb:9780063270923"
+      ],
+      "publishers": [
+        "William Morrow Paperbacks"
+      ],
+      "isbn_10": [
+        "0063270927"
+      ],
+      "isbn_13": [
+        "9780063270923"
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Lord of the Rings Boxed Set : Contains TVTie-In editions of : Fellowship of the Ring, The Two Towers, and The Return of the King",
+      "subtitle": "Fellowship of the Ring, The Two Towers, and The Return of the King",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Lord of the Rings Boxed Set: Contains TVTie-In editions of: Fellowship of the Ring, The Two Towers, and The Return of the King"
+      },
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37068792M",
+      "covers": [
+        13287138
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-19T07:00:37.577617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1991",
+      "copyright_date": "1966",
+      "publish_country": "enk",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "other_titles": [
+        "Fellowship of the ring.",
+        "Two towers.",
+        "Return of the king."
+      ],
+      "notes": "Originally published: London, Allen & Unwin, 1954. Based on the reset edition originally published 2002.\r\n\r\nMaps on endpapers.\r\n\r\nIncludes index.",
+      "subjects": [
+        "Fantasy fiction"
+      ],
+      "title": "The Lord of the Rings",
+      "by_statement": "by J.R.R. Tolkien",
+      "publishers": [
+        "HarperCollins"
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "3 volumes",
+      "source_records": [
+        "ia:lordofrings0000tolk_j2h8",
+        "promise:bwb_daily_pallets_2021-07-13",
+        "bwb:9780007887682",
+        "bwb:9780007887668",
+        "amazon:0007887671"
+      ],
+      "full_title": "The lord of the rings",
+      "covers": [
+        13201380
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL36643488M",
+      "identifiers": {},
+      "classifications": {},
+      "local_id": [
+        "urn:bwbsku:O7-CHY-507"
+      ],
+      "isbn_10": [
+        "0007887663",
+        "0007887671",
+        "000788768X"
+      ],
+      "isbn_13": [
+        "9780007887668",
+        "9780007887675",
+        "9780007887682"
+      ],
+      "oclc_numbers": [
+        "1067124928"
+      ],
+      "lc_classifications": [
+        "PR6039.O32 L6 2010"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-08T05:03:37.275963"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-23T17:43:25.993946"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Der Herr der Ringe",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Oct 20, 2021",
+      "source_records": [
+        "amazon:3608980806"
+      ],
+      "publishers": [
+        "Klett-Cotta Verlag"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Der Herr der Ringe mit Illustrationen des Autors",
+      "subtitle": "mit Illustrationen des Autors",
+      "notes": "Source title: Der Herr der Ringe: mit Illustrationen des Autors",
+      "covers": [
+        12506175
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL36315201M",
+      "identifiers": {},
+      "isbn_10": [
+        "3608980806"
+      ],
+      "isbn_13": [
+        "9783608980806"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "The Lord of the Rings",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T09:10:35.081123"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780358623403"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1248",
+      "publish_date": "2021",
+      "publishers": [
+        "Houghton Mifflin Harcourt Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9780358623403"
+      ],
+      "title": "Lord of the Rings Illustrated Edition",
+      "weight": "0.455",
+      "full_title": "Lord of the Rings Illustrated Edition",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL36097202M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-28T09:01:19.775824"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Lord of The Rings",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Dec 07, 2001",
+      "source_records": [
+        "amazon:0261103687",
+        "bwb:9780261103689"
+      ],
+      "number_of_pages": 1152,
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "isbn_10": [
+        "0261103687"
+      ],
+      "isbn_13": [
+        "9780261103689"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "The Lord of The Rings",
+      "covers": [
+        12393153
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL35698544M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-07T10:02:09.053824"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Lord of the Rings",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Sep 30, 2002",
+      "source_records": [
+        "amazon:0618260293"
+      ],
+      "number_of_pages": 1124,
+      "publishers": [
+        "Houghton Mifflin",
+        "Brand: Mariner Books"
+      ],
+      "isbn_10": [
+        "0618260293"
+      ],
+      "isbn_13": [
+        "9780618260294"
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Lord of the Rings",
+      "covers": [
+        12388843
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL35688477M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-30T04:30:27.761113"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9780008501310"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780008501310"
+      ],
+      "title": "Lord of the Rings",
+      "full_title": "Lord of the Rings",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL35869097M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-26T09:07:32.650983"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "isbn_13": [
+        "9781299884953"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2013",
+      "publishers": [
+        "Houghton Mifflin Harcourt Trade & Reference Publishers"
+      ],
+      "source_records": [
+        "bwb:9781299884953"
+      ],
+      "title": "Lord of the Rings",
+      "subtitle": "One Volume",
+      "full_title": "Lord of the Rings One Volume",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37175817M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-26T19:18:16.173858"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Der Herr der Ringe",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Oct 14, 2015",
+      "source_records": [
+        "amazon:3608960899"
+      ],
+      "publishers": [
+        "Klett-Cotta Verlag"
+      ],
+      "physical_format": "Paperback",
+      "full_title": "Der Herr der Ringe Sonderausgabe",
+      "subtitle": "Sonderausgabe",
+      "notes": "Source title: Der Herr der Ringe: Sonderausgabe",
+      "covers": [
+        11401675
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL32771847M",
+      "identifiers": {},
+      "classifications": {},
+      "physical_dimensions": "22 x 14 x 7 centimeters",
+      "weight": "2 kilos",
+      "edition_name": "Hobbit Presse Paperback",
+      "translation_of": "The Lord of the Rings Trilogy",
+      "number_of_pages": 1543,
+      "isbn_10": [
+        "3608960899"
+      ],
+      "isbn_13": [
+        "9783608960891"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-09T19:51:53.753494"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "6657492"
+        ],
+        "librarything": [
+          "3203347"
+        ]
+      },
+      "title": "Władca Pierścieni",
+      "publish_date": "2002",
+      "publishers": [
+        "Warszawskie Wydawnictwo Literackie Muza"
+      ],
+      "physical_format": "Hardcover",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "8373191720"
+      ],
+      "isbn_13": [
+        "9788373191723"
+      ],
+      "source_records": [
+        "amazon:8373191720"
+      ],
+      "key": "/books/OL13184349M",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-22T06:33:01.100449"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Der Herr der Ringe - Neuausgabe 2012",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Sep 01, 2012",
+      "source_records": [
+        "amazon:3608939849"
+      ],
+      "publishers": [
+        "Klett-Cotta Verlag"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Der Herr der Ringe - Neuausgabe 2012 : Neuüberarbeitung der Übersetzung von Wolfgang Krege, überarbeitet und aktualisiert",
+      "subtitle": "Neuüberarbeitung der Übersetzung von Wolfgang Krege, überarbeitet und aktualisiert",
+      "notes": "Source title: Der Herr der Ringe - Neuausgabe 2012: Neuüberarbeitung der Übersetzung von Wolfgang Krege, überarbeitet und aktualisiert",
+      "covers": [
+        11183830
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL32534425M",
+      "identifiers": {},
+      "isbn_10": [
+        "3608939849"
+      ],
+      "isbn_13": [
+        "9783608939842"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Wolfgang Krege"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "Lord of the Rings Trilogy",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-29T14:08:55.638514"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Le Seigneur des Anneaux, Intégrale",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Feb 15, 2018",
+      "source_records": [
+        "amazon:2266286269"
+      ],
+      "publishers": [
+        "Pocket",
+        "POCKET"
+      ],
+      "physical_format": "mass market paperback",
+      "notes": "Source title: Le Seigneur des Anneaux, Intégrale :",
+      "covers": [
+        10641294
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL31962202M",
+      "number_of_pages": 1600,
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "translation_of": "Lord of the Rings Trilogy",
+      "isbn_10": [
+        "2266286269"
+      ],
+      "isbn_13": [
+        "9782266286268"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Une contrée paisible où vivent les Hobbits. Un anneau magique à la puissance infinie. Sauron, son créateur, prêt à dévaster le monde entier pour récupérer son bien. Frodon, jeune Hobbit, détenteur de l'Anneau malgré lui. Gandalf, le Magicien, venu avertir Frodon du danger. Et voilà déjà les Cavaliers Noirs qui approchent...\r\n\r\nC'est ainsi que tout commence en Terre du Milieu entre le Comté et Mordor. C'est ainsi que la plus grande légende est née."
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-02-15T13:20:31.568034"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-22T14:26:05.668425"
+      }
+    },
+    {
+      "publishers": [
+        "Minotauro Ediciones Avd"
+      ],
+      "source_records": [
+        "amazon:8445071785"
+      ],
+      "title": "El Señor De Los Anillos",
+      "notes": "Source title: El Señor De Los Anillos (3 Volumes) (Spanish Edition)",
+      "covers": [
+        -1
+      ],
+      "physical_format": "paperback",
+      "full_title": "El Señor De Los Anillos",
+      "publish_date": "Sep 21, 2002",
+      "key": "/books/OL30405705M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "8445071785"
+      ],
+      "isbn_13": [
+        "9788445071786"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Lord of the Rings",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-21T16:00:24.754424"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "title": "Yüzüklerin Efendisi",
+      "subtitle": "Yüzük Kardeşliği - İki Kule - Kralın Dönüşü",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "2007",
+      "publishers": [
+        "Metis Yayıncılık"
+      ],
+      "covers": [
+        14627503
+      ],
+      "physical_format": "paperback",
+      "full_title": "Yüzüklerin Efendisi : Yüzük Kardeşliği - İki Kule - Kralın Dönüşü",
+      "source_records": [
+        "amazon:9753423470",
+        "promise:bwb_daily_pallets_2023-06-28:O9-APL-680"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O9-APL-680"
+      ],
+      "languages": [
+        {
+          "key": "/languages/tur"
+        }
+      ],
+      "translation_of": "Lord of the Rings",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "key": "/books/OL30095043M",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "identifiers": {},
+      "ocaid": "yzklerinefendisi0000jrrt",
+      "isbn_10": [
+        "9753423470"
+      ],
+      "isbn_13": [
+        "9789753423472"
+      ],
+      "classifications": {},
+      "publish_places": [
+        "Istanbul"
+      ],
+      "copyright_date": "2001",
+      "edition_name": "Uçüncü Basim: Ekim 2007",
+      "pagination": "1015 pages",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-05T21:43:32.096400"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "136777"
+        ],
+        "librarything": [
+          "1386651"
+        ]
+      },
+      "title": "Der Herr der Ringe 1-3. Die Gefährten / Die zwei Türme / Die Rückkehr des Königs.",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        },
+        {
+          "key": "/authors/OL3187759A"
+        }
+      ],
+      "publish_date": "June 1, 2002",
+      "publishers": [
+        "Klett-Cotta"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "weight": "4.6 pounds",
+      "isbn_13": [
+        "9783608936667"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "3608936661"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 5.8 x 4.2 inches",
+      "source_records": [
+        "amazon:3608936661"
+      ],
+      "key": "/books/OL9076618M",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-23T07:35:44.957456"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Der Herr der Ringe : Erster Teil : Die Gefährten. Zweiter Teil : Die zwei Türme. Dritter Teil",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "Aug 01, 2009",
+      "source_records": [
+        "amazon:3608938281"
+      ],
+      "publishers": [
+        "Klett-Cotta Verlag"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Der Herr der Ringe : Erster Teil : Die Gefährten. Zweiter Teil : Die zwei Türme. Dritter Teil : Die Rückkehr des Königs",
+      "subtitle": "Die Rückkehr des Königs",
+      "notes": "Source title: Der Herr der Ringe: Erster Teil: Die Gefährten. Zweiter Teil: Die zwei Türme. Dritter Teil: Die Rückkehr des Königs",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "key": "/books/OL37766386M",
+      "covers": [
+        13147175
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6536598"
+        ],
+        "librarything": [
+          "1386651"
+        ],
+        "dnb": [
+          "99386712X"
+        ]
+      },
+      "classifications": {},
+      "number_of_pages": 1295,
+      "isbn_10": [
+        "3608938281"
+      ],
+      "isbn_13": [
+        "9783608938289"
+      ],
+      "oclc_numbers": [
+        "1289624788"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "Lord of the Rings Trilogy",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-18T18:25:58.418030"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "111936"
+        ],
+        "librarything": [
+          "8559359"
+        ]
+      },
+      "title": "Der Herr der Ringe, limitierte Amazon.de Sammleredition (11 CD's, Spielzeit 756 Minuten)",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_date": "December 14, 2001",
+      "publishers": [
+        "Hör Verlag, München"
+      ],
+      "physical_format": "Audio CD",
+      "covers": [
+        3281185
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "3895847925"
+      ],
+      "isbn_13": [
+        "9783895847929"
+      ],
+      "translation_of": "The Lord of the Rings Trilogy",
+      "source_records": [
+        "amazon:3895847925"
+      ],
+      "key": "/books/OL12985145M",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T01:45:29.689957"
+      }
+    },
+    {
+      "edition_name": "2nd ed.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:938900878:687"
+      ],
+      "title": "The Lord of the Rings.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "enk",
+      "type": {
+        "key": "/type/edition"
+      },
+      "publishers": [
+        "HarperCollins"
+      ],
+      "key": "/books/OL22814360M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "529p.,(5)p. of plates :",
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Originally published: London : Allen & Unwin, 1954."
+      },
+      "number_of_pages": 529,
+      "isbn_10": [
+        "0261102354"
+      ],
+      "publish_date": "1993",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 22,
+      "revision": 22,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-03T08:13:34.202412"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "pt. 1. The fellowship of the ring",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "pt. 2. The two towers",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "pt. 3. The return of the king.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "lc_classifications": [
+        "PR6039.O32 L6 2002b",
+        "PR6039.O32 L6 2002b"
+      ],
+      "url": [
+        "http://www.loc.gov/catdir/description/hm031/2002726623.html",
+        "http://www.houghtonmifflinbooks.com/readers%5Fguides/lotr/lotr%5Frg.shtml"
+      ],
+      "contributions": [
+        "Lee, Alan."
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:67205675:1987"
+      ],
+      "title": "The lord of the rings",
+      "work_titles": [
+        "Lord of the rings (2002)"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Baggins, Frodo (Fictitious character) -- Fiction",
+        "Middle Earth (Imaginary place) -- Fiction",
+        "Fantasy fiction, English"
+      ],
+      "publish_country": "mau",
+      "by_statement": "J.R.R. Tolkien ; illustrated by Alan Lee.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "other_titles": [
+        "Fellowship of the ring.",
+        "Two towers.",
+        "Return of the king."
+      ],
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "key": "/books/OL23274300M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "3 v. (xx, 1170 p.) :",
+      "dewey_decimal_class": [
+        "823/.912"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Maps on lining pages.\n\nPart 3 includes index."
+      },
+      "number_of_pages": 1170,
+      "lccn": [
+        "2002726623"
+      ],
+      "isbn_10": [
+        "0618260587",
+        "061826051X",
+        "0618260595",
+        "0618260552",
+        "0739409557"
+      ],
+      "publish_date": "2002",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "latest_revision": 24,
+      "revision": 24,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-29T21:11:57.970163"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-20T15:22:56.910944"
+      }
+    },
+    {
+      "publishers": [
+        "Christian Bourgois"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "877746"
+        ],
+        "librarything": [
+          "3203350"
+        ],
+        "doi": [
+          "10.1604/9782266127929"
+        ]
+      },
+      "series": [
+        "Pocket -- 2658"
+      ],
+      "key": "/books/OL22050937M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "pagination": "569p.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:998269011:574",
+        "bwb:9782266127929"
+      ],
+      "title": "Le seigneur des anneaux.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Titre original: The lord of the rings. Vol.2: The two towers."
+      },
+      "number_of_pages": 569,
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "isbn_10": [
+        "2266127926"
+      ],
+      "publish_date": "1972",
+      "publish_country": "fr ",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-06T09:11:41.322020"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T03:37:51.666083"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "Houghton Mifflin Company"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL51711484M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0618343997"
+      ],
+      "ocaid": "lordofrings00tolk_5",
+      "classifications": {},
+      "publish_places": [
+        "Boston"
+      ],
+      "copyright_date": "2003",
+      "edition_name": "Movie tie-in edition (1)",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "hardcover",
+      "pagination": "1137p.",
+      "covers": [
+        15131000
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-05-17T13:51:26.585267"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-10T23:14:39.486304"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "Guild Publishing"
+      ],
+      "publish_date": "1990",
+      "key": "/books/OL51711071M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14627456
+      ],
+      "ocaid": "hobbitguildpubli0000jrrt",
+      "classifications": {},
+      "publish_places": [
+        "London"
+      ],
+      "copyright_date": "1966",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "hardcover",
+      "number_of_pages": 1244,
+      "pagination": "1244p.",
+      "source_records": [
+        "ia:hobbitguildpubli0000jrrt"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-05-17T09:25:40.022225"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-03T15:55:14.740971"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "Houghton Mifflin Company"
+      ],
+      "publish_date": "1987",
+      "key": "/books/OL51695300M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0395193958"
+      ],
+      "ocaid": "lordofrings0000tolk_k7n1",
+      "classifications": {},
+      "publish_places": [
+        "Boston"
+      ],
+      "copyright_date": "1987",
+      "edition_name": "Collector's Edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "hardcover",
+      "pagination": "423, 352, 440 pages, 1 unnumbered folded leaf of plates",
+      "covers": [
+        14626129
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-05-14T14:31:52.609110"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-14T14:32:51.272686"
+      }
+    },
+    {
+      "publishers": [
+        "Houghton Mifflin"
+      ],
+      "number_of_pages": 440,
+      "covers": [
+        -1
+      ],
+      "local_id": [
+        "urn:cst:10017043606"
+      ],
+      "lc_classifications": [
+        "PZ3.T576 Lo10",
+        "PR6039.O32 Lo10",
+        "PZ3.T576Lo10"
+      ],
+      "url": [
+        "http://www.loc.gov/catdir/samples/hm051/75308399.html",
+        "http://www.houghtonmifflinbooks.com/readers_guides/lotr/lotr_rg.shtml",
+        "http://www.loc.gov/catdir/description/hm021/75308399.html"
+      ],
+      "key": "/books/OL5237526M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "subjects": [
+        "Baggins, Frodo (Fictitious character) -- Fiction",
+        "Middle Earth (Imaginary place) -- Fiction",
+        "Fantasy fiction, English"
+      ],
+      "uri_descriptions": [
+        "Sample text",
+        "Reading group guide",
+        "Publisher description"
+      ],
+      "edition_name": "[2d ed.] Collector's ed.",
+      "pagination": "423, 352, 440 p., [1] fold. leaf of plates :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part08.dat:162926093:1118",
+        "amazon:B00M0NFYTC",
+        "amazon:0395193958",
+        "marc:marc_claremont_school_theology/CSTMARC1_barcode.mrc:59196833:2516",
+        "marc:marc_loc_2016/BooksAll.2016.part09.utf8:61790681:1211",
+        "marc:marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:59258377:2516",
+        "bwb:9780395193952"
+      ],
+      "title": "The lord of the rings",
+      "dewey_decimal_class": [
+        "823/.9/12"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes indexes."
+      },
+      "identifiers": {
+        "goodreads": [
+          "569465"
+        ],
+        "librarything": [
+          "1386651"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "75308399"
+      ],
+      "isbn_10": [
+        "0395193958"
+      ],
+      "publish_date": "1974",
+      "publish_country": "mau",
+      "by_statement": "J. R. R. Tolkien.",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/samples/hm051/75308399.html",
+        "http://www.houghtonmifflinbooks.com/readers_guides/lotr/lotr_rg.shtml",
+        "http://www.loc.gov/catdir/description/hm021/75308399.html"
+      ],
+      "latest_revision": 23,
+      "revision": 23,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-14T14:29:37.475975"
+      }
+    },
+    {
+      "publishers": [
+        "Allen & Unwin"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "499550"
+        ],
+        "librarything": [
+          "3203350"
+        ]
+      },
+      "subtitle": "being the second part of The Lord of the rings.",
+      "key": "/books/OL20175829M",
+      "authors": [
+        {
+          "key": "/authors/OL26320A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "352p. ;",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2443883990:562"
+      ],
+      "title": "The Lord of the Rings.",
+      "number_of_pages": 352,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0048230464"
+      ],
+      "publish_date": "1966",
+      "publish_country": "xxk",
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T05:31:18.454734"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-14T10:34:17.238877"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "Guild Publishing"
+      ],
+      "publish_date": "1981",
+      "key": "/books/OL51694024M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14828778,
+        14625765
+      ],
+      "ocaid": "lordofrings0000jrrt",
+      "classifications": {},
+      "publish_places": [
+        "London"
+      ],
+      "copyright_date": "1966",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "hardcover",
+      "number_of_pages": 1077,
+      "pagination": "1077p.",
+      "source_records": [
+        "ia:lordofrings0000jrrt"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-05-13T17:58:18.944933"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T03:29:17.635611"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL27448W"
+        }
+      ],
+      "title": "The Lord of the Rings",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "publish_date": "1993",
+      "key": "/books/OL51693405M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0261102435"
+      ],
+      "ocaid": "lordofrings0000tolk_o3c6",
+      "classifications": {},
+      "publish_places": [
+        "London"
+      ],
+      "copyright_date": "1966",
+      "edition_name": "paperback edition (2)",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "paperback",
+      "pagination": "1193p.",
+      "covers": [
+        14625541
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-05-13T10:21:04.873809"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-13T10:22:40.945285"
+      }
+    }
+  ]
+}

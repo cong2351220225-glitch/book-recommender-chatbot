@@ -1,0 +1,85 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "From the book:\"A stitch in time saves nine.\"  \"O Pris, Pris, I'm really going! Here's the invitation – rough paper - Chapel - spreads - Lyceum Hall - everything splendid; and Jack to take care of me!\"  As Kitty burst into the room and performed a rapturous pas seul, waving the cards over her head, sister Priscilla looked up from her work with a smile of satisfaction on her quiet face."
+  },
+  "title": "Kitty's Class Day and Other Stories",
+  "covers": [
+    2812701,
+    5634184,
+    9026647,
+    9008435,
+    5900980,
+    5630363,
+    7970312
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "\"A stitch in time saves nine.\""
+  },
+  "first_publish_date": "1908",
+  "key": "/works/OL30045W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "\"A stitch in time saves nine.\""
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Classic Literature",
+    "Fiction",
+    "Balls (Parties)",
+    "Cross-cousin marriage",
+    "Juvenile literature",
+    "Evening gowns",
+    "Pride and vanity",
+    "Fiction, short stories (single author)",
+    "Children's stories",
+    "Children's stories, American",
+    "Conduct of life",
+    "Family",
+    "Fiction, general",
+    "Young women",
+    "Juvenile fiction",
+    "Brothers and sisters",
+    "Young men",
+    "Wealth",
+    "Artists",
+    "Proverbs",
+    "Children",
+    "Early works to 1800"
+  ],
+  "location": "/works/OL30045W",
+  "lc_classifications": [
+    "PZ7.A335 Pr 1888x"
+  ],
+  "genres": [
+    "/tags/OL174T"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-27T15:57:51.880760"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "publishers": [
+    "Macmillan"
+  ],
+  "lc_classifications": [
+    "PZ3 .P9422 De"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL6068580M",
+  "authors": [
+    {
+      "key": "/authors/OL2248574A"
+    }
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "pagination": "259 p. ;",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part04.utf8:116357273:467"
+  ],
+  "title": "Dear guest and ghost",
+  "lccn": [
+    "50006705"
+  ],
+  "number_of_pages": 259,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-18T09:31:47.594281"
+  },
+  "publish_date": "1950",
+  "publish_country": "nyu",
+  "by_statement": "by Sylvia Dee.",
+  "oclc_numbers": [
+    "1598248"
+  ],
+  "works": [
+    {
+      "key": "/works/OL7440021W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

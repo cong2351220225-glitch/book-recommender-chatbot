@@ -1,0 +1,54 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Caption title.\n\nAt head of title: In Senate of the United States, December 1, 1803.\n\nAmendment regarding the method for electing the President and Vice President.\n\nShaw & Shoemaker, 5312.\n\nMicrofiche. [New Canaan, CT] : Readex Microprint, [1987-1992] microfiches ; 11 x 15 cm. (Early American imprints.  Second series ; no. 5312)."
+  },
+  "title": "The report of the committee on the amendment to the Constitution, being under consideration",
+  "subtitle": "the following motion was made by Mr. Adams ...",
+  "publish_date": "1803",
+  "publishers": [
+    "s.n."
+  ],
+  "series": [
+    "Early American imprints -- no. 5312."
+  ],
+  "physical_format": "Microform",
+  "publish_places": [
+    "[Washington"
+  ],
+  "contributions": [
+    "Adams, John Quincy, 1767-1848."
+  ],
+  "pagination": "2 p.",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Presidents -- United States -- Election."
+  ],
+  "publish_country": "dcu",
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "marc:marc_oregon_summit_records/catalog_files/osu_bibs.mrc:1254632409:1377"
+  ],
+  "key": "/books/OL17706557M",
+  "works": [
+    {
+      "key": "/works/OL692482W"
+    }
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-30T15:31:07.247435"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-05T05:24:47.436064"
+  }
+}

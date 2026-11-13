@@ -1,0 +1,44 @@
+from __future__ import annotations
+
+import os
+os.environ["ANONYMIZED_TELEMETRY"] = "False"
+
+from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# Base project paths
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = BASE_DIR / "data"
+BOOKS_CSV_PATH = DATA_DIR / "books.csv"
+AUTHORS_CSV_PATH = DATA_DIR / "authors.csv"
+GENRES_CSV_PATH = DATA_DIR / "genres.csv"
+USERS_FILE_PATH = DATA_DIR / "users.json"
+CHAT_HISTORY_DIR = DATA_DIR / "chat_history"
+READING_DIR = DATA_DIR / "sample_books"
+BOOKSHELVES_DIR = DATA_DIR / "bookshelves"
+RECOMMENDATIONS_DIR = DATA_DIR / "recommendations"
+COMMUNITY_DB_PATH = DATA_DIR / "social_community.db"
+CHROMA_PATH = BASE_DIR / "chroma_db"
+COLLECTION_NAME = "books_collection"
+
+# Security & JWT settings
+SECRET_KEY = os.getenv("JWT_SECRET_KEY", "antigravity-ai-digital-library-super-secret-key-2026")
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES", str(60 * 24 * 7)))  # 7 days
+
+# CORS Settings
+CORS_ORIGINS = [
+    "http://localhost",
+    "http://localhost:3000",
+    "http://localhost:8000",
+    "http://localhost:8080",
+    "http://localhost:8501",
+    "http://127.0.0.1",
+    "http://127.0.0.1:3000",
+    "http://127.0.0.1:8000",
+    "http://127.0.0.1:8080",
+    "http://127.0.0.1:8501",
+    "*",
+]

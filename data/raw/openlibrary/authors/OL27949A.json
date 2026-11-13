@@ -1,0 +1,14 @@
+{
+  "name": "Sally Warner",
+  "personal_name": "Sally Warner",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-10 08:09:01.816621"
+  },
+  "key": "/authors/OL27949A",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 70830,
+  "revision": 2
+}

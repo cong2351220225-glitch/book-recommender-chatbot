@@ -1,0 +1,184 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import '../../core/constants/app_colors.dart';
+import '../../providers/book_provider.dart';
+import '../../providers/genre_provider.dart';
+import '../widgets/custom_button.dart';
+import '../widgets/custom_text_field.dart';
+
+class SearchFilterScreen extends StatefulWidget {
+  const SearchFilterScreen({super.key});
+
+  @override
+  State<SearchFilterScreen> createState() => _SearchFilterScreenState();
+}
+
+class _SearchFilterScreenState extends State<SearchFilterScreen> {
+  late TextEditingController _titleController;
+  late TextEditingController _authorController;
+  late TextEditingController _isbnController;
+  late String _selectedGenre;
+  late bool _readingOnly;
+  late bool _featuredOnly;
+
+  @override
+  void initState() {
+    super.initState();
+    final bookProvider = context.read<BookProvider>();
+    _titleController = TextEditingController(text: bookProvider.searchQuery);
+    _authorController = TextEditingController();
+    _isbnController = TextEditingController();
+    _selectedGenre = bookProvider.selectedGenre;
+    _readingOnly = bookProvider.readingOnly;
+    _featuredOnly = bookProvider.featuredOnly;
+  }
+
+  @override
+  void dispose() {
+    _titleController.dispose();
+    _authorController.dispose();
+    _isbnController.dispose();
+    super.dispose();
+  }
+
+  void _applyFilters() {
+    final bookProvider = context.read<BookProvider>();
+    bookProvider.applyAdvancedFilter(
+      query: _titleController.text.trim(),
+      author: _authorController.text.trim(),
+      isbn: _isbnController.text.trim(),
+      genre: _selectedGenre,
+      readingOnly: _readingOnly,
+      featuredOnly: _featuredOnly,
+    );
+    Navigator.of(context).pop();
+  }
+
+  void _reset() {
+    setState(() {
+      _titleController.clear();
+      _authorController.clear();
+      _isbnController.clear();
+      _selectedGenre = 'Tất cả';
+      _readingOnly = false;
+      _featuredOnly = false;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final genreProvider = context.watch<GenreProvider>();
+
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      appBar: AppBar(
+        title: const Text('Bộ Lọc Nâng Cao'),
+        actions: [
+          TextButton(
+            onPressed: _reset,
+            child: const Text(
+              'Đặt lại',
+              style: TextStyle(color: AppColors.gold, fontWeight: FontWeight.bold),
+            ),
+          ),
+        ],
+      ),
+      body: SingleChildScrollView(
+        padding: const EdgeInsets.all(20.0),
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 600),
+            child: Card(
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+              child: Padding(
+                padding: const EdgeInsets.all(24.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    CustomTextField(
+                      controller: _titleController,
+                      label: 'Tiêu đề hoặc từ khóa',
+                      hint: 'Ví dụ: Lập trình, Nhà Giả Kim...',
+                      prefixIcon: Icons.menu_book_rounded,
+                    ),
+                    const SizedBox(height: 16),
+                    CustomTextField(
+                      controller: _authorController,
+                      label: 'Tác giả',
+                      hint: 'Ví dụ: Andy Hunt, Paulo Coelho...',
+                      prefixIcon: Icons.person_rounded,
+                    ),
+                    const SizedBox(height: 16),
+                    CustomTextField(
+                      controller: _isbnController,
+                      label: 'Mã số tiêu chuẩn ISBN',
+                      hint: 'Ví dụ: 0132100673 hoặc 9780201616224',
+                      prefixIcon: Icons.qr_code_rounded,
+                    ),
+                    const SizedBox(height: 20),
+
+                    // Genre Dropdown
+                    const Text(
+                      'Thể loại',
+                      style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: AppColors.textPrimary),
+                    ),
+                    const SizedBox(height: 6),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 14),
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: AppColors.border),
+                      ),
+                      child: DropdownButtonHideUnderline(
+                        child: DropdownButton<String>(
+                          value: _selectedGenre,
+                          isExpanded: true,
+                          items: [
+                            const DropdownMenuItem(value: 'Tất cả', child: Text('Tất cả các thể loại')),
+                            ...genreProvider.genres.map((g) {
+                              return DropdownMenuItem(value: g.name, child: Text(g.name));
+                            }),
+                          ],
+                          onChanged: (val) {
+                            if (val != null) setState(() => _selectedGenre = val);
+                          },
+                        ),
+                      ),
+                    ),
+                    const SizedBox(height: 20),
+
+                    // Toggle checkboxes
+                    CheckboxListTile(
+                      value: _readingOnly,
+                      title: const Text('Chỉ hiện sách đọc online trong thư viện', style: TextStyle(fontSize: 14)),
+                      activeColor: AppColors.navy,
+                      contentPadding: EdgeInsets.zero,
+                      onChanged: (val) => setState(() => _readingOnly = val ?? false),
+                    ),
+                    CheckboxListTile(
+                      value: _featuredOnly,
+                      title: const Text('Chỉ hiện sách nổi bật được tuyển chọn', style: TextStyle(fontSize: 14)),
+                      activeColor: AppColors.navy,
+                      contentPadding: EdgeInsets.zero,
+                      onChanged: (val) => setState(() => _featuredOnly = val ?? false),
+                    ),
+                    const SizedBox(height: 28),
+
+                    // Apply Button
+                    CustomButton(
+                      text: 'Áp dụng bộ lọc',
+                      icon: Icons.check_rounded,
+                      onPressed: _applyFilters,
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+

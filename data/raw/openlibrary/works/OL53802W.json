@@ -1,0 +1,35 @@
+{
+  "subjects": [
+    "Contraception",
+    "Conception",
+    "Prevention",
+    "Family Planning Services",
+    "Birth control"
+  ],
+  "subtitle": "a manual for the medical and legal professions",
+  "key": "/works/OL53802W",
+  "title": "Contraception (birth control) its theory, history and practice",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL4630807A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T18:06:09.703894"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-17T13:38:02.756139"
+  }
+}

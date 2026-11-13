@@ -1,0 +1,47 @@
+{
+  "publishers": [
+    "Seuil"
+  ],
+  "physical_format": "Mass Market Paperback",
+  "weight": "5 ounces",
+  "title": "L'Energie humaine",
+  "number_of_pages": 236,
+  "covers": [
+    3071594
+  ],
+  "isbn_13": [
+    "9782020526432"
+  ],
+  "isbn_10": [
+    "2020526433"
+  ],
+  "publish_date": "September 5, 2002",
+  "key": "/books/OL12388193M",
+  "authors": [
+    {
+      "key": "/authors/OL26868A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL459223W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "6.8 x 4.3 x 0.6 inches",
+  "source_records": [
+    "amazon:2020526433"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-15T16:40:53.280371"
+  }
+}

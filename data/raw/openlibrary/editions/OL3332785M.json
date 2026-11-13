@@ -1,0 +1,72 @@
+{
+  "subtitle": "kar̲uppu Kāntiyin̲ veḷḷai vāl̲kkai",
+  "subject_place": [
+    "India"
+  ],
+  "lc_classifications": [
+    "DS481.K2595 N35 2004"
+  ],
+  "edition_name": "1st ed.",
+  "genres": [
+    "Biography."
+  ],
+  "title": "Kāmarāj",
+  "languages": [
+    {
+      "key": "/languages/tam"
+    }
+  ],
+  "subjects": [
+    "Kamaraj, K., 1903-1975.",
+    "Statesmen -- India -- Biography."
+  ],
+  "publish_country": "ii ",
+  "by_statement": "Nākūr Rūmi.",
+  "type": {
+    "key": "/type/edition"
+  },
+  "publishers": [
+    "Kil̲akku Patippakam"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "On the life of K. Kamaraj, Indian statesman and former chief minister of Tamil Nadu."
+  },
+  "key": "/books/OL3332785M",
+  "authors": [
+    {
+      "key": "/authors/OL111895A"
+    }
+  ],
+  "publish_places": [
+    "Chennai"
+  ],
+  "pagination": "152 p. ;",
+  "lccn": [
+    "2004311785"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "In Tamil.\nIncludes bibliographical references (p. [151]-152)."
+  },
+  "number_of_pages": 152,
+  "publish_date": "2004",
+  "works": [
+    {
+      "key": "/works/OL1081682W"
+    }
+  ],
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part31.utf8:230574862:923"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-08T19:01:04.090498"
+  }
+}

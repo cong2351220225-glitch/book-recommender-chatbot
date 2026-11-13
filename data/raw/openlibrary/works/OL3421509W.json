@@ -1,0 +1,32 @@
+{
+  "lc_classifications": [
+    "CS71.B223  1934"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-13T22:44:51.300091"
+  },
+  "title": "Some ancestors of Moses Bancroft",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:31:53.945228"
+  },
+  "first_publish_date": "1934",
+  "latest_revision": 2,
+  "key": "/works/OL3421509W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL563119A"
+      }
+    }
+  ],
+  "subject_people": [
+    "Bancroft family"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Taylor, William",
+  "personal_name": "Taylor, William",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-04-01 03:28:50.625462"
+  },
+  "key": "/authors/OL19486A",
+  "birth_date": "1938",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 50964,
+  "revision": 1
+}

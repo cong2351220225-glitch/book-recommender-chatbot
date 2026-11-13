@@ -1,0 +1,55 @@
+{
+  "title": "Debby's Debut (Large Print)",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_date": "January 3, 2007",
+  "publishers": [
+    "ReadHowYouWant.com"
+  ],
+  "weight": "6.9 ounces",
+  "covers": [
+    2822518
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "Fiction / General"
+  ],
+  "isbn_13": [
+    "9781425068820"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1425068820"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9 x 6 x 0.2 inches",
+  "source_records": [
+    "amazon:1425068820"
+  ],
+  "key": "/books/OL11859501M",
+  "number_of_pages": 96,
+  "works": [
+    {
+      "key": "/works/OL30032W"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-15T11:22:08.209272"
+  }
+}

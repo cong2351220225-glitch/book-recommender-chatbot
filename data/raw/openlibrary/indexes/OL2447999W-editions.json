@@ -1,0 +1,96 @@
+{
+  "links": {
+    "self": "/works/OL2447999W/editions.json",
+    "work": "/works/OL2447999W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "K. Alber"
+      ],
+      "number_of_pages": 367,
+      "subtitle": "die Aufhebung der Hegelschen Philosophie im geschichtlichen Bewusstsein",
+      "isbn_10": [
+        "3495478140"
+      ],
+      "series": [
+        "Symposion ;",
+        "102",
+        "Symposion (Freiburg im Breisgau, Germany) ;",
+        "102."
+      ],
+      "lc_classifications": [
+        "B3216.D84 H66 1995"
+      ],
+      "key": "/books/OL570584M",
+      "authors": [
+        {
+          "key": "/authors/OL339404A"
+        }
+      ],
+      "publish_places": [
+        "Freiburg [im Breisgau]"
+      ],
+      "pagination": "367 p. ;",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part25.utf8:167315618:1057",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:296460622:1524",
+        "marc:harvard_bibliographic_metadata/20220215_042.bib.mrc:327631739:1789"
+      ],
+      "title": "Diltheys Bruch mit der Metaphysik",
+      "dewey_decimal_class": [
+        "193"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 350-357) and indexes.\nOriginally presented as the author's thesis (doctoral)--Universität Osnabrück."
+      },
+      "identifiers": {
+        "librarything": [
+          "3745106"
+        ],
+        "goodreads": [
+          "4826525"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "lccn": [
+        "96156507"
+      ],
+      "subjects": [
+        "Dilthey, Wilhelm, 1833-1911.",
+        "Hegel, Georg Wilhelm Friedrich, 1770-1831.",
+        "History -- Philosophy."
+      ],
+      "publish_date": "1995",
+      "publish_country": "gw ",
+      "by_statement": "Arne Homann.",
+      "oclc_numbers": [
+        "34582360"
+      ],
+      "works": [
+        {
+          "key": "/works/OL2447999W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-23T09:36:34.076636"
+      }
+    }
+  ]
+}

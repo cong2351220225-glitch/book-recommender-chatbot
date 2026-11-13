@@ -1,0 +1,2289 @@
+{
+  "links": {
+    "self": "/works/OL1168007W/editions.json",
+    "work": "/works/OL1168007W",
+    "next": "/works/OL1168007W/editions.json?offset=50"
+  },
+  "size": 653,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Animal Farm",
+      "publishers": [
+        "Arcturus"
+      ],
+      "publish_date": "2026",
+      "key": "/books/OL62597685M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15258669
+      ],
+      "isbn_13": [
+        "9781398864528"
+      ],
+      "edition_name": "Gilded Pocket Edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardback",
+      "number_of_pages": 96,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-25T23:05:05.950306"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-25T23:07:15.673438"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Animal Farm",
+      "publishers": [
+        "Penguin"
+      ],
+      "publish_date": "1965",
+      "key": "/books/OL62253548M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15235963
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-07-06T08:01:07.781621"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-06T08:02:15.105135"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Animal Farm",
+      "publishers": [
+        "Mariner Books Classics"
+      ],
+      "publish_date": "July 1, 2009",
+      "key": "/books/OL62207750M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15233817
+      ],
+      "isbn_13": [
+        "9780547370224"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "eBook sold through Kobo. Publisher is given as HarperCollins, imprint Mariner Books Classics."
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-06-28T22:25:33.504019"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-28T22:29:15.885171"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Animal Farm",
+      "publishers": [
+        "Pandora's Box"
+      ],
+      "publish_date": "December 30, 2020",
+      "key": "/books/OL62083001M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15225419
+      ],
+      "isbn_13": [
+        "9789897786280"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "eBook edition sold through Kobo.com. The published is given as Pandora's Box under the imprint Biblos."
+      },
+      "physical_format": "eBook",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-05-30T22:29:00.158644"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-30T22:32:49.360058"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Rebelión en la granja",
+      "publishers": [
+        "Debolsillo"
+      ],
+      "publish_date": "2013",
+      "key": "/books/OL61651047M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15214776
+      ],
+      "description": "\"Una obra literaria perfecta.\"\r\n\r\nT. S. Eliot\r\n\r\nEsta sátira de la Revolución rusa y el triunfo del estalinismo, escrita en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos. Ante el auge de los animales de la Granja Solariega, pronto detectamos las semillas del totalitarismo en una organización aparentemente ideal; y en nuestros líderes más carismáticos, la sombra de los opresores más crueles.",
+      "physical_format": "Tapa blanda",
+      "number_of_pages": 144,
+      "isbn_13": [
+        "9786073115773"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-04-24T19:03:24.947751"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-26T11:16:05.507059"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "O Triunfo Dos Porcos",
+      "publishers": [
+        "Dom Quixote"
+      ],
+      "publish_date": "Janeiro de 2021",
+      "key": "/books/OL61605091M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15212926
+      ],
+      "isbn_13": [
+        "9789722071598"
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "Animal Farm",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Após anos a serem explorados, os animais da Quinta Manor revoltam-se.\r\nO agricultor que os subjugava é expulso com violência, triunfa a rebelião liderada pelos porcos e instala-se uma nova ordem: Todos os animais são iguais...\r\nCom os humanos fora da equação, os animais organizam-se. Porcos, cães, cavalos e galinhas vivem durante um breve período uma utopia de igualdade. Mas cedo começam as intrigas, a organização social fratura-se, nasce uma outra hierarquia, e com ela uma adenda ao princípio fundador: mas alguns animais são mais iguais do que outros.\r\nA frase completa-se, fecha-se o círculo, nasce um dos melhores romances do século XX.\r\nO Triunfo dos Porcos, publicado ainda durante a Segunda Guerra Mundial, revelou ser a alegoria perfeita (e profética) sobre a ascensão ao poder de Estaline e a consequente subversão dos ideais revolucionários. Lida hoje, porém, é muito mais do que isso. É uma fábula sobre a queda moral dos regimes e a falência dos modelos teóricos de governação quando confrontados com a cupidez humana.\r\nO mais popular livro de George Orwell, que foi recusado na altura por vários editores ingleses (inclusive pelo poeta T. S. Eliot) viria a tornar‑se um raro fenómeno de popularidade.\r\nConsiderado um dos melhores romances de sempre pela revista Time e pela Modern Library, foi (e ainda é) uma das obras mais censuradas da história recente. É, nesta versão, apresentada com o prefácio original de Orwell (nunca publicado) e ainda com o prefácio que o autor fez para uma célebre edição em ucraniano."
+      },
+      "physical_format": "Ebook",
+      "number_of_pages": 160,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-04-20T14:47:10.178441"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-20T14:52:13.758431"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781784878986"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 144,
+      "publish_date": "2025",
+      "publishers": [
+        "Penguin Random House"
+      ],
+      "source_records": [
+        "bwb:9781784878986"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.369",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL57547604M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-01-24T22:48:57.789912"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781956861372"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2025",
+      "publishers": [
+        "Namya Press"
+      ],
+      "source_records": [
+        "bwb:9781956861372"
+      ],
+      "subjects": [
+        "Political science",
+        "Self-help techniques"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL57609892M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-01-25T04:46:12.300659"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL8270207A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781788505079"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 80,
+      "publish_date": "2025",
+      "publishers": [
+        "Hern Books, Limited, Nick"
+      ],
+      "source_records": [
+        "bwb:9781788505079"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL57745344M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-17T01:18:38.853665"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL8270207A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781839040627"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 80,
+      "publish_date": "2025",
+      "publishers": [
+        "Hern Books, Limited, Nick"
+      ],
+      "source_records": [
+        "bwb:9781839040627"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL57747952M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-17T01:31:53.821663"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "animal farm",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1954",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 118,
+      "ocaid": "bwb_KR-355-536",
+      "source_records": [
+        "ia:bwb_KR-355-536"
+      ],
+      "full_title": "animal farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL58622222M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T15:56:19.363110"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Animal Farm",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1946",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 130,
+      "ocaid": "bwb_O7-DNM-713",
+      "source_records": [
+        "ia:bwb_O7-DNM-713"
+      ],
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL58644300M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T23:43:19.094926"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "title": "Animal Farm",
+      "publishers": [
+        "Harcourt, Brace and Company"
+      ],
+      "publish_date": "1946",
+      "key": "/books/OL60964883M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15152948
+      ],
+      "publish_places": [
+        "New York, USA"
+      ],
+      "copyright_date": "1946",
+      "number_of_pages": 118,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-16T12:12:02.891523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781977688101"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 68,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977688101"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.155",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56400545M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T05:23:15.266136"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL9600475A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781501027277"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 46,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781501027277"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.118",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56435442M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T10:34:00.911307"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781548021924"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 56,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548021924"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.136",
+      "subtitle": "A Contemporary Satire",
+      "full_title": "Animal Farm A Contemporary Satire",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56509579M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T21:58:13.085174"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781535061636"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 112,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781535061636"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.223",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56554893M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T04:06:29.168523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781517738150"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781517738150"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.168",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56605834M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T11:22:22.002938"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781975963453"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 56,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975963453"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.136",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56616347M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T13:08:52.276535"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781535128995"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 112,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781535128995"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.223",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL56673158M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T21:14:41.569429"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781542304504"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 68,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781542304504"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.155",
+      "subtitle": "English",
+      "full_title": "Animal Farm English",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55332524M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T16:24:13.233863"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781519719843"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 96,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781519719843"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.200",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55424361M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T05:22:54.192428"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781547187768"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 46,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781547187768"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.118",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55462953M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T11:22:19.422339"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781979429016"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 134,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979429016"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.414",
+      "subtitle": "Large Print",
+      "full_title": "Animal Farm Large Print",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55467006M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T11:52:21.246736"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781503138612"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 78,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781503138612"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.168",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55478495M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T14:02:49.335085"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781976587313"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 134,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781976587313"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.259",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55497126M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T16:41:29.634951"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781721273379"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781721273379"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.136",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55505022M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T17:42:39.028424"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781548880156"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 90,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548880156"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.191",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55582805M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T05:08:58.382072"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781721557929"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 202,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781721557929"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.364",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55610234M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T09:39:28.016431"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781802633894"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "PR6029.R8A5 2024"
+      ],
+      "number_of_pages": 128,
+      "publish_date": "2024",
+      "publishers": [
+        "Sweet Cherry Publishing"
+      ],
+      "source_records": [
+        "bwb:9781802633894"
+      ],
+      "subjects": [
+        "English literature"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54066642M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-18T10:40:28.728535"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781503311244"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 46,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781503311244"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.118",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54624808M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T09:42:29.662067"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781722837273"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 80,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781722837273"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.264",
+      "subtitle": "Large Print",
+      "full_title": "Animal Farm Large Print",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54728534M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T23:34:32.120096"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781542525268"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 84,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781542525268"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.182",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54751047M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T03:23:05.685702"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781721009442"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 176,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781721009442"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.323",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54852396M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T17:55:32.894208"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL14469993A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781502364395"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781502364395"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.168",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL54945203M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-24T07:56:35.263138"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781983510175"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 56,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781983510175"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.136",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55029804M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-24T21:18:22.703671"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781979512176"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 542,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979512176"
+      ],
+      "title": "Animal Farm",
+      "weight": "1.527",
+      "subtitle": "Large Print",
+      "full_title": "Animal Farm Large Print",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55090614M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T05:01:30.895932"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781537553467"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 46,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781537553467"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.118",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL55162701M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T15:39:10.454984"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B002H2WM14"
+        ],
+        "better_world_books": [
+          "BWBM57747678"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O9-BFN-339"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-10-03:O9-BFN-339",
+        "bwb:9780241706985"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL49652588M",
+      "publishers": [
+        "Penguin Books, Limited"
+      ],
+      "publish_date": "2024",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-10-05T01:01:33.834123"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_10": [
+        "9386538288"
+      ],
+      "isbn_13": [
+        "9789386538284"
+      ],
+      "local_id": [
+        "urn:bwbsku:P9-CGQ-628"
+      ],
+      "publish_date": "2017-01-12",
+      "publishers": [
+        "Fingerprint! Publishing"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-02-07:P9-CGQ-628"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL51008083M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-09T01:02:41.678503"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9783962725365"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "80",
+      "publish_date": "2020",
+      "publishers": [
+        "Liese. Outside The Box, Andreas"
+      ],
+      "source_records": [
+        "bwb:9783962725365"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL51110550M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-17T15:02:38.025831"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781456635817"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "112",
+      "publish_date": "2020",
+      "publishers": [
+        "eBookit.com"
+      ],
+      "source_records": [
+        "bwb:9781456635817"
+      ],
+      "title": "Animal Farm",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL52111739M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-20T15:54:27.759942"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798562406538"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "79",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798562406538"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.264",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48795431M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T14:16:00.107885"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798456842077"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798456842077"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.355",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48848643M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T16:43:45.354530"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798456659804"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798456659804"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.355",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48849476M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T16:46:48.953558"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798465190732"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "109",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798465190732"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.195",
+      "subtitle": "A Fairy Story",
+      "full_title": "Animal Farm A Fairy Story",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48921750M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T21:30:41.259101"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798456710727"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798456710727"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.355",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48926068M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T21:45:12.056703"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798455923234"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798455923234"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.355",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48935064M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T22:17:48.208761"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798455906602"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "114",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798455906602"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.355",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48948703M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T23:03:53.613999"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9798457213630"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "115",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798457213630"
+      ],
+      "title": "Animal Farm",
+      "weight": "0.205",
+      "full_title": "Animal Farm",
+      "works": [
+        {
+          "key": "/works/OL1168007W"
+        }
+      ],
+      "key": "/books/OL48950137M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T23:09:22.840278"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T14:28:31.539763"
+      }
+    }
+  ]
+}

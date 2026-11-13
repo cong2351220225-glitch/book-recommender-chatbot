@@ -1,0 +1,119 @@
+{
+  "links": {
+    "self": "/works/OL281865W/editions.json",
+    "work": "/works/OL281865W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Not Avail"
+      ],
+      "physical_format": "Hardcover",
+      "source_records": [
+        "amazon:0890046948:2-bb:1341225896:144837",
+        "amazon:0890046948",
+        "bwb:9780890046944"
+      ],
+      "title": "Frontiers in Neuroendocrinology",
+      "isbn_13": [
+        "9780890046944"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0890046948"
+      ],
+      "publish_date": "April 1982",
+      "key": "/books/OL9566797M",
+      "authors": [
+        {
+          "key": "/authors/OL2635626A"
+        }
+      ],
+      "oclc_numbers": [
+        "10369958"
+      ],
+      "works": [
+        {
+          "key": "/works/OL281865W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Medicine",
+        "Endocrinology & Metabolism",
+        "Medical / Nursing"
+      ],
+      "number_of_pages": 400,
+      "identifiers": {
+        "doi": [
+          "10.1604/9780890046944"
+        ]
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T10:53:13.807629"
+      }
+    },
+    {
+      "publishers": [
+        "Raven Pr"
+      ],
+      "source_records": [
+        "amazon:9999873561:2-bg:879833084:148795"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "contributions": [
+        "Luciano Martini (Editor)"
+      ],
+      "title": "Frontiers in Neuroendocrinology",
+      "isbn_13": [
+        "9789999873567"
+      ],
+      "physical_format": "Hardcover",
+      "authors": [
+        {
+          "key": "/authors/OL2635626A"
+        }
+      ],
+      "isbn_10": [
+        "9999873561"
+      ],
+      "publish_date": "February 1990",
+      "key": "/books/OL9737930M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-26T00:31:05.899395"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Health/Fitness"
+      ],
+      "works": [
+        {
+          "key": "/works/OL281865W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 13075433,
+      "revision": 2
+    }
+  ]
+}

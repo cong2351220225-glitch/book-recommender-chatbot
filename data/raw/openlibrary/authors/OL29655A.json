@@ -1,0 +1,133 @@
+{
+  "bio": {
+    "type": "/type/text",
+    "value": "Stanisław Herman Lem (ur. 12 lub 13 września 1921 we Lwowie, zm. 27 marca 2006 w Krakowie) – polski pisarz gatunku hard science fiction, filozof, futurolog oraz krytyk literacki. Jest najczęściej tłumaczonym polskim pisarzem. Został odznaczony wieloma wysokimi odznaczeniami państwowymi i kulturalnymi, między innymi Orderem Orła Białego i medalem „Gloria Artis”.\r\n\r\nJego debiutem książkowym była wydana w 1951 roku powieść *Astronauci*. Kolejne powieści fantastycznonaukowe jego autorstwa to: *Obłok Magellana* (1955), *Eden* (1959), *Pamiętnik znaleziony w wannie* (1961), *Powrót z gwiazd* (1961), *Solaris* (1961), *Niezwyciężony* (1964), *Głos Pana* (1968), *Wizja lokalna* (1982), *Fiasko* (1987) i *Pokój na Ziemi* (1987). Był również autorem trylogii *Czas nieutracony* (1955) oraz cykli opowiadań fantastycznonaukowych: *Dzienniki gwiazdowe* (1957), *Księga robotów* (1961), *Bajki robotów* (1964), *Cyberiada* (1965), *Opowieści o pilocie Pirxie* (1968). Napisał recenzje nieistniejących książek (*Doskonała próżnia*, 1971), a także wstępy do nieistniejących dzieł (*Wielkość urojona*, 1973). Jest autorem zbiorów esejów, felietonów i publicystyki literackiej, w tym: *Wejście na orbitę* (1962), *Summa technologiae* (1964), *Filozofia przypadku* (1968), *Fantastyka i futurologia* (1970), *Rozprawy i szkice* (1975).\r\n\r\n---\r\n\r\nStanisław Herman Lem (12 September 1921 – 27 March 2006) was a Polish author known for his contributions to science fiction, philosophy, and literary criticism. Born in Lwów, Poland (now Lviv, Ukraine), Lem initially pursued medical studies, which, though unfinished due to fears of military conscription and discomfort with medical practice, laid the groundwork for his scientifically rigorous and philosophically rich writing. His early experiences during World War II, including surviving with false papers to avoid the Nazi Lwów Ghetto, deeply influenced his worldview.\r\n\r\nLem's literary career began in 1946 with publications in various genres, including poetry and science fiction. His writings explore complex themes such as the nature of intelligence, human limitations, the challenges of communicating with alien entities, existential despair, and the implications of technological advancements. Notable works include [*Solaris*](https://openlibrary.org/works/OL109524W), which delves into the difficulties of understanding an alien intelligence, [*His Master's Voice*](https://openlibrary.org/works/OL109520W), focusing on humanity's struggle to decipher an extraterrestrial message, [*The Invincible*](https://openlibrary.org/works/OL109498W), a narrative about a spaceship encountering self-replicating machines, and [*The Cyberiad*](https://openlibrary.org/works/OL2683553W), offering a satirical view of a mechanical universe.\r\n\r\nHis works have been translated into over 50 languages, with sales exceeding 40 million copies worldwide. Known for elaborate neologisms and intricate wordplay, Lem's writing posed significant translation challenges. Several of his works have been adapted for film and television, including *Solaris* (1972, by Andrei Tarkovsky, and 2002, by Steven Soderbergh). Lem's writings are recognised for their philosophical depth, imaginative scope, and incisive critique of humanity's relationship with technology and the cosmos, often blending satire and humour. He was critical of American science fiction, often expressing dissatisfaction with its lack of intellectual depth and commercial focus, advocating for more innovative storytelling.\r\n\r\nBeyond fiction, Lem authored texts on futurology, literary criticism, and philosophy. His seminal work, [*Summa Technologiae*](https://openlibrary.org/works/OL109505W) (1964), discussed future technological and social developments, addressing themes such as virtual reality, cognitive enhancements, molecular nanotechnology, AI, technological singularity, and the moral-ethical implications of advanced technologies. Lem also experimented with metafiction in works like [*A Perfect Vacuum*](https://openlibrary.org/works/OL2683569W), which consists of reviews of nonexistent books.\r\n\r\n(Sources: [1](https://english.lem.pl), [2](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem))"
+  },
+  "death_date": "27 March 2006",
+  "name": "Stanisław Lem",
+  "source_records": [
+    "amazon:8415979002",
+    "ia:wysokizamek0000lems",
+    "amazon:0156028891",
+    "amazon:6050381496",
+    "amazon:8363471569",
+    "amazon:975470869X",
+    "amazon:8804320338",
+    "bwb:9780262545068",
+    "marc:marc_scms/20220805_ADAM_MARC_records.mrc:22140187:1208",
+    "bwb:9780749312664",
+    "bwb:9781471665806",
+    "marc:marc_columbia/Columbia-extract-20221130-001.mrc:26903159:772",
+    "amazon:9754706255",
+    "amazon:975406931X",
+    "amazon:3353007369",
+    "amazon:8308061818",
+    "amazon:987790036X",
+    "bwb:9781299915886",
+    "marc:marc_columbia/Columbia-extract-20221130-007.mrc:337805545:812",
+    "promise:bwb_daily_pallets_2024-07-03:KT-564-448",
+    "marc:marc_columbia/Columbia-extract-20221130-006.mrc:337802726:770",
+    "bwb:9780816689033",
+    "marc:harvard_bibliographic_metadata/20220215_012.bib.mrc:14459338:1664"
+  ],
+  "photos": [
+    14854664,
+    14854663,
+    14854662,
+    14854661,
+    14854660,
+    14854659,
+    14854658,
+    14854656,
+    14854655,
+    14854654,
+    6602916
+  ],
+  "links": [
+    {
+      "title": "Official Website (by Stanisław Lem Estate)",
+      "url": "https://lem.pl",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Culture.pl Author Profile",
+      "url": "https://culture.pl/en/artist/stanislaw-lem",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Fantastic Fiction Author Entry",
+      "url": "https://www.fantasticfiction.com/l/stanislaw-lem/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "ISFDB Author Entry",
+      "url": "https://www.isfdb.org/cgi-bin/ea.cgi?166136",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "SFE Author Entry",
+      "url": "https://sf-encyclopedia.com/entry/lem_stanislaw",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "remote_ids": {
+    "wikidata": "Q6530",
+    "viaf": "56612733",
+    "isni": "0000000121340125",
+    "librarything": "lemstanislaw",
+    "lc_naf": "n79100400",
+    "gnd": "118571419",
+    "amazon": "B000AQ3P7Y",
+    "bookbrainz": "f3f33f3b-beae-4ca9-9085-fc4d21fa7d5d",
+    "goodreads": "10991",
+    "imdb": "nm0501015",
+    "inventaire": "wd:Q6530",
+    "musicbrainz": "7302fd79-fb9a-452e-b404-220fa94e6196",
+    "storygraph": "b6368eeb-fd3a-4da5-b0f7-35c66ce3c5f2",
+    "opac_sbn": "CFIV045265"
+  },
+  "alternate_names": [
+    "Stanislaw Lem",
+    "Stanislav Lem",
+    "Stanislas Lem",
+    "Станислав Лем",
+    "スタニスワフ・レム",
+    "スタニスラフ・レム",
+    "斯坦尼斯瓦夫·莱姆",
+    "斯坦尼斯瓦夫·萊姆",
+    "스타니스와프 렘",
+    "Stanisław Estel",
+    "Irving T. Creve",
+    "Richard Popp",
+    "Professor A. S. Tarantoga",
+    "Prof. A. S. Tarantoga",
+    "Profesor A. S. Tarantoga",
+    "Professor Thomas V. Warren"
+  ],
+  "personal_name": "Stanisław Lem",
+  "birth_date": "12 September 1921",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL29655A",
+  "latest_revision": 44,
+  "revision": 44,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-06T10:47:53.889099"
+  }
+}

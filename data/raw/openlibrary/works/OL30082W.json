@@ -1,0 +1,51 @@
+{
+  "subtitle": "and pictures that show just how big they are!",
+  "description": {
+    "type": "/type/text",
+    "value": "Uses illustrations of exponentially increasing peas to present the concept of numbers from one to a million, billion, trillion."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-14T01:26:42.857243"
+  },
+  "title": "Big Numbers",
+  "lc_classifications": [
+    "QA141.35 .P33 2000"
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "covers": [
+    1423854
+  ],
+  "first_publish_date": "2000",
+  "latest_revision": 8,
+  "key": "/works/OL30082W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26684A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "513.5/5"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Place value (Mathematics)",
+    "Decimal system",
+    "Number systems",
+    "Juvenile literature",
+    "Exponents (Algebra)",
+    "Number concept",
+    "Number concept, juvenile literature"
+  ],
+  "revision": 8
+}

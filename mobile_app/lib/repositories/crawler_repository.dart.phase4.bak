@@ -1,0 +1,53 @@
+import '../models/crawler_book_model.dart';
+import '../services/api_service.dart';
+
+class CrawlerRepository {
+  final ApiService _apiService;
+
+  CrawlerRepository({ApiService? apiService}) : _apiService = apiService ?? ApiService();
+
+  Future<List<CrawlerSourceModel>> getSources() async {
+    return await _apiService.getCrawlerSources();
+  }
+
+  Future<List<CrawlerBookCandidate>> searchBooks({
+    required String query,
+    String source = 'all',
+    int limit = 10,
+  }) async {
+    return await _apiService.searchCrawlerBooks(
+      query: query,
+      source: source,
+      limit: limit,
+    );
+  }
+
+  Future<CrawlerImportResult> importBook({
+    required Map<String, dynamic> candidate,
+    bool upsertChroma = true,
+  }) async {
+    return await _apiService.importCrawlerBook(
+      candidate: candidate,
+      upsertChroma: upsertChroma,
+    );
+  }
+
+  Future<CrawlerBatchImportResponse> batchImport({
+    required List<Map<String, dynamic>> candidates,
+    bool upsertChroma = true,
+  }) async {
+    return await _apiService.batchImportCrawlerBooks(
+      candidates: candidates,
+      upsertChroma: upsertChroma,
+    );
+  }
+
+  Future<Map<String, dynamic>> getUnindexed() async {
+    return await _apiService.getUnindexedBooks();
+  }
+
+  Future<Map<String, dynamic>> syncUnindexed() async {
+    return await _apiService.syncUnindexedVectors();
+  }
+}
+

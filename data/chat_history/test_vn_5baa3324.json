@@ -1,0 +1,73 @@
+{
+  "id": "test_vn_5baa3324",
+  "title": "Tôi muốn tìm một cuốn sách giúp rèn luyệ",
+  "timestamp": "2026-11-02 13:36:11",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi muốn tìm một cuốn sách giúp rèn luyện tư duy logic, sự kiên nhẫn và kỹ năng giải quyết vấn đề.",
+      "timestamp": "13:36"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn, dựa trên các thông tin sách có trong thư viện, tôi xin gợi ý cuốn sách rất phù hợp với nhu cầu rèn luyện tư duy và phán đoán của bạn:\n\n**Tư duy nhanh và chậm**\n* **Tác giả:** Daniel Kahneman\n* **Năm xuất bản:** 2011\n* **Thể loại:** Tâm lý\n* **Lý do phù hợp:** Cuốn sách đào sâu vào hai hệ thống tư duy, giúp bạn hiểu về nhận thức, cách các thiên kiến ảnh hưởng đến phán đoán và quyết định. Nội dung chuyên sâu này sẽ hỗ trợ bạn cải thiện tư duy logic, khả năng suy ngẫm kỹ lưỡng và đưa ra các quyết định/giải quyết vấn đề một cách thấu đáo hơn.",
+      "timestamp": "13:36",
+      "sources": [
+        {
+          "document": "Title: Tư duy nhanh và chậm\nAuthor: Daniel Kahneman\nGenre: Tâm lý\nPublication year: 2011\nTags: tư duy, nhận thức, quyết định\nTarget audience: Người thích đào sâu\nMood: Muốn suy ngẫm\nDifficulty: Chuyên sâu\nSummary: Cách các thiên kiến định hình lựa chọn.\nDescription: Giải thích hai hệ thống tư duy nhanh và chậm, cùng những thiên kiến nhận thức ảnh hưởng đến phán đoán và quyết định của con người.",
+          "metadata": {
+            "title": "Tư duy nhanh và chậm",
+            "target_audience": "Người thích đào sâu",
+            "rating": 4.4,
+            "difficulty": "Chuyên sâu",
+            "genre": "Tâm lý",
+            "author_id": "daniel-kahneman",
+            "book_id": "book_003",
+            "mood": "Muốn suy ngẫm",
+            "year": 2011,
+            "tags": "tư duy, nhận thức, quyết định",
+            "author": "Daniel Kahneman",
+            "featured": true
+          },
+          "distance": 0.31817448139190674
+        },
+        {
+          "document": "Title: Thiền và nghệ thuật bảo dưỡng xe máy\nAuthor: Robert M. Pirsig\nGenre: Triết học\nPublication year: 1974\nTags: triết học, hành trình, chất lượng\nTarget audience: Độc giả thích suy ngẫm\nMood: Muốn thư giãn\nDifficulty: Chuyên sâu\nSummary: Một hành trình triết học giữa đời sống thường ngày.\nDescription: Dữ liệu mô tả demo về hành trình nội tâm, chất lượng và mối quan hệ giữa kỹ thuật với đời sống.",
+          "metadata": {
+            "mood": "Muốn thư giãn",
+            "tags": "triết học, hành trình, chất lượng",
+            "genre": "Triết học",
+            "featured": false,
+            "author": "Robert M. Pirsig",
+            "book_id": "book_023",
+            "author_id": "robert-pirsig",
+            "difficulty": "Chuyên sâu",
+            "target_audience": "Độc giả thích suy ngẫm",
+            "title": "Thiền và nghệ thuật bảo dưỡng xe máy",
+            "year": 1974,
+            "rating": 4.3
+          },
+          "distance": 0.32921040058135986
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "author": "James Clear",
+            "author_id": "james-clear",
+            "featured": true,
+            "rating": 4.8,
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "year": 2018,
+            "title": "Atomic Habits",
+            "tags": "thói quen, năng suất, thay đổi",
+            "difficulty": "Dễ đọc",
+            "genre": "Kỹ năng sống",
+            "mood": "Mất động lực",
+            "book_id": "book_001"
+          },
+          "distance": 0.3293112516403198
+        }
+      ]
+    }
+  ]
+}

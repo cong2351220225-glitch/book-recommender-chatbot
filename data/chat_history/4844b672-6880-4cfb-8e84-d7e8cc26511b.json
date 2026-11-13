@@ -1,0 +1,42 @@
+{
+  "id": "4844b672-6880-4cfb-8e84-d7e8cc26511b",
+  "title": "thư viện",
+  "timestamp": "2026-11-08 15:07:03",
+  "messages": [
+    {
+      "role": "user",
+      "content": "thư viện",
+      "timestamp": "15:07"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **1** thư viện tại khu vực **Đà Nẵng** (khu vực mặc định, bạn có thể nói rõ thành phố hoặc quận khác nếu muốn):",
+      "timestamp": "15:07",
+      "sources": [],
+      "locations": [
+        {
+          "title": "Thư viện Đà Nẵng",
+          "name": "Thư viện Đà Nẵng",
+          "address": "33 Trần Phú, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.5,
+          "reviews": 336,
+          "type": "['Thư viện quốc gia']",
+          "types": [],
+          "open_state": "Đang mở cửa · Đóng cửa vào 17:00",
+          "hours": "[{'chủ nhật': '07:30–11:30, 13:30–17:00'}, {'thứ hai': 'Đóng cửa'}, {'thứ ba': '07:30–11:30, 13:30–17:00'}, {'thứ tư': '07:30–11:30, 13:30–17:00'}, {'thứ năm': '07:30–11:30, 13:30–17:00'}, {'thứ sáu': '07:30–11:30'}, {'thứ bảy': '07:30–11:30, 13:30–17:00'}]",
+          "phone": "",
+          "website": "https://thuvien.danang.gov.vn/",
+          "description": "",
+          "latitude": 16.0738274,
+          "longitude": 108.22406629999999,
+          "place_id": "ChIJOfF0RjAYQjERVkbdHH4RTV4",
+          "data_id": "0x314218304674f139:0x5e4d117e1cdd4656",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhY7NlsKJ1hYm7OJqCp9YmvVU_oij28j4S0P8KUfnDBFoHZF4U1zjmf2FPmIw-i4UIU5-FE5TtsAO-TdKBDlpZwwOk7LsqA2bXuXn_07Uc2VRdpNJwtv38EGgOTZejUn-Ajju_CAE3gVE=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Th%C6%B0+vi%E1%BB%87n+%C4%90%C3%A0+N%E1%BA%B5ng%2C+33+Tr%E1%BA%A7n+Ph%C3%BA%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Th%C6%B0+vi%E1%BB%87n+%C4%90%C3%A0+N%E1%BA%B5ng%2C+33+Tr%E1%BA%A7n+Ph%C3%BA%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "intent": "location_library"
+    }
+  ]
+}

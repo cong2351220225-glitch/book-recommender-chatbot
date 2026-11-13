@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "s.n."
+  ],
+  "subtitle": "and some of his descendants.",
+  "lc_classifications": [
+    "CS71.B223  1934"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL6334406M",
+  "authors": [
+    {
+      "key": "/authors/OL563119A"
+    }
+  ],
+  "publish_places": [
+    "[Washington, D.C"
+  ],
+  "contributions": [
+    "Bancroft, J. M.",
+    "Elliott, L. Elvira."
+  ],
+  "pagination": "14 p., 1 l. ;",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part03.utf8:131027205:865"
+  ],
+  "title": "Some ancestors of Moses Bancroft",
+  "lccn": [
+    "36006008"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Title from cover.\n\"The information concerning Moses Bancroft ... was compiled from notes gathered by Mr. J.M. Bancroft ... Mrs. Elvira Elliott ... and the undersigned.\" - Introduction, signed Frank S. Parks."
+  },
+  "number_of_pages": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Bancroft family."
+  ],
+  "publish_date": "1934",
+  "publish_country": "dcu",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-15T08:49:35.262219"
+  },
+  "oclc_numbers": [
+    "14075520"
+  ],
+  "works": [
+    {
+      "key": "/works/OL3421509W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

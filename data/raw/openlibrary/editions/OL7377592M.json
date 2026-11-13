@@ -1,0 +1,51 @@
+{
+  "publishers": [
+    "For sale by the U.S. G.P.O., Supt. of Docs., Congressional Sales Office"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subtitle": "joint hearing before the Subcommittee on Health and Environment of the Committee on ... Congress, second session, June 18, 1998",
+  "source_records": [
+    "amazon:0160575346:12:2931103186:148944"
+  ],
+  "title": "Putting patients first: Resolving allocation of transplant organs ",
+  "number_of_pages": 240,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-03T16:22:36.010456"
+  },
+  "covers": [
+    4597317,
+    3703817
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "isbn_13": [
+    "9780160575341"
+  ],
+  "isbn_10": [
+    "0160575346"
+  ],
+  "publish_date": "1998",
+  "key": "/books/OL7377592M",
+  "authors": [
+    {
+      "key": "/authors/OL18485A"
+    }
+  ],
+  "latest_revision": 4,
+  "works": [
+    {
+      "key": "/works/OL432420W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

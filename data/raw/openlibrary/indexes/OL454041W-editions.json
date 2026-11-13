@@ -1,0 +1,96 @@
+{
+  "links": {
+    "self": "/works/OL454041W/editions.json",
+    "work": "/works/OL454041W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Apodixis Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2245543"
+        ]
+      },
+      "subtitle": "the O'Connor, Gwinn, and Fox families of the New River Gorge",
+      "isbn_10": [
+        "097034001X"
+      ],
+      "subject_place": [
+        "West Virginia",
+        "New River Gorge Region (W. Va.)"
+      ],
+      "pagination": "96 p. :",
+      "lc_classifications": [
+        "CS71.O18 2002"
+      ],
+      "key": "/books/OL3575561M",
+      "authors": [
+        {
+          "key": "/authors/OL25766A"
+        }
+      ],
+      "publish_places": [
+        "Dallas, Tex"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Genealogy."
+      ],
+      "title": "Where the river runs north",
+      "dewey_decimal_class": [
+        "929/.2/0973"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 41-46)."
+      },
+      "number_of_pages": 96,
+      "edition_name": "1st ed.",
+      "lccn": [
+        "2002114945"
+      ],
+      "subjects": [
+        "O'Connor family.",
+        "Gwyn family.",
+        "Fox family.",
+        "West Virginia -- Genealogy.",
+        "New River Gorge Region (W. Va.) -- Genealogy."
+      ],
+      "publish_date": "2002",
+      "publish_country": "txu",
+      "by_statement": "Lynne Kershaw Waid.",
+      "oclc_numbers": [
+        "53223243"
+      ],
+      "works": [
+        {
+          "key": "/works/OL454041W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part29.utf8:220996054:877",
+        "amazon:097034001X"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T01:15:57.310257"
+      }
+    }
+  ]
+}

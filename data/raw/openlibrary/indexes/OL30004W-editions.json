@@ -1,0 +1,2165 @@
+{
+  "links": {
+    "self": "/works/OL30004W/editions.json",
+    "work": "/works/OL30004W"
+  },
+  "size": 42,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798747279384"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "143",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798747279384"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.214",
+      "subtitle": "Volume 2",
+      "full_title": "Aunt Jo's Scrap Bag Volume 2",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48425854M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:35:41.766509"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:46:00.487080"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798664910636"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "186",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798664910636"
+      ],
+      "title": "AUNT JO's SCRAP-BAG, Volume 2",
+      "weight": "0.336",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42441062M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T04:11:49.315020"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:46:00.487080"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798747279391"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "107",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798747279391"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.268",
+      "subtitle": "Volume 2",
+      "full_title": "Aunt Jo's Scrap Bag Volume 2",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42363536M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T19:52:42.371942"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:46:00.487080"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798771504940"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "124",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798771504940"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Vol II",
+      "weight": "0.191",
+      "subtitle": "First Edition",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL38490332M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-19T13:02:47.074603"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:46:00.487080"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Aunt Jo's Scrap-Bag; Volume 2",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Oct 24, 2018",
+      "source_records": [
+        "amazon:034409295X"
+      ],
+      "number_of_pages": 242,
+      "publishers": [
+        "Franklin Classics Trade Press"
+      ],
+      "physical_format": "hardcover",
+      "covers": [
+        11046865
+      ],
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL32382682M",
+      "identifiers": {},
+      "isbn_10": [
+        "034409295X"
+      ],
+      "isbn_13": [
+        "9780344092954"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-10T11:16:38.296993"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:46:00.487080"
+      }
+    },
+    {
+      "other_titles": [
+        "Shawl-straps."
+      ],
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "subtitle": "shawl-straps",
+      "series": [
+        "Scrap bag -- 2."
+      ],
+      "key": "/books/OL23026845M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "vi, 226 p. :",
+      "source_records": [
+        "marc:SanFranPL06/SanFranPL06.out:65501567:841"
+      ],
+      "title": "Aunt Jo's scrap-bag",
+      "number_of_pages": 226,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1899",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T02:49:44.886329"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:22:28.212309"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "2 pages of publisher's advertisements before text, 6 pages following text.\r\n\r\nBound in red cloth, stamped in gold on spine.\r\n\r\nWritten on title page, in ink: \"Julia N. H. Brooks, from her father.\""
+      },
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "Shawl-straps",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1889",
+      "other_titles": [
+        "Shawl-straps."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Off",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Brittany",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "France",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Switzerland",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Italy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "London.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 2"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "John Wilson and Son."
+      ],
+      "pagination": "[1], vi, 226, [6], [2] leaves of plates,",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0192.out:210930:1415"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL18213585M",
+      "number_of_pages": 226,
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-12T00:16:53.562651"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T03:03:44.346102"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "2 pages of publisher's advertisements before text, 6 pages following text.\r\n\r\nBound in red cloth, stamped in gold on spine.\r\n\r\nWritten on title page, in ink: \"Julia N. H. Brooks, from her father.\""
+      },
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "Shawl-straps",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1889",
+      "other_titles": [
+        "Shawl-straps."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Off",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Brittany",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "France",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Switzerland",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Italy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "London.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 2"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "John Wilson and Son."
+      ],
+      "pagination": "[1], vi, 226, [6], [2] leaves of plates,",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0192.out:210930:1415",
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:66683784:1606"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL17205432M",
+      "number_of_pages": 226,
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T23:51:19.145381"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T05:39:31.860180"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "subtitle": "Shawl Straps (Scrap-Bag Vol II)",
+      "covers": [
+        5916823
+      ],
+      "key": "/books/OL7166962M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "6 v.",
+      "classifications": {},
+      "source_records": [
+        "ia:auntjosscrapbag00alco"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "identifiers": {},
+      "subjects": [
+        "France -- Description and travel",
+        "Switzerland -- Description and travel",
+        "Italy -- Description and travel",
+        "London (England) -- Description and travel"
+      ],
+      "publish_date": "1891",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ...",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "auntjosscrapbag00alco",
+      "oclc_numbers": [
+        "37007411"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-25T09:24:07.165759"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342208"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342208"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Children's fiction"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 2",
+      "subtitle": "Shawl-Straps",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 2 Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL49321647M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:58:50.454479"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798714716751"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "115",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798714716751"
+      ],
+      "title": "Shawl Straps",
+      "weight": "0.182",
+      "full_title": "Shawl Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL49092720M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T08:05:09.280906"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632192200"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "93",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632192200"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.195",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48436572M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T22:07:55.861413"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798582453406"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "115",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798582453406"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.364",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48432584M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:56:44.033031"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342192"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342192"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Fiction, general"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 2",
+      "subtitle": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48378519M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:20:32.406311"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342185"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342185"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Fiction, general"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 2",
+      "subtitle": "Shawl-Straps",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 2 Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48388956M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T19:24:04.952667"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798722682611"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "115",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798722682611"
+      ],
+      "title": "Shawl Straps",
+      "weight": "0.364",
+      "full_title": "Shawl Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL48241937M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T10:45:24.921592"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607565503"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607565503"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.268",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL46798999M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T18:48:48.776366"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607896546"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "348",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607896546"
+      ],
+      "title": "Shawl-Straps : A Second Series of Aunt Jo's Scrap-Bag",
+      "weight": "0.595",
+      "subtitle": "Large Print",
+      "full_title": "Shawl-Straps : A Second Series of Aunt Jo's Scrap-Bag Large Print",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL46742471M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T15:15:07.546275"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798597398174"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "175",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798597398174"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.286",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42567514M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T00:38:18.086709"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681827467"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "138",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681827467"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.264",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42464796M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T07:11:20.093905"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681456391"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "210",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681456391"
+      ],
+      "title": "Aunt Jo's Scrap Bag Volume 2 : (Shawl-Straps)",
+      "weight": "0.377",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42391699M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T00:20:39.412502"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "publishers": [
+        "Robert Brothers"
+      ],
+      "subtitle": "shawl-straps",
+      "covers": [
+        7172407
+      ],
+      "key": "/books/OL22850304M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "3 p. l., [v]-vi p., 1 l., 1-226 p., 4 l. :",
+      "source_records": [
+        "ia:auntjosscrapbags00alco"
+      ],
+      "title": "Aunt Jo's scrap-bag",
+      "number_of_pages": 226,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1872",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "auntjosscrapbags00alco",
+      "classifications": {},
+      "lc_classifications": [
+        "PZ7.A335 Au 1873x"
+      ],
+      "oclc_numbers": [
+        "3383535"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-07T20:34:30.510092"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-25T09:24:19.771437"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798590830657"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "147",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798590830657"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.277",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42376561M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T22:05:39.680319"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634621098"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "272",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634621098"
+      ],
+      "title": "Shawl-Straps : A Second Series of Aunt Jo's Scrap-Bag",
+      "weight": "0.473",
+      "subtitle": "Large Print",
+      "full_title": "Shawl-Straps : A Second Series of Aunt Jo's Scrap-Bag Large Print",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42312307M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T11:21:52.434731"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798620171460"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "98",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798620171460"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.200",
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "full_title": "Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42025249M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T11:54:05.932800"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798620171484"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "98",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798620171484"
+      ],
+      "title": "Shawl-Straps : A Second Series of Aunt Jo's Scrap-Bag",
+      "weight": "0.314",
+      "subtitle": "Large Print",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL42024761M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T11:48:57.710866"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707588541"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707588541"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.268",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL41829000M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T05:48:31.589116"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980598824"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980598824"
+      ],
+      "title": "Shawl-Straps Scrap-Bag a Second Series of Aunt Jo's",
+      "weight": "0.268",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL41278816M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T13:51:06.334107"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070973388"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "144",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070973388"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.223",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL41259193M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T10:38:28.728776"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781717771858"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "112",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781717771858"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.177",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL41109471M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-23T10:35:52.653913"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798631916890"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "82",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798631916890"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.173",
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "full_title": "Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL37721802M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-04T02:17:45.469593"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634621104"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634621104"
+      ],
+      "title": "Shawl-Straps",
+      "weight": "0.159",
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "full_title": "Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL36426228M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-31T06:20:04.198877"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:05:21.110568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Feb 22, 2012",
+      "source_records": [
+        "amazon:3847232428",
+        "bwb:9783847232421"
+      ],
+      "number_of_pages": 136,
+      "publishers": [
+        "tredition",
+        "TREDITION CLASSICS"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag (TREDITION CLASSICS)",
+      "covers": [
+        11284729
+      ],
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL32656473M",
+      "identifiers": {},
+      "isbn_10": [
+        "3847232428"
+      ],
+      "isbn_13": [
+        "9783847232421"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-06-20T23:25:43.151708"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T10:37:40.920347"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781681463483"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 124,
+      "publish_date": "2015",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781681463483"
+      ],
+      "title": "Shawl-Straps",
+      "full_title": "Shawl-Straps",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL34074079M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T02:08:37.985876"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633553965"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633553965"
+      ],
+      "title": "Shawl-Straps",
+      "pagination": "114",
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "full_title": "Shawl-Straps A Second Series of Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "key": "/books/OL34872475M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T21:35:55.924698"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "source_records": [
+        "ia:shawlstrapsasec00alcogoog"
+      ],
+      "title": "Shawl-straps, a second series of Aunt Jo's scrap-bag",
+      "covers": [
+        6166427
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1873",
+      "key": "/books/OL23450399M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "shawlstrapsasec00alcogoog",
+      "oclc_numbers": [
+        "14225428"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-07-16T12:59:55.879393"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-02T16:36:39.147048"
+      }
+    },
+    {
+      "publishers": [
+        "Sampson Low Marston"
+      ],
+      "series": [
+        "Aunt Jo's scrapbag.  2d ser"
+      ],
+      "covers": [
+        5700819
+      ],
+      "lc_classifications": [
+        "PS1017 S5"
+      ],
+      "key": "/books/OL7140522M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "shawlstraps00alcouoft",
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "308 p.",
+      "source_records": [
+        "ia:shawlstraps00alcouoft"
+      ],
+      "title": "Shawl-straps",
+      "publish_date": "1895",
+      "publish_country": "enk",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 308,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T05:38:41.566639"
+      }
+    },
+    {
+      "publishers": [
+        "Sampson Low Marston"
+      ],
+      "series": [
+        "Aunt Jo's scrapbag.  2d ser"
+      ],
+      "lc_classifications": [
+        "PS1017 S5"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL19225283M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "308 p.",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:3550654263:524"
+      ],
+      "title": "Shawl-straps",
+      "number_of_pages": 308,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-21T09:36:35.563026"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:41.298542"
+      },
+      "publish_date": "1895",
+      "publish_country": "enk",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Notable American Authors Series - Part I"
+      },
+      "title": "Shawl Straps",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "January 1872",
+      "publishers": [
+        "Reprint Services Corp"
+      ],
+      "weight": "15.2 ounces",
+      "physical_format": "Library Binding",
+      "subjects": [
+        "Literature"
+      ],
+      "isbn_13": [
+        "9780781216319"
+      ],
+      "isbn_10": [
+        "0781216311"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.4 x 5.8 x 1 inches",
+      "source_records": [
+        "amazon:0781216311"
+      ],
+      "key": "/books/OL11002118M",
+      "number_of_pages": 226,
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T06:55:38.597117"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2174051"
+        ]
+      },
+      "title": "Shawl-Straps",
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "August 20, 2007",
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "weight": "6.6 ounces",
+      "covers": [
+        2892772
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction / General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781434643377"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1434643379"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5 x 0.3 inches",
+      "source_records": [
+        "amazon:1434643379"
+      ],
+      "key": "/books/OL11977785M",
+      "number_of_pages": 124,
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-31T10:31:27.266085"
+      }
+    },
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+      "weight": "11.7 ounces",
+      "covers": [
+        2892773
+      ],
+      "edition_name": "Lrg edition",
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:41.298542"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL11977786M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Fiction",
+        "Fiction - General",
+        "General",
+        "Fiction / General"
+      ],
+      "isbn_13": [
+        "9781434643384"
+      ],
+      "title": "Shawl-Straps (Large Print Edition)",
+      "number_of_pages": 138,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1434643387"
+      ],
+      "publish_date": "August 20, 2007",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.7 x 7.4 x 0.3 inches",
+      "revision": 6
+    },
+    {
+      "title": "Shawl-straps",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1910",
+      "publishers": [
+        "Sampson, Low, Marston & Co."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xxk",
+      "by_statement": "Louisa M. Alcott.",
+      "publish_places": [
+        "London"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2964367246:410"
+      ],
+      "key": "/books/OL19636233M",
+      "works": [
+        {
+          "key": "/works/OL30004W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-23T10:02:39.722760"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-07T22:09:48.409953"
+      }
+    }
+  ]
+}

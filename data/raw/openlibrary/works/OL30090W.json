@@ -1,0 +1,44 @@
+{
+  "key": "/works/OL30090W",
+  "title": "Gorga,/space Monster",
+  "first_publish_date": "January 1, 1983",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "The reader is given choices to make which determine the outcome of an adventure with a space monster who arrives in Cape Cod.",
+  "covers": [
+    9702645,
+    8332275
+  ],
+  "lc_classifications": [
+    "PZ7.P1245 Go 1982"
+  ],
+  "subjects": [
+    "Plot-your-own stories",
+    "Monsters",
+    "Fiction",
+    "Romans, nouvelles, etc. pour la jeunesse",
+    "Monstres",
+    "collectionID:CYOAyouth"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-03-25T19:11:48.726900"
+  }
+}

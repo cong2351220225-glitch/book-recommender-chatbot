@@ -1,0 +1,18 @@
+{
+  "id": "0dac6e5f-dbf0-4519-a29a-a3b4405492e8",
+  "title": "Xin chào",
+  "timestamp": "2026-11-02 13:21:29",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào",
+      "timestamp": "13:21"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào bạn! Tôi là trợ lý AI của thư viện sách điện tử. \n\nTôi có thể hỗ trợ bạn giải đáp thắc mắc, tìm hiểu kiến thức, hỗ trợ học tập, sáng tạo nội dung hoặc tư vấn nhiều chủ đề khác nhau. \n\nHôm nay tôi có thể giúp gì cho bạn?",
+      "timestamp": "13:21",
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "publishers": [
+    "Government Printing Office"
+  ],
+  "physical_format": "Hardcover",
+  "subtitle": "Hearings Before a Subcommittee of the Committe",
+  "source_records": [
+    "amazon:0160763347",
+    "bwb:9780160763342"
+  ],
+  "title": "Science, the Departments of State, Justice, and Commerce, and Related Agencies Appropriations for 2007",
+  "number_of_pages": 5,
+  "isbn_13": [
+    "9780160763342"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0160763347"
+  ],
+  "publish_date": "January 2006",
+  "key": "/books/OL10119301M",
+  "authors": [
+    {
+      "key": "/authors/OL18485A"
+    }
+  ],
+  "oclc_numbers": [
+    "65399594"
+  ],
+  "works": [
+    {
+      "key": "/works/OL76045W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "lc_classifications": [
+    "KF27.A663 2006"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-01-31T03:17:27.605225"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "publishers": [
+    "Umschau-Verl."
+  ],
+  "series": [
+    "Monumente alter Kultruen"
+  ],
+  "lc_classifications": [
+    "N5350 .M8"
+  ],
+  "latest_revision": 4,
+  "key": "/books/OL5012288M",
+  "authors": [
+    {
+      "key": "/authors/OL3893097A"
+    }
+  ],
+  "publish_places": [
+    "Frankfurt a.M"
+  ],
+  "pagination": "lv p. with illus., 200 p. of illus., front.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part10.utf8:81387173:700"
+  ],
+  "title": "Ägyptische Kunst.",
+  "lccn": [
+    "76582971"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Bibliography: p. liii-liv.\nLegends in German and English."
+  },
+  "number_of_pages": 200,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/ger"
+    }
+  ],
+  "subjects": [
+    "Art, Egyptian."
+  ],
+  "publish_date": "1970",
+  "publish_country": "xx ",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-10-12T22:10:07.668964"
+  },
+  "by_statement": "Hrsg. von Harald Busch.",
+  "oclc_numbers": [
+    "4367064"
+  ],
+  "works": [
+    {
+      "key": "/works/OL468128W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

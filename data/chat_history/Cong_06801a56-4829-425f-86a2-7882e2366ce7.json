@@ -1,0 +1,82 @@
+{
+  "id": "06801a56-4829-425f-86a2-7882e2366ce7",
+  "title": "helo",
+  "timestamp": "2026-09-30 02:45:16",
+  "messages": [
+    {
+      "role": "user",
+      "content": "helo"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Rất vui được gặp bạn. Mình là trợ lý AI của thư viện sách điện tử. \n\nHôm nay mình có thể hỗ trợ gì cho bạn? Dù là giải đáp thắc mắc, hỗ trợ học tập, viết lách hay trò chuyện thông thường, mình đều sẵn sàng giúp đỡ!",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "tôi muốn tìm sách về AI"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn, thư viện hiện có 2 cuốn sách thuộc thể loại AI phù hợp với yêu cầu của bạn:\n\n1. **Trí tuệ nhân tạo: Một cách tiếp cận hiện đại**\n   - **Tác giả:** Stuart Russell và Peter Norvig\n   - **Năm xuất bản:** 2020\n   - **Thể loại:** AI\n   - **Lý do phù hợp:** Sách cung cấp nền tảng toàn diện về trí tuệ nhân tạo, đóng vai trò là giáo trình bao quát các chủ đề như tác tử thông minh, tìm kiếm, học máy, xác suất và xử lý ngôn ngữ.\n\n2. **Deep Learning**\n   - **Tác giả:** Ian Goodfellow; Yoshua Bengio; Aaron Courville\n   - **Năm xuất bản:** 2016\n   - **Thể loại:** AI\n   - **Lý do phù hợp:** Sách tập trung chuyên sâu vào mạng nơ-ron và học sâu (deep learning), trình bày chi tiết từ nền tảng toán học đến các kỹ thuật tối ưu và ứng dụng thực tế.",
+      "books": [
+        {
+          "document": "Title: Trí tuệ nhân tạo: Một cách tiếp cận hiện đại\nAuthor: Stuart Russell và Peter Norvig\nGenre: AI\nPublication year: 2020\nTags: AI, máy học, tác tử\nTarget audience: Sinh viên công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toàn diện về trí tuệ nhân tạo.\nDescription: Giáo trình nền tảng về trí tuệ nhân tạo, bao quát tác tử thông minh, tìm kiếm, học máy, xác suất và xử lý ngôn ngữ.",
+          "metadata": {
+            "year": 2020,
+            "book_id": "book_012",
+            "genre": "AI",
+            "tags": "AI, máy học, tác tử",
+            "title": "Trí tuệ nhân tạo: Một cách tiếp cận hiện đại",
+            "author_id": "russell-norvig",
+            "featured": true,
+            "difficulty": "Chuyên sâu",
+            "target_audience": "Sinh viên công nghệ",
+            "mood": "Muốn học hỏi",
+            "rating": 4.6,
+            "author": "Stuart Russell và Peter Norvig"
+          },
+          "distance": 0.21787166595458984
+        },
+        {
+          "document": "Title: Deep Learning\nAuthor: Ian Goodfellow; Yoshua Bengio; Aaron Courville\nGenre: AI\nPublication year: 2016\nTags: AI, deep learning, mạng nơ-ron\nTarget audience: Người học chuyên sâu\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toán học và kỹ thuật học sâu.\nDescription: Tài liệu chuyên sâu về mạng nơ-ron và học sâu, từ nền tảng toán học đến các phương pháp tối ưu và ứng dụng.",
+          "metadata": {
+            "target_audience": "Người học chuyên sâu",
+            "author_id": "goodfellow-bengio-courville",
+            "featured": false,
+            "title": "Deep Learning",
+            "mood": "Muốn học hỏi",
+            "genre": "AI",
+            "book_id": "book_013",
+            "rating": 4.5,
+            "author": "Ian Goodfellow; Yoshua Bengio; Aaron Courville",
+            "year": 2016,
+            "tags": "AI, deep learning, mạng nơ-ron",
+            "difficulty": "Chuyên sâu"
+          },
+          "distance": 0.2516106367111206
+        },
+        {
+          "document": "Title: Cuộc cách mạng công nghiệp lần thứ tư\nAuthor: Klaus Schwab\nGenre: Công nghệ\nPublication year: 2016\nTags: công nghệ, tương lai, xã hội\nTarget audience: Người làm công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh về công nghệ và kỹ năng tương lai.\nDescription: Dữ liệu mô tả demo về tác động của công nghệ mới đến xã hội, doanh nghiệp và kỹ năng tương lai.",
+          "metadata": {
+            "target_audience": "Người làm công nghệ",
+            "mood": "Muốn học hỏi",
+            "author": "Klaus Schwab",
+            "book_id": "book_024",
+            "genre": "Công nghệ",
+            "tags": "công nghệ, tương lai, xã hội",
+            "rating": 4.1,
+            "title": "Cuộc cách mạng công nghiệp lần thứ tư",
+            "featured": false,
+            "year": 2016,
+            "difficulty": "Chuyên sâu",
+            "author_id": "klaus-schwab"
+          },
+          "distance": 0.33192014694213867
+        }
+      ],
+      "location": null
+    }
+  ]
+}

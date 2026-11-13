@@ -1,0 +1,61 @@
+{
+  "publishers": [
+    "Sainsbury"
+  ],
+  "covers": [
+    9006816
+  ],
+  "lc_classifications": [
+    "PR2768",
+    "PR2768 .S2"
+  ],
+  "key": "/books/OL19528351M",
+  "authors": [
+    {
+      "key": "/authors/OL9388A"
+    }
+  ],
+  "ocaid": "shakesperiananth00shak",
+  "publish_places": [
+    "London"
+  ],
+  "pagination": "1 p. l., v-xii, 391, (1) p. ;",
+  "source_records": [
+    "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2496778259:848",
+    "ia:shakesperiananth00shak"
+  ],
+  "title": "Shaksperian anthology: comprising the choicest passagesand entire scenes; selected from the most correct editions; with a biographical sketch.",
+  "lccn": [
+    "21001722"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Published also under title \"The beauties of Shakespeare,\" 1783-1830. Not the same as Dodd's Beauties of Shakspeare.\n\nPages 195-384 have caption and running title: Interesting scenes."
+  },
+  "number_of_pages": 391,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1830",
+  "publish_country": "enk",
+  "works": [
+    {
+      "key": "/works/OL362002W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-22T19:05:43.077682"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-12T05:14:43.293204"
+  }
+}

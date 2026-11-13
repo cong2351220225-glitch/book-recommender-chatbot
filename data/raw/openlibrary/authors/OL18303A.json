@@ -1,0 +1,27 @@
+{
+  "name": "Walter Jerrold",
+  "personal_name": "Walter Jerrold",
+  "remote_ids": {
+    "viaf": "315943405",
+    "wikidata": "Q7965272",
+    "isni": "0000000109846254",
+    "lc_naf": "n80040139",
+    "project_gutenberg": "7734"
+  },
+  "death_date": "1929",
+  "birth_date": "1865",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL18303A",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T19:04:34.239385"
+  }
+}

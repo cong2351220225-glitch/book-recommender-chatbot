@@ -1,0 +1,18 @@
+{
+  "name": "Amanda Renshaw",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-05-05T01:57:38.032554"
+  },
+  "personal_name": "Amanda Renshaw",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-05-05T01:57:38.032554"
+  },
+  "latest_revision": 1,
+  "key": "/authors/OL6805801A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}

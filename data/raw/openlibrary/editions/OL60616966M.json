@@ -1,0 +1,49 @@
+{
+  "works": [
+    {
+      "key": "/works/OL257943W"
+    }
+  ],
+  "title": "A Storm of Swords",
+  "publishers": [
+    "Voyaer"
+  ],
+  "publish_date": "2003",
+  "key": "/books/OL60616966M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "covers": [
+    15141362
+  ],
+  "isbn_13": [
+    "9780006479901"
+  ],
+  "subtitle": "1: Steel and Snow",
+  "publish_places": [
+    "Great Britain"
+  ],
+  "copyright_date": "2000",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "BOOK THREE, PART ONE OF A SONG OF ICE AND FIRE \r\n\r\n'Characters so venomous they could eat the Borgias' GUARDIAN \r\n\r\nBlood runs truer than oaths \r\n\r\nThe Seven Kingdoms are divided by revolt and blood feud as winter approaches like an angry beast. In the northern wastes a horde of hungry, savage people steeped in the dark magic of the wilderness is poised to invade the Kingdom of the North where Robb Stark wears his new-forged crown. And Robb's defences are ranged against the South, the land of the cunning and cruel Lannisters, who have his young sisters in their power. Throughout Westeros the war for the Iron Throne rages more fiercely than ever, but if the Wall is breached, no king will live to claim it. \r\n\r\n'Colossal, staggering... Martin captures all the intoxicating complexity of the Wars of the Roses or Imperial Rome in his imaginary world... This looks set to become one of the greats of fantasy literature.' SFX"
+  },
+  "physical_format": "Paperback",
+  "number_of_pages": 672,
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-11-10T21:01:04.614621"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-11-10T21:05:25.656529"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "location": "/works/OL30025W",
+  "key": "/works/OL30068W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "subjects": [
+    "Children's fiction",
+    "Family life, fiction",
+    "New england, fiction",
+    "Boarding schools, fiction",
+    "March family (fictitious characters), fiction",
+    "Schools, fiction",
+    "Orphans, fiction",
+    "Boys",
+    "Conduct of life",
+    "Families",
+    "Juvenile literature",
+    "Boarding schools",
+    "Fiction",
+    "Schools",
+    "Family",
+    "Juvenile fiction",
+    "Teachers",
+    "Teacher-student relationships",
+    "Students",
+    "Friendship"
+  ],
+  "covers": [
+    3781114
+  ],
+  "description": "Follows the adventures of Jo March and her husband Professor Bhaer as they try to make their school for boys a happy, comfortable, and stimulating place.",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": "/authors/OL9969936A"
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": "/authors/OL240266A"
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": "/authors/OL404520A"
+    }
+  ],
+  "latest_revision": 37,
+  "revision": 37,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-09T12:34:38.750835"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "publishers": [
+    "R. Worthington"
+  ],
+  "subtitle": "with life, notes, correspondence and glossary",
+  "covers": [
+    7330353
+  ],
+  "full_title": "The complete poetical and prose works of Robert Burns with life, notes, correspondence and glossary",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2015-02-26T00:33:17.235975"
+  },
+  "latest_revision": 1,
+  "key": "/books/OL25659249M",
+  "authors": [
+    {
+      "key": "/authors/OL63008A"
+    }
+  ],
+  "ocaid": "completepoetical00burn_0",
+  "publish_places": [
+    "New York"
+  ],
+  "contributions": [
+    "Cunningham, Allan, 1784-1842"
+  ],
+  "pagination": "xiii, 559 p., front., [4] leaves of plates :",
+  "source_records": [
+    "ia:completepoetical00burn_0"
+  ],
+  "title": "The complete poetical and prose works of Robert Burns",
+  "number_of_pages": 559,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-02-26T00:33:17.235975"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1881",
+  "publish_country": "nyu",
+  "by_statement": "by A. Cunningham ; with original pieces from the collection of Sir Egerton Brydges",
+  "oclc_numbers": [
+    "16142706"
+  ],
+  "works": [
+    {
+      "key": "/works/OL17088998W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 1
+}

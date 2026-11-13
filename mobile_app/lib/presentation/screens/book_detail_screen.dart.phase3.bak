@@ -1,0 +1,808 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:cached_network_image/cached_network_image.dart';
+import '../../core/constants/app_colors.dart';
+import '../../core/utils/responsive_layout.dart';
+import '../../providers/book_provider.dart';
+import '../../providers/auth_provider.dart';
+import '../../providers/bookshelf_provider.dart';
+import '../../providers/recommendation_provider.dart';
+import '../../models/recommendation_model.dart';
+import '../widgets/book_card.dart';
+import '../widgets/section_header.dart';
+import '../widgets/state_views.dart';
+import 'digital_reader_screen.dart';
+
+class BookDetailScreen extends StatefulWidget {
+  final String bookId;
+
+  const BookDetailScreen({super.key, required this.bookId});
+
+  @override
+  State<BookDetailScreen> createState() => _BookDetailScreenState();
+}
+
+class _BookDetailScreenState extends State<BookDetailScreen> {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      context.read<BookProvider>().fetchBookDetail(widget.bookId);
+      context.read<RecommendationProvider>().loadSimilar(widget.bookId);
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final bookProvider = context.watch<BookProvider>();
+
+    if (bookProvider.isLoadingDetail) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('Chi tiết sách')),
+        body: const LoadingView(message: 'Đang tải thông tin sách...'),
+      );
+    }
+
+    if (bookProvider.detailError != null || bookProvider.selectedBook == null) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('Chi tiết sách')),
+        body: ErrorView(
+          message: bookProvider.detailError ?? 'Không tìm thấy thông tin sách.',
+          onRetry: () => bookProvider.fetchBookDetail(widget.bookId),
+        ),
+      );
+    }
+
+    final book = bookProvider.selectedBook!;
+    final relatedBooks = bookProvider.relatedBooks;
+    final isDesktop = ResponsiveLayout.isDesktop(context);
+
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      appBar: AppBar(
+        title: Text(book.title, maxLines: 1, overflow: TextOverflow.ellipsis),
+        actions: [
+          _buildFavoriteButton(context, book.bookId),
+          _buildBookshelfMenuButton(context, book.bookId),
+        ],
+      ),
+      body: SingleChildScrollView(
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 1100),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 20.0),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  // Book Overview Header
+                  if (isDesktop)
+                    _buildDesktopHeader(book, bookProvider)
+                  else
+                    _buildMobileHeader(book, bookProvider),
+
+                  const SizedBox(height: 24),
+
+                  // Description / Summary Section
+                  _buildDescriptionCard(book),
+
+                  const SizedBox(height: 20),
+
+                  // Metadata specifications grid
+                  _buildMetadataCard(book),
+
+                  const SizedBox(height: 28),
+
+                  // Related Books Section
+                  if (relatedBooks.isNotEmpty) ...[
+                    const SectionHeader(
+                      title: 'Tác Phẩm Cùng Chủ Đề & Thể Loại',
+                      subtitle: 'Gợi ý từ thuật toán tương đồng của thư viện',
+                    ),
+                    const SizedBox(height: 12),
+                    SizedBox(
+                      height: 280,
+                      child: ListView.builder(
+                        scrollDirection: Axis.horizontal,
+                        itemCount: relatedBooks.length,
+                        itemBuilder: (context, index) {
+                          final rel = relatedBooks[index];
+                          return Container(
+                            width: 170,
+                            margin: const EdgeInsets.only(right: 12),
+                            child: BookCard(
+                              book: rel,
+                              onTap: () {
+                                Navigator.of(context).pushReplacement(
+                                  MaterialPageRoute(
+                                    builder: (_) => BookDetailScreen(bookId: rel.bookId),
+                                  ),
+                                );
+                              },
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ],
+
+                  // AI Similar Books Section (Phase 3.3.2B)
+                  Consumer<RecommendationProvider>(
+                    builder: (context, recProvider, _) {
+                      final similarBooks = recProvider.getSimilarForBook(widget.bookId);
+                      if (similarBooks.isEmpty) return const SizedBox.shrink();
+
+                      return Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          const SizedBox(height: 24),
+                          const SectionHeader(
+                            title: 'Có Thể Bạn Cũng Thích',
+                            subtitle: 'Gợi ý thông minh từ mô hình AI phân tích tương đồng nội dung',
+                          ),
+                          const SizedBox(height: 12),
+                          SizedBox(
+                            height: 280,
+                            child: ListView.separated(
+                              scrollDirection: Axis.horizontal,
+                              itemCount: similarBooks.length,
+                              separatorBuilder: (_, __) => const SizedBox(width: 14),
+                              itemBuilder: (context, index) {
+                                final sim = similarBooks[index];
+                                return _buildSimilarBookCard(context, sim);
+                              },
+                            ),
+                          ),
+                        ],
+                      );
+                    },
+                  ),
+
+                  const SizedBox(height: 40),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildDesktopHeader(dynamic book, BookProvider bookProvider) {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(24.0),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // Big Cover
+            _buildCoverImage(book, width: 220, height: 320),
+            const SizedBox(width: 28),
+
+            // Info Column
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  _buildTitleAndBadges(book),
+                  const SizedBox(height: 16),
+                  _buildKeySpecs(book),
+                  const SizedBox(height: 20),
+                  _buildReadingStatusBanner(bookProvider, book),
+                  const SizedBox(height: 14),
+                  _buildBookshelfControlBar(context, book.bookId),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildMobileHeader(dynamic book, BookProvider bookProvider) {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          children: [
+            _buildCoverImage(book, width: 170, height: 250),
+            const SizedBox(height: 16),
+            _buildTitleAndBadges(book),
+            const SizedBox(height: 14),
+            _buildKeySpecs(book),
+            const SizedBox(height: 16),
+            _buildReadingStatusBanner(bookProvider, book),
+            const SizedBox(height: 14),
+            _buildBookshelfControlBar(context, book.bookId),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildCoverImage(dynamic book, {required double width, required double height}) {
+    return Container(
+      width: width,
+      height: height,
+      decoration: BoxDecoration(
+        color: AppColors.surfaceVariant,
+        borderRadius: BorderRadius.circular(10),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.12),
+            blurRadius: 10,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
+      clipBehavior: Clip.antiAlias,
+      child: book.coverUrl.isNotEmpty
+          ? CachedNetworkImage(
+              imageUrl: book.coverUrl,
+              fit: BoxFit.cover,
+              errorWidget: (_, __, ___) => _buildPlaceholderCover(),
+            )
+          : _buildPlaceholderCover(),
+    );
+  }
+
+  Widget _buildPlaceholderCover() {
+    return Container(
+      color: AppColors.navy.withOpacity(0.08),
+      child: const Center(
+        child: Icon(Icons.book_rounded, size: 48, color: AppColors.navy),
+      ),
+    );
+  }
+
+  Widget _buildTitleAndBadges(dynamic book) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        if (book.featured) ...[
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+            decoration: BoxDecoration(
+              color: AppColors.gold,
+              borderRadius: BorderRadius.circular(4),
+            ),
+            child: const Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.star_rounded, size: 13, color: AppColors.navyDark),
+                SizedBox(width: 4),
+                Text(
+                  'SÁCH NỔI BẬT',
+                  style: TextStyle(
+                    fontSize: 10,
+                    fontWeight: FontWeight.w800,
+                    color: AppColors.navyDark,
+                  ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 8),
+        ],
+        Text(
+          book.title,
+          style: const TextStyle(
+            fontSize: 22,
+            fontWeight: FontWeight.w800,
+            color: AppColors.navyDark,
+            letterSpacing: -0.3,
+          ),
+        ),
+        const SizedBox(height: 6),
+        Text(
+          'Tác giả: ${book.author}',
+          style: const TextStyle(
+            fontSize: 15,
+            fontWeight: FontWeight.w600,
+            color: AppColors.navy,
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildKeySpecs(dynamic book) {
+    return Wrap(
+      spacing: 12,
+      runSpacing: 8,
+      children: [
+        if (book.genre.isNotEmpty)
+          _buildSpecChip(Icons.category_rounded, book.genre),
+        if (book.displayYear != 'N/A')
+          _buildSpecChip(Icons.calendar_today_rounded, book.displayYear),
+        if (book.ratingValue > 0)
+          _buildSpecChip(Icons.star_rounded, '${book.ratingValue} / 5.0', color: AppColors.goldDark),
+        if (book.pages != null && book.pages.toString().isNotEmpty)
+          _buildSpecChip(Icons.auto_stories_rounded, '${book.pages} trang'),
+      ],
+    );
+  }
+
+  Widget _buildSpecChip(IconData icon, String text, {Color? color}) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+      decoration: BoxDecoration(
+        color: AppColors.surfaceVariant,
+        borderRadius: BorderRadius.circular(6),
+        border: Border.all(color: AppColors.border),
+      ),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(icon, size: 14, color: color ?? AppColors.textSecondary),
+          const SizedBox(width: 5),
+          Text(
+            text,
+            style: TextStyle(
+              fontSize: 12,
+              fontWeight: FontWeight.w600,
+              color: color ?? AppColors.textPrimary,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildReadingStatusBanner(BookProvider bookProvider, dynamic book) {
+    final status = bookProvider.readingStatus;
+    final canRead = bookProvider.canRead;
+
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: canRead ? AppColors.success.withOpacity(0.08) : AppColors.surfaceVariant,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(
+          color: canRead ? AppColors.success.withOpacity(0.3) : AppColors.border,
+        ),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Icon(
+                canRead ? Icons.check_circle_rounded : Icons.info_outline_rounded,
+                size: 20,
+                color: canRead ? AppColors.success : AppColors.textSecondary,
+              ),
+              const SizedBox(width: 10),
+              Expanded(
+                child: Text(
+                  status.isNotEmpty ? status : 'Sách có sẵn trong danh mục thư viện.',
+                  style: TextStyle(
+                    fontSize: 13,
+                    fontWeight: FontWeight.w500,
+                    color: canRead ? AppColors.success : AppColors.textSecondary,
+                  ),
+                ),
+              ),
+            ],
+          ),
+          if (canRead) ...[
+            const SizedBox(height: 10),
+            ElevatedButton.icon(
+              icon: const Icon(Icons.auto_stories_rounded, size: 16),
+              label: const Text('Đọc sách ngay (Bản số hóa)'),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppColors.success,
+                foregroundColor: Colors.white,
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              onPressed: () {
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (_) => DigitalReaderScreen(
+                      bookId: book.bookId,
+                      title: book.title,
+                    ),
+                  ),
+                );
+              },
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildDescriptionCard(dynamic book) {
+    final desc = book.description.isNotEmpty
+        ? book.description
+        : (book.summary.isNotEmpty ? book.summary : 'Chưa có thông tin mô tả chi tiết cho tác phẩm này.');
+
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'Giới thiệu nội dung',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+                color: AppColors.navyDark,
+              ),
+            ),
+            const Divider(height: 20),
+            Text(
+              desc,
+              style: const TextStyle(
+                fontSize: 14,
+                height: 1.6,
+                color: AppColors.textPrimary,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildMetadataCard(dynamic book) {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'Thông tin ấn bản chi tiết',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+                color: AppColors.navyDark,
+              ),
+            ),
+            const Divider(height: 20),
+            _buildMetaRow('Mã định danh (ID)', book.bookId),
+            _buildMetaRow('ISBN', book.isbn.isNotEmpty ? book.isbn : 'Chưa cập nhật'),
+            _buildMetaRow('Nhà xuất bản', book.publisher.isNotEmpty ? book.publisher : 'Chưa cập nhật'),
+            _buildMetaRow('Ngôn ngữ', book.language.isNotEmpty ? book.language : 'Tiếng Việt'),
+            _buildMetaRow('Định dạng', book.format.isNotEmpty ? book.format : 'Bìa mềm'),
+            if (book.targetAudience.isNotEmpty)
+              _buildMetaRow('Đối tượng độc giả', book.targetAudience),
+            if (book.tags.isNotEmpty)
+              _buildMetaRow('Từ khóa phân loại', book.tags),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildMetaRow(String label, String value) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 6.0),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          SizedBox(
+            width: 150,
+            child: Text(
+              label,
+              style: const TextStyle(
+                fontSize: 13,
+                color: AppColors.textSecondary,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ),
+          Expanded(
+            child: Text(
+              value,
+              style: const TextStyle(
+                fontSize: 13,
+                color: AppColors.textPrimary,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildFavoriteButton(BuildContext context, String bookId) {
+    final auth = context.watch<AuthProvider>();
+    final shelf = context.watch<BookshelfProvider>();
+    final isFav = shelf.isFavorite(bookId);
+
+    return IconButton(
+      icon: Icon(
+        isFav ? Icons.favorite_rounded : Icons.favorite_border_rounded,
+        color: isFav ? AppColors.error : Colors.white,
+      ),
+      tooltip: isFav ? 'Bỏ yêu thích' : 'Thêm vào yêu thích',
+      onPressed: () {
+        if (!auth.isAuthenticated) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Vui lòng đăng nhập để lưu sách vào mục Yêu thích.'),
+              backgroundColor: AppColors.navy,
+            ),
+          );
+          return;
+        }
+        shelf.toggleFavorite(bookId);
+      },
+    );
+  }
+
+  Widget _buildBookshelfMenuButton(BuildContext context, String bookId) {
+    final auth = context.watch<AuthProvider>();
+    final shelf = context.watch<BookshelfProvider>();
+    final readingStatus = shelf.getReadingStatus(bookId);
+
+    return PopupMenuButton<String>(
+      icon: const Icon(Icons.bookmark_add_outlined, color: Colors.white),
+      tooltip: 'Quản lý trong tủ sách',
+      onSelected: (action) {
+        if (!auth.isAuthenticated) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Vui lòng đăng nhập để quản lý tủ sách cá nhân.'),
+              backgroundColor: AppColors.navy,
+            ),
+          );
+          return;
+        }
+
+        if (action == 'reading') {
+          final existing = shelf.findItem(bookId, 'reading');
+          if (existing == null) {
+            shelf.addItem(bookId: bookId, status: 'reading');
+          }
+        } else if (action == 'completed') {
+          final existing = shelf.findItem(bookId, 'completed');
+          if (existing == null) {
+            shelf.addItem(bookId: bookId, status: 'completed');
+          }
+        } else if (action == 'remove_all') {
+          shelf.removeBook(bookId);
+        }
+      },
+      itemBuilder: (ctx) => [
+        PopupMenuItem(
+          value: 'reading',
+          child: Row(
+            children: [
+              Icon(
+                Icons.auto_stories_rounded,
+                size: 16,
+                color: readingStatus == 'reading' ? AppColors.goldDark : AppColors.navy,
+              ),
+              const SizedBox(width: 8),
+              Text(
+                readingStatus == 'reading' ? 'Đang đọc (Đã chọn)' : 'Đánh dấu: Đang đọc',
+                style: const TextStyle(fontSize: 13),
+              ),
+            ],
+          ),
+        ),
+        PopupMenuItem(
+          value: 'completed',
+          child: Row(
+            children: [
+              Icon(
+                Icons.check_circle_rounded,
+                size: 16,
+                color: readingStatus == 'completed' ? AppColors.success : AppColors.navy,
+              ),
+              const SizedBox(width: 8),
+              Text(
+                readingStatus == 'completed' ? 'Đã đọc xong (Đã chọn)' : 'Đánh dấu: Đã đọc xong',
+                style: const TextStyle(fontSize: 13),
+              ),
+            ],
+          ),
+        ),
+        const PopupMenuDivider(),
+        const PopupMenuItem(
+          value: 'remove_all',
+          child: Row(
+            children: [
+              Icon(Icons.delete_outline_rounded, size: 16, color: AppColors.error),
+              SizedBox(width: 8),
+              Text('Xóa khỏi Tủ sách', style: TextStyle(fontSize: 13, color: AppColors.error)),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildBookshelfControlBar(BuildContext context, String bookId) {
+    final auth = context.watch<AuthProvider>();
+    final shelf = context.watch<BookshelfProvider>();
+    final isFav = shelf.isFavorite(bookId);
+    final readingStatus = shelf.getReadingStatus(bookId);
+
+    if (!auth.isAuthenticated) {
+      return Container(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+        decoration: BoxDecoration(
+          color: AppColors.surfaceVariant,
+          borderRadius: BorderRadius.circular(8),
+        ),
+        child: const Row(
+          children: [
+            Icon(Icons.lock_outline_rounded, size: 14, color: AppColors.textSecondary),
+            SizedBox(width: 6),
+            Text(
+              'Đăng nhập để lưu vào Tủ sách cá nhân',
+              style: TextStyle(fontSize: 12, color: AppColors.textSecondary),
+            ),
+          ],
+        ),
+      );
+    }
+
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+      decoration: BoxDecoration(
+        color: AppColors.surfaceVariant,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: AppColors.border),
+      ),
+      child: Row(
+        children: [
+          // Favorite badge
+          InkWell(
+            onTap: () => shelf.toggleFavorite(bookId),
+            borderRadius: BorderRadius.circular(4),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+              child: Row(
+                children: [
+                  Icon(
+                    isFav ? Icons.favorite_rounded : Icons.favorite_border_rounded,
+                    size: 16,
+                    color: isFav ? AppColors.error : AppColors.textSecondary,
+                  ),
+                  const SizedBox(width: 4),
+                  Text(
+                    isFav ? 'Đã thích' : 'Yêu thích',
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w600,
+                      color: isFav ? AppColors.error : AppColors.textSecondary,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          const SizedBox(width: 12),
+          const SizedBox(height: 16, child: VerticalDivider(color: AppColors.border, width: 1)),
+          const SizedBox(width: 12),
+
+          // Reading Status badge
+          Expanded(
+            child: Text(
+              readingStatus == 'reading'
+                  ? '📖 Sách trong mục Đang đọc'
+                  : (readingStatus == 'completed'
+                      ? '✅ Sách trong mục Đã đọc'
+                      : 'Chưa thêm vào tiến độ đọc'),
+              style: TextStyle(
+                fontSize: 12,
+                fontWeight: FontWeight.w500,
+                color: readingStatus != null ? AppColors.navy : AppColors.textSecondary,
+              ),
+              overflow: TextOverflow.ellipsis,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildSimilarBookCard(BuildContext context, RecommendedBookItemModel sim) {
+    return Container(
+      width: 175,
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(10),
+        border: Border.all(color: AppColors.border),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.04),
+            blurRadius: 6,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          borderRadius: BorderRadius.circular(10),
+          onTap: () {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(
+                builder: (_) => BookDetailScreen(bookId: sim.bookId),
+              ),
+            );
+          },
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(6),
+                  child: sim.coverUrl.isNotEmpty
+                      ? Image.network(
+                          sim.coverUrl,
+                          width: double.infinity,
+                          height: 120,
+                          fit: BoxFit.cover,
+                          errorBuilder: (_, __, ___) => Container(
+                            height: 120,
+                            color: AppColors.surfaceVariant,
+                            child: const Center(child: Icon(Icons.book, color: AppColors.textSecondary, size: 28)),
+                          ),
+                        )
+                      : Container(
+                          height: 120,
+                          color: AppColors.surfaceVariant,
+                          child: const Center(child: Icon(Icons.book, color: AppColors.textSecondary, size: 28)),
+                        ),
+                ),
+                const SizedBox(height: 6),
+                Text(
+                  sim.title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: AppColors.navyDark),
+                ),
+                const SizedBox(height: 2),
+                Text(
+                  sim.author,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(fontSize: 10, color: AppColors.textSecondary),
+                ),
+                const Spacer(),
+                Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.symmetric(horizontal: 4, vertical: 3),
+                  decoration: BoxDecoration(
+                    color: AppColors.gold.withOpacity(0.12),
+                    borderRadius: BorderRadius.circular(4),
+                    border: Border.all(color: AppColors.gold.withOpacity(0.3)),
+                  ),
+                  child: Row(
+                    children: [
+                      const Icon(Icons.auto_awesome, size: 10, color: AppColors.goldDark),
+                      const SizedBox(width: 4),
+                      Expanded(
+                        child: Text(
+                          sim.reason.isNotEmpty ? sim.reason : 'Tương đồng chủ đề',
+                          maxLines: 2,
+                          overflow: TextOverflow.ellipsis,
+                          style: const TextStyle(fontSize: 9, color: AppColors.navyDark),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+

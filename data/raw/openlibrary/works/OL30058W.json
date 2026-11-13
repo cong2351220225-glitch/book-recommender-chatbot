@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL30021W",
+  "key": "/works/OL30058W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-02T16:33:38.887370"
+  }
+}

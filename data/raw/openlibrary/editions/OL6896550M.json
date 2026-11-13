@@ -1,0 +1,268 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "The Quiet Little Woman, Tilly's Christmas, Rosa's Tale: Three Enchanting Stories by Louisa May Alcott"
+  },
+  "identifiers": {
+    "librarything": [
+      "214015"
+    ],
+    "goodreads": [
+      "17544"
+    ],
+    "amazon": [
+      ""
+    ]
+  },
+  "title": "The Quiet Little Woman",
+  "subtitle": "A Christmas Story",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_date": "1999",
+  "table_of_contents": [
+    {
+      "level": 0,
+      "title": "Introduction",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "7"
+    },
+    {
+      "level": 0,
+      "title": "The Quiet Little Woman",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "title": "The Orphanage",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "15"
+    },
+    {
+      "level": 0,
+      "title": "Getting Adopted",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "17"
+    },
+    {
+      "level": 0,
+      "title": "Aunt Jane",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "21"
+    },
+    {
+      "level": 0,
+      "title": "A Chance at Last",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "27"
+    },
+    {
+      "level": 0,
+      "title": "How Things Went",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "29"
+    },
+    {
+      "level": 0,
+      "title": "A Christmas Gathering",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "33"
+    },
+    {
+      "level": 0,
+      "title": "Aunt Jane Takes Action",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "37"
+    },
+    {
+      "level": 0,
+      "title": "The Family Comes Home",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "45"
+    },
+    {
+      "level": 0,
+      "title": "A Place for Patty",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "51"
+    },
+    {
+      "level": 0,
+      "title": "Patty Remembers",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "55"
+    },
+    {
+      "level": 0,
+      "title": "Tilly's Christmas",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "title": "A Christmas Story",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "59"
+    },
+    {
+      "level": 0,
+      "title": "Rosas's Tale",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "title": "A Christmas Story",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "77"
+    },
+    {
+      "level": 0,
+      "title": "The Editor's Notes",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "107"
+    },
+    {
+      "level": 0,
+      "title": "About the Author",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "115"
+    },
+    {
+      "level": 0,
+      "title": "About the Presenter",
+      "type": {
+        "key": "/type/toc_item"
+      },
+      "pagenum": "121"
+    }
+  ],
+  "covers": [
+    796177
+  ],
+  "lc_classifications": [
+    "PS1016 1999"
+  ],
+  "ocaid": "quietlittlewoman00alco",
+  "contributions": [
+    "C. Michael Dudash",
+    "Stephen W. Hines"
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Patty stood at the window looking thoughtfully down at a group of girls playing in the yard below."
+  },
+  "genres": [
+    "Fiction."
+  ],
+  "source_records": [
+    "promise:bwb_daily_pallets_2020-07-07:P6-AGT-440",
+    "marc:marc_records_scriblio_net/part01.dat:111620211:1052",
+    "ia:quietlittlewoman00alco",
+    "marc:marc_loc_2016/BooksAll.2016.part01.utf8:211351945:1052",
+    "promise:bwb_daily_pallets_2020-04-30:O6-CLR-430"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Christmas stories, American",
+    "Young women -- Fiction",
+    "Orphans -- Fiction"
+  ],
+  "publish_country": "oku",
+  "by_statement": "by Louisa May Alcott ; illustrations by C. Michael Dudash.",
+  "oclc_numbers": [
+    "41996059"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "other_titles": [
+    "Quiet little woman ; Tilly's Christmas ; Rosa's tale",
+    "Tilly's Christmas.",
+    "Rosa's tale."
+  ],
+  "publishers": [
+    "Honor Books"
+  ],
+  "ia_box_id": [
+    "IA117618"
+  ],
+  "physical_format": "Hardcover",
+  "publish_places": [
+    "Tulsa, Oklahoma"
+  ],
+  "pagination": "122 p. :",
+  "dewey_decimal_class": [
+    "813/.4"
+  ],
+  "isbn_13": [
+    "9781562926168"
+  ],
+  "lccn": [
+    "00698317"
+  ],
+  "isbn_10": [
+    "1562926160"
+  ],
+  "local_id": [
+    "urn:bwbsku:P6-AGT-440",
+    "urn:bwbsku:O6-CLR-430"
+  ],
+  "key": "/books/OL6896550M",
+  "number_of_pages": 122,
+  "works": [
+    {
+      "key": "/works/OL30019W"
+    }
+  ],
+  "latest_revision": 16,
+  "revision": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-30T07:59:30.473656"
+  }
+}

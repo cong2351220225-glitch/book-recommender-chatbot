@@ -1,0 +1,87 @@
+{
+  "publishers": [
+    "Crowood Press",
+    "The Crowood Press"
+  ],
+  "number_of_pages": 192,
+  "subtitle": "Vampire, Venom and Sea Vixen",
+  "isbn_10": [
+    "1861266812"
+  ],
+  "series": [
+    "Crowood aviation series"
+  ],
+  "covers": [
+    2066830
+  ],
+  "lc_classifications": [
+    "TL686.D4 J66 2004",
+    "TL686.D4"
+  ],
+  "key": "/books/OL3461244M",
+  "authors": [
+    {
+      "key": "/authors/OL68747A"
+    }
+  ],
+  "publish_places": [
+    "Ramsbury, Marlborough, Wiltshire"
+  ],
+  "pagination": "192 p. :",
+  "title": "De Havilland twin-boom fighters",
+  "dewey_decimal_class": [
+    "627.7'464"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes index."
+  },
+  "identifiers": {
+    "goodreads": [
+      "1445596"
+    ],
+    "librarything": [
+      "4068438"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "2005415242"
+  ],
+  "subjects": [
+    "De Havilland aircraft -- History.",
+    "Fighter planes -- History."
+  ],
+  "publish_date": "2004",
+  "publish_country": "enk",
+  "by_statement": "Barry Jones.",
+  "oclc_numbers": [
+    "56645927"
+  ],
+  "works": [
+    {
+      "key": "/works/OL816042W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part32.utf8:268055824:1052",
+    "bwb:9781861266811"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-17T02:15:17.337413"
+  }
+}

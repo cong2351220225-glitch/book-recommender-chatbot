@@ -1,0 +1,2268 @@
+{
+  "links": {
+    "self": "/works/OL30040W/editions.json",
+    "work": "/works/OL30040W",
+    "next": "/works/OL30040W/editions.json?offset=50"
+  },
+  "size": 129,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798715217011"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "57",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798715217011"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.114",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL49174975M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T13:06:29.594072"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798733059266"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "63",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798733059266"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.118",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL49189637M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T13:59:44.446302"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842443860"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "68",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842443860"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.077",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48694912M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T09:34:58.658190"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781102178453"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2008",
+      "publishers": [
+        "Merriam-Webster, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781102178453"
+      ],
+      "title": "Mysterious Key and What it Opened (Webster's Spanish Thesaurus Edition)",
+      "full_title": "Mysterious Key and What it Opened (Webster's Spanish Thesaurus Edition)",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48691801M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T09:22:46.075039"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721508578"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "46",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721508578"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.109",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48408285M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:43:12.373673"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746335869"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "50",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746335869"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.105",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48425655M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:34:57.658460"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798537876779"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "64",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798537876779"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.177",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48785771M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T13:49:42.374833"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681391586"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "95",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681391586"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.195",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48340670M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T16:25:11.946679"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721508561"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "44",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721508561"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.136",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48376691M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:15:05.730223"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798609627537"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798609627537"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.191",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL48232544M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T10:17:38.693269"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798624905474"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "52",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798624905474"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.186",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key and What It Opened Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL46811578M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T19:35:40.573646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798625174886"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "52",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798625174886"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.105",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL46825958M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T20:26:39.370580"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798847797788"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "66",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798847797788"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.182",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key and What It Opened Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL46626417M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T08:10:13.830762"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798353501305"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "65",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798353501305"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.182",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL46800544M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T18:55:28.273046"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781427018762"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "92",
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781427018762"
+      ],
+      "title": "Mysterious Key and What it Opened",
+      "full_title": "Mysterious Key and What it Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL44143170M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T07:46:18.912734"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944169"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944169"
+      ],
+      "subjects": [
+        "Fiction, mystery & detective, general",
+        "Fiction, romance, historical, general"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL44229807M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T16:46:40.081996"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Mysterious Key and What It Opened",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Dec 05, 2016",
+      "source_records": [
+        "amazon:1775426629"
+      ],
+      "publishers": [
+        "IDB Productions"
+      ],
+      "isbn_10": [
+        "1775426629"
+      ],
+      "isbn_13": [
+        "9781775426622"
+      ],
+      "physical_format": "mp3 cd",
+      "full_title": "The Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42983346M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-05T13:24:12.627964"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634936802"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "46",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634936802"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.100",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42521987M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T20:33:00.349353"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798609627483"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "192",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798609627483"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.350",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42458474M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T06:18:39.355840"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632190442"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "48",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632190442"
+      ],
+      "title": "Mysterious Key : And What It Opened",
+      "weight": "0.177",
+      "subtitle": "Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42400896M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T01:00:58.020007"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746335883"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "49",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746335883"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.145",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42428822M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T03:29:08.523831"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798695557824"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "119",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798695557824"
+      ],
+      "title": "Mysterious Key and What It Opened - Large Print",
+      "weight": "0.327",
+      "full_title": "Mysterious Key and What It Opened - Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42372646M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T21:50:39.955024"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798656978668"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "80",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798656978668"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.114",
+      "subtitle": "Pocket Edition",
+      "full_title": "Mysterious Key and What It Opened Pocket Edition",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42268836M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T04:45:19.964928"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632513777"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "46",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632513777"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.118",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42363429M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T19:51:15.827801"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632190411"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "48",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632190411"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.123",
+      "subtitle": "And What It Opened",
+      "full_title": "Mysterious Key And What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42109344M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T02:24:29.120131"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798641104577"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "66",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798641104577"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.150",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42003005M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T08:32:41.382561"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781659911237"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781659911237"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.132",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41991031M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T06:45:41.723512"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798620855766"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "45",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798620855766"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.118",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42000063M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T08:07:00.894417"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798621355531"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "44",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798621355531"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.164",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key and What It Opened Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42004397M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T08:44:43.884214"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607579098"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "68",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607579098"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.155",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42022886M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T11:31:12.778213"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798621355609"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "44",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798621355609"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.095",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42028709M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:30:45.536296"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798611938355"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611938355"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.132",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42057693M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T17:20:54.867376"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798678855978"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "42",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798678855978"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.114",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL42231506M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T23:00:20.147947"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798620855742"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "45",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798620855742"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.173",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key and What It Opened Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41925830M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T20:47:40.792020"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781654952426"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "60",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781654952426"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.141",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41869819M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T11:57:06.615400"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781677594016"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781677594016"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.273",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41918302M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T19:32:14.884906"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707594726"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "70",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707594726"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.114",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41829003M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T05:48:33.126381"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781704084435"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "64",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781704084435"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.105",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41646829M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T01:43:21.867388"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781679365966"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "35",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781679365966"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.145",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41696453M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T09:12:07.777118"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781671174955"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "74",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781671174955"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.091",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41713859M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T11:50:24.039485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781679365348"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "60",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781679365348"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.141",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41721976M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T13:07:20.490851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695097841"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695097841"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.091",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41617083M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T21:11:27.464218"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798613987047"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798613987047"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.132",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41981242M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T05:15:59.618325"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695619166"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "60",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695619166"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.164",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key and What It Opened Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41565298M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T13:00:12.438151"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781688041219"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "54",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781688041219"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.132",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41606158M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T19:31:07.099375"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980615712"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "68",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980615712"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.155",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41506104M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T03:53:06.819882"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781686324031"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "64",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781686324031"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.105",
+      "full_title": "Mysterious Key",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41500238M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T03:00:01.492695"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781699617717"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "64",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781699617717"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.173",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41517919M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T05:39:59.087145"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781686324192"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "36",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781686324192"
+      ],
+      "title": "Mysterious Key",
+      "weight": "0.109",
+      "subtitle": "Large Print",
+      "full_title": "Mysterious Key Large Print",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41526105M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T06:56:09.010093"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781692757502"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781692757502"
+      ],
+      "title": "Mysterious Key and What It Opened",
+      "weight": "0.195",
+      "full_title": "Mysterious Key and What It Opened",
+      "works": [
+        {
+          "key": "/works/OL30040W"
+        }
+      ],
+      "key": "/books/OL41485247M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T00:42:49.584090"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:13:22.404099"
+      }
+    }
+  ]
+}

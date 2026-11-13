@@ -1,0 +1,42 @@
+{
+  "first_publish_date": "1998",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T08:05:30.244618"
+  },
+  "title": "Winders",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:38:20.966423"
+  },
+  "covers": [
+    1659186
+  ],
+  "lc_classifications": [
+    "TS1117 .G76 1998"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL1965903W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL236086A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "676/.23"
+  ],
+  "subjects": [
+    "Paper mills",
+    "Equipment and supplies",
+    "Paper converting machinery",
+    "Winding machines"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 37143973,
+  "revision": 3
+}

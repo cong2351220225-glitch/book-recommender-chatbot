@@ -1,0 +1,20 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "P. Raethjen",
+  "key": "/authors/OL10232883A",
+  "source_records": [
+    "bwb:9783111043562"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T06:03:14.458067"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T06:03:14.458067"
+  }
+}

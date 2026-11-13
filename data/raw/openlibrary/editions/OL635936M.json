@@ -1,0 +1,62 @@
+{
+  "publishers": [
+    "Vimal Pablīkeshanz"
+  ],
+  "lc_classifications": [
+    "PK2200.R375 U35 1975"
+  ],
+  "key": "/books/OL635936M",
+  "authors": [
+    {
+      "key": "/authors/OL102640A"
+    }
+  ],
+  "publish_places": [
+    "Bambaʼī"
+  ],
+  "pagination": "79 p. ;",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part26.dat:93314865:544",
+    "marc:marc_loc_updates/v37.i43.records.utf8:15478073:565",
+    "marc:marc_loc_2016/BooksAll.2016.part26.utf8:12768697:565",
+    "marc:marc_columbia/Columbia-extract-20221130-004.mrc:521698907:676"
+  ],
+  "title": "Ujāle",
+  "lccn": [
+    "96900482"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "In Urdu.\nPoems."
+  },
+  "number_of_pages": 79,
+  "languages": [
+    {
+      "key": "/languages/urd"
+    }
+  ],
+  "publish_date": "1975",
+  "publish_country": "ii ",
+  "by_statement": "Kālīdās Guptā Raz̤ā.",
+  "works": [
+    {
+      "key": "/works/OL1042595W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "oclc_numbers": [
+    "34850662"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-08-04T10:00:40.747837"
+  }
+}

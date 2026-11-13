@@ -1,0 +1,69 @@
+{
+  "publishers": [
+    "Shadow Mountain"
+  ],
+  "identifiers": {
+    "librarything": [
+      "4969578"
+    ],
+    "goodreads": [
+      "2181523"
+    ]
+  },
+  "lc_classifications": [
+    "PS3564.U468 F54 2008"
+  ],
+  "latest_revision": 5,
+  "key": "/books/OL20008411M",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "publish_places": [
+    "Salt Lake City, Utah"
+  ],
+  "isbn_13": [
+    "9781590388525"
+  ],
+  "pagination": "304 p. ;",
+  "source_records": [
+    "marc:marc_loc_updates/v36.i30.records.utf8:7206061:582"
+  ],
+  "title": "Fields of home",
+  "dewey_decimal_class": [
+    "813/.54"
+  ],
+  "number_of_pages": 304,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-25T05:31:01.349713"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "2007044252"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-30T16:12:23.832146"
+  },
+  "publish_date": "2008",
+  "publish_country": "utu",
+  "by_statement": "Rachel Ann Nunes.",
+  "oclc_numbers": [
+    "177825167"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30072W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 5
+}

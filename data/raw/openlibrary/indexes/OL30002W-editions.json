@@ -1,0 +1,103 @@
+{
+  "links": {
+    "self": "/works/OL30002W/editions.json",
+    "work": "/works/OL30002W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Little, Brown"
+      ],
+      "pagination": "76 p. :",
+      "source_records": [
+        "ia:pansieswaterlili00alcouoft"
+      ],
+      "title": "Pansies and water-lilies",
+      "number_of_pages": 76,
+      "covers": [
+        6071476
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-08-21T21:11:56.718851"
+      },
+      "latest_revision": 4,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:41:53.751382"
+      },
+      "publish_date": "1902",
+      "key": "/books/OL23663444M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "pansieswaterlili00alcouoft",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30002W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "by Louisa M. Alcott. --",
+      "revision": 4
+    },
+    {
+      "pagination": "1 p.l., 76 p.",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0138.out:1616981:695"
+      ],
+      "title": "Pansies and water-lilies",
+      "lccn": [
+        "02019103"
+      ],
+      "series": [
+        "The Children's friend series"
+      ],
+      "number_of_pages": 76,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T03:54:59.178470"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:41:53.751382"
+      },
+      "publish_date": "1902",
+      "publish_country": "mau",
+      "key": "/books/OL17024424M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "by_statement": "by Louisa M. Alcott",
+      "publish_places": [
+        "Boston",
+        "Little, Brown, and Co"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30002W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3
+    }
+  ]
+}

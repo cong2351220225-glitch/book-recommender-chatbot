@@ -1,0 +1,22 @@
+{
+  "name": "Hans Wolfgang Müller",
+  "personal_name": "Hans Wolfgang Müller",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "alternate_names": [
+    "Hans Wolfgang Müller",
+    "Hans Wolfgang Muller"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-10-17T22:05:48.399494"
+  },
+  "latest_revision": 2,
+  "key": "/authors/OL3893097A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}

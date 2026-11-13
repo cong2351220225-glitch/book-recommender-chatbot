@@ -1,0 +1,78 @@
+{
+  "publishers": [
+    "Bonneville Books"
+  ],
+  "number_of_pages": 221,
+  "subtitle": "A Novel",
+  "weight": "13.1 ounces",
+  "covers": [
+    1871458
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-29T12:08:26.740689"
+  },
+  "latest_revision": 7,
+  "key": "/books/OL8572310M",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "subjects": [
+    "Religious - Romance/Historical",
+    "HIV-positive persons",
+    "Fiction - Religious",
+    "Fiction",
+    "Christian - Romance/Historical",
+    "Friendship",
+    "Mormon women",
+    "Mormons"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The fluorescent lights hurt my eyes, already burning from the tears I had shed the night before and again today."
+  },
+  "source_records": [
+    "amazon:1555176461:fj:1481713749:198703"
+  ],
+  "title": "Ariana: A Gift Most Precious",
+  "identifiers": {
+    "librarything": [
+      "3614033"
+    ],
+    "goodreads": [
+      "1232142"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T06:33:27.187047"
+  },
+  "isbn_13": [
+    "9781555176464"
+  ],
+  "isbn_10": [
+    "1555176461"
+  ],
+  "publish_date": "January 1, 2003",
+  "oclc_numbers": [
+    "51095477"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30070W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.7 x 5.9 x 0.4 inches",
+  "revision": 7
+}

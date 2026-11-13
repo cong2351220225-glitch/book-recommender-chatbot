@@ -1,0 +1,542 @@
+{
+  "links": {
+    "self": "/works/OL30023W/editions.json",
+    "work": "/works/OL30023W"
+  },
+  "size": 7,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781568652962"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "176",
+      "publish_date": "1997",
+      "publishers": [
+        "Doubleday Direct"
+      ],
+      "source_records": [
+        "bwb:9781568652962"
+      ],
+      "subjects": [
+        "Fiction, general",
+        "Large type books"
+      ],
+      "title": "Inheritance",
+      "full_title": "Inheritance",
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "key": "/books/OL37406534M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-01T10:36:55.328466"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:33:57.691263"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Inheritance",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jun 01, 1998",
+      "source_records": [
+        "amazon:0140277293",
+        "ia:inheritance0000alco_e2u2",
+        "bwb:9780140277296"
+      ],
+      "number_of_pages": 177,
+      "publishers": [
+        "Penguin Books"
+      ],
+      "physical_format": "mass market paperback",
+      "full_title": "The Inheritance",
+      "covers": [
+        10865686
+      ],
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "key": "/books/OL32225345M",
+      "identifiers": {},
+      "ocaid": "inheritance0000alco_e2u2",
+      "isbn_10": [
+        "0140277293"
+      ],
+      "isbn_13": [
+        "9780140277296"
+      ],
+      "oclc_numbers": [
+        "43320256"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "PS1017 .I54 1998b"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-21T09:42:57.855164"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T19:37:56.269582"
+      }
+    },
+    {
+      "title": "La Herencia",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "November 1999",
+      "publishers": [
+        "Siruela"
+      ],
+      "covers": [
+        7300036
+      ],
+      "physical_format": "Paperback",
+      "publish_places": [
+        "Madrid"
+      ],
+      "subjects": [
+        "General",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9788478443826"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "8478443827"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8478443827"
+      ],
+      "key": "/books/OL13311180M",
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-27T05:55:31.810290"
+      }
+    },
+    {
+      "publishers": [
+        "Tandem Library"
+      ],
+      "number_of_pages": 149,
+      "weight": "8 ounces",
+      "physical_format": "School & Library Binding",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:14.809496"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL9822686M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Juvenile Fiction",
+        "Children's 12-Up - Literature - Classics",
+        "Children: Young Adult (Gr. 10-12)",
+        "Classics",
+        "Fairy Tales & Folklore - General",
+        "England",
+        "Fiction",
+        "Love stories",
+        "Orphans"
+      ],
+      "isbn_13": [
+        "9780613642927"
+      ],
+      "source_records": [
+        "amazon:0613642929:2-av:3178914374:230790"
+      ],
+      "title": "Inheritance",
+      "identifiers": {
+        "goodreads": [
+          "6634096"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0613642929"
+      ],
+      "publish_date": "July 2003",
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.5 x 4.7 x 0.9 inches",
+      "revision": 5
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "179760"
+        ],
+        "goodreads": [
+          "1037277"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "title": "The Inheritance",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1997",
+      "publishers": [
+        "Dutton Books",
+        "Dutton Juvenile"
+      ],
+      "ia_box_id": [
+        "IA179201"
+      ],
+      "subject_place": [
+        "England"
+      ],
+      "covers": [
+        361011
+      ],
+      "ia_loaded_id": [
+        "inheritance00alco"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "188 p. ;",
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-07-07:P6-AZK-469",
+        "marc:marc_records_scriblio_net/part25.dat:190014167:707",
+        "ia:inheritance00alco",
+        "ia:inheritance00alco_797",
+        "marc:marc_loc_2016/BooksAll.2016.part25.utf8:95983939:707",
+        "bwb:9780525457565",
+        "promise:bwb_daily_pallets_2020-04-09:O6-BQJ-708",
+        "marc:harvard_bibliographic_metadata/20220215_046.bib.mrc:229598035:2182"
+      ],
+      "edition_name": "1st ed.",
+      "subjects": [
+        "Orphans -- Fiction",
+        "England -- Fiction"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "Louisa May Alcott ; with an afterword by the editors Joel Myerson and Daniel Shealy.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "inheritance00alco",
+      "isbn_10": [
+        "0525457569"
+      ],
+      "lccn": [
+        "96029731"
+      ],
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "lc_classifications": [
+        "PS1017 .I54 1997"
+      ],
+      "local_id": [
+        "urn:bwbsku:P6-AZK-469",
+        "urn:bwbsku:O6-BQJ-708"
+      ],
+      "key": "/books/OL991336M",
+      "number_of_pages": 188,
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "oclc_numbers": [
+        "36159610"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Edith Adelon, an impoverished Italian orphan, finds love and friends in England."
+      },
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-05T12:32:25.042940"
+      }
+    },
+    {
+      "publishers": [
+        "Wheeler Pub."
+      ],
+      "identifiers": {
+        "librarything": [
+          "179760"
+        ],
+        "goodreads": [
+          "1090146"
+        ]
+      },
+      "subject_place": [
+        "England"
+      ],
+      "covers": [
+        3787669
+      ],
+      "local_id": [
+        "urn:sfpl:31223048217112",
+        "urn:bwbsku:032-ABB-453"
+      ],
+      "lc_classifications": [
+        "PS1017 .I54 1997b"
+      ],
+      "key": "/books/OL685563M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Rockland, MA"
+      ],
+      "subjects": [
+        "Large type books",
+        "Orphans -- Fiction",
+        "England -- Fiction"
+      ],
+      "pagination": "142 p. (large print) ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part26.dat:139071943:814",
+        "amazon:1568955057",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:160083291:1524",
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:61781254:814",
+        "ia:inheritance0000alco",
+        "promise:bwb_daily_pallets_2020-11-13"
+      ],
+      "title": "The inheritance",
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references."
+      },
+      "number_of_pages": 142,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "97032441"
+      ],
+      "isbn_10": [
+        "1568955057"
+      ],
+      "publish_date": "1997",
+      "publish_country": "mau",
+      "series": [
+        "Wheeler large print book series"
+      ],
+      "by_statement": "Louisa May Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "inheritance0000alco",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T17:34:16.149615"
+      }
+    },
+    {
+      "publishers": [
+        "Penguin Books"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "704826"
+        ],
+        "librarything": [
+          "179760"
+        ]
+      },
+      "isbn_10": [
+        "0140436669"
+      ],
+      "subject_place": [
+        "England"
+      ],
+      "covers": [
+        103460
+      ],
+      "lc_classifications": [
+        "PS1017 .I54 1998",
+        "PS1017.I54 1998",
+        "PS 1017 .I54 1998"
+      ],
+      "key": "/books/OL679725M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "inheritance00alco_0",
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Myerson, Joel.",
+        "Shealy, Daniel."
+      ],
+      "pagination": "liv, 149 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part26.dat:133787368:827",
+        "ia:inheritance00alco_0",
+        "bwb:9780140436662",
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:56529063:827",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:128976120:2019",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:223390278:1327",
+        "marc:harvard_bibliographic_metadata/20220215_045.bib.mrc:285058582:2656"
+      ],
+      "title": "The inheritance",
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. xlix-li)."
+      },
+      "number_of_pages": 149,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "97026241"
+      ],
+      "subjects": [
+        "Orphans -- Fiction",
+        "England -- Fiction"
+      ],
+      "publish_date": "1998",
+      "publish_country": "nyu",
+      "series": [
+        "Penguin classics"
+      ],
+      "by_statement": "Louisa May Alcott ; edited with an introduction and notes by Joel Myerson and Daniel Shealy.",
+      "works": [
+        {
+          "key": "/works/OL30023W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:scms:0188600223187"
+      ],
+      "oclc_numbers": [
+        "37187532"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "The tale of Edith Adelon, an impoverished Italian orphan who innocently wields the charms of virtue, beauty, and loyalty to win her true birthright."
+      },
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-18T06:56:29.018851"
+      }
+    }
+  ]
+}

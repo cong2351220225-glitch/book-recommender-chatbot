@@ -1,0 +1,282 @@
+{
+  "links": {
+    "self": "/works/OL30086W/editions.json",
+    "work": "/works/OL30086W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0553541218"
+      ],
+      "isbn_13": [
+        "9780553541212"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-EDI-061"
+      ],
+      "publish_date": "1993-01-01",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-09-14"
+      ],
+      "title": "Dinosaur Island",
+      "full_title": "Dinosaur Island",
+      "works": [
+        {
+          "key": "/works/OL30086W"
+        }
+      ],
+      "key": "/books/OL43242934M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T23:04:28.727144"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T08:20:33.486642"
+      }
+    },
+    {
+      "publishers": [
+        "Gareth Stevens Pub."
+      ],
+      "identifiers": {
+        "goodreads": [
+          "4896496"
+        ],
+        "librarything": [
+          "1428499"
+        ]
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "The reader's decisions control the course of what happens when a plane crash leaves three friends stranded on a remote island inhabited by dinosaurs."
+      },
+      "isbn_10": [
+        "0836813065"
+      ],
+      "series": [
+        "Choose your own adventure ;",
+        "138"
+      ],
+      "covers": [
+        1580318
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Di 1995"
+      ],
+      "key": "/books/OL1099340M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Milwaukee"
+      ],
+      "contributions": [
+        "Wing, Ron, ill."
+      ],
+      "pagination": "119 p. :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part23.utf8:134249858:984"
+      ],
+      "title": "Dinosaur island",
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "number_of_pages": 119,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "94024103"
+      ],
+      "subjects": [
+        "Plot-your-own stories.",
+        "Dinosaurs -- Fiction.",
+        "Survival -- Fiction.",
+        "Adventure and adventurers -- Fiction.",
+        "Plot-your-own stories."
+      ],
+      "publish_date": "1995",
+      "publish_country": "wiu",
+      "by_statement": "by Edward Packard ; illustrated by Ron Wing.",
+      "works": [
+        {
+          "key": "/works/OL30086W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-10T18:46:42.973189"
+      }
+    },
+    {
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "physical_format": "Hardcover",
+      "source_records": [
+        "amazon:0606052348:2-al:143532831:186010"
+      ],
+      "title": "Dinosaur Island (Choose Your Own Adventure #138)",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780606052344"
+      ],
+      "edition_name": "Turtleback Books edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0606052348"
+      ],
+      "publish_date": "August 1993",
+      "key": "/books/OL9514242M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Dinosaurs",
+        "Fiction",
+        "Plot-your-own stories",
+        "Specimens"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30086W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 12810197,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Skylark"
+      ],
+      "number_of_pages": 119,
+      "weight": "2.4 ounces",
+      "covers": [
+        8869433,
+        8006636
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7828976M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "source_records": [
+        "amazon:0553560077:bx:3684997185:203393",
+        "ia:dinosaurislandch00edw_jdn",
+        "marc:marc_loc_2016/BooksAll.2016.part39.utf8:100133937:1288",
+        "amazon:0553560077",
+        "bwb:9780553560077"
+      ],
+      "title": "Dinosaur Island",
+      "identifiers": {
+        "librarything": [
+          "1428499"
+        ],
+        "goodreads": [
+          "190933"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Adventure game-books / choose your own adventure",
+        "Specimens",
+        "Fiction",
+        "Children's 9-12 - Fiction - General",
+        "Children: Grades 3-4",
+        "General",
+        "Non-Classifiable",
+        "Dinosaurs",
+        "Plot-your-own stories"
+      ],
+      "publish_date": "July 1, 1993",
+      "works": [
+        {
+          "key": "/works/OL30086W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.8 x 4 x 0.5 inches",
+      "subtitle": "Choose Your Own Adventure #138",
+      "ocaid": "dinosaurislandch00edw_jdn",
+      "isbn_10": [
+        "0553560077"
+      ],
+      "isbn_13": [
+        "9780553560077"
+      ],
+      "lccn": [
+        "2011487679"
+      ],
+      "oclc_numbers": [
+        "28490614"
+      ],
+      "lc_classifications": [
+        "CPB Box no. 123 vol. 23",
+        "CPB"
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T02:44:04.642680"
+      }
+    }
+  ]
+}

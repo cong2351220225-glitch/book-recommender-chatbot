@@ -1,0 +1,2548 @@
+{
+  "links": {
+    "self": "/works/OL82537W/editions.json",
+    "work": "/works/OL82537W",
+    "next": "/works/OL82537W/editions.json?offset=50"
+  },
+  "size": 306,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Raincoast Books"
+      ],
+      "publish_date": "2004",
+      "key": "/books/OL62447619M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9781551927282"
+      ],
+      "publish_places": [
+        "Canada"
+      ],
+      "physical_format": "Hardcover",
+      "number_of_pages": 251,
+      "covers": [
+        15246710
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-08-18T12:47:28.039584"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-18T12:52:33.885053"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter y la cámara secreta",
+      "publishers": [
+        "Salamandra"
+      ],
+      "publish_date": "2019",
+      "key": "/books/OL61362442M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15172452
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-23T14:58:32.929532"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-23T15:00:11.265906"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL61201794M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "bookbrainz": [
+          "47864406-5428-4aeb-b5f0-23954565aa63"
+        ]
+      },
+      "covers": [
+        15165872
+      ],
+      "copyright_date": "1998; 1999, 2002",
+      "series": [
+        "Buch 2 aus \"Harryz Zauberbox\""
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "Harry Potter and the Chamber of Secrets",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Taschenbuch",
+      "number_of_pages": 351,
+      "isbn_10": [
+        "3551553009"
+      ],
+      "edition_name": "Limitierte Sonderausgabe",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-30T14:02:19.782934"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-30T14:05:26.350779"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "1998",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 258,
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "source_records": [
+        "ia:snj.harrypotter0000jkro_e1f9"
+      ],
+      "full_title": "Harry Potter",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL59041259M",
+      "identifiers": {},
+      "ocaid": "snj.harrypotter0000jkro_e1f9",
+      "isbn_10": [
+        "0747538484"
+      ],
+      "covers": [
+        15158664
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T12:29:55.263843"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2003",
+      "publish_country": "ir",
+      "languages": [
+        {
+          "key": "/languages/per"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the Chamber of Secrets"
+      ],
+      "title": "هري پاتر و حفره اسرارآميز",
+      "other_titles": [
+        "Harī Pātir va ḥufrah-i asrārʹāmīz"
+      ],
+      "by_statement": "navishtih-i Jay. Kay. Rūlīng ; tarjumah-i Vīdā Islāmīyah",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "edition_name": "Chāp-i 11.",
+      "notes": "In Persian.",
+      "description": "When the Chamber of Secrets is opened again at the Hogwarts School for Witchcraft and Wizardry, second-year student Harry Potter finds himself in danger from a dark power that has once more been released on the school.",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "contributions": [
+        "Islāmīyah, Vīdā"
+      ],
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction",
+        "Magic",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)"
+      ],
+      "publishers": [
+        "Kitābsarā-yi Tandīs"
+      ],
+      "publish_places": [
+        "Tihrān"
+      ],
+      "pagination": "381 p.",
+      "number_of_pages": 381,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:397545371:1760",
+        "marc:harvard_bibliographic_metadata/20220215_004.bib.mrc:260667492:2473"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL56934655M",
+      "identifiers": {},
+      "isbn_10": [
+        "9645757045"
+      ],
+      "isbn_13": [
+        "9789645757043"
+      ],
+      "oclc_numbers": [
+        "61170275"
+      ],
+      "ocaid": "harptirvaufrahia0000rowl",
+      "covers": [
+        15159980
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-08T22:55:27.566551"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2004",
+      "publish_country": "gs",
+      "languages": [
+        {
+          "key": "/languages/geo"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the Chamber of Secrets"
+      ],
+      "title": "Hari Poteri da saidumlo otʻaxi",
+      "by_statement": "J.K. Roulingi ; inglisuridan tʻargmna Davitʻ Gabuniam",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "oclc_numbers": [
+        "70997566"
+      ],
+      "edition_name": "1. gamocʻema.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Harry Potter and the sorcerer's stone.\n\nIn Georgian; translated from English."
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "When the Chamber of Secrets is opened again at the Hogwarts School for Witchcraft and Wizardry, second-year student Harry Potter finds himself in danger from a dark power that has once more been released on the school."
+      },
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction",
+        "Magic",
+        "Schools",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+        "Harry Potter (Fictitious character)",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)"
+      ],
+      "subject_people": [
+        "Harry Potter (Fictitious character)"
+      ],
+      "subject_places": [
+        "England"
+      ],
+      "publishers": [
+        "Bakur Sulakauris gamomcʻemloba"
+      ],
+      "publish_places": [
+        "Tʻbilisi"
+      ],
+      "isbn_10": [
+        "9994015915"
+      ],
+      "pagination": "284 p.",
+      "number_of_pages": 284,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:288488742:1645",
+        "marc:harvard_bibliographic_metadata/20220215_004.bib.mrc:34178710:2488"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL54860712M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T19:40:22.957598"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115482"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 259,
+      "publish_date": "2016",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115482"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets (il. Ed. )",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Chamber of Secrets (il. Ed. )",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL53339152M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T22:55:57.746135"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9798890981899"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "320",
+      "publish_date": "2024",
+      "publishers": [
+        "Publicaciones y Ediciones Salamandra, S.A."
+      ],
+      "source_records": [
+        "bwb:9798890981899"
+      ],
+      "title": "Harry Potter y la Camara Secreta / Harry Potter and the Chamber of Secrets",
+      "weight": "0.369",
+      "full_title": "Harry Potter y la Camara Secreta / Harry Potter and the Chamber of Secrets",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL52212077M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-21T17:17:23.982079"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781536489385"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 320,
+      "publish_date": "2024",
+      "publishers": [
+        "Publicaciones y Ediciones Salamandra, S.A."
+      ],
+      "source_records": [
+        "bwb:9781536489385"
+      ],
+      "title": "Harry Potter y la Camara Secreta (Harry Potter and the Chamber of Secrets)",
+      "full_title": "Harry Potter y la Camara Secreta (Harry Potter and the Chamber of Secrets)",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL53329460M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T21:59:04.096316"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-203"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-203"
+      ],
+      "title": "Harry Potter och hemligheternas kammare",
+      "full_title": "Harry Potter och hemligheternas kammare (Harry Potter, #2)",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL47682305M",
+      "identifiers": {},
+      "isbn_10": [
+        "9188877671"
+      ],
+      "isbn_13": [
+        "9789188877673"
+      ],
+      "ocaid": "harrypotterochhe0000unse",
+      "publishers": [
+        "Tiden"
+      ],
+      "publish_date": "2001",
+      "languages": [
+        {
+          "key": "/languages/swe"
+        }
+      ],
+      "covers": [
+        15157479
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:32.501614"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-174"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-174",
+        "ia:harrypotterilaca0000rowl"
+      ],
+      "title": "Harry Potter i la cambra secreta",
+      "full_title": "Harry Potter i la cambra secreta",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL47682278M",
+      "covers": [
+        15157475
+      ],
+      "number_of_pages": 332,
+      "publishers": [
+        "Empúries"
+      ],
+      "publish_date": "2001",
+      "identifiers": {},
+      "ocaid": "harrypotterilaca0000rowl",
+      "isbn_10": [
+        "8475967752"
+      ],
+      "isbn_13": [
+        "9788475967752"
+      ],
+      "languages": [
+        {
+          "key": "/languages/cat"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:28.123259"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "title": "해리포터와비밀의방",
+      "authors": [
+        {
+          "key": "/authors/OL2704230A"
+        }
+      ],
+      "publish_date": "2003",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-209"
+      ],
+      "publishers": [
+        "문학수첩"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-209",
+        "ia:harrypotterchamb0000na"
+      ],
+      "full_title": "Harry Potter and the Chamber of Secrets (Korean edition)",
+      "key": "/books/OL47682248M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "covers": [
+        15157542
+      ],
+      "number_of_pages": 446,
+      "identifiers": {},
+      "ocaid": "harrypotterchamb0000na",
+      "isbn_10": [
+        "8989708591"
+      ],
+      "isbn_13": [
+        "9788989708599"
+      ],
+      "languages": [
+        {
+          "key": "/languages/kor"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:22.912960"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "notes": "Source title: Harry Potter, og Hemmelighedernes Kammer (Harry Potter-serien) (Danish Edition)",
+      "title": "Harry Potter og Hemmelighedernes Kammer",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2003",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8700459941",
+        "promise:bwb_daily_pallets_2023-05-10:W8-BZK-326"
+      ],
+      "publishers": [
+        "Gyldendal"
+      ],
+      "physical_format": "hardcover",
+      "covers": [
+        15157651
+      ],
+      "local_id": [
+        "urn:bwbsku:W8-BZK-326"
+      ],
+      "key": "/books/OL47324321M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "identifiers": {},
+      "ocaid": "harrypotteroghem0000jkro",
+      "isbn_10": [
+        "8700459941"
+      ],
+      "isbn_13": [
+        "9788700459946"
+      ],
+      "languages": [
+        {
+          "key": "/languages/dan"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-10T07:19:20.848743"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:31:26.501052"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "15881",
+          "50968"
+        ]
+      },
+      "genres": [
+        "Juvenile fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:80439600:1713",
+        "marc:marc_loc_updates/v37.i38.records.utf8:12396631:1163"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Potter, Harry (Fictitious character) -- Juvenile fiction",
+        "Wizards -- Juvenile fiction",
+        "Magic -- Juvenile fiction",
+        "Schools -- Juvenile fiction",
+        "England -- Juvenile fiction"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by J.K. Rowling.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "When the Chamber of Secrets is opened again at the Hogswart School for Witchcraft and Wizardry, second-year student Harry Potter finds himself in danger from a dark power that has once more been released on the school."
+      },
+      "key": "/books/OL23292648M",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "viii, 341 p. :",
+      "lccn": [
+        "98046370"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Harry Potter and the sorcerer's stone."
+      },
+      "number_of_pages": 341,
+      "isbn_10": [
+        "0758744269",
+        "0439064864",
+        "0439064872"
+      ],
+      "publish_date": "1999",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "covers": [
+        15244785
+      ],
+      "latest_revision": 37,
+      "revision": 37,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-30T08:54:25.608482"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-09T16:55:13.742032"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Chamber of Secrets",
+      "source_records": [
+        "amazon:9717008140"
+      ],
+      "publishers": [
+        "Nahdet Misr Publishing House"
+      ],
+      "isbn_10": [
+        "9717008140"
+      ],
+      "isbn_13": [
+        "9789717008141"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter and the Chamber of Secrets (Arabic Edition) (Hindi Edition)"
+      },
+      "full_title": "Harry Potter and the Chamber of Secrets",
+      "covers": [
+        13314528
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL46544917M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-12T13:23:32.081137"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T16:30:03.658702"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and The Chamber of Secrets",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2014",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 386,
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "full_title": "Harry Potter and The Chamber of Secrets 2",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL59004872M",
+      "identifiers": {},
+      "isbn_13": [
+        "9781408855669"
+      ],
+      "covers": [
+        15159586
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T23:19:30.587502"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-11T16:57:47.959155"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "2014",
+      "key": "/books/OL61090755M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9781408855904"
+      ],
+      "ocaid": "harrypotterchamb0000jkro_w5l2",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15162896,
+        15160736
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:32:54.675109"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-19T21:41:17.182789"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter i komnata tajemnic",
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "publish_date": "2016",
+      "key": "/books/OL61090642M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788380082137"
+      ],
+      "ocaid": "isbn_9788380082137",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "covers": [
+        15160718
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:16:32.317987"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:17:26.676340"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter y la cámara secreta",
+      "publishers": [
+        "Salamandra"
+      ],
+      "publish_date": "2017",
+      "key": "/books/OL61067975M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788498386592"
+      ],
+      "ocaid": "isbn_9788498386592",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "covers": [
+        15159958
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:47:26.698427"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:48:04.406941"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "FollettBound"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61067860M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0329209744"
+      ],
+      "ocaid": "isbn_9780329209742",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15159946
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:26:54.842294"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:27:14.533710"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter va Phòng Chú'a Bí Mât",
+      "publishers": [
+        "Trẻ"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL61067727M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9786041008465"
+      ],
+      "ocaid": "isbn_9786041008465",
+      "languages": [
+        {
+          "key": "/languages/vie"
+        }
+      ],
+      "covers": [
+        15159935
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:06:31.038786"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:06:54.251901"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter et la chambre des secrets",
+      "publishers": [
+        "Gallimard Jeunesse"
+      ],
+      "publish_date": "2017",
+      "key": "/books/OL61057398M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9782070643035"
+      ],
+      "ocaid": "harrypotteretlac0000unse",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "covers": [
+        15158614
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T13:21:43.071885"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T13:22:37.366011"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter y la cámara secreta",
+      "publishers": [
+        "Emecé Editores"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61057120M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788478885558"
+      ],
+      "ocaid": "isbn_9788478885558",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "covers": [
+        15158574
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T11:52:56.005004"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T11:53:17.855292"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Midwest Tape"
+      ],
+      "publish_date": "2008",
+      "key": "/books/OL61041808M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15157053
+      ],
+      "isbn_10": [
+        "0807281948"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-02T10:35:24.985851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-02T10:35:44.710467"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041692M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156791
+      ],
+      "isbn_10": [
+        "0807281948"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:07:39.474276"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:07:55.199223"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041691M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156790
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:06:14.821733"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:06:30.729093"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041677M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156772
+      ],
+      "isbn_13": [
+        "9780807281949"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:59:26.564239"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:59:43.817276"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61041662M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780807286012"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156742
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:06:39.545090"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:06:58.255639"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61039655M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156408
+      ],
+      "isbn_13": [
+        "9780807281949"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T15:56:34.696951"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T15:56:54.325965"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61038033M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156304
+      ],
+      "isbn_10": [
+        "080728601X"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:20:34.884812"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:20:55.817662"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61032243M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "copyright_date": "1999",
+      "edition_name": "1st Scholastic trade paperback printing",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "Ever since Harry Potter had come home for the summer, the Dursleys had been so mean and hideous that all Harry wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he’s packing his bags, Harry receives a warning from a strange impish creature who says that if Harry returns to Hogwarts, disaster will strike.\r\n\r\nAnd strike it does. For in Harry’s second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor and a spirit who haunts the girls’ bathroom. But then the real trouble begins – someone is turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possible be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects… Harry Potter himself!\r\n--back cover",
+      "covers": [
+        15253784,
+        15156196
+      ],
+      "ocaid": "harrypotterchamb0002rowl",
+      "isbn_10": [
+        "0439064872"
+      ],
+      "physical_format": "paperback",
+      "number_of_pages": 341,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-30T16:45:17.697103"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-12T05:07:43.205797"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter y la cámara secreta",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "08/08/2015",
+      "key": "/books/OL59922397M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15116677
+      ],
+      "isbn_13": [
+        "9781781101322"
+      ],
+      "publish_places": [
+        "España"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Adolfo Muñoz García"
+        },
+        {
+          "role": "Translator",
+          "name": "Alicia Dellepiane"
+        },
+        {
+          "role": "Translator",
+          "name": "Nieves Martín Azofra"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Harry Potter and the Chamber of Secrets",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "eBook",
+      "number_of_pages": 305,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:04:34.434682"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:06:19.783437"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "October 22, 2022",
+      "key": "/books/OL59511775M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15101378
+      ],
+      "isbn_13": [
+        "9783551558329"
+      ],
+      "isbn_10": [
+        "3551558329"
+      ],
+      "series": [
+        "Harry Potter #2"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Harry Potter kann es kaum erwarten, nach einem Sommer ohne Magie und ohne Freunde nach Hogwarts zurückzukehren. Aber sein zweites Jahr in der Schule ist voller neuer Qualen, inklusive einem unverschämten und hochnäsigen neuen Professor, Gilderoy Lockhart, einem Geist namens Maulende Myrte, der im Mädchenklo haust, und der unerwünschten Aufmerksamkeit von Ron Weasleys kleiner Schwester Ginny.\r\n\r\nAber all das wird nebensächlich, als jemand - oder etwas - anfängt, die Schülerschaft von Hogwarts in Stein zu verwandeln. Kann es sein, dass Draco Malfoy dafür verantwortlich ist, der Rivale, der immer gemeiner wird? Oder ist es Hagrid, dessen mysteriöse Vergangenheit aufgedeckt wird? Oder ist am Ende doch der eine verantwortlich, den ganz Hogwarts am meisten verdächtigt ... Harry Potter selbst!"
+      },
+      "physical_format": "gebundene Ausgabe",
+      "number_of_pages": 400,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-07-08T20:34:00.706172"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-08T20:35:02.408007"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "ai",
+      "languages": [
+        {
+          "key": "/languages/arm"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the Chamber of Secrets"
+      ],
+      "title": "[Harry Potter and the chamber of secrets",
+      "by_statement": "J.K. Rowling]",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to : Harry Potter and the sorcerer's stone."
+      },
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction",
+        "Harry Potter (Fictitious character)"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:288492777:531"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL54860780M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T19:40:56.420809"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T18:02:22.202738"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e la camera dei segreti",
+      "source_records": [
+        "amazon:8831000152"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Harry Potter e la camera dei segreti (Vol. 2)",
+      "full_title": "Harry Potter e la camera dei segreti",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL37053826M",
+      "covers": [
+        -1
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "publishers": [
+        "Salani"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "number_of_pages": 336,
+      "isbn_10": [
+        "8831000152"
+      ],
+      "isbn_13": [
+        "9788831000154"
+      ],
+      "publish_date": "1998",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-12T22:17:01.936742"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:20:06.340620"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter e la camera dei segreti",
+      "publishers": [
+        "Salani"
+      ],
+      "publish_date": "1998",
+      "key": "/books/OL51162283M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-27T04:44:35.330274"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:20:06.340620"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115505"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 341,
+      "publish_date": "1999",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115505"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Chamber of Secrets",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL53336125M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T22:38:35.411528"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:12:35.487251"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_10": [
+        "0756903165"
+      ],
+      "isbn_13": [
+        "9780756903169"
+      ],
+      "local_id": [
+        "urn:bwbsku:P9-BFX-745"
+      ],
+      "publish_date": "2000-08-01",
+      "publishers": [
+        "Perfection Learning"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-12-26:P9-BFX-745"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "full_title": "Harry Potter and the Chamber of Secrets",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL50523330M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-12-28T01:06:23.383309"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:12:35.487251"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "title": "Harry Potter et la Chambre des secrets",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "8 décembre 2015",
+      "key": "/books/OL50533834M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14564146
+      ],
+      "isbn_13": [
+        "9781781101049"
+      ],
+      "classifications": {},
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "1. Un très mauvais anniversaire",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "2. L’avertissement de Dobby",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "3. Le Terrier",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "4. Chez Fleury et Bott",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "5. Le saule cogneur",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "6. Gilderoy Lockhart",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "7. Sang-de-Bourbe et drôle de voix",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "8. L’anniversaire de mort",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "9. L’avertissement",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "10. Le Cognard fou",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "11. Le club de duel",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "12. Le Polynectar",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "13. Un journal très intime",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "14. Cornelius Fudge",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "15. Aragog",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "16. La Chambre des Secrets",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "17. L’héritier de Serpentard",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "18. La récompense de Dobby",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Une rentrée fracassante en voiture volante, une étrange malédiction qui s’abat sur les élèves, cette deuxième année à l’école des sorciers ne s’annonce pas de tout repos ! Entre les cours de potions magiques, les matches de Quidditch et les combats de mauvais sorts, Harry et ses amis Ron et Hermione trouveront-ils le temps de percer le mystère de la Chambre des Secrets ? Le deuxième volume des aventures de Harry Potter : un livre magique pour sorciers confirmés."
+      },
+      "physical_format": "eBook",
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Ce n’était pas la première fois qu’une dispute éclatait au petit déjeuner dans la maison du 4, Privet Drive. Mr Vernon Dursley avait été réveillé à l’aube par un hululement sonore qui provenait de la chambre de son neveu Harry."
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T13:16:43.480154"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T15:27:54.699598"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9780747543930"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1999",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9780747543930"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Children's fiction",
+        "Wizards, fiction",
+        "Magic, fiction",
+        "Schools, fiction",
+        "England, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "Fantasy fiction"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "weight": "7.300",
+      "full_title": "Harry Potter and the Chamber of Secrets",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL48613641M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T05:00:22.744291"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781408865613"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "359",
+      "publish_date": "2015",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781408865613"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Wizards, fiction",
+        "Magic, fiction",
+        "Schools, fiction",
+        "England, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "Fantasy fiction"
+      ],
+      "title": "Harry Potter and the Chamber of Secrets",
+      "full_title": "Harry Potter and the Chamber of Secrets",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL48652658M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T06:57:01.431597"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2000",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O9-AKW-753"
+      ],
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-06-15:O9-AKW-753"
+      ],
+      "key": "/books/OL48124905M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15158266
+      ],
+      "ocaid": "herrypotterchamb0000jkro",
+      "isbn_10": [
+        "0738301426"
+      ],
+      "isbn_13": [
+        "9780738301426"
+      ],
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T01:01:57.334741"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T18:30:01.076216"
+      }
+    },
+    {
+      "title": "Harry Potter et la chambre des secrets",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2008",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-217"
+      ],
+      "publishers": [
+        "Gallimard"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-217"
+      ],
+      "key": "/books/OL47682322M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "edition_name": "Edition déluxe",
+      "covers": [
+        15157896
+      ],
+      "ocaid": "harrypottertome20000jkro",
+      "isbn_10": [
+        "2070619184"
+      ],
+      "isbn_13": [
+        "9782070619184"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:35.515880"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-04T10:47:05.712029"
+      }
+    },
+    {
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2013",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-201"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-201",
+        "ia:harrypotter02har0000joan"
+      ],
+      "key": "/books/OL47682294M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "covers": [
+        15157620
+      ],
+      "number_of_pages": 370,
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "ocaid": "harrypotter02har0000joan",
+      "isbn_10": [
+        "3551313121"
+      ],
+      "isbn_13": [
+        "9783551313126"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:30.555738"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T16:42:24.213622"
+      }
+    },
+    {
+      "title": "Harry Potter und die Kammer des Schreckens",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KS-101-197"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-01-20:KS-101-197"
+      ],
+      "full_title": "Harry Potter und die Kammer des Schreckens",
+      "key": "/books/OL46899607M",
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "355155109X"
+      ],
+      "isbn_13": [
+        "9783551551092"
+      ],
+      "ocaid": "harrypotterunddi0000jkro",
+      "publish_date": "2000",
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "covers": [
+        15157471
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T00:03:27.774833"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T10:02:44.447468"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e la camera dei segreti Vol II",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Mar 08, 2019",
+      "source_records": [
+        "amazon:889381451X"
+      ],
+      "publishers": [
+        "Salani"
+      ],
+      "isbn_10": [
+        "889381451X"
+      ],
+      "isbn_13": [
+        "9788893814515"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e la camera dei segreti Vol II (Italian Edition)"
+      },
+      "full_title": "Harry Potter e la camera dei segreti Vol II",
+      "covers": [
+        13124714
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL45265193M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-02T12:21:42.026734"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter E La Camera Dei Segreti",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Oct 05, 2018",
+      "source_records": [
+        "amazon:8893817039"
+      ],
+      "publishers": [
+        "European Schoolbooks Ltd"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Harry Potter E La Camera Dei Segreti",
+      "covers": [
+        12604696
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL37025521M",
+      "identifiers": {},
+      "isbn_10": [
+        "8893817039"
+      ],
+      "isbn_13": [
+        "9788893817035"
+      ],
+      "classifications": {},
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-02T16:10:13.634569"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e a Camara Secreta - Edicao Comemorativa dos 20 anos da Colecao Harry Potter",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Dec 03, 2019",
+      "source_records": [
+        "amazon:8532531776"
+      ],
+      "publishers": [
+        "Rocco"
+      ],
+      "isbn_10": [
+        "8532531776"
+      ],
+      "isbn_13": [
+        "9788532531773"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e a Camara Secreta - Edicao Comemorativa dos 20 anos da Colecao Harry Potter (Em Portugues do Brasil)"
+      },
+      "full_title": "Harry Potter e a Camara Secreta - Edicao Comemorativa dos 20 anos da Colecao Harry Potter",
+      "covers": [
+        12392584
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL35697191M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-06T13:26:14.297049"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e a Camara Secreta - Ilustrado",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 13, 2017",
+      "source_records": [
+        "amazon:8532530559"
+      ],
+      "publishers": [
+        "ROCCO"
+      ],
+      "isbn_10": [
+        "8532530559"
+      ],
+      "isbn_13": [
+        "9788532530554"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e a Camara Secreta - Ilustrado (Em Portugues do Brasil)"
+      },
+      "full_title": "Harry Potter e a Camara Secreta - Ilustrado",
+      "covers": [
+        12370357
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL35664746M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-14T00:08:19.295741"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y la Camara Secreta",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 04, 2012",
+      "source_records": [
+        "amazon:8498384397"
+      ],
+      "number_of_pages": 292,
+      "publishers": [
+        "Salamandra"
+      ],
+      "isbn_10": [
+        "8498384397"
+      ],
+      "isbn_13": [
+        "9788498384390"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Harry Potter y la Camara Secreta",
+      "covers": [
+        12344944
+      ],
+      "works": [
+        {
+          "key": "/works/OL82537W"
+        }
+      ],
+      "key": "/books/OL35638042M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-06T02:29:17.049156"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T17:15:41.568218"
+      }
+    }
+  ]
+}

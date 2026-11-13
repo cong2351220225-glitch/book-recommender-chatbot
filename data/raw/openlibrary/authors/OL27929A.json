@@ -1,0 +1,15 @@
+{
+  "name": "Michael Brodsky",
+  "personal_name": "Michael Brodsky",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-11 20:14:03.366046"
+  },
+  "key": "/authors/OL27929A",
+  "birth_date": "1948",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 70779,
+  "revision": 2
+}

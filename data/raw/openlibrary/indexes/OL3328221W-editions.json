@@ -1,0 +1,70 @@
+{
+  "links": {
+    "self": "/works/OL3328221W/editions.json",
+    "work": "/works/OL3328221W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "identifiers": {
+        "goodreads": [
+          "1737300"
+        ]
+      },
+      "title": "The 2007 Import and Export Market for Dried Mushrooms and Truffles in United States",
+      "authors": [
+        {
+          "key": "/authors/OL539875A"
+        }
+      ],
+      "publish_date": "October 24, 2006",
+      "publishers": [
+        "ICON Group International, Inc."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "weight": "3.5 ounces",
+      "isbn_13": [
+        "9780497682866"
+      ],
+      "covers": [
+        2465680
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "0497682869"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "market,Dried Mushrooms and Truffles in United States,statistics,analysis",
+        "Business & Economics / Econometrics"
+      ],
+      "physical_dimensions": "9 x 7 x 0.1 inches",
+      "source_records": [
+        "amazon:0497682869"
+      ],
+      "key": "/books/OL10413895M",
+      "number_of_pages": 32,
+      "works": [
+        {
+          "key": "/works/OL3328221W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T00:50:27.078359"
+      }
+    }
+  ]
+}

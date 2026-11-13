@@ -1,0 +1,322 @@
+{
+  "links": {
+    "self": "/works/OL30093W/editions.json",
+    "work": "/works/OL30093W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1982",
+      "publish_country": "is",
+      "languages": [
+        {
+          "key": "/languages/heb"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "oclc_numbers": [
+        "886520315"
+      ],
+      "work_titles": [
+        "Inside ufo 54-40"
+      ],
+      "series": [
+        "Beḥar lekha derekh le-harpatḳah"
+      ],
+      "contributions": [
+        "Granger, Paul",
+        "Bani, Raḥel"
+      ],
+      "title": "Ṭisah be-ʻabam 54-40",
+      "pagination": "116 p.",
+      "number_of_pages": 116,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.14.20150123.full.mrc:101792813:860",
+        "marc:harvard_bibliographic_metadata/20220215_011.bib.mrc:84949293:1153"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30093W"
+        }
+      ],
+      "key": "/books/OL43133405M",
+      "publishers": [
+        "טכנוסדר"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T13:15:00.565660"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-30T09:04:59.338696"
+      }
+    },
+    {
+      "title": "Ovni 54-40",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        },
+        {
+          "key": "/authors/OL2786825A"
+        }
+      ],
+      "publish_date": "June 1984",
+      "publishers": [
+        "Lectorum Pubns Inc (J)"
+      ],
+      "isbn_13": [
+        "9788471765345"
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "8471765349"
+      ],
+      "subjects": [
+        "Spanish: Adult Nonfiction"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8471765349"
+      ],
+      "key": "/books/OL13278832M",
+      "works": [
+        {
+          "key": "/works/OL30093W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-04T00:19:01.770936"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Books"
+      ],
+      "identifiers": {
+        "librarything": [
+          "193226"
+        ],
+        "goodreads": [
+          "191007"
+        ]
+      },
+      "ia_box_id": [
+        "IA104515"
+      ],
+      "series": [
+        "Choose Your Own Adventure #12"
+      ],
+      "covers": [
+        6979939,
+        6255195
+      ],
+      "physical_format": "Mass Market Paperback",
+      "ia_loaded_id": [
+        "insid544000pack"
+      ],
+      "key": "/books/OL7819930M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "source_records": [
+        "amazon:0553201972:bx:1390148781:192883",
+        "marc:marc_loc_updates/v37.i38.records.utf8:37158730:845",
+        "ia:insideufo544000pack",
+        "ia:insid544000pack",
+        "marc:marc_loc_2016/BooksAll.2016.part37.utf8:42800831:845"
+      ],
+      "title": "Inside UFO 54-40",
+      "number_of_pages": 118,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1982",
+      "works": [
+        {
+          "key": "/works/OL30093W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subtitle": "Choose Your Own Adventure #12",
+      "ocaid": "insideufo544000pack",
+      "isbn_10": [
+        "0553201972"
+      ],
+      "isbn_13": [
+        "9780553201970"
+      ],
+      "lccn": [
+        "2009484824"
+      ],
+      "lc_classifications": [
+        "CPB Box no. 2963 vol. 17"
+      ],
+      "latest_revision": 16,
+      "revision": 16,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T02:29:47.079734"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "936796"
+        ],
+        "librarything": [
+          "193226"
+        ]
+      },
+      "covers": [
+        15170224,
+        8007011
+      ],
+      "physical_format": "Mass Market Paperback",
+      "key": "/books/OL7821172M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "ocaid": "insideufo544000edwa",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Children's 12-Up - Fiction - General",
+        "Juvenile Fiction"
+      ],
+      "edition_name": "Reissue edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0553231758:bx:1684140011:191099",
+        "ia:insideufo544000edwa",
+        "idb:9780553231755"
+      ],
+      "title": "Inside UFO 54-40",
+      "number_of_pages": 118,
+      "isbn_13": [
+        "9780553231755"
+      ],
+      "isbn_10": [
+        "0553231758"
+      ],
+      "publish_date": "July 1, 1982",
+      "works": [
+        {
+          "key": "/works/OL30093W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-14T20:12:36.963653"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-06T07:01:29.592854"
+      },
+      "source_records": [
+        "amazon:0553259873:bx:2074057989:189672"
+      ],
+      "title": "Inside UFO 54-40",
+      "identifiers": {
+        "goodreads": [
+          "779199"
+        ],
+        "librarything": [
+          "193226"
+        ]
+      },
+      "isbn_13": [
+        "9780553259872"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "physical_format": "Mass Market Paperback",
+      "isbn_10": [
+        "0553259873"
+      ],
+      "publish_date": "July 1, 1982",
+      "key": "/books/OL7822921M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "latest_revision": 5,
+      "works": [
+        {
+          "key": "/works/OL30093W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Plot-your-own stories",
+        "Science fiction",
+        "Children's 12-Up - Fiction - General"
+      ],
+      "revision": 5
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "links": {
+    "self": "/works/OL30079W/editions.json",
+    "work": "/works/OL30079W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Covenant Communications"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1006770"
+        ],
+        "librarything": [
+          "754843"
+        ]
+      },
+      "subtitle": "a novel",
+      "isbn_10": [
+        "1577345363"
+      ],
+      "pagination": "320 p. ;",
+      "covers": [
+        3699256
+      ],
+      "lc_classifications": [
+        "PS3564.U468 T6 1999",
+        "PS3564.U468T6 1999"
+      ],
+      "key": "/books/OL45860M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "American Fork, UT"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:14124772:631",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:11238882:631",
+        "ia:tolovetopromisen0000nune",
+        "promise:bwb_daily_pallets_2020-10-07",
+        "bwb:9781577345367"
+      ],
+      "title": "To love and to promise",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 320,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99043534"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction"
+      ],
+      "publish_date": "1999",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "42290362"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30079W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "tolovetopromisen0000nune",
+      "local_id": [
+        "urn:bwbsku:P6-AVY-581"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T07:42:07.492797"
+      }
+    },
+    {
+      "publishers": [
+        "Spring Creek Book Company"
+      ],
+      "weight": "11.2 ounces",
+      "covers": [
+        2127686
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9317332M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Literature & Fiction / Contemporary",
+        "Religious - General",
+        "Fiction",
+        "Internet pornography",
+        "Mormon women"
+      ],
+      "isbn_13": [
+        "9781932898668"
+      ],
+      "source_records": [
+        "amazon:1932898662:2-aa:2972594077:169570",
+        "marc:marc_loc_updates/v35.i23.records.utf8:9737685:771",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:132083621:771",
+        "bwb:9781932898668",
+        "promise:bwb_daily_pallets_2024-08-13:P9-CKO-237",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:242199080:852"
+      ],
+      "title": "To Love and To Promise",
+      "identifiers": {
+        "librarything": [
+          "754843"
+        ],
+        "goodreads": [
+          "1339129"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1932898662"
+      ],
+      "publish_date": "November 1, 2006",
+      "oclc_numbers": [
+        "71833339"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30079W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 6 x 0.6 inches",
+      "lccn": [
+        "2006032393"
+      ],
+      "lc_classifications": [
+        "PS3564.U468 T6 2007",
+        "PS3564.U468T6 2007"
+      ],
+      "local_id": [
+        "urn:bwbsku:P9-CKO-237"
+      ],
+      "number_of_pages": 261,
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-03T07:18:13.989618"
+      }
+    }
+  ]
+}

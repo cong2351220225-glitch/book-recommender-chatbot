@@ -1,0 +1,46 @@
+{
+  "name": "L. A. Waddell",
+  "key": "/authors/OL12061A",
+  "source_records": [
+    "bwb:9780317942651",
+    "bwb:9781340274023",
+    "amazon:3348031966",
+    "promise:bwb_daily_pallets_2024-01-16:P9-AVK-304",
+    "ia:phcenicianorigin0000lwad"
+  ],
+  "personal_name": "L. A. Waddell",
+  "birth_date": "1854",
+  "remote_ids": {
+    "viaf": "9949800",
+    "wikidata": "Q2605442",
+    "isni": "0000000110209455",
+    "lc_naf": "n50019535",
+    "opac_sbn": "SBLV309992"
+  },
+  "type": {
+    "key": "/type/author"
+  },
+  "death_date": "1938.",
+  "alternate_names": [
+    "L. A. Waddell",
+    "L. Austine Waddell",
+    "Austine L. Waddell",
+    "L.A. Waddell",
+    "Laurence A. Waddell",
+    "Laurence Austine Waddell",
+    "L. A. 1854-1938 Waddell",
+    "L a Waddell",
+    "Austine Waddell, L, Waddell, Austine",
+    "l. a . waddell"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-20T00:44:35.891665"
+  }
+}

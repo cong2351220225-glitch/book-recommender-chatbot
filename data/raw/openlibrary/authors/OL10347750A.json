@@ -1,0 +1,17 @@
+{
+  "name": "Johanna Hurley",
+  "key": "/authors/OL10347750A",
+  "type": {
+    "key": "/type/author"
+  },
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-04-12T14:20:50.916090"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-12T14:20:50.916090"
+  }
+}

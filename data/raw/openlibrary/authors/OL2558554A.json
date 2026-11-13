@@ -1,0 +1,15 @@
+{
+  "name": "Arthur Winfield Burritt",
+  "personal_name": "Arthur Winfield Burritt",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-01 10:12:24.215871"
+  },
+  "key": "/authors/OL2558554A",
+  "birth_date": "1861",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 9627070,
+  "revision": 2
+}

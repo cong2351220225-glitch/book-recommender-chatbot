@@ -1,0 +1,61 @@
+{
+  "description": "An early romantic mystery story by the author of LITTLE WOMEN and LITTLE MEN.",
+  "title": "The Mysterious Key And What It Opened",
+  "covers": [
+    1815112,
+    2758515,
+    10452408,
+    9060663,
+    2810183,
+    2845865
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "THIS is the third time I've found you poring over that old rhyme."
+  },
+  "first_publish_date": "April 30, 2004",
+  "key": "/works/OL30040W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "THIS is the third time I've found you poring over that old rhyme."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Mystery",
+    "Fiction, thrillers, general",
+    "Fiction, mystery & detective, general",
+    "Fiction, romance, historical, general",
+    "American literature",
+    "Fiction, general"
+  ],
+  "location": "/works/OL22300363W",
+  "genres": [
+    "/tags/OL175T",
+    "/tags/OL180T",
+    "/tags/OL177T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T02:57:42.494902"
+  }
+}

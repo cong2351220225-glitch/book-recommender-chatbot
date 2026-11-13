@@ -1,0 +1,27 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Appalachian Tidbits",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5901267A"
+      }
+    }
+  ],
+  "key": "/works/OL25458925W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-09-30T13:39:25.537570"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-09-30T13:39:25.537570"
+  }
+}

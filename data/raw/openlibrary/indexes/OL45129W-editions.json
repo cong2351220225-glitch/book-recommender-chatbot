@@ -1,0 +1,291 @@
+{
+  "links": {
+    "self": "/works/OL45129W/editions.json",
+    "work": "/works/OL45129W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Other editions are by \"H. D.\"\n\nSometimes attributed to Daniel Defoe (Crossley, Lee, Trent, Hutchins, Moore, Novak). Attribution disputed by Furbank and Owens, Defoe de-attributions.\n\nMoore, 471\n\nMicrofilm. Woodbridge, CT Research Publications, Inc., 1985. 1 reel ; 35mm. (The Eighteenth Century ; reel 908, no. 12)."
+      },
+      "title": "The life of Jonathan Wilde",
+      "subtitle": "thief-taker general of Great Britain and Ireland. From his birth to his death. Containing his rise and progress in roguery; ...",
+      "authors": [
+        {
+          "key": "/authors/OL4770882A"
+        }
+      ],
+      "publish_date": "1725",
+      "other_titles": [
+        "Life of Jonathan Wild"
+      ],
+      "publishers": [
+        "printed by W. Dicey"
+      ],
+      "series": [
+        "Eighteenth century -- reel 908, no. 12."
+      ],
+      "physical_format": "Microform",
+      "publish_places": [
+        "Northampton"
+      ],
+      "contributions": [
+        "Defoe, Daniel, 1661?-1731 supposed author."
+      ],
+      "pagination": "40p.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "location": [
+        "MChB"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "enk",
+      "source_records": [
+        "marc:bcl_marc/bcl_open.03.mrc:17617454:1301"
+      ],
+      "key": "/books/OL17008047M",
+      "number_of_pages": 40,
+      "works": [
+        {
+          "key": "/works/OL45129W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T02:01:48.524694"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-05T17:23:26.253809"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Sometimes attributed to Daniel Defoe (Crossley, Trent, Hutchins, Moore, Novak). Attribution disputed by Furbank and Owens, Defoe de-attributions.\r\n\r\nMoore, 471\r\n\r\nMicrofilm. Woodbridge, CT Research Publications, Inc., 1986. 1 reel ; 35mm. (The Eighteenth Century ; reel 5166, no. 4)."
+      },
+      "title": "The life of Jonathan Wild",
+      "subtitle": "from his birth to his death. Containing his rise and progress in roguery; ... By H.D. late Clerk to Justice R----.",
+      "authors": [
+        {
+          "key": "/authors/OL4770882A"
+        }
+      ],
+      "publish_date": "1725",
+      "publishers": [
+        "printed for T. Warner"
+      ],
+      "series": [
+        "Eighteenth century -- reel 5166, no. 4."
+      ],
+      "physical_format": "Microform",
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Defoe, Daniel, 1661?-1731 supposed author."
+      ],
+      "pagination": "vii,[1],71,[1]p.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "enk",
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "MChB"
+      ],
+      "source_records": [
+        "marc:bcl_marc/bcl_open.03.mrc:17616257:1197"
+      ],
+      "key": "/books/OL17008045M",
+      "number_of_pages": 71,
+      "works": [
+        {
+          "key": "/works/OL45129W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T02:01:47.611224"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T03:15:04.841953"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL4770882A"
+        }
+      ],
+      "isbn_13": [
+        "9781720907626"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 148,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781720907626"
+      ],
+      "title": "Life of Jonathan Wild",
+      "weight": "0.282",
+      "subtitle": "from His Birth to His Death. Containing His Rise and Progress in Roguery",
+      "full_title": "Life of Jonathan Wild from His Birth to His Death. Containing His Rise and Progress in Roguery",
+      "works": [
+        {
+          "key": "/works/OL45129W"
+        }
+      ],
+      "key": "/books/OL55961283M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T12:14:40.123679"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-04T16:39:46.752830"
+      }
+    },
+    {
+      "publishers": [
+        "T. Warner"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-18T23:51:53.191476"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL16669689M",
+      "authors": [
+        {
+          "key": "/authors/OL18283A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "vi, 71 p.",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:747349355:779"
+      ],
+      "title": "The life of Jonathan Wild, from his birth to his death.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Moore no. 471.\n\nPhotocopy of original in British Museum. London, University Microfilms, 1966."
+      },
+      "number_of_pages": 71,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T13:19:21.227099"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Wild, Jonathan, -- 1682?-1725"
+      ],
+      "publish_date": "1966",
+      "publish_country": "enk",
+      "by_statement": "By H.D., late clerk to Justice R-----.",
+      "works": [
+        {
+          "key": "/works/OL45129W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Printed for T. Warner..."
+      ],
+      "subtitle": "Containing his rise and progress in roguery ... In which all his intrigues, plots and artifices are accounted for, and laid open. Intermix'd with variety of diverting stories.",
+      "covers": [
+        6530762
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-18T23:51:53.191476"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL23312853M",
+      "authors": [
+        {
+          "key": "/authors/OL18283A"
+        }
+      ],
+      "ocaid": "lifeofjonathanwi00defo",
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "D., H., Clerk To Justice R-- In 1725."
+      ],
+      "pagination": "vii, 71 p. ;",
+      "source_records": [
+        "ia:lifeofjonathanwi00defo"
+      ],
+      "title": "The life of Jonathan Wild, from his birth to his death.",
+      "number_of_pages": 71,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-01T12:51:47.140694"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Wild, Jonathan, 1682?-1725"
+      ],
+      "publish_date": "1725",
+      "publish_country": "enk",
+      "by_statement": "By H.D. late clerk to Justice R-- [i.e. Raymond].",
+      "oclc_numbers": [
+        "3679830"
+      ],
+      "works": [
+        {
+          "key": "/works/OL45129W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    }
+  ]
+}

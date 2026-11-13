@@ -1,0 +1,60 @@
+{
+  "description": "This book is the classic sequel to the first book in the series - \"The Cave of Time\".\r\n\r\nThe reader revisits the cave of time but this time through a different entrance.The reader, inside the cave, meets a old and mysterious man who helps the reader to time travel.\r\n\r\nThis time even more dangerous and fascinating adventure awaits the reader.\r\nA must-read from me!",
+  "title": "Return to the Cave of Time",
+  "subject_places": [
+    "Fictional and Real Places"
+  ],
+  "first_publish_date": "1985",
+  "subject_people": [
+    "Fictional people"
+  ],
+  "key": "/works/OL30099W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th Century"
+  ],
+  "subjects": [
+    "Plot-your-own stories",
+    "Juvenile fiction",
+    "Fiction",
+    "Time travel",
+    "Adventure and adventurers",
+    "collectionID:CYOA1",
+    "Children's fiction",
+    "Time travel, fiction",
+    "Adventure and adventurers, fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "813/.54"
+  ],
+  "covers": [
+    6631564,
+    8240850,
+    -1
+  ],
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T17:41:33.661887"
+  }
+}

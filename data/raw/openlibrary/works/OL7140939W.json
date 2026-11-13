@@ -1,0 +1,32 @@
+{
+  "title": "Supervision for change and innovation",
+  "subjects": [
+    "School supervision",
+    "School personnel management",
+    "Teachers"
+  ],
+  "key": "/works/OL7140939W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2031845A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T20:27:42.455913"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-10T11:25:42.542836"
+  }
+}

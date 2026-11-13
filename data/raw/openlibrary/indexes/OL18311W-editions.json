@@ -1,0 +1,428 @@
+{
+  "links": {
+    "self": "/works/OL18311W/editions.json",
+    "work": "/works/OL18311W"
+  },
+  "size": 6,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Lost Christianities",
+      "authors": [
+        {
+          "key": "/authors/OL7959877A"
+        },
+        {
+          "key": "/authors/OL9166693A"
+        }
+      ],
+      "publish_date": "Jun 21, 2016",
+      "source_records": [
+        "amazon:1522671609"
+      ],
+      "publishers": [
+        "Audible Studios on Brilliance Audio"
+      ],
+      "isbn_10": [
+        "1522671609"
+      ],
+      "isbn_13": [
+        "9781522671602"
+      ],
+      "physical_format": "mp3 cd",
+      "full_title": "Lost Christianities",
+      "covers": [
+        10887520
+      ],
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "key": "/books/OL32258148M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-29T16:32:05.176457"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-07T07:55:36.551353"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL7959877A"
+        }
+      ],
+      "isbn_13": [
+        "9781280481680"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "294",
+      "publish_date": "2003",
+      "publishers": [
+        "Oxford University Press"
+      ],
+      "source_records": [
+        "bwb:9781280481680"
+      ],
+      "title": "Lost Christianities",
+      "subtitle": "The Battles for Scripture and the Faiths We Never Knew",
+      "full_title": "Lost Christianities The Battles for Scripture and the Faiths We Never Knew",
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "key": "/books/OL40394065M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-18T10:52:00.276360"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-07T07:55:36.551353"
+      }
+    },
+    {
+      "publishers": [
+        "Oxford University Press, USA"
+      ],
+      "number_of_pages": 320,
+      "subtitle": "The Battles for Scripture and the Faiths We Never Knew",
+      "covers": [
+        125294
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-05T22:38:24.027863"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL7389510M",
+      "authors": [
+        {
+          "key": "/authors/OL23421A"
+        }
+      ],
+      "isbn_13": [
+        "9780195141832"
+      ],
+      "source_records": [
+        "amazon:0195141830:13:3594732840:286500"
+      ],
+      "title": "The Lost Christianities",
+      "identifiers": {
+        "goodreads": [
+          "1104723"
+        ],
+        "librarything": [
+          "57070"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0195141830"
+      ],
+      "publish_date": "August 18, 2003",
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Ancient Christians knew of far more Gospels than the four that eventually came to be included in the New Testament."
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Oxford University Press"
+      ],
+      "number_of_pages": 294,
+      "subtitle": "the battle for Scripture and the faiths we never knew",
+      "isbn_10": [
+        "0195141830"
+      ],
+      "dewey_decimal_class": [
+        "229/.9206"
+      ],
+      "lc_classifications": [
+        "BS2840 .E4 2003",
+        "BS2840.E4 2003",
+        "BS 2840 .E4 2003"
+      ],
+      "key": "/books/OL17920632M",
+      "authors": [
+        {
+          "key": "/authors/OL23421A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Apocryphal books (New Testament) -- Criticism, interpretation, etc",
+        "Heresies, Christian -- History -- Early church, ca. 30-600",
+        "Church history -- Primitive and early church, ca. 30-600"
+      ],
+      "uri_descriptions": [
+        "Table of contents only",
+        "Publisher description",
+        "Contributor biographical information"
+      ],
+      "pagination": "xv, 294 p. :",
+      "source_records": [
+        "marc:marc_loc_updates/v35.i20.records.utf8:12885766:1195",
+        "marc:marc_ithaca_college/ic_marc.mrc:197807053:1783",
+        "marc:marc_loc_updates/v37.i39.records.utf8:9598332:1194",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:44166851:2276",
+        "marc:marc_claremont_school_theology/CSTMARC2_barcode.mrc:31825980:7192",
+        "bwb:9780195141832",
+        "marc:marc_evangelical_seminary/Evangelical_Seminary_20200728.mrc:40764274:953",
+        "marc:marc_loc_2016/BooksAll.2016.part30.utf8:192974872:1194",
+        "marc:marc_claremont_school_theology/CSTMARC2_multibarcode.mrc:31838611:7192",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:1281595:2673",
+        "marc:marc_columbia/Columbia-extract-20221130-009.mrc:185625134:3746",
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:203876991:1910",
+        "marc:harvard_bibliographic_metadata/20220215_030.bib.mrc:102273111:4690"
+      ],
+      "title": "Lost Christianities",
+      "lccn": [
+        "2003053097"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 281-287) and index."
+      },
+      "identifiers": {
+        "librarything": [
+          "57070"
+        ],
+        "goodreads": [
+          "1104723"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "url": [
+        "http://www.loc.gov/catdir/toc/fy043/2003053097.html",
+        "http://www.loc.gov/catdir/enhancements/fy0614/2003053097-d.html",
+        "http://www.loc.gov/catdir/enhancements/fy0723/2003053097-b.html"
+      ],
+      "local_id": [
+        "urn:sfpl:31223065342314",
+        "urn:sfpl:31223065342280",
+        "urn:sfpl:31223050507715",
+        "urn:cst:10017018497",
+        "urn:evs:39663100171479",
+        "urn:scms:0188600262904"
+      ],
+      "publish_date": "2003",
+      "publish_country": "nyu",
+      "by_statement": "Bart D. Ehrman.",
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/toc/fy043/2003053097.html",
+        "http://www.loc.gov/catdir/enhancements/fy0614/2003053097-d.html",
+        "http://www.loc.gov/catdir/enhancements/fy0723/2003053097-b.html"
+      ],
+      "oclc_numbers": [
+        "52335003"
+      ],
+      "covers": [
+        14600275
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"In Lost Christianities, Bart D. Ehrman offers a fascinating look at these early forms of Christianity and shows how they came to be suppressed, reformed, or forgotten. All of these groups insisted that they upheld the teachings of Jesus and his apostles, and they all possessed writings that bore out their claims, books reputedly produced by Jesus' own followers. Modern archaeological work has recovered a number of key texts, and as Ehrman shows, these spectacular discoveries reveal religious diversity that says much about the ways in which history gets written by the winners. Ehrman's discussion ranges from considerations of various \"lost scriptures\"--Including forged gospels supposedly written by Simon Peter, Jesus' closest disciple, and Judas Thomas, Jesus' alleged twin brother - to the disparate beliefs of such groups as the Jewish-Christian Ebionites, the anti-Jewish Marcionites, and various \"Gnostic\" sects. Ehrman examines in depth the battles that raged between \"proto-orthodox Christians\"--those who eventually compiled the canonical books of the New Testament and standardized Christian belief - and the groups they denounced as heretics and ultimately overcame.\"--Jacket."
+      },
+      "latest_revision": 19,
+      "revision": 19,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-07T17:43:51.510899"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-31T03:39:50.937366"
+      }
+    },
+    {
+      "publishers": [
+        "Oxford University Press, USA"
+      ],
+      "number_of_pages": 309,
+      "subtitle": "The Battles for Scripture and the Faiths We Never Knew",
+      "covers": [
+        126979
+      ],
+      "key": "/books/OL7391542M",
+      "authors": [
+        {
+          "key": "/authors/OL23421A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0195182499:13:4147318295:278914"
+      ],
+      "title": "Lost Christianities",
+      "identifiers": {
+        "librarything": [
+          "57070"
+        ],
+        "goodreads": [
+          "107273"
+        ]
+      },
+      "isbn_13": [
+        "9780195182491"
+      ],
+      "isbn_10": [
+        "0195182499"
+      ],
+      "publish_date": "July 27, 2005",
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-28T17:52:01.282371"
+      }
+    },
+    {
+      "publishers": [
+        "Oxford University Press"
+      ],
+      "number_of_pages": 294,
+      "subtitle": "the battle for scripture and the faiths we never knew",
+      "isbn_10": [
+        "0195182499"
+      ],
+      "lc_classifications": [
+        "BS2840.E4 2005"
+      ],
+      "key": "/books/OL21113157M",
+      "authors": [
+        {
+          "key": "/authors/OL23421A"
+        }
+      ],
+      "publish_places": [
+        "New York",
+        "Oxford"
+      ],
+      "pagination": "294 p. ;",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/lewisandclarkbibsrev.mrc:406157667:1018",
+        "bwb:9780195182491",
+        "ia:lostchristianiti0000bart"
+      ],
+      "title": "Lost Christianities",
+      "dewey_decimal_class": [
+        "229.9206"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Originally published: 2003.\n\nIncludes bibliographical references and index."
+      },
+      "identifiers": {
+        "goodreads": [
+          "107273"
+        ],
+        "librarything": [
+          "57070"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Apocryphal books (New Testament) -- Criticism, interpretation, etc",
+        "Heresies, Christian -- History -- Early church, ca. 30-600",
+        "Church history -- Primitive and early church, ca. 30-600"
+      ],
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "by_statement": "Bart D. Ehrman.",
+      "oclc_numbers": [
+        "61217431"
+      ],
+      "works": [
+        {
+          "key": "/works/OL18311W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15008837
+      ],
+      "ocaid": "lostchristianiti0000bart",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T22:24:11.392076"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T03:55:58.242342"
+      }
+    }
+  ]
+}

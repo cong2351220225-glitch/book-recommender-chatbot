@@ -1,0 +1,88 @@
+{
+  "links": {
+    "self": "/works/OL1162464W/editions.json",
+    "work": "/works/OL1162464W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Vol. 3 has subtitle: Abstracts of the Ketubot or marriage-contracts and of the civil marriage registers of the Spanish and Portuguese Jews Congregation for the period 1837-1901; with an introd. and an index by G. H. Whitehill.\nVol. 4 has subtitle: The circumcision register of Isaac and Abraham de Paiba (1715-1775). Transcribed, translated, and edited by R.D. Barnett ; together with a supplement including a record of circumcisions 1679-99, marriages 1679-89, and some female births 1679-99, compiled by Miriam Rodrigues-Pereira.\nVol. 5 has subtitle: The birth register (1767-1881) of the Spanish & Portuguese Jews' Congregation, London ... and including the Jewish births (1707-1763) in the 18th-century Register books of the College of Arms ...\nVol. 6 has subtitle: The burial register (1733-1918) of the novo (new) cemetery of the Spanish & Portuguese Jews' Congregation, London (with some later entries).\nVol. 2 has imprint: Oxford, printed at the University press by C. Batey; vol. 3-<4   > have imprint: London, published jointly by the Spanish and Portuguese Jews' Congregation and the Jewish Historical Society of England."
+      },
+      "title": "Bevis Marks records",
+      "subtitle": "being contributions to the history of the Spanish and Portuguese Congregation of London.",
+      "authors": [
+        {
+          "key": "/authors/OL117673A"
+        }
+      ],
+      "publish_date": "1940",
+      "publishers": [
+        "Printed at the University press by J. Johnson"
+      ],
+      "subject_place": [
+        "England",
+        "London."
+      ],
+      "lc_classifications": [
+        "BM295.S7 L6 1940"
+      ],
+      "publish_places": [
+        "Oxford"
+      ],
+      "contributions": [
+        "Barnett, Lionel D. 1871-1960, ed."
+      ],
+      "pagination": "v. <1-6   >",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:135876964:2263",
+        "marc:marc_loc_updates/v36.i27.records.utf8:16396617:2263",
+        "marc:marc_loc_2016/BooksAll.2016.part42.utf8:225155725:2263",
+        "marc:marc_columbia/Columbia-extract-20221130-003.mrc:90034549:2614",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:203788641:2449"
+      ],
+      "dewey_decimal_class": [
+        "296/.09421"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "a41001567"
+      ],
+      "subjects": [
+        "Spanish and Portuguese Jews' Congregation (London, England)",
+        "Jews -- England -- London",
+        "Ketubah",
+        "Registers of births, etc. -- England -- London"
+      ],
+      "publish_country": "enk",
+      "by_statement": "Illustrated by facsimiles of documents. Edited by Lionel D. Barnett ... Published by the Board of elders of the Congregation.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL182020M",
+      "works": [
+        {
+          "key": "/works/OL1162464W"
+        }
+      ],
+      "oclc_numbers": [
+        "5992640"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-10T07:16:49.555936"
+      }
+    }
+  ]
+}

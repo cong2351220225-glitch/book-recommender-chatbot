@@ -1,0 +1,38 @@
+{
+  "lc_classifications": [
+    "PS3566.A575 C46 2000"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T08:20:52.556517"
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-12T22:31:17.033421"
+  },
+  "title": "Cenotaph",
+  "covers": [
+    225965
+  ],
+  "first_publish_date": "2000",
+  "latest_revision": 3,
+  "key": "/works/OL27349W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26309A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "811/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34785584,
+  "revision": 3
+}

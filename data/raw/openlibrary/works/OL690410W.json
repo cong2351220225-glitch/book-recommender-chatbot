@@ -1,0 +1,31 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T01:31:17.750011"
+  },
+  "title": "Ley de regimen administrativo",
+  "subject_places": [
+    "Ecuador"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-07-24T05:50:31.109113"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL690410W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL54381A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Administrative law"
+  ],
+  "revision": 2
+}

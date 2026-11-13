@@ -1,0 +1,444 @@
+{
+  "links": {
+    "self": "/works/OL30034W/editions.json",
+    "work": "/works/OL30034W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "title": "Lulu's library.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1886",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "I. A Christmas dream. The candy country. Naughty Jocko. The skipping shoes. Cockyloo. Rosy's journey. How they ran away. The fairy box. A hole in the wall. The piggy girl. The three frogs. Baa! baa!",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "II. The frost king and how the fairies conquered him. Lilybell and Thistledown. Ripple, the water sprite. Eva's visit to fairy land. Sunshine, and her brothers and sisters. The fairy spring. Queen Aster. The brownie and the princess. Mermaids. Little Bud. The flower's story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Recollections of my childhood. A Christmas turkey, and how it came. The silver party. The blind lark. Music and macaroni. The little red purse. Sophie's secret. Dolly's bedstead. Trudel's siege.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Lu"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "3 v.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:4378471:1189",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:87209858:2009",
+        "marc:marc_columbia/Columbia-extract-20221130-012.mrc:30676080:1628"
+      ],
+      "lccn": [
+        "11008220"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott ...",
+      "oclc_numbers": [
+        "999035"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL6529569M",
+      "works": [
+        {
+          "key": "/works/OL30034W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T23:25:15.261552"
+      }
+    },
+    {
+      "title": "Lulu's library.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1886",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "I. A Christmas dream. The candy country. Naughty Jocko. The skipping shoes. Cockyloo. Rosy's journey. How they ran away. The fairy box. A hole in the wall. The piggy girl. The three frogs. Baa! baa!",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "II. The frost king and how the fairies conquered him. Lilybell and Thistledown. Ripple, the water sprite. Eva's visit to fairy land. Sunshine, and her brothers and sisters. The fairy spring. Queen Aster. The brownie and the princess. Mermaids. Little Bud. The flower's story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Recollections of my childhood. A Christmas turkey, and how it came. The silver party. The blind lark. Music and macaroni. The little red purse. Sophie's secret. Dolly's bedstead. Trudel's siege.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5918231
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Lu"
+      ],
+      "ocaid": "luluslibrary00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "3 v.",
+      "source_records": [
+        "ia:luluslibrary00alco"
+      ],
+      "lccn": [
+        "11008220"
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott ...",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7179570M",
+      "works": [
+        {
+          "key": "/works/OL30034W"
+        }
+      ],
+      "oclc_numbers": [
+        "999035"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T05:05:53.250926"
+      }
+    },
+    {
+      "publishers": [
+        "Grosset & Dunlap"
+      ],
+      "pagination": "229 p. ;",
+      "source_records": [
+        "marc:unc_catalog_marc/marc-00078000-00079999.mrc:841355:374"
+      ],
+      "title": "Lulu's library.",
+      "number_of_pages": 229,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-10T17:13:58.103046"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:34.582369"
+      },
+      "publish_date": "1930",
+      "publish_country": "nyu",
+      "key": "/books/OL14076325M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 3,
+      "publish_places": [
+        "New York"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "The silver party.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The skipping shoes.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Eva's visit to fairyland.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The frost king and how the fairies conquered him.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Lily-bell and Thistledown; or, The fairy sleeping beauty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The candy country.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sophie's secret.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Trudel's siege.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Music and macaroni.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Lu4"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL6750060M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "xix p., 3 l., [3]-229 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:173262449:905",
+        "marc:marc_loc_2016/BooksAll.2016.part03.utf8:61296607:905"
+      ],
+      "title": "Lulu's library",
+      "dewey_decimal_class": [
+        "813.41"
+      ],
+      "number_of_pages": 229,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "30029566"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-14T13:15:43.929890"
+      },
+      "publish_date": "1930",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott, a selection with foreword by Eva G. Leslie; with illustrations by Gertrude A. Kay.",
+      "oclc_numbers": [
+        "7055744"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30034W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "title": "Lulu's library .",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1887",
+      "publishers": [
+        "Roberts"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.1.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.2. The frost king; Lilybell and Thistledown; Ripple; Eva's visit to fairyland.; Sunshine; The fairy spring; Queen Aster; The Brownie and the princess; Mermaids; Little Bud; The flower story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Lu 1887x"
+      ],
+      "scan_records": [
+        {
+          "key": "/scan_record/b/OL13443147M"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "2 v.",
+      "source_records": [
+        "marc:bpl_marc/bpl114.mrc:36169365:849"
+      ],
+      "subjects": [
+        "Fairy tales"
+      ],
+      "publish_country": "mau",
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "BPL1SP"
+      ],
+      "key": "/books/OL13443147M",
+      "works": [
+        {
+          "key": "/works/OL30034W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-05-29T16:48:24.436803"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T03:18:51.054732"
+      }
+    }
+  ]
+}

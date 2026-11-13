@@ -1,0 +1,73 @@
+{
+  "links": {
+    "self": "/works/OL1097241W/editions.json",
+    "work": "/works/OL1097241W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "W. Wood & Company"
+      ],
+      "subtitle": "a textbook for physicians and students",
+      "covers": [
+        5582827
+      ],
+      "lc_classifications": [
+        "QM551 .F89"
+      ],
+      "key": "/books/OL7056962M",
+      "authors": [
+        {
+          "key": "/authors/OL113486A"
+        }
+      ],
+      "ocaid": "microscopemicros00freyrich",
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Cutter, George R. b. 1840."
+      ],
+      "pagination": "xii 658 p.",
+      "source_records": [
+        "ia:microscopemicros00freyrich"
+      ],
+      "title": "The microscope and microscopical technilogy",
+      "lccn": [
+        "06002357"
+      ],
+      "subjects": [
+        "Microscopy -- Technique.",
+        "Histology."
+      ],
+      "publish_date": "1872",
+      "publish_country": "nyu",
+      "by_statement": "by Heinrich Frey ... Tr. and ed. by George R. Cutter ....",
+      "works": [
+        {
+          "key": "/works/OL1097241W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 658,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T21:55:12.279385"
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "links": {
+    "self": "/works/OL30096W/editions.json",
+    "work": "/works/OL30096W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "title": "Magic Master",
+      "publish_date": "March 1992",
+      "physical_format": "Paperback",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Plot-your-own stories",
+        "Magicians",
+        "Specimens",
+        "Adventure and adventurers",
+        "Fiction"
+      ],
+      "isbn_10": [
+        "9993876887"
+      ],
+      "isbn_13": [
+        "9789993876885"
+      ],
+      "source_records": [
+        "amazon:9993876887"
+      ],
+      "key": "/books/OL9428310M",
+      "works": [
+        {
+          "key": "/works/OL30096W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-13T01:46:56.980017"
+      }
+    },
+    {
+      "publishers": [
+        "Gareth Stevens Pub."
+      ],
+      "identifiers": {
+        "librarything": [
+          "616924"
+        ],
+        "goodreads": [
+          "3602675"
+        ]
+      },
+      "description": "The reader's decisions control the course of what happens when a boy tries to learn the secrets of a famous magician.",
+      "series": [
+        "Choose your own adventure ;"
+      ],
+      "key": "/books/OL1117996M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Milwaukee"
+      ],
+      "contributions": [
+        "Bolle, Frank, ill."
+      ],
+      "pagination": "116 p. :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part23.utf8:150842749:908",
+        "ia:magicmaster0000pack_w1z9",
+        "promise:bwb_daily_pallets_2021-07-13"
+      ],
+      "title": "Magic Master",
+      "number_of_pages": 116,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories.",
+        "Magicians -- Fiction.",
+        "Magic tricks -- Fiction.",
+        "Plot-your-own stories."
+      ],
+      "publish_date": "1995",
+      "publish_country": "wiu",
+      "by_statement": "by Edward Packard ; illustrated by Frank Bolle.",
+      "works": [
+        {
+          "key": "/works/OL30096W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12578585
+      ],
+      "ocaid": "magicmaster0000pack_w1z9",
+      "isbn_10": [
+        "0836813081"
+      ],
+      "lccn": [
+        "94044196"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Mag 1995"
+      ],
+      "subtitle": "Choose Your Own Adventure #122",
+      "local_id": [
+        "urn:bwbsku:O7-BZE-177"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T04:40:34.947918"
+      }
+    },
+    {
+      "publishers": [
+        "Skylark"
+      ],
+      "identifiers": {
+        "librarything": [
+          "616924"
+        ],
+        "goodreads": [
+          "191038"
+        ]
+      },
+      "weight": "3.2 ounces",
+      "physical_format": "Paperback",
+      "key": "/books/OL7825409M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "subjects": [
+        "Adventure game-books / choose your own adventure",
+        "Fiction",
+        "Plot-your-own stories",
+        "Children's 12-Up - Fiction - General",
+        "Children: Grades 4-6",
+        "Specimens",
+        "General",
+        "Non-Classifiable",
+        "Adventure and adventurers",
+        "Magicians"
+      ],
+      "source_records": [
+        "amazon:055329606X:bx:2647027510:162579",
+        "ia:magicmaster0000pack",
+        "bwb:9780553296068",
+        "amazon:055329606X",
+        "promise:bwb_daily_pallets_2020-10-07"
+      ],
+      "title": "MAGIC MASTER (Choose Your Own Adventure, No 122)",
+      "number_of_pages": 129,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "February 1, 1992",
+      "works": [
+        {
+          "key": "/works/OL30096W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.8 x 4.3 x 0.4 inches",
+      "covers": [
+        11674815
+      ],
+      "ocaid": "magicmaster0000pack",
+      "isbn_10": [
+        "055329606X"
+      ],
+      "isbn_13": [
+        "9780553296068"
+      ],
+      "oclc_numbers": [
+        "25294088"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "J"
+      ],
+      "local_id": [
+        "urn:bwbsku:O6-DNE-028"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T23:16:08.562886"
+      }
+    },
+    {
+      "publishers": [
+        "Demco Media"
+      ],
+      "source_records": [
+        "amazon:0606004726:2-aj:484889195:138581"
+      ],
+      "title": "Magic Master (Choose Your Own Adventure, No 122)",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780606004725"
+      ],
+      "physical_format": "Turtleback",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0606004726"
+      ],
+      "publish_date": "March 1992",
+      "key": "/books/OL9477747M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Adventure and adventurers",
+        "Fiction",
+        "Magicians",
+        "Plot-your-own stories",
+        "Specimens"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30096W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 12766110,
+      "revision": 2
+    }
+  ]
+}

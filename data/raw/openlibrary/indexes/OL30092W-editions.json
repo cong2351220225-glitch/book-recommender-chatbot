@@ -1,0 +1,490 @@
+{
+  "links": {
+    "self": "/works/OL30092W/editions.json",
+    "work": "/works/OL30092W"
+  },
+  "size": 7,
+  "entries": [
+    {
+      "title": "1000 Gefahren. Hilfe, ich schrumpfe.",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        },
+        {
+          "key": "/authors/OL4017516A"
+        }
+      ],
+      "publish_date": "February 1, 1998",
+      "publishers": [
+        "Ravensburger Buchverlag"
+      ],
+      "physical_format": "Hardcover",
+      "weight": "9.1 ounces",
+      "covers": [
+        3210659
+      ],
+      "isbn_13": [
+        "9783473348053"
+      ],
+      "isbn_10": [
+        "3473348058"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 6 x 0.5 inches",
+      "source_records": [
+        "amazon:3473348058"
+      ],
+      "key": "/books/OL12734755M",
+      "number_of_pages": 59,
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-19T14:09:46.969630"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Skylark"
+      ],
+      "ia_box_id": [
+        "IA107818"
+      ],
+      "series": [
+        "Choose your own adventure -- 7"
+      ],
+      "pagination": "52 p. :",
+      "covers": [
+        6508871
+      ],
+      "key": "/books/OL24209342M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Tomei, Lorna"
+      ],
+      "genres": [
+        "Juvenile fiction."
+      ],
+      "source_records": [
+        "ia:helpyoureshrinki00pack",
+        "promise:bwb_daily_pallets_2022-08-29",
+        "promise:bwb_daily_pallets_2021-06-28",
+        "promise:bwb_daily_pallets_2021-05-14",
+        "promise:bwb_daily_pallets_2024-01-catchup:W8-ALY-625"
+      ],
+      "title": "Help! You're shrinking",
+      "number_of_pages": 52,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories -- Juvenile fiction."
+      ],
+      "publish_date": "1983",
+      "publish_country": "enk",
+      "by_statement": "Edward Packard ; illustrated by Lorna Tomei",
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "helpyoureshrinki00pack",
+      "isbn_10": [
+        "0553151959"
+      ],
+      "isbn_13": [
+        "9780553151954"
+      ],
+      "oclc_numbers": [
+        "12475303"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 He 1983"
+      ],
+      "local_id": [
+        "urn:bwbsku:O8-CVQ-045",
+        "urn:bwbsku:W6-AHD-565",
+        "urn:bwbsku:O7-AOW-129",
+        "urn:bwbsku:W8-ALY-625"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-05-05T09:47:37.021993"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-07T03:11:26.765193"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Skylark Choose Your Own Adventure"
+      },
+      "identifiers": {
+        "goodreads": [
+          "190948"
+        ],
+        "librarything": [
+          "166524"
+        ]
+      },
+      "title": "Help! You're Shrinking",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "March 1, 1983",
+      "publishers": [
+        "Yearling"
+      ],
+      "series": [
+        "Choose Your Own Adventure, No. 7"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General",
+        "Adventure stories",
+        "Non-Classifiable",
+        "Children's 9-12 - Fiction - General"
+      ],
+      "isbn_13": [
+        "9780553151954"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553151959"
+      ],
+      "oclc_numbers": [
+        "12475303"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0553151959"
+      ],
+      "key": "/books/OL7818999M",
+      "number_of_pages": 64,
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T13:25:18.221493"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "166524"
+        ],
+        "goodreads": [
+          "1448624"
+        ]
+      },
+      "title": "Help! You're Shrinking",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "March 1, 1983",
+      "publishers": [
+        "Yearling",
+        "Brand: Yearling"
+      ],
+      "series": [
+        "Choose Your Own Adventure, No 7; Choose Your Own Adventure, No. 7"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Juvenile Fiction",
+        "Children's 9-12 - Fiction - General",
+        "Children: Grades 3-4"
+      ],
+      "isbn_13": [
+        "9780553155327"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553155326"
+      ],
+      "oclc_numbers": [
+        "233582843"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:T2-DIT-761"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-08-03",
+        "amazon:0553155326"
+      ],
+      "covers": [
+        13862316
+      ],
+      "ocaid": "helpyoureshrinki0000edwa",
+      "key": "/books/OL7819239M",
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-21T08:19:06.570953"
+      }
+    },
+    {
+      "publishers": [
+        "Timun Mas"
+      ],
+      "physical_format": "Paperback",
+      "title": "Estas Encogiendote! Tu eres el protagonista de esta historia, elige entre distintas soluciones. [Translated into Spanish from original - HELP! YOU'RE SHRINKING You're the Star of the Story]",
+      "isbn_13": [
+        "9788471766670"
+      ],
+      "isbn_10": [
+        "8471766671"
+      ],
+      "publish_date": "1984",
+      "key": "/books/OL13278849M",
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12464551
+      ],
+      "ocaid": "estasencogiendot0000pack",
+      "lccn": [
+        "2002003971"
+      ],
+      "lc_classifications": [
+        "PZ73 .H32 He"
+      ],
+      "source_records": [
+        "ia:estasencogiendot0000pack",
+        "promise:bwb_daily_pallets_2021-07-07"
+      ],
+      "local_id": [
+        "urn:bwbsku:T2-ABL-228"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T05:35:05.274773"
+      }
+    },
+    {
+      "series": [
+        "Elige tu propia aventura. Globo azul -- 4.",
+        "Elige tu propia aventura -- 4."
+      ],
+      "latest_revision": 2,
+      "contributions": [
+        "Tomei, Lorna."
+      ],
+      "id": 31419898,
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:892108049:1029"
+      ],
+      "title": "Estás encogiéndote!",
+      "work_titles": [
+        "Help! You're shrinking."
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Adventure stories"
+      ],
+      "publish_country": "sp ",
+      "by_statement": "Edward Packard ; ilustraciones, Lorna Tomei ; [traducción al castellano, Carles Alier i Aixalá].",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "Timun Mas"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "key": "/books/OL21128117M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Barcelona"
+      ],
+      "pagination": "52 p. :",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T23:38:53.140696"
+      },
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Help! You're shrinking."
+      },
+      "number_of_pages": 52,
+      "isbn_10": [
+        "8471766671"
+      ],
+      "publish_date": "1984",
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "Bantam Skylark"
+      ],
+      "identifiers": {
+        "librarything": [
+          "166524"
+        ],
+        "goodreads": [
+          "190948"
+        ]
+      },
+      "series": [
+        "Choose your own adventure -- 7"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-06-08T01:25:49.180001"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL21522356M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Tomei, Lorna."
+      ],
+      "pagination": "52p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:622986264:714"
+      ],
+      "title": "Help!You're shrinking",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 52,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T22:46:57.158667"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553151959"
+      ],
+      "publish_date": "1983",
+      "publish_country": "xxk",
+      "by_statement": "Edward Packard ; illustrated by Lorna Tomei.",
+      "oclc_numbers": [
+        "12475303"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30092W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    }
+  ]
+}

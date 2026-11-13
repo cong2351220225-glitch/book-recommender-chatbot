@@ -1,0 +1,71 @@
+{
+  "identifiers": {
+    "librarything": [
+      "1181280"
+    ],
+    "goodreads": [
+      "112449"
+    ]
+  },
+  "title": "Cases in International Relations",
+  "subtitle": "Portraits of the Future (2nd Edition)",
+  "authors": [
+    {
+      "key": "/authors/OL2454149A"
+    }
+  ],
+  "publish_date": "July 11, 2005",
+  "publishers": [
+    "Longman"
+  ],
+  "weight": "8 ounces",
+  "covers": [
+    193772
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "International relations",
+    "Political Science",
+    "Politics / Current Events",
+    "Textbooks",
+    "Politics/International Relations",
+    "International Relations - General",
+    "Political Science / General"
+  ],
+  "edition_name": "2 edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9780321337979"
+  ],
+  "isbn_10": [
+    "0321337972"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7.6 x 4.8 x 0.5 inches",
+  "source_records": [
+    "amazon:0321337972"
+  ],
+  "key": "/books/OL9531598M",
+  "number_of_pages": 320,
+  "works": [
+    {
+      "key": "/works/OL47228W"
+    }
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-09T00:25:30.227200"
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "links": {
+    "self": "/works/OL17351657W/editions.json",
+    "work": "/works/OL17351657W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "U.S. G.P.O."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "CONTENTS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 1. INTRODUCTION AND DESCRIPTION OF ECHELONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Section I. Introduction",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "II. Echelons of maintenance defined",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Maintenance of spare parts and tools",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IV. Procedures and practices",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 2. MODIFICATION OF MATERIEL",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 3. MAINTENANCE OF TIRES. TUBES. RUBBER TRACKS AND BOGIE WHEEL TIRES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 4. INSPECTIONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 5. SALVAGE AND RECLAMATION",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 6. STANDARD PUBLICATIONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 7. SPECIAL MAINTENANCE PROCEDURES BY ARMS AND SERVICES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Section I. Army Air Forces",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "II. Chemical Warfare Service",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Corps of Engineers",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IV. Medical Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "V. Ordnance Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VI. Quartermaster Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VII. Signal Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VIII. Transportation Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IX. Adjutant General's Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "X. Special Services and Morale Services",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 8. REFERENCES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "TM 37-250 Basic Maintenance Manual 1944-11-25"
+      },
+      "title": "Basic Maintenance Manual",
+      "identifiers": {},
+      "covers": [
+        9717819
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-06-29T16:08:47.064697"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-18T20:44:17.149519"
+      },
+      "publish_date": "1944",
+      "latest_revision": 3,
+      "key": "/books/OL25929226M",
+      "ocaid": "TM37-250",
+      "classifications": {},
+      "oclc_numbers": [
+        "44647338"
+      ],
+      "works": [
+        {
+          "key": "/works/OL17351657W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_places": [
+        "Washington, D.C., USA"
+      ],
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "U.S. G.P.O."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "CONTENTS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 1. INTRODUCTION AND DESCRIPTION OF ECHELONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Section I. I",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "ntroduction II.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Echelons of maintenance defined",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Maintenance of spare parts and tools",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IV. Procedures and practices",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 2. MODIFICATION OF MATERIEL",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 3. MAINTENANCE OF TIRES. TUBES. RUBBER TRACKS AND BOGIE WHEEL TIRES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 4. INSPECTIONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 5. SALVAGE AND RECLAMATION",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 6. STANDARD PUBLICATIONS",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 7. SPECIAL MAINTENANCE PROCEDURES BY ARMS AND SERVICES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Section I. Army Air Forces",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "II. Chemical Warfare Service",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "III. Corps of Engineers",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IV. Medical Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "V. Ordnance Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VI. Quartermaster Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VII. Signal Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "VIII. Transportation Corps",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "IX. Adjutant General's Department",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "X. Special Services and Morale Services",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "CHAPTER 8. REFERENCES",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "TM 37-250 Basic Maintenance Manual 1944-11-25"
+      },
+      "title": "Basic Maintenance Manual",
+      "identifiers": {},
+      "covers": [
+        9885415
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-06-29T16:06:06.471009"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-21T08:56:37.339458"
+      },
+      "publish_date": "1944",
+      "latest_revision": 3,
+      "key": "/books/OL25929225M",
+      "ocaid": "TM37250",
+      "classifications": {},
+      "oclc_numbers": [
+        "44647338"
+      ],
+      "works": [
+        {
+          "key": "/works/OL17351657W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_places": [
+        "Washington, D.C., USA"
+      ],
+      "revision": 3
+    }
+  ]
+}

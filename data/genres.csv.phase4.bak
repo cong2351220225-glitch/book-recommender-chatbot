@@ -1,0 +1,17 @@
+genre_id,name,description,icon
+literature,Văn học,"Tác phẩm giàu ngôn ngữ, cảm xúc và trải nghiệm con người.",menu_book
+business,Kinh doanh,"Tư duy vận hành, lãnh đạo và phát triển tổ chức.",business_center
+psychology,Tâm lý,"Khám phá tư duy, hành vi và các mối quan hệ.",psychology
+self-help,Kỹ năng sống,"Các phương pháp thực tế cho thói quen và đời sống.",auto_awesome
+personal-growth,Phát triển bản thân,"Định hướng học hỏi, thay đổi và tiến bộ cá nhân.",trending_up
+technology,Công nghệ,"Ý tưởng và ứng dụng trong thế giới công nghệ.",memory
+programming,Lập trình,"Kiến thức và thực hành xây dựng phần mềm.",code
+ai,AI,"Nền tảng và ứng dụng của các hệ thống trí tuệ nhân tạo.",smart_toy
+science,Khoa học,"Khám phá thế giới tự nhiên bằng tư duy khoa học.",science
+history,Lịch sử,"Những câu chuyện và biến đổi của xã hội loài người.",history_edu
+education,Giáo dục,"Cách con người học tập và phát triển tư duy.",school
+novel,Tiểu thuyết,"Các câu chuyện hư cấu về con người và cuộc sống.",auto_stories
+philosophy,Triết học,"Những câu hỏi nền tảng về nhận thức và đời sống.",lightbulb
+fiction,Khoa học viễn tưởng,"Những khả năng tưởng tượng về tương lai và công nghệ.",rocket_launch
+children,Thiếu nhi,"Nội dung phù hợp để khơi gợi trí tò mò của trẻ.",child_care
+finance,Kinh tế,"Các ý tưởng về thị trường, dữ liệu và lựa chọn kinh tế.",account_balance

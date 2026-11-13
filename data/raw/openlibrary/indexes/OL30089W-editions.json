@@ -1,0 +1,254 @@
+{
+  "links": {
+    "self": "/works/OL30089W/editions.json",
+    "work": "/works/OL30089W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "publishers": [
+        "Skylark"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "191091"
+        ],
+        "librarything": [
+          "1217407"
+        ]
+      },
+      "weight": "2.4 ounces",
+      "series": [
+        "Choose Your Own Adventure #146"
+      ],
+      "covers": [
+        4673640
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7828980M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "classifications": {},
+      "source_records": [
+        "amazon:0553560115:bx:3685683829:158622",
+        "marc:marc_loc_updates/v38.i33.records.utf8:13623571:895",
+        "ia:soccerstar00pack",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:171945705:895",
+        "amazon:0553560115"
+      ],
+      "title": "Soccer Star",
+      "number_of_pages": 128,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Adventure stories",
+        "Specimens",
+        "General",
+        "Children's 9-12 - Fiction - General",
+        "Children: Grades 4-6",
+        "Juvenile Fiction / General",
+        "Fiction",
+        "Plot-your-own stories",
+        "Soccer"
+      ],
+      "publish_date": "March 1, 1994",
+      "works": [
+        {
+          "key": "/works/OL30089W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7 x 4.2 x 0.5 inches",
+      "ocaid": "soccerstar00pack",
+      "isbn_10": [
+        "0553560115"
+      ],
+      "isbn_13": [
+        "9780553560114"
+      ],
+      "lccn": [
+        "98809120"
+      ],
+      "oclc_numbers": [
+        "29996366"
+      ],
+      "lc_classifications": [
+        "CPB Box no. 982 vol. 1"
+      ],
+      "subtitle": "Choose Your Own Adventure #146",
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-30T05:48:56.006080"
+      }
+    },
+    {
+      "title": "Gefahr im Strafraum. ( Ab 10 J.). ( Abenteuer).",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "September 1, 1996",
+      "publishers": [
+        "Ravensburger Buchverlag"
+      ],
+      "physical_format": "Paperback",
+      "weight": "4.3 ounces",
+      "covers": [
+        3211177
+      ],
+      "isbn_13": [
+        "9783473520404"
+      ],
+      "isbn_10": [
+        "3473520403"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.2 x 4.8 x 0.4 inches",
+      "source_records": [
+        "amazon:3473520403"
+      ],
+      "key": "/books/OL12735297M",
+      "works": [
+        {
+          "key": "/works/OL30089W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-29T06:48:10.709259"
+      }
+    },
+    {
+      "publishers": [
+        "Tandem Library"
+      ],
+      "physical_format": "Hardcover",
+      "source_records": [
+        "amazon:0613926838"
+      ],
+      "title": "Estrella de Futbol 6 - Elige Tu Propia Aventura",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780613926836"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0613926838"
+      ],
+      "publish_date": "July 2000",
+      "key": "/books/OL10978999M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Interactive Adventure",
+        "Juvenile Fiction",
+        "Children's Baby/Preschool",
+        "Children's Books/Baby-Preschool"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30089W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 14519089,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Atlantida"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Interactive Adventure",
+        "Children's Books/Baby-Preschool"
+      ],
+      "source_records": [
+        "amazon:9500823489"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "isbn_10": [
+        "9500823489"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "936799"
+        ]
+      },
+      "isbn_13": [
+        "9789500823487"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-24T18:53:39.314326"
+      },
+      "publish_date": "July 2000",
+      "key": "/books/OL12957088M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "title": "Estrella de Futbol 6 - Elige Tu Propia Aventura",
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30089W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 17116730,
+      "revision": 4
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Pierre Teilhard de Chardin",
+  "bio": {
+    "type": "/type/text",
+    "value": "French philosopher and Jesuit priest who trained as a paleontologist and geologist and took part in the discovery of Peking Man. Teilhard conceived the idea of the Omega Point and developed Vladimir Vernadsky's concept of Noosphere."
+  },
+  "personal_name": "Pierre Teilhard de Chardin",
+  "alternate_names": [
+    "Teilhard de Chardin, Pierre, S.J.",
+    "Pierre T. De Chardin",
+    "P. Teilhard De Chardin",
+    "Pierre Theilhard de Chardin",
+    "Teilhard De Chardin          P",
+    "Teilhard De Chardin",
+    "Perre Teilhard de Chardin",
+    "Pierre Teilhard de CHARDIN",
+    "Pierre Teilard de Chardin",
+    "PIERRE TEILHARD DE CHARDIN",
+    "Teilhard de Chardin",
+    "Teilhar De Chardin",
+    "Pie  rre Teilhard de Chardin",
+    "TEILHARD DE CHARDIN"
+  ],
+  "death_date": "1955",
+  "photos": [
+    6806926
+  ],
+  "birth_date": "1881",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "64012320",
+    "wikidata": "Q189564",
+    "isni": "000000012101870X",
+    "bookbrainz": "4109fc7a-1d1f-4e15-b940-3c1d2a503d5b",
+    "goodreads": "5387",
+    "lc_naf": "n79032934",
+    "opac_sbn": "CFIV044316"
+  },
+  "key": "/authors/OL26868A",
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T21:28:45.022766"
+  }
+}

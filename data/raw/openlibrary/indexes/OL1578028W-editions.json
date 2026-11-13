@@ -1,0 +1,66 @@
+{
+  "links": {
+    "self": "/works/OL1578028W/editions.json",
+    "work": "/works/OL1578028W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "title": "Givʻat ha-nemalim",
+      "authors": [
+        {
+          "key": "/authors/OL170221A"
+        }
+      ],
+      "publish_date": "1967",
+      "publishers": [
+        "ha-Ḳibuts ha-meʼuḥad"
+      ],
+      "lc_classifications": [
+        "PZ90.H3 B283"
+      ],
+      "publish_places": [
+        "[Tel Aviv]"
+      ],
+      "pagination": "197 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:196887682:496",
+        "marc:marc_loc_updates/v37.i42.records.utf8:89784944:501",
+        "marc:marc_loc_2016/BooksAll.2016.part42.utf8:288498435:501",
+        "marc:harvard_bibliographic_metadata/ab.bib.00.20150123.full.mrc:9550857:441"
+      ],
+      "lccn": [
+        "he67002128"
+      ],
+      "languages": [
+        {
+          "key": "/languages/heb"
+        }
+      ],
+      "publish_country": "is ",
+      "oclc_numbers": [
+        "19162906"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL258894M",
+      "number_of_pages": 197,
+      "works": [
+        {
+          "key": "/works/OL1578028W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-08T02:09:48.610158"
+      }
+    }
+  ]
+}

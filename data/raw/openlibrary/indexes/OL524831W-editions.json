@@ -1,0 +1,81 @@
+{
+  "links": {
+    "self": "/works/OL524831W/editions.json",
+    "work": "/works/OL524831W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "identifiers": {
+        "goodreads": [
+          "1609063"
+        ],
+        "librarything": [
+          "586818"
+        ]
+      },
+      "title": "The Blind Atheist",
+      "subtitle": "The Unscientific Root of Atheism",
+      "authors": [
+        {
+          "key": "/authors/OL36834A"
+        }
+      ],
+      "publish_date": "August 2003",
+      "publishers": [
+        "Authorhouse"
+      ],
+      "weight": "9.8 ounces",
+      "covers": [
+        756977
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Biography: general",
+        "Coping with drug & alcohol abuse",
+        "Substance Abuse & Addictions - Alcoholism",
+        "Personal Memoirs",
+        "Biography & Autobiography",
+        "Religion - World Religions",
+        "Biography/Autobiography",
+        "Self-Help",
+        "Atheism"
+      ],
+      "isbn_13": [
+        "9781410735591"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1410735591"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 6.2 x 0.5 inches",
+      "source_records": [
+        "amazon:1410735591"
+      ],
+      "key": "/books/OL8426526M",
+      "number_of_pages": 184,
+      "works": [
+        {
+          "key": "/works/OL524831W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T19:47:46.059702"
+      }
+    }
+  ]
+}

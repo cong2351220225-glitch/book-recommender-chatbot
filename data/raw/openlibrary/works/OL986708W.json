@@ -1,0 +1,53 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-26T22:08:38.725535"
+  },
+  "title": "The world in a box",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T18:39:50.816788"
+  },
+  "covers": [
+    4343965
+  ],
+  "subject_places": [
+    "Germany"
+  ],
+  "subjects": [
+    "Children's encyclopedias and dictionaries, German",
+    "Enlightenment",
+    "German Encyclopedias and dictionaries",
+    "German Picture dictionaries",
+    "History",
+    "History and criticism",
+    "Intellectual life",
+    "Material culture",
+    "Visual communication",
+    "Weltkasten",
+    "Children's encyclopedias and dictionaries",
+    "Encyclopedias and dictionaries, german",
+    "Encyclopedias and dictionaries, history and criticism",
+    "Picture dictionaries",
+    "Germany, intellectual life"
+  ],
+  "latest_revision": 4,
+  "key": "/works/OL986708W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL91114A"
+      }
+    }
+  ],
+  "subject_times": [
+    "18th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

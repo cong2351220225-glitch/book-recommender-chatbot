@@ -1,0 +1,185 @@
+{
+  "links": {
+    "self": "/works/OL30070W/editions.json",
+    "work": "/works/OL30070W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Bonneville Books"
+      ],
+      "number_of_pages": 221,
+      "subtitle": "A Novel",
+      "weight": "13.1 ounces",
+      "covers": [
+        1871458
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-29T12:08:26.740689"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL8572310M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Religious - Romance/Historical",
+        "HIV-positive persons",
+        "Fiction - Religious",
+        "Fiction",
+        "Christian - Romance/Historical",
+        "Friendship",
+        "Mormon women",
+        "Mormons"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The fluorescent lights hurt my eyes, already burning from the tears I had shed the night before and again today."
+      },
+      "source_records": [
+        "amazon:1555176461:fj:1481713749:198703"
+      ],
+      "title": "Ariana: A Gift Most Precious",
+      "identifiers": {
+        "librarything": [
+          "3614033"
+        ],
+        "goodreads": [
+          "1232142"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+      },
+      "isbn_13": [
+        "9781555176464"
+      ],
+      "isbn_10": [
+        "1555176461"
+      ],
+      "publish_date": "January 1, 2003",
+      "oclc_numbers": [
+        "51095477"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30070W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.9 x 0.4 inches",
+      "revision": 7
+    },
+    {
+      "other_titles": [
+        "Ariana"
+      ],
+      "publishers": [
+        "Covenant Communications"
+      ],
+      "identifiers": {
+        "librarything": [
+          "3614033"
+        ],
+        "goodreads": [
+          "3453768"
+        ]
+      },
+      "subtitle": "a novel",
+      "isbn_10": [
+        "1577341295"
+      ],
+      "pagination": "245 p. ;",
+      "covers": [
+        1932357
+      ],
+      "lc_classifications": [
+        "PS3564.U468 A88 1997",
+        "PS3564.U468A88 1997"
+      ],
+      "key": "/books/OL672014M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "American Fork, Utah"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part26.dat:126739471:853",
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:49529883:853",
+        "ia:arianagiftmostpr0000nune_h2a4",
+        "promise:bwb_daily_pallets_2020-10-08",
+        "bwb:9781577341291"
+      ],
+      "title": "Ariana, a gift most precious",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Ariana, the making of a queen.\nSequel: Ariana, a new beginning."
+      },
+      "number_of_pages": 245,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "97018033"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction",
+        "HIV-positive persons -- Fiction",
+        "Friendship -- Fiction",
+        "Mormons -- Fiction"
+      ],
+      "publish_date": "1997",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "37155190"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30070W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "arianagiftmostpr0000nune_h2a4",
+      "local_id": [
+        "urn:bwbsku:O6-CYL-506"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T08:02:36.115964"
+      }
+    }
+  ]
+}

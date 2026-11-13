@@ -1,0 +1,1087 @@
+{
+  "links": {
+    "self": "/works/OL30038W/editions.json",
+    "work": "/works/OL30038W"
+  },
+  "size": 13,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Comic Tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Dec 11, 2015",
+      "source_records": [
+        "amazon:1519798938"
+      ],
+      "number_of_pages": 120,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1519798938"
+      ],
+      "isbn_13": [
+        "9781519798930"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Comic Tragedies",
+      "covers": [
+        11365477
+      ],
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "key": "/books/OL32739439M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-05T19:20:33.481165"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611923603"
+      ],
+      "title": "Comic Tragedies",
+      "number_of_pages": 119,
+      "isbn_13": [
+        "9798611923603"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Comic Tragedies",
+      "lc_classifications": [
+        ""
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL30078800M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-03T03:34:01.451675"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Comic Tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL9229516A"
+        }
+      ],
+      "publish_date": "Oct 13, 2018",
+      "source_records": [
+        "amazon:0342830783",
+        "bwb:9780342830787"
+      ],
+      "number_of_pages": 332,
+      "publishers": [
+        "Franklin Classics"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Comic Tragedies",
+      "covers": [
+        11128279
+      ],
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "key": "/books/OL32471806M",
+      "identifiers": {},
+      "isbn_10": [
+        "0342830783"
+      ],
+      "isbn_13": [
+        "9780342830787"
+      ],
+      "classifications": {},
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-19T22:40:49.974082"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T08:59:36.740097"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Comic Tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Oct 09, 2018",
+      "source_records": [
+        "amazon:0341854379",
+        "bwb:9780341854371"
+      ],
+      "number_of_pages": 332,
+      "publishers": [
+        "Franklin Classics"
+      ],
+      "isbn_10": [
+        "0341854379"
+      ],
+      "isbn_13": [
+        "9780341854371"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Comic Tragedies",
+      "covers": [
+        10891721
+      ],
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "key": "/books/OL32262906M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-30T03:40:42.414444"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T16:31:27.132413"
+      }
+    },
+    {
+      "publishers": [
+        "Little Brown"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "A foreword/ by Meg",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Norna, or The Witch's Curse",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Captive of Castile; or, The Moorish Maiden's Vow",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Bianca: operatic tragedy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Unloved Wife; or, Woman's Faith",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5702405
+      ],
+      "key": "/books/OL7142683M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "comictragedieswr00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Meg"
+      ],
+      "pagination": "317 p., [2] leaves of plates ;",
+      "classifications": {},
+      "source_records": [
+        "ia:comictragedieswr00alcorich"
+      ],
+      "title": "Comic Tragedies",
+      "identifiers": {},
+      "subtitle": "Written by \"Jo\" and \"Meg\" and acted by the \"Little Women\"",
+      "publish_date": "1920",
+      "publish_country": "mau",
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 317,
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-29T05:07:41.590442"
+      }
+    },
+    {
+      "title": "Comic tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "other_titles": [
+        "Norna or the witch's curse.",
+        "The captive of Castile or, The Moorish maiden's vow.",
+        "The Greek slave.",
+        "Ion.",
+        "Bianca: an operatic tragedy.",
+        "The unloved wife or, woman's faith."
+      ],
+      "publishers": [
+        "S. Low, Marston"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Contents: A foreword, by Meg.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Norna or, The witch's curse.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The captive of Castile or, The Moorish maiden's vow.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Greek slave.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ion.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Blanca: an operative tragedy.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The unloved wife or, Woman's faith.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson."
+      ],
+      "edition_name": "Globe ed.",
+      "pagination": "317p. ;",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "enk",
+      "by_statement": "written by \"Jo\" and \"Meg\", [i.e. L.M. Alcott and A. B. Pratt] andacted by the \"Little women.\".",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1257590789:1071"
+      ],
+      "key": "/books/OL16791449M",
+      "number_of_pages": 317,
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T02:38:30.437087"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-14T21:08:16.233791"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts"
+      ],
+      "covers": [
+        5588600
+      ],
+      "lc_classifications": [
+        "PS1017 C6 1893"
+      ],
+      "key": "/books/OL7064007M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "comictragedies00alcouoft",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson Alcott, 1831-1893"
+      ],
+      "pagination": "317p.",
+      "source_records": [
+        "ia:comictragedies00alcouoft",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:609260851:936",
+        "marc:harvard_bibliographic_metadata/20220215_047.bib.mrc:87790425:1972"
+      ],
+      "title": "Comic tragedies",
+      "publish_date": "1893",
+      "publish_country": "|||",
+      "by_statement": "written by \"Jo\" and \"Meg\", and acted by the \"Little women\".",
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "8062468"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 317,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-17T03:44:35.705877"
+      }
+    },
+    {
+      "publishers": [
+        "Musson"
+      ],
+      "series": [
+        "CIHM/ICMH Microfiche series = CIHM/ICMH collection de microfiches -- no. 13184",
+        "CIHM/ICMH microfiche series -- no. 13184"
+      ],
+      "covers": [
+        6069105
+      ],
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-09T01:25:34.318601"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL23665017M",
+      "ocaid": "cihm_13184",
+      "publish_places": [
+        "Toronto"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson Alcott."
+      ],
+      "pagination": "4 microfiches (168 fr.).",
+      "source_records": [
+        "ia:cihm_13184"
+      ],
+      "title": "Comic tragedies",
+      "dewey_decimal_class": [
+        "812.4"
+      ],
+      "number_of_pages": 168,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-08-28T10:32:09.395687"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0665131844"
+      ],
+      "publish_date": "1893",
+      "publish_country": "onc",
+      "by_statement": "written by 'Jo' [i.e. Louisa May Alcott] and 'Meg' [i.e. Anna Bronson Alcott Pratt].",
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "number_of_pages": 318,
+      "subtitle": "Written By Jo And Meg And Acted By The Little Women",
+      "weight": "1.4 pounds",
+      "covers": [
+        2500308
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:56.631452"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL10569648M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9780548248690"
+      ],
+      "source_records": [
+        "amazon:0548248699"
+      ],
+      "title": "Comic Tragedies",
+      "identifiers": {
+        "goodreads": [
+          "2303919"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0548248699"
+      ],
+      "publish_date": "July 25, 2007",
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.9 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "number_of_pages": 320,
+      "subtitle": "Written By Jo And Meg And Acted By The Little Women",
+      "weight": "1 pounds",
+      "covers": [
+        2880248
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-28T07:53:41.050005"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL11940799M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Fiction"
+      ],
+      "isbn_13": [
+        "9781432651138"
+      ],
+      "source_records": [
+        "amazon:1432651137"
+      ],
+      "title": "Comic Tragedies",
+      "identifiers": {
+        "goodreads": [
+          "1880490"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1432651137"
+      ],
+      "publish_date": "June 1, 2007",
+      "oclc_numbers": [
+        "156830026"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.7 inches",
+      "revision": 7
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "\"Acted by the 'Little Women'\".\n\nFilmed from a copy of the original publication held by the Harold Campbell Vaughan Memorial Library, Acadia University. Ottawa : Canadian Institute for Historical Microreproductions, 1982."
+      },
+      "title": "Comic tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1982",
+      "publishers": [
+        "Musson"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "A foreword / by Meg",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Norna, or, The witch's curse",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Captive of Castile, or, The Moorish maiden's vow",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Greek slave",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Bianca : operatic tragedy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The unloved wife, or, Woman's faith.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "CIHM/ICMH Microfiche series -- no. 13184"
+      ],
+      "physical_format": "Microform",
+      "publish_places": [
+        "Toronto"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson Alcott, 1831-1893"
+      ],
+      "pagination": "4 microfiches (168 fr.).",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:3115223118:1324"
+      ],
+      "dewey_decimal_class": [
+        "812.4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0665131844"
+      ],
+      "publish_country": "onc",
+      "by_statement": "written by 'Jo' [i.e. Louisa May Alcott] and 'Meg' [i.e. Anna Bronson Alcott Pratt].",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL18922385M",
+      "number_of_pages": 168,
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-20T13:28:24.196896"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T22:58:55.136655"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1163993"
+        ]
+      },
+      "title": "Comic tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1893",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "A foreword, by Meg",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Norna, or, The witch's curse",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The captive of Castile, or, The Moorish maiden's vow",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Greek slave",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Bianca : an operatic tragedy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The unloved wife, or, Woman's faith.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5618353
+      ],
+      "lc_classifications": [
+        "PS1017 .C6 1893"
+      ],
+      "ocaid": "comictragedies00alcoiala",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson Alcott, 1831-1893."
+      ],
+      "pagination": "317, [3] p., [2] leaves of plates :",
+      "source_records": [
+        "ia:comictragedies00alcoiala"
+      ],
+      "lccn": [
+        "12030101"
+      ],
+      "subjects": [
+        "Melodrama"
+      ],
+      "publish_country": "mau",
+      "by_statement": "written by \"Jo\" and \"Meg\" and acted by the \"Little women\".",
+      "oclc_numbers": [
+        "5346367"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7098832M",
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 317,
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-29T05:07:36.104530"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Blanck. Bib. of Amer. lit., 224\n\"From the little stage library, still extant, the following plays have been selected as fair examples of the work of these children of sixteen and seventeen\"--foreword, dated 1893.\nCopyright entered by Anna B. Pratt (i.e. \"Meg\")\nPublisher's advertisements: p. [1-2] preceding frontispiece; also [2] pages following text.\nFrontispiece has guardsheet."
+      },
+      "identifiers": {
+        "librarything": [
+          "1163993"
+        ]
+      },
+      "title": "Comic tragedies",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1893",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "A foreword, by Meg",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Norna, or, The witch's curse",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The captive of Castile, or, The Moorish maiden's vow",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Greek slave",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Bianca : an operatic tragedy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The unloved wife, or, Woman's faith.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5825302
+      ],
+      "lc_classifications": [
+        "PS1017 .C6 1893",
+        "PS1017 .O6"
+      ],
+      "ocaid": "comictragedies00alcogoog",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Pratt, Anna Bronson Alcott, 1831-1893."
+      ],
+      "pagination": "317, [3] p., [2] leaves of plates :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:19995489:1374",
+        "ia:comictragedies00alcogoog",
+        "ia:comictragedies01alcogoog",
+        "ia:ocm05346367.emory.edu",
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131330326:1864",
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:878122251:906",
+        "marc:harvard_bibliographic_metadata/20220215_019.bib.mrc:272593243:4565"
+      ],
+      "lccn": [
+        "12030101"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Melodrama"
+      ],
+      "publish_country": "mau",
+      "by_statement": "written by \"Jo\" and \"Meg\" and acted by the \"Little women\".",
+      "oclc_numbers": [
+        "5346367",
+        "896563607"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL6549746M",
+      "number_of_pages": 317,
+      "works": [
+        {
+          "key": "/works/OL30038W"
+        }
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-25T03:45:33.820568"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "publishers": [
+    "Spring Creek Book Company"
+  ],
+  "number_of_pages": 256,
+  "weight": "15.2 ounces",
+  "covers": [
+    2127665
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL9497016M",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "subjects": [
+    "Romance: Modern",
+    "Religious - Romance/General",
+    "Fiction - Religious",
+    "Romance - General",
+    "Christian - Romance",
+    "Fiction",
+    "Americans",
+    "Children of criminals",
+    "France",
+    "Mormon women"
+  ],
+  "isbn_13": [
+    "9781932898200"
+  ],
+  "source_records": [
+    "amazon:1932898204:2-ak:546654021:188243",
+    "marc:marc_loc_2016/BooksAll.2016.part31.utf8:167936208:902",
+    "bwb:9781932898200",
+    "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:592705059:958",
+    "marc:harvard_bibliographic_metadata/20220215_003.bib.mrc:108221154:1806"
+  ],
+  "title": "Love On The Run",
+  "identifiers": {
+    "librarything": [
+      "2006470"
+    ],
+    "goodreads": [
+      "1284333"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1932898204"
+  ],
+  "publish_date": "December 30, 2005",
+  "oclc_numbers": [
+    "57002348"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30076W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.8 x 5.9 x 0.9 inches",
+  "lccn": [
+    "2004027285"
+  ],
+  "lc_classifications": [
+    "PS3564.U468 L55 2005",
+    "PS3564.U468L55 2005"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-13T01:04:51.013875"
+  }
+}

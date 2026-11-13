@@ -1,0 +1,2324 @@
+{
+  "links": {
+    "self": "/works/OL30020W/editions.json",
+    "work": "/works/OL30020W",
+    "next": "/works/OL30020W/editions.json?offset=50"
+  },
+  "size": 257,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "MiraVista Press"
+      ],
+      "source_records": [
+        "bwb:9781956221374",
+        "amazon:1956221379"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Best of Alcott",
+      "subtitle": "Rose in Bloom",
+      "full_title": "Best of Alcott Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL34990229M",
+      "covers": [
+        13187070
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9781956221374"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-09T18:43:52.665911"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:14:50.549009"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342451"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342451"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, romance, general"
+      ],
+      "title": "Rose In Bloom",
+      "subtitle": "A Sequel to \"Eight Cousins\"",
+      "full_title": "Rose In Bloom A Sequel to \"Eight Cousins\"",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL49317845M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:27:18.719459"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342475"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342475"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, romance, general"
+      ],
+      "title": "Rose In Bloom",
+      "subtitle": "A Sequel to \"Eight Cousins\"",
+      "full_title": "Rose In Bloom A Sequel to \"Eight Cousins\"",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL49317850M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:27:19.647516"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342468"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342468"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, romance, general"
+      ],
+      "title": "Rose In Bloom",
+      "subtitle": "A Sequel to \"Eight Cousins\"",
+      "full_title": "Rose In Bloom A Sequel to \"Eight Cousins\"",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL49321784M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:59:10.708325"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798462131349"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "219",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798462131349"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.391",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL49089324M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T07:53:10.252832"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798502294768"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "264",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798502294768"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.764",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48799468M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T14:26:57.998432"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721513633"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "198",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721513633"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.314",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48408128M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:42:45.176215"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527258967"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "203",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527258967"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.464",
+      "subtitle": "A Sequel to Eight Cousins",
+      "full_title": "Rose in Bloom A Sequel to Eight Cousins",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48478865M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T00:25:03.198210"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527259537"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "354",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527259537"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.477",
+      "subtitle": "A Sequel to Eight Cousins",
+      "full_title": "Rose in Bloom A Sequel to Eight Cousins",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48491324M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T01:20:51.027263"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00085R50A"
+        ],
+        "better_world_books": [
+          "BWB16855525"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W8-CDT-881"
+      ],
+      "publish_date": "1933-01-01",
+      "publishers": [
+        "The John C. Winston Co"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-07-14:W8-CDT-881"
+      ],
+      "title": "Rose in Bloom",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48606617M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-16T01:03:46.092497"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798747552319"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "331",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798747552319"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48869783M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T17:55:58.705501"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798684849923"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "219",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798684849923"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.391",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL49003330M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T02:31:17.162876"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798589351330"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "331",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798589351330",
+        "promise:bwb_daily_pallets_2024-05-15:T3-BMB-352"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48368798M",
+      "local_id": [
+        "urn:bwbsku:T3-BMB-352"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000I3JO10"
+        ],
+        "better_world_books": [
+          "BWBM59720504"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T17:49:45.220796"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-05-17T01:12:23.312624"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746181282"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "191",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746181282"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.268",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48382736M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:43:13.959591"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798590319381"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "331",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798590319381"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48297291M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T13:55:39.784935"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798597367293"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "334",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798597367293"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48307610M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T14:44:24.821566"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798718707700"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "331",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798718707700"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL48330869M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T15:55:30.426894"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL6061552A"
+        },
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781519061164"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "230",
+      "publish_date": "2016",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781519061164"
+      ],
+      "title": "Rose in Bloom : a Sequel to Eight Cousins",
+      "weight": "0.409",
+      "subtitle": "Illustrated Classics Vol. 158",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40680113M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T13:57:18.225727"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781521237434"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "188",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781521237434"
+      ],
+      "title": "Rose in Bloom (Annotated)",
+      "weight": "0.341",
+      "full_title": "Rose in Bloom (Annotated)",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40578701M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T22:41:27.048614"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781731005496"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "233",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781731005496"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.682",
+      "subtitle": "Large Print",
+      "full_title": "Rose in Bloom Large Print",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40556140M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T19:12:48.436369"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781730874567"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "517",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781730874567"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.859",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40557139M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T19:22:36.697364"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Rose in Bloom A Sequel to Eight Cousins",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jul 28, 2008",
+      "source_records": [
+        "amazon:1438500734"
+      ],
+      "number_of_pages": 380,
+      "publishers": [
+        "Book Jungle"
+      ],
+      "isbn_10": [
+        "1438500734"
+      ],
+      "isbn_13": [
+        "9781438500737"
+      ],
+      "physical_format": "paperback",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40462982M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T00:06:57.664640"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1541219570"
+      ],
+      "isbn_13": [
+        "9781541219571"
+      ],
+      "number_of_pages": 154,
+      "physical_format": "paperback",
+      "publish_date": "Dec 20, 2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "amazon:1541219570",
+        "bwb:9781541219571"
+      ],
+      "title": "Rose in Bloom",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40229133M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-01T15:42:34.080426"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T17:07:52.070425"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781720083221"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781720083221"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.423",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40716845M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T19:34:20.583458"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781791967154"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "244",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781791967154"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.364",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL41174550M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-23T21:22:57.446145"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798572656510"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "170",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798572656510"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.509",
+      "subtitle": "Large Print",
+      "full_title": "Rose in Bloom Large Print",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40137091M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-19T19:48:47.988485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798525145139"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "169",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798525145139"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.509",
+      "subtitle": "Large Print",
+      "full_title": "Rose in Bloom Large Print",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40137137M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-19T19:49:09.957546"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798501663909"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "170",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798501663909"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.509",
+      "subtitle": "Large Print",
+      "full_title": "Rose in Bloom Large Print",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40147630M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-19T21:28:13.430810"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798514275038"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "169",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798514275038"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.245",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40170115M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-20T01:09:03.048476"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709731578"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "163",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709731578"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.236",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL40187751M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-20T03:45:28.889389"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798838428165"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "159",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798838428165"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.295",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL39460301M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-19T05:07:30.637435"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781411442276"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "376",
+      "publish_date": "2011",
+      "publishers": [
+        "Barnes & Noble, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781411442276"
+      ],
+      "title": "Rose in Bloom",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL39307558M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-17T23:16:08.415853"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL8327037A"
+        },
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798841866510"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "305",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798841866510"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.527",
+      "subtitle": "Unabridged Sequel to Eight Cousins with the Original Illustrations from 4 Editions",
+      "full_title": "Rose in Bloom Unabridged Sequel to Eight Cousins with the Original Illustrations from 4 Editions",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL39727115M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-19T04:11:13.414922"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781376409390"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "400",
+      "publish_date": "2018",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781376409390"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.559",
+      "subtitle": "A Sequel to Eight Cousins",
+      "full_title": "Rose in Bloom A Sequel to Eight Cousins",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL39075336M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-07-21T03:07:34.115712"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Rose in Bloom",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Sep 07, 1995",
+      "source_records": [
+        "amazon:0316037826",
+        "promise:bwb_daily_pallets_2021-06-03",
+        "bwb:9780316037822"
+      ],
+      "number_of_pages": 302,
+      "publishers": [
+        "Little Brown & Co"
+      ],
+      "isbn_10": [
+        "0316037826"
+      ],
+      "isbn_13": [
+        "9780316037822"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Rose in Bloom A Sequel to Eight Cousins",
+      "subtitle": "A Sequel to Eight Cousins",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Rose in Bloom: A Sequel to Eight Cousins (Rose Bloom)"
+      },
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL39218078M",
+      "local_id": [
+        "urn:bwbsku:P7-BDQ-956"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-07T17:12:49.687156"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:21:15.595512"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798608499807"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "179",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798608499807"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.327",
+      "subtitle": "A Sequel to Eight Cousins",
+      "full_title": "Rose in Bloom A Sequel to Eight Cousins",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38465474M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-19T08:51:08.555619"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9780486832555"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "352",
+      "publish_date": "2018",
+      "publishers": [
+        "Dover Publications, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9780486832555"
+      ],
+      "title": "Rose in Bloom",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38387193M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-18T18:52:03.698816"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798543494042"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "393",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798543494042"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.668",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38166893M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T07:47:52.955912"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9613404A"
+        },
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798674370215"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "215",
+      "publish_date": "2020",
+      "publishers": [
+        "Aberdeen Press"
+      ],
+      "source_records": [
+        "bwb:9798674370215"
+      ],
+      "title": "Rose in Bloom : (Aberdeen Classics Collection)",
+      "weight": "0.386",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38129348M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T00:31:39.424751"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T18:38:21.351075"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781977043733"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "277",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781977043733"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.482",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38037557M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-26T05:07:42.527618"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781006002465"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "272",
+      "publish_date": "2022",
+      "publishers": [
+        "Blurb, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781006002465"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.368",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL38076149M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-26T13:09:13.599728"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798758360446"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "299",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798758360446"
+      ],
+      "title": "Rose in Bloom Sequel to Eight Cousins",
+      "weight": "0.518",
+      "subtitle": "With Original Illustrations",
+      "full_title": "Rose in Bloom Sequel to Eight Cousins With Original Illustrations",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL37660335M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-03T13:21:25.754042"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798798175628"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "122",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798798175628"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.236",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL37619359M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-03T06:15:07.271679"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798544872399"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "195",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798544872399"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.436",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL37664829M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-03T14:11:01.931501"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798702236056"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "222",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798702236056"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.500",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL37557208M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-02T18:49:07.219692"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798524870865"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "303",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798524870865"
+      ],
+      "title": "Rose in Bloom by Louisa May Alcott",
+      "weight": "0.523",
+      "subtitle": "Classic Edition Illustrations",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL37002775M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-29T15:33:37.699076"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798490172550"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "288",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798490172550"
+      ],
+      "title": "Rose in Bloom Sequel to Eight Cousins",
+      "weight": "0.500",
+      "subtitle": "With Original Illustrations - Annotated - Classic Edition",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL36973112M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-29T10:25:57.728009"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Rose in Bloom",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL8370471A"
+        }
+      ],
+      "publish_date": "Aug 03, 2021",
+      "source_records": [
+        "amazon:1513134477",
+        "bwb:9781513134475"
+      ],
+      "number_of_pages": 234,
+      "publishers": [
+        "Mint Editions"
+      ],
+      "isbn_10": [
+        "1513134477"
+      ],
+      "isbn_13": [
+        "9781513134475"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Rose in Bloom (Mint Editions)"
+      },
+      "full_title": "Rose in Bloom",
+      "covers": [
+        12588754
+      ],
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL36957824M",
+      "lc_classifications": [
+        "PS1015"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-29T07:57:51.149132"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798698960164"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "241",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798698960164"
+      ],
+      "title": "Rose in Bloom",
+      "weight": "0.427",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL36879416M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T18:27:13.022175"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781625585318"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "247",
+      "publish_date": "2013",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781625585318"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Rose in Bloom",
+      "full_title": "Rose in Bloom",
+      "works": [
+        {
+          "key": "/works/OL30020W"
+        }
+      ],
+      "key": "/books/OL36788846M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T00:42:15.457362"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T06:09:54.917901"
+      }
+    }
+  ]
+}

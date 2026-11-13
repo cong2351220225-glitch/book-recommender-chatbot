@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T08:42:13.229356"
+  },
+  "title": "Sāhityakāra Premānanda",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T08:42:13.229356"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL43236W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10158A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34820357,
+  "revision": 1
+}

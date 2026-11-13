@@ -1,0 +1,15 @@
+{
+  "name": "Sylvia Dee",
+  "personal_name": "Sylvia Dee",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-13 10:12:37.745394"
+  },
+  "key": "/authors/OL2248574A",
+  "birth_date": "1914",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 8317249,
+  "revision": 2
+}

@@ -1,0 +1,49 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "authors": [
+    {
+      "key": "/authors/OL23919A"
+    }
+  ],
+  "publish_date": "2014",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 642,
+  "publishers": [
+    "Bloomsbury"
+  ],
+  "source_records": [
+    "ia:rbanms.24651.harrypotterdeath0000jkro_e6z9"
+  ],
+  "full_title": "Harry Potter and The Deathly Hallows 7",
+  "works": [
+    {
+      "key": "/works/OL82586W"
+    }
+  ],
+  "key": "/books/OL59004691M",
+  "identifiers": {},
+  "ocaid": "rbanms.24651.harrypotterdeath0000jkro_e6z9",
+  "isbn_13": [
+    "9781408855713"
+  ],
+  "covers": [
+    15159603
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-05-10T23:17:51.941288"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-08T18:22:25.449788"
+  }
+}

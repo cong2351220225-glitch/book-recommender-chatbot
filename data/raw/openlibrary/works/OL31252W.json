@@ -1,0 +1,87 @@
+{
+  "subtitle": "The Sequel to the Fifth Child",
+  "dewey_number": [
+    "823.914"
+  ],
+  "title": "Ben, in the World",
+  "covers": [
+    5596390,
+    -1,
+    6963252,
+    3204041,
+    3080301,
+    12333600,
+    12787898
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+  },
+  "subject_places": [
+    "London (England)",
+    "Foreign countries"
+  ],
+  "first_publish_date": "2000",
+  "key": "/works/OL31252W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL27709A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9945523A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Drug traffic",
+    "Human Abnormalities",
+    "British",
+    "Homeless persons",
+    "Young men",
+    "Teenagers",
+    "Alienation (Social psychology)",
+    "Mothers and sons",
+    "Self-realization",
+    "Literature",
+    "Bildungsromans",
+    "Foreign countries",
+    "Fiction, psychological",
+    "Fiction, general",
+    "London (england), fiction"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"Ben Lovatt can never fit in. To those he meets, he seems awkward: too big, too strong, inhumanly made. He baffles and he terrifies: those who do not understand him want him locked up.\".\n\n\"His own mother locked him up; then, guilty, she liberated him. But her unyielding love for him corroded their family; this fifth child broke the home into bits. And now he has come of age and again finds himself bewildered and alone. He searches in the faces of those he meets to see the hostility there, or the fear, or more rarely the kindness. Occasionally a gentler, less fearful person understands his need, how hard he is trying to fit in.\n\nMostly people make use of him, and he finds himself in the south of France, in Brazil, and in the mountains of the Andes, where at last he discovers where he has come from and who is people are\"--BOOK JACKET."
+  },
+  "genres": [
+    "/tags/OL174T"
+  ],
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T11:28:29.899635"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T02:09:00.495162"
+  }
+}

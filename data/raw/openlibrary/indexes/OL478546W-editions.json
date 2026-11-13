@@ -1,0 +1,259 @@
+{
+  "links": {
+    "self": "/works/OL478546W/editions.json",
+    "work": "/works/OL478546W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "publishers": [
+        "Citadel"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "851148"
+        ]
+      },
+      "subtitle": "A Ranking of the Most Influential Cultural, Scientific, and Political Figures,Past and Present",
+      "weight": "1.5 pounds",
+      "covers": [
+        1524771
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7942013M",
+      "authors": [
+        {
+          "key": "/authors/OL29986A"
+        }
+      ],
+      "subjects": [
+        "Historical - General",
+        "Biography / Autobiography",
+        "Reference",
+        "Europe - Italy",
+        "Reference / General",
+        "General"
+      ],
+      "isbn_13": [
+        "9780806523996"
+      ],
+      "source_records": [
+        "amazon:0806523999:df:1178405660:195001",
+        "marc:marc_loc_updates/v36.i44.records.utf8:7207168:912",
+        "marc:marc_loc_2016/BooksAll.2016.part34.utf8:178543140:912"
+      ],
+      "title": "The Italian 100",
+      "number_of_pages": 384,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0806523999"
+      ],
+      "publish_date": "September 1, 2003",
+      "oclc_numbers": [
+        "53147652"
+      ],
+      "works": [
+        {
+          "key": "/works/OL478546W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.8 x 6.7 x 0.8 inches",
+      "lccn": [
+        "2007280027"
+      ],
+      "lc_classifications": [
+        "CT1124 .S65 2003"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-12-17T13:10:28.641979"
+      }
+    },
+    {
+      "other_titles": [
+        "Italian one hundred"
+      ],
+      "publishers": [
+        "Carol Pub. Group"
+      ],
+      "number_of_pages": 367,
+      "subtitle": "a ranking of the most influential cultural, scientific, and political figures, past and present",
+      "isbn_10": [
+        "0806518219"
+      ],
+      "subject_place": [
+        "Italy"
+      ],
+      "covers": [
+        7889803
+      ],
+      "physical_format": "Hardcover",
+      "lc_classifications": [
+        "CT1124 .S65 1998",
+        "CT1124.S65 1997",
+        "CT1124 .S65 1997"
+      ],
+      "key": "/books/OL1011215M",
+      "authors": [
+        {
+          "key": "/authors/OL29986A"
+        }
+      ],
+      "ocaid": "italian100rankin00spig",
+      "publish_places": [
+        "Secaucus, N.J"
+      ],
+      "contributions": [
+        "Vena, Michael."
+      ],
+      "pagination": "xv, 367 p. :",
+      "classifications": {},
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part25.utf8:113972162:951",
+        "bwb:9780806518213",
+        "marc:harvard_bibliographic_metadata/20220215_007.bib.mrc:172892941:1572"
+      ],
+      "title": "The Italian 100",
+      "lccn": [
+        "96051799"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 351-356) and index.\r\n\"A Citadel Press book.\""
+      },
+      "identifiers": {
+        "librarything": [
+          "4232129"
+        ],
+        "goodreads": [
+          "851145"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "920.045",
+        "B"
+      ],
+      "subjects": [
+        "Celebrities -- Italy -- Biography.",
+        "Italy -- Biography."
+      ],
+      "publish_date": "1998",
+      "publish_country": "nju",
+      "by_statement": "Stephen J. Spignesi ; ranking compiled in consultation with Michael Vena.",
+      "works": [
+        {
+          "key": "/works/OL478546W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "36029731"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-02T13:18:58.405628"
+      }
+    },
+    {
+      "publishers": [
+        "Citadel"
+      ],
+      "number_of_pages": 367,
+      "subtitle": "A Ranking of the Most Influential, Cultural, Scientific, and Political Figures,Past and Present",
+      "covers": [
+        1524564
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-06T11:58:04.474785"
+      },
+      "latest_revision": 8,
+      "key": "/books/OL7941723M",
+      "authors": [
+        {
+          "key": "/authors/OL29986A"
+        }
+      ],
+      "subjects": [
+        "Biography: general",
+        "Reference",
+        "General",
+        "Italy - History",
+        "Biography & Autobiography",
+        "Biography / Autobiography",
+        "History: World",
+        "Italy",
+        "Historical - General",
+        "Europe - Italy",
+        "Biography & Autobiography / General",
+        "Biography",
+        "Celebrities"
+      ],
+      "isbn_13": [
+        "9780806518213"
+      ],
+      "classifications": {},
+      "source_records": [
+        "ia:italian100rankin00spig"
+      ],
+      "title": "The Italian 100",
+      "identifiers": {
+        "goodreads": [
+          "851145"
+        ],
+        "librarything": [
+          "4232129"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0806518219"
+      ],
+      "publish_date": "June 20, 2000",
+      "works": [
+        {
+          "key": "/works/OL478546W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 8
+    }
+  ]
+}

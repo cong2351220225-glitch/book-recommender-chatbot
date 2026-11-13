@@ -1,0 +1,54 @@
+{
+  "publishers": [
+    "s.n.]"
+  ],
+  "pagination": "32 p.",
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:954344841:581"
+  ],
+  "title": "Typical key to the Apocalypse",
+  "by_statement": "by William Bell.",
+  "notes": {
+    "type": "/type/text",
+    "value": "VUAR copy also available on microfiche: Micro fiche B444. USE MICROFICHE ONLY."
+  },
+  "number_of_pages": 32,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-23T22:06:51.528028"
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-26T02:33:25.693444"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Bible. -- N.T. -- Revelation -- Prophecies"
+  ],
+  "latest_revision": 2,
+  "publish_country": "onc",
+  "key": "/books/OL16790557M",
+  "authors": [
+    {
+      "key": "/authors/OL2602844A"
+    }
+  ],
+  "publish_date": "1869",
+  "publish_places": [
+    "London, [Ont.?"
+  ],
+  "works": [
+    {
+      "key": "/works/OL254125W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "id": 24723942,
+  "revision": 2
+}

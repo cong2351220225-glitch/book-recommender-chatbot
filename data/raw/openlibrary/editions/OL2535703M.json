@@ -1,0 +1,86 @@
+{
+  "publishers": [
+    "Troll Associates"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "5210990"
+    ],
+    "librarything": [
+      "3161806"
+    ]
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "With clear instructions from his mother to take only one petcare job for the summer, Oliver secretly fills the garage with animals that he tries to take care of without her knowing."
+  },
+  "isbn_10": [
+    "0816705437",
+    "0816705445"
+  ],
+  "lc_classifications": [
+    "PZ7.M4783 Se 1986"
+  ],
+  "key": "/books/OL2535703M",
+  "authors": [
+    {
+      "key": "/authors/OL24966A"
+    }
+  ],
+  "publish_places": [
+    "Mahwah, N.J"
+  ],
+  "contributions": [
+    "Sims, Blanche, ill."
+  ],
+  "pagination": "93 p. :",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part16.utf8:88896962:864",
+    "ia:secretofoldgarag0000mcbr",
+    "promise:bwb_daily_pallets_2022-03-17"
+  ],
+  "title": "Secret of the old garage",
+  "dewey_decimal_class": [
+    "[Fic]"
+  ],
+  "number_of_pages": 93,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "85016505"
+  ],
+  "subjects": [
+    "Pets -- Fiction."
+  ],
+  "publish_date": "1986",
+  "publish_country": "nju",
+  "by_statement": "Page McBrier ; illustrated by Blanche Sims.",
+  "works": [
+    {
+      "key": "/works/OL32551W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    12661612
+  ],
+  "ocaid": "secretofoldgarag0000mcbr",
+  "local_id": [
+    "urn:bwbsku:W7-AKQ-210"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-07T09:51:59.492888"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-12T06:10:38.685210"
+  },
+  "title": "Lulu's library",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "covers": [
+    5918231
+  ],
+  "first_publish_date": "1886",
+  "latest_revision": 8,
+  "key": "/works/OL30034W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813.41"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fairy tales",
+    "Children's stories, American",
+    "Children's stories"
+  ],
+  "revision": 8
+}

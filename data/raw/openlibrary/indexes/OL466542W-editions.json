@@ -1,0 +1,87 @@
+{
+  "links": {
+    "self": "/works/OL466542W/editions.json",
+    "work": "/works/OL466542W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 289-292) and index."
+      },
+      "identifiers": {
+        "goodreads": [
+          "1008115"
+        ],
+        "librarything": [
+          "310098"
+        ]
+      },
+      "title": "Psychic healing with spirit guides and angels",
+      "authors": [
+        {
+          "key": "/authors/OL27248A"
+        }
+      ],
+      "publish_date": "1996",
+      "publishers": [
+        "Crossing Press"
+      ],
+      "isbn_10": [
+        "0895948079"
+      ],
+      "covers": [
+        695073
+      ],
+      "lc_classifications": [
+        "RZ400 .S83 1996"
+      ],
+      "publish_places": [
+        "Freedom, CA"
+      ],
+      "pagination": "298 p. :",
+      "dewey_decimal_class": [
+        "615.8/52"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "95053703"
+      ],
+      "subjects": [
+        "Mental healing.",
+        "Guides (Spiritualism)",
+        "Angels."
+      ],
+      "publish_country": "cau",
+      "by_statement": "by Diane Stein.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_records_scriblio_net/part25.dat:31849686:688"
+      ],
+      "key": "/books/OL815806M",
+      "number_of_pages": 298,
+      "works": [
+        {
+          "key": "/works/OL466542W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-01T16:01:51.253539"
+      }
+    }
+  ]
+}

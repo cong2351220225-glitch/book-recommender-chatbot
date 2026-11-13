@@ -1,0 +1,38 @@
+{
+  "first_publish_date": "1931",
+  "latest_revision": 3,
+  "key": "/works/OL1208940W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL122140A"
+      }
+    }
+  ],
+  "subjects": [
+    "Education",
+    "Education, Elementary",
+    "Elementary Education",
+    "School management and organization"
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:44:33.433935"
+  },
+  "title": "The elementary school",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-06T05:03:53.204412"
+  },
+  "dewey_number": [
+    "371.2",
+    "372"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 3
+}

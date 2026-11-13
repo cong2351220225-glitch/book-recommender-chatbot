@@ -1,0 +1,32 @@
+{
+  "name": "Bart D. Ehrman",
+  "personal_name": "Bart D. Ehrman",
+  "alternate_names": [
+    "Bart Ehrman"
+  ],
+  "remote_ids": {
+    "viaf": "22267857",
+    "wikidata": "Q127876",
+    "isni": "0000000114394571",
+    "musicbrainz": "189ea08d-d4af-47af-aadd-254f8694a7e5",
+    "goodreads": "643",
+    "imdb": "nm1983399",
+    "lc_naf": "n86112715",
+    "opac_sbn": "TO0V164660"
+  },
+  "birth_date": "1955",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL23421A",
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T20:22:08.135742"
+  }
+}

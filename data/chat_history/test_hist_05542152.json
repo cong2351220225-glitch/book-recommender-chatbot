@@ -1,0 +1,55 @@
+{
+  "id": "test_hist_05542152",
+  "title": "Tôi đang tìm hiểu về thư viện",
+  "timestamp": "2026-11-02 20:15:31",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi đang tìm hiểu về thư viện",
+      "timestamp": "20:15"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "20:15",
+      "sources": [
+        {
+          "document": "Title: Deep Learning\nAuthor: Ian Goodfellow; Yoshua Bengio; Aaron Courville\nGenre: AI\nPublication year: 2016\nTags: AI, deep learning, mạng nơ-ron\nTarget audience: Người học chuyên sâu\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toán học và kỹ thuật học sâu.\nDescription: Tài liệu chuyên sâu về mạng nơ-ron và học sâu, từ nền tảng toán học đến các phương pháp tối ưu và ứng dụng.",
+          "metadata": {
+            "difficulty": "Chuyên sâu",
+            "tags": "AI, deep learning, mạng nơ-ron",
+            "target_audience": "Người học chuyên sâu",
+            "rating": 4.5,
+            "author": "Ian Goodfellow; Yoshua Bengio; Aaron Courville",
+            "mood": "Muốn học hỏi",
+            "year": 2016,
+            "author_id": "goodfellow-bengio-courville",
+            "featured": false,
+            "book_id": "book_013",
+            "genre": "AI",
+            "title": "Deep Learning"
+          },
+          "distance": 0.3565016984939575
+        },
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "author_id": "yuval-noah-harari",
+            "author": "Yuval Noah Harari",
+            "year": 2011,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "book_id": "book_004",
+            "featured": true,
+            "rating": 4.7,
+            "mood": "Muốn học hỏi",
+            "difficulty": "Chuyên sâu",
+            "target_audience": "Độc giả ham khám phá",
+            "title": "Sapiens: Lược sử loài người",
+            "genre": "Lịch sử"
+          },
+          "distance": 0.36040401458740234
+        }
+      ]
+    }
+  ]
+}

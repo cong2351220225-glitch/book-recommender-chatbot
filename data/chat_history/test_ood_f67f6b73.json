@@ -1,0 +1,18 @@
+{
+  "id": "test_ood_f67f6b73",
+  "title": "Thời tiết ngày mai ở thủ đô Berlin của n",
+  "timestamp": "2026-11-02 19:50:35",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thủ đô Berlin của nước Đức ra sao?",
+      "timestamp": "19:50"
+    },
+    {
+      "role": "assistant",
+      "content": "Hiện tại mình không có kết nối với dữ liệu thời tiết theo thời gian thực, nên không thể cung cấp dự báo thời tiết chính xác cho ngày mai tại Berlin. \n\nĐể xem dự báo thời tiết chuẩn xác và mới nhất, bạn có thể kiểm tra nhanh qua các ứng dụng thời tiết trên điện thoại (như Google Weather, AccuWeather, Apple Weather) hoặc tìm kiếm cụm từ \"weather Berlin tomorrow\" trên trình duyệt nhé.\n\nNếu bạn cần tìm hiểu thông tin tổng quan về khí hậu các mùa tại Berlin hoặc bất kỳ chủ đề nào khác, mình rất sẵn lòng hỗ trợ!",
+      "timestamp": "19:50",
+      "sources": []
+    }
+  ]
+}

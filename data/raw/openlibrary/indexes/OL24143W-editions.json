@@ -1,0 +1,3892 @@
+{
+  "links": {
+    "self": "/works/OL24143W/editions.json",
+    "work": "/works/OL24143W",
+    "next": "/works/OL24143W/editions.json?offset=50"
+  },
+  "size": 53,
+  "entries": [
+    {
+      "publishers": [
+        "eBooksLib"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "IT is difficult for a European to imagine Calistoga, the whole place is so new, and of such an accidental pattern; the very name, I hear, was invented at a supper-party by the man who found the springs."
+      },
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11s.mrc:6865792:1765"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "overdrive": [
+          "176734BC-94AF-41D2-B303-FD441271AE76"
+        ]
+      },
+      "isbn_13": [
+        "9781554450732",
+        "9781412171403",
+        "9781554450749"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-23T23:52:50.932844"
+      },
+      "physical_format": "eBook",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2013-08-04T14:17:57.253704"
+      },
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "key": "/books/OL24299791M",
+      "latest_revision": 4,
+      "publish_places": [
+        "Ottawa"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Mercury House"
+      ],
+      "identifiers": {
+        "librarything": [
+          "28151"
+        ],
+        "goodreads": [
+          "2900482"
+        ]
+      },
+      "isbn_10": [
+        "1562790978"
+      ],
+      "subject_place": [
+        "California",
+        "Calistoga (Calif.)",
+        "Napa Valley (Calif.)"
+      ],
+      "covers": [
+        795762
+      ],
+      "lc_classifications": [
+        "F866 .S846 1996"
+      ],
+      "key": "/books/OL992072M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "San Francisco, Calif"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "134 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part25.dat:190678272:1021",
+        "marc:marc_loc_2016/BooksAll.2016.part25.utf8:96652105:1021",
+        "ia:silveradosquatte0000stev",
+        "promise:bwb_daily_pallets_2021-02-15"
+      ],
+      "title": "The  Silverado squatters",
+      "dewey_decimal_class": [
+        "979.4/1904"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"With original illustrations based on historical photographs.\"\n\"Originally published by Chatto & Windus, London, 1883\"--T.p. verso."
+      },
+      "number_of_pages": 134,
+      "edition_name": "1st Mercury House ed.",
+      "lccn": [
+        "96030516"
+      ],
+      "subjects": [
+        "Stevenson, Robert Louis, 1850-1894 -- Travel -- California",
+        "California -- Description and travel",
+        "Calistoga (Calif.) -- Description and travel",
+        "Napa Valley (Calif.) -- Description and travel"
+      ],
+      "publish_date": "1996",
+      "publish_country": "cau",
+      "by_statement": "by Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "35103108"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "silveradosquatte0000stev",
+      "local_id": [
+        "urn:bwbsku:KM-933-563"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T15:45:07.829719"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "In the Valley : PAGE I Calistoga",
+          "pagenum": "23",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "The Petrified Forest",
+          "pagenum": "35",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "III",
+          "title": "Napa Wine",
+          "pagenum": "46",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "IV",
+          "title": "The Scot Abroad",
+          "pagenum": "61",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "With the Children of Israel: I To Introduce Mr Kelmar",
+          "pagenum": "73",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "First Impressions of Silverado",
+          "pagenum": "83",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "III",
+          "title": "The Return",
+          "pagenum": "109",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Act of Squatting",
+          "pagenum": "123",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Hunter's Family",
+          "pagenum": "149",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Sea Fogs",
+          "pagenum": "177",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Toll House",
+          "pagenum": "195",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A Starry Drive",
+          "pagenum": "211",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Episodes in the Story of a Mine",
+          "pagenum": "225",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Toils and Pleasures",
+          "pagenum": "255",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5982081
+      ],
+      "key": "/books/OL17974658M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "thesilveradosqua00stev",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "287 p. incl. front.",
+      "source_records": [
+        "ia:thesilveradosqua00stev"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 287,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1895",
+      "publish_country": "mau",
+      "by_statement": "by Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "14339043"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-08T20:37:06.208749"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T15:45:41.702812"
+      }
+    },
+    {
+      "publishers": [
+        "Levenger Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3130221"
+        ],
+        "librarything": [
+          "28151"
+        ]
+      },
+      "subtitle": "six selected chapters",
+      "isbn_10": [
+        "1929154097"
+      ],
+      "subject_place": [
+        "California",
+        "Calistoga (Calif.)",
+        "Napa Valley (Calif.)"
+      ],
+      "lc_classifications": [
+        "F866 .S8412 2001"
+      ],
+      "key": "/books/OL3937926M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "Delray Beach, Fla"
+      ],
+      "pagination": "xii, 73 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part13.dat:128197553:955",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:188226164:955",
+        "amazon:1929154097",
+        "promise:bwb_daily_pallets_2023-12-13:P9-ANM-260"
+      ],
+      "title": "The  Silverado squatters",
+      "dewey_decimal_class": [
+        "979.4/19"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Originally published: London : Chatto & Windus, 1883."
+      },
+      "number_of_pages": 73,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2001002183"
+      ],
+      "subjects": [
+        "Stevenson, Robert Louis, 1850-1894 -- Travel -- California",
+        "California -- Description and travel",
+        "Calistoga (Calif.) -- Description and travel",
+        "Napa Valley (Calif.) -- Description and travel"
+      ],
+      "publish_date": "2001",
+      "publish_country": "flu",
+      "by_statement": "Robert Louis Stevenson ; illustrations by Earl Thollander ; calligraphy by Mandy Young.",
+      "oclc_numbers": [
+        "46732334"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P9-ANM-260"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T01:10:51.242346"
+      }
+    },
+    {
+      "publishers": [
+        "Lewis Osborne"
+      ],
+      "key": "/books/OL17859379M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "Ashland [Ore.]"
+      ],
+      "pagination": "xiii, 115 p.",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/osu_bibs.mrc:96502074:754"
+      ],
+      "title": "The  Silverado squatters.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Edition limited to 500 copies, of which this is no. 70."
+      },
+      "number_of_pages": 115,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1972",
+      "publish_country": "oru",
+      "by_statement": "With an introd. by Oscar Lewis.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-06T15:20:54.791814"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T15:47:37.642291"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "series": [
+        "Library of American civilization -- LAC 15293."
+      ],
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-13T20:27:11.803798"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL13555203M",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "287 p.",
+      "source_records": [
+        "marc:marc_western_washington_univ/wwu_bibs.mrc_revrev.mrc:460967985:1040"
+      ],
+      "title": "The  Silverado squatters",
+      "lccn": [
+        "87735285"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Master microform held by: LrI.\n\nMicrofiche. Chicago, Ill. : Library Resources, 1970. 1 microfiche ; 8 x 13 cm. (Library of American civilization ; LAC 15293).\n\ns 1970 ilu n"
+      },
+      "number_of_pages": 287,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-27T19:27:17.338107"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1884",
+      "publish_country": "mau",
+      "by_statement": "Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "15546163"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "6495658"
+        ]
+      },
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "May 30, 2006",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "10.9 ounces",
+      "covers": [
+        1816941
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Travel writing",
+        "Essays & Travelogues",
+        "Travel",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781421981147"
+      ],
+      "isbn_10": [
+        "1421981149"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "source_records": [
+        "amazon:1421981149"
+      ],
+      "key": "/books/OL9528789M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-13T01:50:17.039112"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto and Windus"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "title": "IN THE VALLEY",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "I",
+          "title": "Calistoga",
+          "pagenum": "13",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "II",
+          "title": "The Petrified Forest",
+          "pagenum": "24",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "III",
+          "title": "Napa Wine",
+          "pagenum": "34",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "IV",
+          "title": "The Scot Abroad",
+          "pagenum": "48",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "WITH THE CHILDREN OF ISRAEL",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "I",
+          "title": "To Introduce Mr. Kelmar",
+          "pagenum": "59",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "II",
+          "title": "First Impressions of Silverado",
+          "pagenum": "68",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 2,
+          "label": "III",
+          "title": "The Return",
+          "pagenum": "92",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "THE ACT OF SQUATTING",
+          "pagenum": "103",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "THE HUNTER'S FAMILY",
+          "pagenum": "127",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "THE SEA FOGS",
+          "pagenum": "153",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "THE TOLL HOUSE",
+          "pagenum": "171",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "A STARRY DRIVE",
+          "pagenum": "185",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "EPISODES IN THE STORY OF A MINE",
+          "pagenum": "197",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "title": "TOILS AND PLEASURES",
+          "pagenum": "223",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        8942950,
+        8243220,
+        5690485
+      ],
+      "key": "/books/OL7219620M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "254, 32 p.",
+      "classifications": {},
+      "source_records": [
+        "ia:silveradosquatte00stevrich",
+        "ia:silveradosquatt03stevgoog",
+        "bwb:9781646794621",
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:72241187:938",
+        "marc:harvard_bibliographic_metadata/20220215_037.bib.mrc:209331395:2198"
+      ],
+      "title": "The  Silverado Squatters",
+      "identifiers": {},
+      "subjects": [
+        "California -- Description and travel",
+        "Napa County (Calif.) -- Description and travel",
+        "Calistoga (Calif.) -- Description and travel"
+      ],
+      "publish_date": "1883",
+      "publish_country": "enk",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "silveradosquatte00stevrich",
+      "lccn": [
+        "50043158"
+      ],
+      "lc_classifications": [
+        "F866 .S84",
+        "F866 S84"
+      ],
+      "oclc_numbers": [
+        "6590596"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 254,
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-06T12:43:56.436947"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "November 15, 2000",
+      "publishers": [
+        "Quiet Vision Pub"
+      ],
+      "weight": "6.4 ounces",
+      "covers": [
+        4983138
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "History",
+        "History: World",
+        "Large Print",
+        "Travel",
+        "General",
+        "History: American"
+      ],
+      "edition_name": "Lrg edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781576465561"
+      ],
+      "isbn_10": [
+        "157646556X"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.8 x 0.5 inches",
+      "source_records": [
+        "amazon:157646556X"
+      ],
+      "key": "/books/OL9510828M",
+      "number_of_pages": 128,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-10T04:42:22.938686"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "January 2005",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "6.2 ounces",
+      "covers": [
+        2782571
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Travel writing",
+        "Essays & Travelogues",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781414244488"
+      ],
+      "isbn_10": [
+        "1414244487"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.3 inches",
+      "source_records": [
+        "amazon:1414244487"
+      ],
+      "key": "/books/OL11730070M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-24T09:54:44.821406"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "publish_date": "November 15, 2000",
+      "publishers": [
+        "Quiet Vision Pub"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781576465578"
+      ],
+      "edition_name": "Largeprint edition",
+      "physical_format": "Library binding",
+      "isbn_10": [
+        "1576465578"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "United States - West - Pacific (General)",
+        "Travel"
+      ],
+      "source_records": [
+        "amazon:1576465578"
+      ],
+      "key": "/books/OL12238763M",
+      "number_of_pages": 128,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T20:53:21.487260"
+      }
+    },
+    {
+      "publishers": [
+        "C. Scribner's Sons"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "In the Valley : I Calistoga ... II The Petrified Forest  III Napa Wine IV The Scot Abroad With the Children of Israel : I To Introduce Mr, Kelmar II First Impressions of Silverado III The Return The Act of Squatting The Hunter's Family The Sea Fogs The Toll House A Starry Drive Episodes in the Story of a Mine Toils and Pleasures  PAGE",
+          "pagenum": "ii",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "20",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "28",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "39",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "49",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "56",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "75",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "85",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "105",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "125",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "139",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "151",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "161",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "183",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6056531
+      ],
+      "lc_classifications": [
+        "F866 .S84"
+      ],
+      "key": "/books/OL23332494M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "silveradosquatters00stev",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "4 p.",
+      "source_records": [
+        "ia:silveradosquatters00stev"
+      ],
+      "title": "The  Silverado squatters",
+      "dewey_decimal_class": [
+        "917.94"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "04016757"
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1904",
+      "publish_country": "nyu",
+      "by_statement": "by Robert Louis Stevenson.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "479840"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T13:36:30.917175"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T09:01:43.571367"
+      }
+    },
+    {
+      "publishers": [
+        "Wildside Press"
+      ],
+      "number_of_pages": 123,
+      "weight": "10.4 ounces",
+      "covers": [
+        594985
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL7978597M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Literature: Classics",
+        "Fiction",
+        "Literature - Classics / Criticism",
+        "Classics"
+      ],
+      "isbn_13": [
+        "9780809566310"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "librarything": [
+          "28151"
+        ],
+        "goodreads": [
+          "1697374"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0809566311"
+      ],
+      "publish_date": "August 30, 2004",
+      "oclc_numbers": [
+        "71199062"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 6.2 x 0.7 inches",
+      "source_records": [
+        "bwb:9780809566310"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T15:58:59.826518"
+      }
+    },
+    {
+      "title": "Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "March 2001",
+      "publishers": [
+        "Blue Unicorn Editions"
+      ],
+      "physical_format": "Paperback",
+      "isbn_13": [
+        "9781583965405"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1583965408"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Classics"
+      ],
+      "source_records": [
+        "amazon:1583965408"
+      ],
+      "key": "/books/OL12311838M",
+      "number_of_pages": 132,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-09T06:22:35.682880"
+      }
+    },
+    {
+      "title": "the  Silverado Squatters.",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "1911",
+      "publishers": [
+        "Chatto"
+      ],
+      "dewey_decimal_class": [
+        "823.8"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xxk",
+      "publish_places": [
+        "(s.l.)"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:35841826:382"
+      ],
+      "key": "/books/OL13682236M",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-30T21:39:14.958589"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T16:26:18.256016"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto & Windus"
+      ],
+      "pagination": "176p.,plate",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1544888811:435"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 176,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1920",
+      "publish_country": "xxk",
+      "key": "/books/OL22385940M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "by_statement": "by Robert Louis Stevenson.",
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-12T09:42:46.574873"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:02:17.049840"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "November 2003",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "10.9 ounces",
+      "covers": [
+        2780560
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "19th century fiction",
+        "Essays & Travelogues",
+        "United States - State & Local - West",
+        "History - General History",
+        "History - U.S.",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781414208688"
+      ],
+      "isbn_10": [
+        "1414208685"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "source_records": [
+        "amazon:1414208685"
+      ],
+      "key": "/books/OL11727937M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-30T02:02:22.231553"
+      }
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "weight": "9.1 ounces",
+      "covers": [
+        1825051
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8500883M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "Philosophy",
+        "Fiction - Historical",
+        "General",
+        "Philosophy / General",
+        "Travel / General"
+      ],
+      "edition_name": "Large Print Ed edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "The Silverado Squatters (Large Print)",
+      "number_of_pages": 188,
+      "isbn_13": [
+        "9781425000004"
+      ],
+      "isbn_10": [
+        "1425000002"
+      ],
+      "publish_date": "October 1, 2006",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 6 x 0.6 inches",
+      "source_records": [
+        "bwb:9781425000004",
+        "promise:bwb_daily_pallets_2025-11-06:KW-413-581"
+      ],
+      "local_id": [
+        "urn:bwbsku:KW-413-581"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-11T01:03:46.287843"
+      }
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "weight": "5.6 ounces",
+      "covers": [
+        1825116
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8500940M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "TRAVEL & HOLIDAY",
+        "General",
+        "Travel / General",
+        "Travel",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "The Silverado Squatters [EasyRead Edition]",
+      "number_of_pages": 116,
+      "isbn_13": [
+        "9781425001261"
+      ],
+      "isbn_10": [
+        "1425001262"
+      ],
+      "publish_date": "October 1, 2006",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 5.9 x 0.4 inches",
+      "source_records": [
+        "bwb:9781425001261"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:03:45.904232"
+      }
+    },
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2233869"
+        ]
+      },
+      "weight": "9 ounces",
+      "covers": [
+        2892426
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL11977440M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "History / General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "The Silverado Squatters (Large Print Edition)",
+      "number_of_pages": 100,
+      "isbn_13": [
+        "9781434638595"
+      ],
+      "isbn_10": [
+        "1434638596"
+      ],
+      "publish_date": "July 13, 2007",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.7 x 7.4 x 0.2 inches",
+      "source_records": [
+        "amazon:1434638596"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:04:13.415248"
+      }
+    },
+    {
+      "publishers": [
+        "Quiet Vision Pub"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "weight": "10.4 ounces",
+      "title": "The Silverado Squatters",
+      "isbn_13": [
+        "9781576465554"
+      ],
+      "covers": [
+        4846375
+      ],
+      "physical_format": "Library binding",
+      "isbn_10": [
+        "1576465551"
+      ],
+      "publish_date": "November 15, 2000",
+      "key": "/books/OL8747518M",
+      "oclc_numbers": [
+        "49630882"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "United States - West - Pacific (General)",
+        "Travel"
+      ],
+      "physical_dimensions": "8.4 x 5.3 x 0.6 inches",
+      "source_records": [
+        "amazon:1576465551"
+      ],
+      "number_of_pages": 100,
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-05T01:32:51.141477"
+      }
+    },
+    {
+      "subject_place": [
+        "California"
+      ],
+      "lc_classifications": [
+        "F866 .S845"
+      ],
+      "key": "/books/OL6658621M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "xii, 99 p., 1 l.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:104139758:1000",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:194434563:1000",
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:140257534:2231"
+      ],
+      "title": "The  Silverado squatters",
+      "lccn": [
+        "23017160"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Portrait on t.p.\n\"John Henry Nash, of San Francisco, certifies that this copy is one of an edition of three hundred and eighty printed by him, from hand-set types which have been distributed, and the presswork completed in the month of September, nineteen hundred and twenty-three.  The title-page portrait and illustrative head-bands are the work of Howard Whitford Willard.  This copy is no. 167.\""
+      },
+      "number_of_pages": 99,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1923",
+      "publish_country": "nyu",
+      "by_statement": "by Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "6003934"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:05:00.098613"
+      }
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "number_of_pages": 192,
+      "weight": "12.2 ounces",
+      "covers": [
+        1825652
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8501277M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "TRAVEL & HOLIDAY",
+        "Travel",
+        "Travel - General",
+        "General",
+        "Travel / General"
+      ],
+      "edition_name": "Lrg edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "The Silverado Squatters [EasyRead Large Edition]",
+      "identifiers": {
+        "goodreads": [
+          "6495626"
+        ]
+      },
+      "isbn_13": [
+        "9781425012441"
+      ],
+      "isbn_10": [
+        "1425012442"
+      ],
+      "publish_date": "October 1, 2006",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.5 inches",
+      "local_id": [
+        "urn:bwbsku:110-BAB-185"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-04-02",
+        "bwb:9781425012441"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:05:29.718818"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "January 2005",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "10.9 ounces",
+      "covers": [
+        2782570
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Travel writing",
+        "Essays & Travelogues",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781414244471"
+      ],
+      "isbn_10": [
+        "1414244479"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "source_records": [
+        "amazon:1414244479"
+      ],
+      "key": "/books/OL11730069M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T00:10:38.596583"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto & Windus"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "54-^ LllsKAttI UMVERSTTY CAT.IFORNIA SANTA BAUBARA CONTENTS IN THE VALLEY : I CALISTOGA ... II THE PETRIFIED FOREST  in NAPA WINE ... IV THE SCOT ABROAD  WITH THE CHILDREN OF ISRAEL : I TO INTRODUCE MR KELMAR  II FIRST IMPRESSIONS OF SILVER.'^DO III THE RETURN  THE ACT OF SQUATTING THE hunter's FAMILY THE sea FOGS THE TOLL HOUSE A STARRY DRIVE  EPISODES IN THE STORY OF A MINE TOILS AND PLEASURES",
+          "pagenum": "ii",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "i8",
+          "pagenum": "25",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "34",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "43",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "49",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "65",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "71",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "107",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "119",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "129",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5980384
+      ],
+      "key": "/books/OL17963907M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "silveradosquaste00stev",
+      "publish_places": [
+        "London"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "176 p.",
+      "source_records": [
+        "ia:silveradosquaste00stev"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 176,
+      "edition_name": "Fine-paper ed.",
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1910",
+      "publish_country": "enk",
+      "by_statement": "by Robert Louis Stevenson, with a front. by Joseph D. Strong.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-08T18:52:13.218923"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:05:18.192846"
+      }
+    },
+    {
+      "publishers": [
+        "C. Scribner's sons"
+      ],
+      "pagination": "4 p. l., 208 p.",
+      "source_records": [
+        "marc:marc_western_washington_univ/wwu_bibs.mrc_revrev.mrc:221554476:650"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 208,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1904",
+      "publish_country": "nyu",
+      "key": "/books/OL13543524M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "by_statement": "by Robert Louis Stevenson.",
+      "publish_places": [
+        "New York"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-27T18:28:43.912974"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:06:03.877100"
+      }
+    },
+    {
+      "publishers": [
+        "Grabhorn Press"
+      ],
+      "pagination": "181 p.",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0037.out:3891531:733",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:144712142:2667"
+      ],
+      "title": "The  Silverado squatters",
+      "notes": {
+        "type": "/type/text",
+        "value": "\"Reprinted from the first edition published by Chatto & Windus, London, 1883.\""
+      },
+      "number_of_pages": 181,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223003786184",
+        "urn:sfpl:31223901555251",
+        "urn:sfpl:31223118645242",
+        "urn:sfpl:31223901555236",
+        "urn:sfpl:31223902308593"
+      ],
+      "publish_date": "1952",
+      "key": "/books/OL16633591M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "San Francisco"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T08:49:48.360146"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:06:38.134462"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "October 2002",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "7 ounces",
+      "covers": [
+        1748209
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "United States - State & Local - General",
+        "History",
+        "History - General History",
+        "History: American",
+        "American history",
+        "Local history",
+        "USA"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781404329706"
+      ],
+      "isbn_10": [
+        "1404329706"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.3 inches",
+      "source_records": [
+        "amazon:1404329706"
+      ],
+      "key": "/books/OL9768617M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-14T05:36:35.391077"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "April 30, 2006",
+      "publishers": [
+        "Buccaneer Books Inc"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780899665870"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "089966587X"
+      ],
+      "oclc_numbers": [
+        "149063276"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Essays & Travelogues",
+        "United States - Pacific - California",
+        "United States - State & Local - General",
+        "Action & Adventure",
+        "Fiction",
+        "Travel - General",
+        "Reference"
+      ],
+      "source_records": [
+        "amazon:089966587X"
+      ],
+      "key": "/books/OL11340565M",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T08:09:30.430558"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "August 9, 2007",
+      "publishers": [
+        "IndyPublish"
+      ],
+      "weight": "6.2 ounces",
+      "covers": [
+        2898634
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Travel writing",
+        "Essays & Travelogues",
+        "Travel / Essays & Travelogues",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781435327603"
+      ],
+      "isbn_10": [
+        "1435327608"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.3 inches",
+      "source_records": [
+        "amazon:1435327608"
+      ],
+      "key": "/books/OL11983729M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-15T16:53:57.709055"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto & Windus"
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:91778718:382"
+      ],
+      "title": "The  Silverado squatters.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1901",
+      "publish_country": "xxk",
+      "key": "/books/OL13748823M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-31T16:11:35.292354"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:11:58.556308"
+      }
+    },
+    {
+      "publishers": [
+        "Applewood Books"
+      ],
+      "number_of_pages": 124,
+      "weight": "6.7 ounces",
+      "covers": [
+        1854967
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8543707M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "Essays & Travelogues",
+        "United States - General",
+        "History/United States - General",
+        "Travel / Essays & Travelogues",
+        "Travel / United States",
+        "Travel/United States - General",
+        "Travel",
+        "Travel - United States"
+      ],
+      "isbn_13": [
+        "9781429005111"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "librarything": [
+          "28151"
+        ],
+        "goodreads": [
+          "6495638"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1429005114"
+      ],
+      "publish_date": "January 1, 2007",
+      "oclc_numbers": [
+        "212658107"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 6.1 x 0.3 inches",
+      "source_records": [
+        "bwb:9781429005111"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:13:56.606453"
+      }
+    },
+    {
+      "publishers": [
+        "Applewood Books"
+      ],
+      "number_of_pages": 124,
+      "weight": "11.5 ounces",
+      "covers": [
+        1854966
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL8543706M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "Essays & Travelogues",
+        "United States - General",
+        "History/United States - General",
+        "Travel / Essays & Travelogues",
+        "Travel / United States",
+        "Travel/United States - General",
+        "Travel",
+        "Travel - United States"
+      ],
+      "isbn_13": [
+        "9781429005104"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "goodreads": [
+          "6495644"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1429005106"
+      ],
+      "publish_date": "January 1, 2007",
+      "oclc_numbers": [
+        "212658107"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 6.4 x 0.6 inches",
+      "source_records": [
+        "bwb:9781429005104",
+        "promise:bwb_daily_pallets_2020-06-04"
+      ],
+      "local_id": [
+        "urn:bwbsku:O6-EPW-259"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:13:56.246366"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto and Windus"
+      ],
+      "series": [
+        "Library of English literature -- LEL 12900."
+      ],
+      "physical_format": "Microform",
+      "key": "/books/OL13563798M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "254 p.",
+      "source_records": [
+        "marc:marc_western_washington_univ/wwu_bibs.mrc_revrev.mrc:476890115:1234"
+      ],
+      "title": "The  Silverado squatters",
+      "notes": {
+        "type": "/type/text",
+        "value": "First edition. Copyright edition, in pamphlet form printed 1883 from the first installment as it appeared in the Century illustrated magazine, Nov.-Dec. 1883. cf. W.F. Prideaux. A bibliography of the works of Robert Louis Stevenson. Revised edition, 1917.\n\nMicrofiche. Chicago, Ill. : Library Resources, inc., 1978. 1 microfiche : positive ; 8 x 13 cm. (Library of English Literature ; LEL 12900)\n\ns 1978 ilu n"
+      },
+      "number_of_pages": 254,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1883",
+      "publish_country": "enk",
+      "by_statement": "by Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "8905497"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-27T20:01:46.739896"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:13:46.597518"
+      }
+    },
+    {
+      "publishers": [
+        "Scribner"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "In the Valley : I Calistoga ... II The Petrified Forest  III Napa Wine IV The Scot Abroad With the Children of Israel : I To Introduce Mr Kelmar II First Impressions of Silverado III The Return The Act of Squatting The Hunter's Family The Sea Fogs The Toll House A Starry Drive ■ Episodes in the Story of a Mine Toils and Pleasures  PAGE",
+          "pagenum": "ii",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "20",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "28",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "39",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "49",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "56",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "75",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "85",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "105",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "125",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "139",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "151",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "161",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "183",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6056547
+      ],
+      "key": "/books/OL23332491M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "silveradosquatte00stev",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "208 p. ;",
+      "source_records": [
+        "ia:silveradosquatte00stev",
+        "marc:harvard_bibliographic_metadata/20220215_013.bib.mrc:232144787:1951"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 208,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1899",
+      "publish_country": "nyu",
+      "by_statement": "by Robert Louis Stevenson.",
+      "oclc_numbers": [
+        "13136214"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "F866 .S844 1899"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T13:36:23.526523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-13T17:26:16.768703"
+      }
+    },
+    {
+      "publishers": [
+        "Quiet Vision"
+      ],
+      "physical_format": "CD-ROM",
+      "title": "The Silverado Squatters",
+      "number_of_pages": 139,
+      "covers": [
+        1930690
+      ],
+      "isbn_13": [
+        "9781576461662"
+      ],
+      "isbn_10": [
+        "1576461661"
+      ],
+      "publish_date": "October 21, 1999",
+      "key": "/books/OL9490000M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Electronic Paperback",
+        "Travel"
+      ],
+      "source_records": [
+        "amazon:1576461661"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:19:01.962869"
+      }
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1238077"
+        ]
+      },
+      "weight": "6.4 ounces",
+      "covers": [
+        1825366
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8501114M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "TRAVEL & HOLIDAY",
+        "General",
+        "Travel / General",
+        "Travel",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "The Silverado Squatters [EasyRead Comfort Edition]",
+      "number_of_pages": 140,
+      "isbn_13": [
+        "9781425006143"
+      ],
+      "isbn_10": [
+        "1425006140"
+      ],
+      "publish_date": "October 1, 2006",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 5.9 x 0.4 inches",
+      "source_records": [
+        "bwb:9781425006143"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:19:41.921256"
+      }
+    },
+    {
+      "publishers": [
+        "The Floating Press"
+      ],
+      "physical_format": "E-book",
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11b.mrc:2875835:2114"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "overdrive": [
+          "0FE0A90A-68A9-4C00-B9A1-11A73FBF9048"
+        ]
+      },
+      "isbn_13": [
+        "9781775415220"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-22T18:14:57.978189"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-09-14T21:53:55.903814"
+      },
+      "publish_date": "2009",
+      "publish_country": "nyu",
+      "key": "/books/OL24282314M",
+      "latest_revision": 3,
+      "publish_places": [
+        "Waiheke Island"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Scribner"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "/^^ L.IBR - - MAR",
+          "pagenum": "1",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "2",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "lOGo CONTENTS In the Valley : I Calistoga  II The Petrified Forest  III Napa Wine IV The Scot Abroad With the Children of Israel : PAGE II",
+          "pagenum": "20",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "28",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "",
+          "pagenum": "39",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "I",
+          "title": "To Introduce Mr Kelmar",
+          "pagenum": "49",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "First Impressions of Silverado",
+          "pagenum": "56",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "III",
+          "title": "The Return",
+          "pagenum": "75",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Act of Squatting",
+          "pagenum": "85",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Hunter's Family",
+          "pagenum": "105",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Sea Fogs",
+          "pagenum": "125",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Toll House",
+          "pagenum": "139",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A Starry Drive •",
+          "pagenum": "151",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Episodes in the Story of a Mine",
+          "pagenum": "161",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6056533
+      ],
+      "lc_classifications": [
+        "F866 S84"
+      ],
+      "key": "/books/OL23332492M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "silveradosquatte00stevuoft",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "208 p.",
+      "source_records": [
+        "ia:silveradosquatte00stevuoft"
+      ],
+      "title": "The  Silverado squatters",
+      "lccn": [
+        "40016757"
+      ],
+      "number_of_pages": 208,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1904",
+      "publish_country": "nyu",
+      "by_statement": "by Robert Louis Stevenson.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T13:36:24.592920"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:19:17.600434"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 1,
+          "label": "",
+          "title": "In the Valley : PAGE I Calistoga",
+          "pagenum": "23",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "The Petrified Forest",
+          "pagenum": "35",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "III",
+          "title": "Napa Wine",
+          "pagenum": "46",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "IV",
+          "title": "The Scot Abroad",
+          "pagenum": "61",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "With the Children of Israel: I To Introduce Mr Kelmar",
+          "pagenum": "73",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "II",
+          "title": "First Impressions of Silverado   S3 III The Return",
+          "pagenum": "109",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Act of Squatting '",
+          "pagenum": "123",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Hunter's FaxMILy",
+          "pagenum": "149",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Sea Fogs",
+          "pagenum": "177",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Toll House",
+          "pagenum": "195",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A Starry Drive",
+          "pagenum": "211",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Episodes in the Story of a Mine",
+          "pagenum": "225",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Toils and Pleasures",
+          "pagenum": "255",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6056530
+      ],
+      "key": "/books/OL23332493M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "ocaid": "silveradosquatter00stev",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "287 p. :",
+      "source_records": [
+        "ia:silveradosquatter00stev",
+        "marc:harvard_bibliographic_metadata/20220215_013.bib.mrc:335323738:1380",
+        "marc:UniversityOfMichiganMarcCatalogRecords/umich_bib.mrc:15918463:682"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 287,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1884",
+      "publish_country": "mau",
+      "by_statement": "Robert Louis Stevenson ...",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "6081839"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T13:36:29.659205"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-21T19:41:29.274211"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2233868"
+        ]
+      },
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "July 13, 2007",
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "weight": "5.3 ounces",
+      "covers": [
+        2892425
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "History / General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781434638588"
+      ],
+      "isbn_10": [
+        "1434638588"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5 x 0.2 inches",
+      "source_records": [
+        "amazon:1434638588"
+      ],
+      "key": "/books/OL11977439M",
+      "number_of_pages": 92,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-11T09:47:25.506297"
+      }
+    },
+    {
+      "publishers": [
+        "Scribner's Sons"
+      ],
+      "number_of_pages": 428,
+      "lc_classifications": [
+        "PR5480 .F00 vol. 15"
+      ],
+      "key": "/books/OL3658801M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "uri_descriptions": [
+        null
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "p. [311]-428 ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part14.dat:122182246:1059"
+      ],
+      "title": "The  Silverado squatters.",
+      "lccn": [
+        "2002522599"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Electronic reproduction. Washington, D.C. : Library of Congress, [2002-2003]\nMaster and use digital copies are also available from the Library of Congress Web site; technical details on the digital scanning are available at http://hdl.loc.gov/loc.gdc/collbuild.lhbtn"
+      },
+      "identifiers": {
+        "librarything": [
+          "28151"
+        ]
+      },
+      "edition_name": "Thistle ed.",
+      "url": [
+        "http://hdl.loc.gov/loc.gdc/lhbtn.st015_0327"
+      ],
+      "publish_date": "1895",
+      "publish_country": "nyu",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://hdl.loc.gov/loc.gdc/lhbtn.st015_0327"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:21:53.835596"
+      }
+    },
+    {
+      "publishers": [
+        "Scribner"
+      ],
+      "scan_on_demand": true,
+      "lc_classifications": [
+        "F866 .S844 1899x"
+      ],
+      "key": "/books/OL13448568M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "scan_records": [
+        {
+          "key": "/scan_record/b/OL13448568M"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "208 p. ;",
+      "source_records": [
+        "marc:bpl_marc/bpl118.mrc:21387065:696"
+      ],
+      "title": "The  Silverado squatters",
+      "subjects": [
+        "California -- Description and travel"
+      ],
+      "publish_date": "1899",
+      "publish_country": "nyu",
+      "by_statement": "by Robert Louis Stevenson.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "BPL1ST"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-06-04T14:59:33.752154"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:22:36.519259"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "1902",
+      "publishers": [
+        "C. Scribner's sons"
+      ],
+      "covers": [
+        9618200
+      ],
+      "ocaid": "silveradosquatt01stevgoog",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "ia:silveradosquatt01stevgoog"
+      ],
+      "key": "/books/OL20590961M",
+      "number_of_pages": 225,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T14:26:38.165055"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-08T19:59:17.556056"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "November 2003",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "6.2 ounces",
+      "covers": [
+        2780561
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "19th century fiction",
+        "Essays & Travelogues",
+        "United States - State & Local - West",
+        "History - General History",
+        "History - U.S.",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781414208695"
+      ],
+      "isbn_10": [
+        "1414208693"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.3 inches",
+      "source_records": [
+        "amazon:1414208693"
+      ],
+      "key": "/books/OL11727938M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T18:43:43.228869"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1907495"
+        ],
+        "librarything": [
+          "28151"
+        ]
+      },
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "May 30, 2006",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "6.2 ounces",
+      "covers": [
+        765912
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Travel writing",
+        "Essays & Travelogues",
+        "Travel",
+        "Travel - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781421981178"
+      ],
+      "isbn_10": [
+        "1421981173"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.3 inches",
+      "source_records": [
+        "amazon:1421981173"
+      ],
+      "key": "/books/OL8492924M",
+      "number_of_pages": 112,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-21T06:01:39.396032"
+      }
+    },
+    {
+      "publishers": [
+        "Chatto & Windus"
+      ],
+      "lc_classifications": [
+        "PR5480"
+      ],
+      "key": "/books/OL22067615M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "edition_name": "New ed.",
+      "pagination": "254 p., [1] leaf of plates (front.) :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1020485632:526"
+      ],
+      "title": "The  Silverado squatters",
+      "number_of_pages": 254,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1895",
+      "publish_country": "enk",
+      "by_statement": "by Robert Louis Stevenson.",
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-06T12:41:05.417801"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:26:09.160954"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "Robert Louis Stevenson (1850-1894) traveled to California in 1879 in pursuit of Fanny Van de Grift Osbourne, the Oakland woman with whom he had fallen in love in France. The two were married in the spring of 1880 and honeymooned in a cabin at Silverado, a mining ghost town on Mt. St. Helena. In the next fourteen years, Mrs. Stevenson nursed her husband while he produced the verses, stories, and books of travel and adventure that made him famous. Silverado (1888) tells the story of the newlywed Stevensons' trip to Silverado. Stevenson writes of their journey from San Francisco up the Napa Valley to Calistoga and then up the mountain to their goal. He describes their neighbors, and recounts tales of the town in its glory days as a silver mining camp."
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "No known restrictions on publication.\nAlso available in digital form on the Library of Congress Web site."
+      },
+      "identifiers": {
+        "librarything": [
+          "28151"
+        ]
+      },
+      "title": "The  Silverado squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "1888",
+      "publishers": [
+        "J.W. Lovell company"
+      ],
+      "subject_place": [
+        "California",
+        "California."
+      ],
+      "lc_classifications": [
+        "F866 .S843"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "uri_descriptions": [
+        null
+      ],
+      "pagination": "96 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:181427613:1675",
+        "marc:marc_loc_2016/BooksAll.2016.part42.utf8:272213215:1675"
+      ],
+      "lccn": [
+        "ca10001446"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "url": [
+        "http://hdl.loc.gov/loc.gdc/calbk.132"
+      ],
+      "subjects": [
+        "Ethnic groups -- California",
+        "Mines and mineral resources -- California",
+        "California -- Description and travel"
+      ],
+      "publish_country": "nyu",
+      "series": [
+        "Lovell's library,",
+        "no. 1214"
+      ],
+      "by_statement": "by Robert Louis Stevenson ...",
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://hdl.loc.gov/loc.gdc/calbk.132"
+      ],
+      "key": "/books/OL240541M",
+      "number_of_pages": 96,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-01-17T16:26:09.559373"
+      }
+    },
+    {
+      "title": "The Silverado Squatters",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "publish_date": "June 30, 2004",
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "weight": "4 ounces",
+      "covers": [
+        1803703
+      ],
+      "physical_format": "Paperback",
+      "ocaid": "silveradosquatte00robe",
+      "subjects": [
+        "Classic fiction",
+        "Literature - Classics / Criticism",
+        "Fiction",
+        "Literature: Classics",
+        "Classics",
+        "History - General History"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "THE scene of this little book is on a high mountain."
+      },
+      "isbn_13": [
+        "9781419182617"
+      ],
+      "isbn_10": [
+        "1419182617"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 7.3 x 0.3 inches",
+      "source_records": [
+        "amazon:1419182617"
+      ],
+      "key": "/books/OL9634831M",
+      "number_of_pages": 72,
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-22T23:42:10.327220"
+      }
+    },
+    {
+      "publishers": [
+        "Aegypan"
+      ],
+      "number_of_pages": 108,
+      "weight": "6.4 ounces",
+      "covers": [
+        2002963
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9775383M",
+      "authors": [
+        {
+          "key": "/authors/OL25963A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Historical fiction",
+        "Historical - General",
+        "Fiction",
+        "Fiction - Historical",
+        "Literary",
+        "Fiction / Historical",
+        "Fiction : Literary"
+      ],
+      "isbn_13": [
+        "9781598185393"
+      ],
+      "title": "The Silverado Squatters",
+      "identifiers": {
+        "goodreads": [
+          "1982046"
+        ],
+        "librarything": [
+          "28151"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "159818539X"
+      ],
+      "publish_date": "September 1, 2005",
+      "oclc_numbers": [
+        "181766332"
+      ],
+      "works": [
+        {
+          "key": "/works/OL24143W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 5.8 x 0.4 inches",
+      "local_id": [
+        "urn:bwbsku:W9-AKL-277"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-19:W9-AKL-277"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-21T01:19:12.187126"
+      }
+    }
+  ]
+}

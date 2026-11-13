@@ -1,0 +1,55 @@
+{
+  "publishers": [
+    "Kessinger Publishing, LLC"
+  ],
+  "weight": "4 ounces",
+  "covers": [
+    2513283
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-28T01:20:48.204618"
+  },
+  "latest_revision": 5,
+  "key": "/books/OL10582810M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9780548394793"
+  ],
+  "source_records": [
+    "amazon:0548394792"
+  ],
+  "title": "May Flowers",
+  "number_of_pages": 68,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0548394792"
+  ],
+  "publish_date": "August 29, 2007",
+  "oclc_numbers": [
+    "179776073"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30027W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9 x 6 x 0.2 inches",
+  "revision": 5
+}

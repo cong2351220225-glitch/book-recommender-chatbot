@@ -1,0 +1,75 @@
+{
+  "name": "Metropolitan Museum of Art (New York, N.Y.)",
+  "links": [
+    {
+      "url": "http://www.metmuseum.org/",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Homepage"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Wikipedia"
+    }
+  ],
+  "personal_name": "New York",
+  "alternate_names": [
+    "Metropolitan Museum of Art",
+    "Metropolitan Museum of Art.",
+    "Metropolitan Museum of Art (New York, N. Y.)",
+    "The Metropolitan Museum of Art",
+    "The (NY) Metropolitan Museum of Art",
+    "Metropolitan Museum Art",
+    "Metropolitan Museum Of Art",
+    "New York (City). Metropolitan Museum of Art.",
+    "Metropolitan Museum",
+    "Metropolitan Museum of Art (New York NY)",
+    "The Metropolitan Museum Of Art",
+    "New York. Metropolitan Museum of Art.",
+    "Metropolitan Museum of Art (NYC)",
+    "New York The Metropolitan Museum of Art",
+    "New York, New York. Metropolitan Museum of Art.",
+    "Metropolitan Museum of Modern Art.",
+    "Metropolitan museum of art",
+    "Metropolitan Museum of Art (New York)",
+    "New York (N.Y.). Metropolitan Museum of Art.",
+    "Metropolitan Museum of Art (New York, N.Y.).",
+    "Metropolitan Museum of Art in NY",
+    "Metropolitan Museum of Art (New York N.Y.)",
+    "Metropolitan Museum of Art (New York, N.Y)",
+    "N.Y.) Staff Metropolitan Museum of Art (New York",
+    "New York. Metropolitan museum of art",
+    "METROPOLITAN MUSEUM OF ART",
+    "The Metropolitan Museum of Art  New York"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "entity_type": "org",
+  "remote_ids": {
+    "wikidata": "Q160236",
+    "isni": "0000000120973481",
+    "viaf": "126238294",
+    "imdb": "co0052307",
+    "lc_naf": "n79129629",
+    "librarything": "yorknymetropolitanmu",
+    "opac_sbn": "SBLV197155",
+    "youtube": "UCDlz9C2bhSW6dcVn_PO5mYw",
+    "goodreads": "2949926"
+  },
+  "key": "/authors/OL24127A",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T19:49:41.647148"
+  }
+}

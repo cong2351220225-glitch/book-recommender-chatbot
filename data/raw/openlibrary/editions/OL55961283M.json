@@ -1,0 +1,46 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL4770882A"
+    }
+  ],
+  "isbn_13": [
+    "9781720907626"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 148,
+  "publish_date": "2018",
+  "publishers": [
+    "CreateSpace Independent Publishing Platform"
+  ],
+  "source_records": [
+    "bwb:9781720907626"
+  ],
+  "title": "Life of Jonathan Wild",
+  "weight": "0.282",
+  "subtitle": "from His Birth to His Death. Containing His Rise and Progress in Roguery",
+  "full_title": "Life of Jonathan Wild from His Birth to His Death. Containing His Rise and Progress in Roguery",
+  "works": [
+    {
+      "key": "/works/OL45129W"
+    }
+  ],
+  "key": "/books/OL55961283M",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-09-30T12:14:40.123679"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-09-04T16:39:46.752830"
+  }
+}

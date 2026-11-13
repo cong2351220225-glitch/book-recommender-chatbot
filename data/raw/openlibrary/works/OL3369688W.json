@@ -1,0 +1,46 @@
+{
+  "first_publish_date": "1977",
+  "description": {
+    "type": "/type/text",
+    "value": "Drawings and brief text characterize kittens."
+  },
+  "title": "Kittens",
+  "lc_classifications": [
+    "SF445.7 .P43"
+  ],
+  "key": "/works/OL3369688W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL548486A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "599/.74428"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Cats",
+    "Juvenile literature",
+    "Kittens"
+  ],
+  "covers": [
+    13870109
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:23:51.318726"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-09T06:09:09.023580"
+  }
+}

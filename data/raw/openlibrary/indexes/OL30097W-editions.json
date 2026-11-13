@@ -1,0 +1,279 @@
+{
+  "links": {
+    "self": "/works/OL30097W/editions.json",
+    "work": "/works/OL30097W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "055316855X"
+      ],
+      "isbn_13": [
+        "9780553168556"
+      ],
+      "local_id": [
+        "urn:bwbsku:W8-BFJ-407"
+      ],
+      "publish_date": "1988-01-01",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-07-17:W8-BFJ-407"
+      ],
+      "title": "The Perfect Planet (Choose Your Own Adventure Ser., No. 80)",
+      "full_title": "The Perfect Planet (Choose Your Own Adventure Ser., No. 80)",
+      "works": [
+        {
+          "key": "/works/OL30097W"
+        }
+      ],
+      "key": "/books/OL49195815M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-19T01:04:30.984851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T08:16:52.406180"
+      }
+    },
+    {
+      "publishers": [
+        "Skylark"
+      ],
+      "number_of_pages": 116,
+      "ia_box_id": [
+        "IA106721"
+      ],
+      "series": [
+        "Choose Your Own Adventure #80"
+      ],
+      "covers": [
+        8871757,
+        4672945
+      ],
+      "physical_format": "Paperback",
+      "ia_loaded_id": [
+        "perfectplanet00pack"
+      ],
+      "key": "/books/OL7823872M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "source_records": [
+        "ia:perfectplanet00pack"
+      ],
+      "title": "The Perfect Planet",
+      "identifiers": {
+        "goodreads": [
+          "755001"
+        ],
+        "librarything": [
+          "2215583"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Children's 12-Up - Fiction - General",
+        "Children: Grades 4-6",
+        "General",
+        "Non-Classifiable",
+        "Science fiction"
+      ],
+      "publish_date": "May 1, 1988",
+      "works": [
+        {
+          "key": "/works/OL30097W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "perfectplanet00pack",
+      "isbn_10": [
+        "0553272276"
+      ],
+      "isbn_13": [
+        "9780553272277"
+      ],
+      "oclc_numbers": [
+        "59208160"
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T02:38:20.309718"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam"
+      ],
+      "identifiers": {
+        "librarything": [
+          "2215583"
+        ],
+        "goodreads": [
+          "755001"
+        ]
+      },
+      "series": [
+        "Choose your own  adventure -- 80",
+        "Choose your own adventure (Bantam Books) -- 80."
+      ],
+      "covers": [
+        4672947
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-27T18:24:39.403721"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL21524297M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "contributions": [
+        "Morrill, Leslie."
+      ],
+      "pagination": "116p.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:623400101:672"
+      ],
+      "title": "The perfect planet.",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 116,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T22:57:20.221037"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553272276"
+      ],
+      "publish_date": "1988",
+      "publish_country": "xxk",
+      "oclc_numbers": [
+        "59208160"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30097W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Pocket Books"
+      ],
+      "number_of_pages": 115,
+      "isbn_10": [
+        "0553272276"
+      ],
+      "series": [
+        "Choose your own adventure -- # 80",
+        "Choose your own adventure -- 80."
+      ],
+      "pagination": "115 p. :",
+      "covers": [
+        4672946
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-29T04:21:00.514413"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL20938869M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "genres": [
+        "Juvenile fiction."
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:54091265:791"
+      ],
+      "title": "The perfect planet",
+      "notes": {
+        "type": "/type/text",
+        "value": "paperback"
+      },
+      "identifiers": {
+        "librarything": [
+          "2215583"
+        ],
+        "goodreads": [
+          "755001"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T02:55:55.259588"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories -- Juvenile fiction"
+      ],
+      "publish_date": "1988",
+      "publish_country": "nyu",
+      "by_statement": "by Edward Packard ; illustrated by Don Hedin.",
+      "oclc_numbers": [
+        "59208160"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30097W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    }
+  ]
+}

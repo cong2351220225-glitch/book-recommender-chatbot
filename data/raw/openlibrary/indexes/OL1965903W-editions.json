@@ -1,0 +1,153 @@
+{
+  "links": {
+    "self": "/works/OL1965903W/editions.json",
+    "work": "/works/OL1965903W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "subtitle": "the complete guide for paper mills and converters",
+      "covers": [
+        1659187
+      ],
+      "lc_classifications": [
+        "TS1117 .G76 1998"
+      ],
+      "latest_revision": 5,
+      "id": 614810,
+      "source_records": [
+        "marc:marc_records_scriblio_net/part27.dat:89451261:710",
+        "marc:marc_loc_updates/v37.i37.records.utf8:6675861:710"
+      ],
+      "title": "Winders",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Paper converting machinery",
+        "Winding machines",
+        "Paper mills -- Equipment and supplies"
+      ],
+      "publish_country": "gau",
+      "by_statement": "by Jan Gronewold.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5,
+      "publishers": [
+        "TAPPI Press"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-14T02:03:16.683701"
+      },
+      "key": "/books/OL378630M",
+      "authors": [
+        {
+          "key": "/authors/OL236086A"
+        }
+      ],
+      "publish_places": [
+        "Atlanta, Ga"
+      ],
+      "pagination": "p. cm.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "dewey_decimal_class": [
+        "676/.23"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references."
+      },
+      "identifiers": {
+        "goodreads": [
+          "3517543"
+        ]
+      },
+      "lccn": [
+        "98040708"
+      ],
+      "isbn_10": [
+        "0898523478"
+      ],
+      "publish_date": "1998",
+      "works": [
+        {
+          "key": "/works/OL1965903W"
+        }
+      ]
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3517543"
+        ]
+      },
+      "title": "Winders",
+      "subtitle": "The Complete Guide for Paper Mills and Converters",
+      "authors": [
+        {
+          "key": "/authors/OL236086A"
+        }
+      ],
+      "publish_date": "November 15, 1998",
+      "publishers": [
+        "Tappi"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "weight": "12 ounces",
+      "isbn_13": [
+        "9780898523478"
+      ],
+      "covers": [
+        1659186
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "0898523478"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Trees & Forests - General",
+        "Science/Mathematics",
+        "Technology & Industrial Arts",
+        "Winding machines",
+        "Technical & Manufacturing Trades",
+        "Paper mills",
+        "Equipment and supplies",
+        "Paper converting machinery"
+      ],
+      "physical_dimensions": "9.9 x 6.8 x 0.5 inches",
+      "source_records": [
+        "amazon:0898523478"
+      ],
+      "key": "/books/OL8270088M",
+      "works": [
+        {
+          "key": "/works/OL1965903W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-17T06:46:53.353259"
+      }
+    }
+  ]
+}

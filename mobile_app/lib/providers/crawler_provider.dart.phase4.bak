@@ -1,0 +1,189 @@
+import 'package:flutter/foundation.dart';
+import '../models/crawler_book_model.dart';
+import '../repositories/crawler_repository.dart';
+
+class CrawlerProvider extends ChangeNotifier {
+  final CrawlerRepository _repository;
+
+  CrawlerProvider({CrawlerRepository? repository})
+      : _repository = repository ?? CrawlerRepository();
+
+  List<CrawlerSourceModel> _sources = [];
+  String _selectedSource = 'all';
+  List<CrawlerBookCandidate> _results = [];
+  bool _isLoading = false;
+  bool _isImporting = false;
+  String? _errorMessage;
+  CrawlerBatchImportResponse? _lastBatchResult;
+
+  // Getters
+  List<CrawlerSourceModel> get sources => _sources;
+  String get selectedSource => _selectedSource;
+  List<CrawlerBookCandidate> get results => _results;
+  bool get isLoading => _isLoading;
+  bool get isImporting => _isImporting;
+  String? get errorMessage => _errorMessage;
+  CrawlerBatchImportResponse? get lastBatchResult => _lastBatchResult;
+
+  List<CrawlerBookCandidate> get selectedBooks =>
+      _results.where((b) => b.isSelected).toList();
+
+  int get selectedCount => selectedBooks.length;
+
+  bool get isAllSelected =>
+      _results.isNotEmpty && _results.every((b) => b.isSelected);
+
+  void setSelectedSource(String sourceId) {
+    _selectedSource = sourceId;
+    notifyListeners();
+  }
+
+  void toggleSelectBook(int index, bool? value) {
+    if (index >= 0 && index < _results.length) {
+      _results[index].isSelected = value ?? false;
+      notifyListeners();
+    }
+  }
+
+  void toggleSelectAll(bool? value) {
+    final select = value ?? false;
+    for (final book in _results) {
+      // Chỉ tự động chọn nếu không phải là duplicate hoàn toàn hoặc tùy user
+      book.isSelected = select;
+    }
+    notifyListeners();
+  }
+
+  void clearResults() {
+    _results.clear();
+    _errorMessage = null;
+    _lastBatchResult = null;
+    notifyListeners();
+  }
+
+  Future<void> fetchSources() async {
+    try {
+      _sources = await _repository.getSources();
+      notifyListeners();
+    } catch (e) {
+      // Dùng fallback nếu API chưa load
+      _sources = [
+        CrawlerSourceModel(id: 'all', name: 'Tất cả các nguồn', description: 'Đồng thời 6 nguồn'),
+        CrawlerSourceModel(id: 'openlibrary', name: 'Open Library', description: 'Kho mở'),
+        CrawlerSourceModel(id: 'google_books', name: 'Google Books', description: 'Google'),
+        CrawlerSourceModel(id: 'gutenberg', name: 'Project Gutenberg', description: 'Sách tự do'),
+        CrawlerSourceModel(id: 'internet_archive', name: 'Internet Archive', description: 'Lưu trữ'),
+        CrawlerSourceModel(id: 'europeana', name: 'Europeana', description: 'Di sản châu Âu'),
+        CrawlerSourceModel(id: 'itunes', name: 'Apple Books', description: 'Apple'),
+      ];
+      notifyListeners();
+    }
+  }
+
+  Future<void> search(String query, {int limit = 15}) async {
+    final trimmed = query.trim();
+    if (trimmed.isEmpty) return;
+
+    _isLoading = true;
+    _errorMessage = null;
+    _lastBatchResult = null;
+    notifyListeners();
+
+    try {
+      _results = await _repository.searchBooks(
+        query: trimmed,
+        source: _selectedSource,
+        limit: limit,
+      );
+    } catch (e) {
+      _errorMessage = 'Tìm kiếm thất bại: ${e.toString()}';
+      _results = [];
+    } finally {
+      _isLoading = false;
+      notifyListeners();
+    }
+  }
+
+  Future<CrawlerImportResult> importSingleBook(
+    CrawlerBookCandidate candidate, {
+    bool upsertChroma = true,
+  }) async {
+    _isImporting = true;
+    _errorMessage = null;
+    notifyListeners();
+
+    try {
+      final result = await _repository.importBook(
+        candidate: candidate.toCandidatePayload(),
+        upsertChroma: upsertChroma,
+      );
+      return result;
+    } catch (e) {
+      return CrawlerImportResult(
+        title: candidate.title,
+        success: false,
+        message: 'Lỗi khi nhập sách: ${e.toString()}',
+      );
+    } finally {
+      _isImporting = false;
+      notifyListeners();
+    }
+  }
+
+  Future<CrawlerBatchImportResponse> importSelectedBooks({
+    bool upsertChroma = true,
+  }) async {
+    final targets = selectedBooks;
+    if (targets.isEmpty) {
+      return CrawlerBatchImportResponse(
+        totalRequested: 0,
+        importedCount: 0,
+        skippedCount: 0,
+        results: [],
+      );
+    }
+
+    _isImporting = true;
+    _errorMessage = null;
+    notifyListeners();
+
+    try {
+      final payloads = targets.map((b) => b.toCandidatePayload()).toList();
+      final response = await _repository.batchImport(
+        candidates: payloads,
+        upsertChroma: upsertChroma,
+      );
+      _lastBatchResult = response;
+
+      // Cập nhật trạng thái sách trong danh sách kết quả sau khi nhập
+      for (final res in response.results) {
+        for (final book in _results) {
+          if (book.title == res.title && res.success) {
+            // Đã nhập thành công, bỏ chọn
+            book.isSelected = false;
+          }
+        }
+      }
+
+      return response;
+    } catch (e) {
+      _errorMessage = 'Lỗi nhập danh sách: ${e.toString()}';
+      return CrawlerBatchImportResponse(
+        totalRequested: targets.length,
+        importedCount: 0,
+        skippedCount: targets.length,
+        results: targets
+            .map((t) => CrawlerImportResult(
+                  title: t.title,
+                  success: false,
+                  message: e.toString(),
+                ))
+            .toList(),
+      );
+    } finally {
+      _isImporting = false;
+      notifyListeners();
+    }
+  }
+}
+

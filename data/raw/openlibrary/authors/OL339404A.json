@@ -1,0 +1,15 @@
+{
+  "name": "Arne Homann",
+  "personal_name": "Arne Homann",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-05 17:29:41.156994"
+  },
+  "key": "/authors/OL339404A",
+  "birth_date": "1961",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 910083,
+  "revision": 2
+}

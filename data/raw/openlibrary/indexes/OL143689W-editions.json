@@ -1,0 +1,203 @@
+{
+  "links": {
+    "self": "/works/OL143689W/editions.json",
+    "work": "/works/OL143689W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "publishers": [
+        "Regnery"
+      ],
+      "full_title": "Nuclear ambush",
+      "key": "/books/OL28406968M",
+      "authors": [
+        {
+          "key": "/authors/OL2196847A"
+        }
+      ],
+      "publish_places": [
+        "Chic"
+      ],
+      "subjects": [
+        "Nuclear disarmament"
+      ],
+      "pagination": "612 pages",
+      "source_records": [
+        "marc:marc_claremont_school_theology/CSTMARC2_barcode.mrc:111774332:678",
+        "ia:nuclearambush0000voss",
+        "marc:marc_claremont_school_theology/CSTMARC2_multibarcode.mrc:111922909:678"
+      ],
+      "title": "Nuclear ambush",
+      "number_of_pages": 612,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:cst:10011379541"
+      ],
+      "publish_date": "1963",
+      "publish_country": "ilu",
+      "oclc_numbers": [
+        "874372155"
+      ],
+      "works": [
+        {
+          "key": "/works/OL143689W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        10670365
+      ],
+      "ocaid": "nuclearambush0000voss",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-07-28T03:21:48.631895"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-03T07:45:01.886246"
+      }
+    },
+    {
+      "publishers": [
+        "H. Regnery Co."
+      ],
+      "identifiers": {
+        "librarything": [
+          "954662"
+        ]
+      },
+      "subtitle": "the test-ban trap.",
+      "ia_box_id": [
+        "IA123215"
+      ],
+      "covers": [
+        10053298
+      ],
+      "ia_loaded_id": [
+        "nuclearambushtes00voss"
+      ],
+      "lc_classifications": [
+        "JX1974.7 .V6"
+      ],
+      "key": "/books/OL5881722M",
+      "authors": [
+        {
+          "key": "/authors/OL2196847A"
+        }
+      ],
+      "ocaid": "nuclearambushtes00voss",
+      "publish_places": [
+        "Chicago"
+      ],
+      "pagination": "612 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part05.dat:74682003:523",
+        "ia:nuclearambushtes00voss",
+        "marc:marc_loc_2016/BooksAll.2016.part05.utf8:151847752:523",
+        "marc:marc_columbia/Columbia-extract-20221130-004.mrc:200004904:916",
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:259120223:626",
+        "marc:harvard_bibliographic_metadata/20220215_047.bib.mrc:29115029:1147"
+      ],
+      "title": "Nuclear ambush",
+      "lccn": [
+        "63012891"
+      ],
+      "number_of_pages": 612,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Nuclear disarmament"
+      ],
+      "publish_date": "1963",
+      "publish_country": "xx ",
+      "by_statement": "Introd. by Willard F. Libby.",
+      "oclc_numbers": [
+        "861994"
+      ],
+      "works": [
+        {
+          "key": "/works/OL143689W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-14T21:55:27.200356"
+      }
+    },
+    {
+      "subtitle": "the test-ban trap.",
+      "lc_classifications": [
+        "JX1974.7 V6"
+      ],
+      "latest_revision": 2,
+      "id": 20083599,
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:190799663:536"
+      ],
+      "title": "Nuclear ambush",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Nuclear disarmament"
+      ],
+      "publish_country": "ilu",
+      "by_statement": "Introd. by Willard F. Libby.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "H. Regnery Co."
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-19T22:42:16.346358"
+      },
+      "key": "/books/OL14724568M",
+      "authors": [
+        {
+          "key": "/authors/OL2196847A"
+        }
+      ],
+      "publish_places": [
+        "Chicago"
+      ],
+      "pagination": "612 p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-14T07:10:50.399282"
+      },
+      "number_of_pages": 612,
+      "publish_date": "1963",
+      "works": [
+        {
+          "key": "/works/OL143689W"
+        }
+      ]
+    }
+  ]
+}

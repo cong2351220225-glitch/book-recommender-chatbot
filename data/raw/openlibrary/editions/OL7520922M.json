@@ -1,0 +1,54 @@
+{
+  "publishers": [
+    "Yearling"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": [
+    "amazon:0440404657:bk:1322171638:149565",
+    "bwb:9780440404651"
+  ],
+  "title": "Twelve Year Old Vows Revenge",
+  "identifiers": {
+    "goodreads": [
+      "1507634"
+    ],
+    "librarything": [
+      "1043204"
+    ]
+  },
+  "isbn_13": [
+    "9780440404651"
+  ],
+  "isbn_10": [
+    "0440404657"
+  ],
+  "publish_date": "May 1, 1991",
+  "key": "/books/OL7520922M",
+  "authors": [
+    {
+      "key": "/authors/OL34268A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL46583W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-19T05:45:35.320189"
+  }
+}

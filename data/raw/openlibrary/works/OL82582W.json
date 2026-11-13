@@ -1,0 +1,16 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T07:07:29.461716"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-04-14T17:42:36.643871"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL82582W",
+  "type": {
+    "key": "/type/delete"
+  },
+  "revision": 2
+}

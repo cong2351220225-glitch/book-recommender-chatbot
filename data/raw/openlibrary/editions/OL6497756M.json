@@ -1,0 +1,60 @@
+{
+  "publishers": [
+    "S. French; [etc., etc.]"
+  ],
+  "subtitle": "a comedy in one act",
+  "lc_classifications": [
+    "PS3521.I717 M3"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL6497756M",
+  "authors": [
+    {
+      "key": "/authors/OL161640A"
+    }
+  ],
+  "publish_places": [
+    "New York, N.Y",
+    "Los Angeles, Calif"
+  ],
+  "pagination": "36 p., 1 l.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part04.utf8:64101092:577"
+  ],
+  "title": "Married at sunrise",
+  "dewey_decimal_class": [
+    "812.5"
+  ],
+  "number_of_pages": 36,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "46004410"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-17T17:02:45.265379"
+  },
+  "publish_date": "1946",
+  "publish_country": "nyu",
+  "by_statement": "by John Kirkpatrick.",
+  "oclc_numbers": [
+    "8937254"
+  ],
+  "works": [
+    {
+      "key": "/works/OL1523455W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

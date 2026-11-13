@@ -1,0 +1,63 @@
+{
+  "identifiers": {
+    "goodreads": [
+      "6495658"
+    ]
+  },
+  "title": "The Silverado Squatters",
+  "authors": [
+    {
+      "key": "/authors/OL25963A"
+    }
+  ],
+  "publish_date": "May 30, 2006",
+  "publishers": [
+    "IndyPublish.com"
+  ],
+  "weight": "10.9 ounces",
+  "covers": [
+    1816941
+  ],
+  "physical_format": "Hardcover",
+  "subjects": [
+    "Travel writing",
+    "Essays & Travelogues",
+    "Travel",
+    "Travel - General"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9781421981147"
+  ],
+  "isbn_10": [
+    "1421981149"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9 x 6 x 0.4 inches",
+  "source_records": [
+    "amazon:1421981149"
+  ],
+  "key": "/books/OL9528789M",
+  "number_of_pages": 112,
+  "works": [
+    {
+      "key": "/works/OL24143W"
+    }
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-13T01:50:17.039112"
+  }
+}

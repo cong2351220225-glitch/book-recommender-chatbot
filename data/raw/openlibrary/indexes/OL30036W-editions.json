@@ -1,0 +1,759 @@
+{
+  "links": {
+    "self": "/works/OL30036W/editions.json",
+    "work": "/works/OL30036W"
+  },
+  "size": 6,
+  "entries": [
+    {
+      "other_titles": [
+        "Independence: a centennial love story."
+      ],
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "identifiers": {
+        "librarything": [
+          "389058"
+        ]
+      },
+      "subtitle": "and Independence: a centennial love story",
+      "lc_classifications": [
+        "PS1017 .S5 1876",
+        "Microfilm 70841 PS"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL5625722M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Silver pitchers.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Anna's whim.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Transcendental wild oats.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The romance of a summer day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My rococo watch.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "By the river.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Letty's tramp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Scarlet stockings.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Independence: a centennial love story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "307 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part06.dat:73488581:846",
+        "marc:marc_loc_2016/BooksAll.2016.part06.utf8:155964773:841"
+      ],
+      "title": "Silver pitchers",
+      "lccn": [
+        "68043804"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Microfilm. Washington, D.C., Library of Congress."
+      },
+      "number_of_pages": 307,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-05T08:51:08.040300"
+      },
+      "publish_date": "1876",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "First published 1876."
+      },
+      "title": "Silver pitchers",
+      "subtitle": "and Independence, a centennial love story.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1903",
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Silver pitchers.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Anna's whim.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Transcendental wild oats.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The romance of a summer day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My Rococo watch.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "By the river.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Letty's tramp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Scarlet stockings.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Independence: a centennial love story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        7931031
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Si3",
+        "PS1017 .S5 1900"
+      ],
+      "ocaid": "silverpitchersan00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "2 p. l., 307 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:148627718:794",
+        "ia:silverpitchersan00alco",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:11416160:1461",
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131403916:1074"
+      ],
+      "lccn": [
+        "04012217"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott ...",
+      "oclc_numbers": [
+        "7055759",
+        "1022139705"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL6940186M",
+      "number_of_pages": 307,
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T06:30:12.173759"
+      }
+    },
+    {
+      "title": "Silver pitchers",
+      "subtitle": "and other stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1907",
+      "publishers": [
+        "Sampson Low"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xxk",
+      "by_statement": "Louisa M. Alcott.",
+      "publish_places": [
+        "London"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2964372013:418"
+      ],
+      "key": "/books/OL19636262M",
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-23T10:02:50.175505"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-12T04:32:51.557577"
+      }
+    },
+    {
+      "other_titles": [
+        "Independence: a centennial love story."
+      ],
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "table_of_contents": [
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Silver pitchers."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Anna's whim."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Transcendental wild oats."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "The romance of a summer day."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "My rococo watch."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "By the river."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Letty's tramp."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Scarlet stockings."
+        },
+        {
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Independence: a centennial love story."
+        }
+      ],
+      "covers": [
+        6562698
+      ],
+      "lc_classifications": [
+        "PS1017 .S5 1876"
+      ],
+      "key": "/books/OL7252548M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subtitle": "and Independence: a centennial love story",
+      "publish_places": [
+        "Boston"
+      ],
+      "source_records": [
+        "ia:silverpitchersin00alco2"
+      ],
+      "title": "Silver pitchers",
+      "lccn": [
+        "68043804"
+      ],
+      "identifiers": {
+        "librarything": [
+          "389058"
+        ]
+      },
+      "ocaid": "silverpitchersin00alco2",
+      "publish_date": "1876",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T09:06:43.637500"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "389058"
+        ]
+      },
+      "title": "Silver pitchers",
+      "subtitle": "and, Independence: a centennial love story",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1876",
+      "other_titles": [
+        "Independence: a centennial love story."
+      ],
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Silver pitchers.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Anna's whim.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Transcendental wild oats.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The romance of a summer day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My rococo watch.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "By the river.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Letty's tramp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Scarlet stockings.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Independence: a centennial love story.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5612009
+      ],
+      "lc_classifications": [
+        "PS1017 .S5 1876",
+        "PS1017 S54 1876"
+      ],
+      "ocaid": "silverpitchersan00alcouoft",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "307 p. ;",
+      "source_records": [
+        "ia:silverpitchersan00alcouoft"
+      ],
+      "lccn": [
+        "68043804"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7091620M",
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 307,
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T09:06:33.450465"
+      }
+    },
+    {
+      "other_titles": [
+        "Independence: a centennial love story."
+      ],
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "Silver pitchers.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Anna's whim.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Transcendental wild oats.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The romance of a summer day.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "My rococo watch.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "By the river.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Letty's tramp.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Scarlet stockings.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Independence: a centennial love story.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5696943
+      ],
+      "lc_classifications": [
+        "PS1017 .S5 1876"
+      ],
+      "key": "/books/OL7228266M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "independence00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "307 p.",
+      "source_records": [
+        "ia:independence00alcorich",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:322537187:1155",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:681002267:905"
+      ],
+      "title": "Silver pitchers",
+      "lccn": [
+        "68043804"
+      ],
+      "identifiers": {
+        "librarything": [
+          "389058"
+        ]
+      },
+      "subtitle": "and Independence: a centennial love story",
+      "publish_date": "1876",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "1161788"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30036W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "number_of_pages": 307,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-21T03:19:58.265457"
+      }
+    }
+  ]
+}

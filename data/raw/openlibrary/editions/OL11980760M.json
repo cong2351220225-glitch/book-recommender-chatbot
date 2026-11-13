@@ -1,0 +1,64 @@
+{
+  "publishers": [
+    "BiblioBazaar"
+  ],
+  "number_of_pages": 122,
+  "subtitle": "A Psychological Study",
+  "weight": "6.6 ounces",
+  "covers": [
+    2895752
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-17T10:07:00.591732"
+  },
+  "latest_revision": 7,
+  "key": "/books/OL11980760M",
+  "authors": [
+    {
+      "key": "/authors/OL18223A"
+    }
+  ],
+  "subjects": [
+    "Psychology & Psychiatry / General"
+  ],
+  "isbn_13": [
+    "9781434674906"
+  ],
+  "source_records": [
+    "amazon:1434674908"
+  ],
+  "title": "The Photoplay",
+  "identifiers": {
+    "goodreads": [
+      "6892408"
+    ],
+    "librarything": [
+      "5894043"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1434674908"
+  ],
+  "publish_date": "October 27, 2007",
+  "works": [
+    {
+      "key": "/works/OL36034W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8 x 5 x 0.3 inches",
+  "revision": 7
+}

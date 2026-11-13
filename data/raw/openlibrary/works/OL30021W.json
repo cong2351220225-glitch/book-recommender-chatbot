@@ -1,0 +1,84 @@
+{
+  "first_publish_date": "1900",
+  "subtitle": "a story of experience",
+  "description": "In this story of a woman's search for a meaningful life, Alcott moves outside the family setting of her best knows works. Originally published in 1872, Work is both an exploration of Alcott's personal conflicts and a social critique, examining women's independence, the moral significance of labor, and the goals to which a woman can aspire. Influenced by Transcendentalism and by the women's rights movement, it affirms the possibility of a feminized utopian society.",
+  "title": "Work",
+  "dewey_number": [
+    "813.41",
+    "813/.4"
+  ],
+  "covers": [
+    756052,
+    5813434,
+    11448721,
+    9184251,
+    12019052,
+    12066511,
+    8914059,
+    9177626,
+    12927029
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "\"AUNT BETSEY, there's going to be a new Declaration of Independence.\""
+  },
+  "lc_classifications": [
+    "PZ7.A335 W3"
+  ],
+  "key": "/works/OL30021W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "\"AUNT BETSEY, there's going to be a new Declaration of Independence.\""
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Classic Literature",
+    "Fiction",
+    "History",
+    "Literature",
+    "Conduct of life",
+    "Young women",
+    "Employment",
+    "Women",
+    "American fiction (fictional works by one author)",
+    "New england, fiction",
+    "Large type books",
+    "Juvenile fiction",
+    "Fiction, general",
+    "Fiction, historical, general",
+    "Fiction, psychological",
+    "Children's fiction",
+    "Short stories"
+  ],
+  "subject_places": [
+    "New England"
+  ],
+  "location": "/works/OL24720629W",
+  "genres": [
+    "/tags/OL174T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T01:27:54.051492"
+  }
+}

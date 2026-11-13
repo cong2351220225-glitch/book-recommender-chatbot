@@ -1,0 +1,35 @@
+{
+  "key": "/works/OL1420556W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T21:25:01.538284"
+  },
+  "title": "Lagoon sediments in Greenland",
+  "id": 36598982,
+  "subject_places": [
+    "Disko Island",
+    "Greenland"
+  ],
+  "first_publish_date": "1964",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-01-30T11:02:07.639278"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL147068A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Marine sediments",
+    "Sediments (Geology)"
+  ],
+  "revision": 2
+}

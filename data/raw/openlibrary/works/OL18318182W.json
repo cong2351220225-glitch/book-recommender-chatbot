@@ -1,0 +1,30 @@
+{
+  "title": "Yādnāmah-ʾi Ṭabarī",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-02-05T13:17:50.089850"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2019-02-05T13:17:50.089850"
+  },
+  "subject_people": [
+    "Ṭabarī (838?-923)"
+  ],
+  "key": "/works/OL18318182W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6451462A"
+      }
+    }
+  ],
+  "latest_revision": 1,
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

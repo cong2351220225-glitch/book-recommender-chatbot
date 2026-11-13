@@ -1,0 +1,20 @@
+{
+  "id": "test_stream_bcb5f26c",
+  "title": "Chào bạn, bạn là ai?",
+  "timestamp": "2026-11-03 21:40:55",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào bạn, bạn là ai?",
+      "timestamp": "21:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Tôi là trợ lý AI của thư viện sách điện tử. \n\nTôi có thể hỗ trợ bạn trò chuyện, giải đáp thắc mắc, hỗ trợ học tập, viết và chỉnh sửa nội dung, hoặc tư vấn thông tin về sách, tác giả và thể loại khi bạn cần. \n\nHôm nay tôi có thể giúp gì cho bạn?",
+      "timestamp": "21:40",
+      "sources": [],
+      "locations": [],
+      "intent": "small_talk"
+    }
+  ]
+}

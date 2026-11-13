@@ -1,0 +1,30 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-05T09:20:34.226076"
+  },
+  "title": "Ägyptische Kunst",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:51:38.468599"
+  },
+  "subjects": [
+    "Egyptian Art"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL468128W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL3893097A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 3
+}

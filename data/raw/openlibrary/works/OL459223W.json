@@ -1,0 +1,33 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:33:28.007964"
+  },
+  "subjects": [
+    "Philosophical anthropology"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL459223W",
+  "title": "L'e ́nergie humaine",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26868A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-06T00:03:20.452854"
+  },
+  "covers": [
+    3071594
+  ],
+  "revision": 3
+}

@@ -1,0 +1,165 @@
+{
+  "id": "2af422ba-ad62-44ea-8096-64f8a6b1e8e1",
+  "title": "Kiểm tra Trí tuệ Cảm xúc (EQ) ...",
+  "timestamp": "2026-10-11 01:48:57",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Kiểm tra Trí tuệ Cảm xúc (EQ) & Phân tích tâm lý"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Trí tuệ cảm xúc (EQ) và tâm lý học là những chủ đề rất tuyệt vời để hiểu sâu hơn về bản thân cũng như cải thiện các mối quan hệ xung quanh.\n\nLà một trợ lý AI, tôi có thể hỗ trợ bạn khám phá chủ đề này theo các hướng sau:\n\n1. **Bài kiểm tra EQ nhanh (Tự phản ánh):** Tôi sẽ đưa ra một số câu hỏi tình huống thực tế giúp bạn tự đánh giá 5 khía cạnh cốt lõi của EQ (Nhận thức bản thân, Quản lý cảm xúc, Động lực nội tại, Sự thấu cảm, và Kỹ năng xã hội).\n2. **Phân tích tâm lý theo tình huống:** Nếu bạn đang gặp một trạng thái tâm lý hoặc tình huống cụ thể (ví dụ: áp lực công việc, xung đột mối quan hệ, khó kiểm soát cơn giận...), bạn có thể chia sẻ và chúng ta cùng phân tích dưới góc độ tâm lý học.\n3. **Giải thích lý thuyết & Phương pháp rèn luyện:** Cung cấp kiến thức chuyên sâu về các mô hình EQ (như mô hình của Daniel Goleman) và các bài tập thực hành nâng cao EQ hàng ngày.\n\n*(Lưu ý: Các bài trắc nghiệm và phân tích ở đây mang tính chất tham khảo, giúp bạn thấu hiểu bản thân và học tập, không thay thế cho chẩn đoán y khoa chuyên sâu).*\n\nBạn muốn bắt đầu bằng **làm một bài trắc nghiệm EQ ngắn (khoảng 5 câu hỏi tình huống)** hay muốn **chia sẻ một vấn đề tâm lý cụ thể** để chúng ta cùng phân tích?",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "Dạo này đồ án ngập đầu, mình kiệt sức và chán nản quá, chả thiết làm gì. Có cuốn sách nào giúp mình vượt qua giai đoạn này không?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình rất hiểu và chia sẻ với cảm giác mệt mỏi, áp lực mà bạn đang trải qua khi phải gồng gánh quá nhiều đồ án. Việc cảm thấy kiệt sức và chán nản trong những giai đoạn như thế này là điều hoàn toàn bình thường, bạn hãy cho bản thân chút thời gian để lắng lại và nghỉ ngơi nhé.\n\nĐể giúp bạn tiếp thêm sức mạnh nội tâm và từng bước vượt qua giai đoạn này, thư viện xin gợi ý 2 cuốn sách phù hợp trong dữ liệu:\n\n1. **Đi tìm lẽ sống**\n   - **Tác giả:** Viktor Frankl\n   - **Năm xuất bản:** 1946\n   - **Thể loại:** Tâm lý\n   - **Lý do phù hợp:** Sách hướng đến những người đang cần động lực và muốn tìm lại năng lượng tích cực. Cuốn sách chia sẻ về hành trình tìm kiếm ý nghĩa cùng sức mạnh nội tâm trong những hoàn cảnh khó khăn, giúp bạn có thêm nghị lực để vượt qua cảm giác chán nản hiện tại.\n\n2. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Lý do phù hợp:** Sách rất phù hợp với tâm trạng \"mất động lực\" và người đang muốn bắt đầu thay đổi. Cuốn sách hướng dẫn cách xây dựng thói quen tốt từ những thay đổi nhỏ, đều đặn mỗi ngày, giúp bạn bớt cảm giác quá tải khi đối mặt với lượng công việc lớn.",
+      "books": [
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "difficulty": "Dễ đọc",
+            "author_id": "james-clear",
+            "author": "James Clear",
+            "genre": "Kỹ năng sống",
+            "title": "Atomic Habits",
+            "rating": 4.8,
+            "featured": true,
+            "year": 2018,
+            "mood": "Mất động lực",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "book_id": "book_001",
+            "tags": "thói quen, năng suất, thay đổi"
+          },
+          "distance": 0.2918604612350464
+        },
+        {
+          "document": "Title: Deep Work\nAuthor: Cal Newport\nGenre: Kỹ năng sống\nPublication year: 2016\nTags: Mental work, Distraction, Success, Cognition, Attention, Achievement, Thinking\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results. Deep work is the ability to focus without distraction on a cognitively demanding task.",
+          "metadata": {
+            "rating": 0.0,
+            "title": "Deep Work",
+            "target_audience": "nan",
+            "tags": "Mental work, Distraction, Success, Cognition, Attention, Achievement, Thinking",
+            "year": 2016,
+            "book_id": "book_025",
+            "genre": "Kỹ năng sống",
+            "mood": "nan",
+            "featured": false,
+            "difficulty": "nan",
+            "author_id": "cal-newport",
+            "author": "Cal Newport"
+          },
+          "distance": 0.34200602769851685
+        },
+        {
+          "document": "Title: Đi tìm lẽ sống\nAuthor: Viktor Frankl\nGenre: Tâm lý\nPublication year: 1946\nTags: ý nghĩa, nghị lực, tâm lý\nTarget audience: Người cần động lực\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một gợi mở về ý nghĩa và nghị lực.\nDescription: Dữ liệu mô tả demo về hành trình tìm ý nghĩa và sức mạnh nội tâm trong những hoàn cảnh khó khăn.",
+          "metadata": {
+            "target_audience": "Người cần động lực",
+            "mood": "Muốn có động lực",
+            "genre": "Tâm lý",
+            "book_id": "book_017",
+            "rating": 4.5,
+            "featured": true,
+            "title": "Đi tìm lẽ sống",
+            "author": "Viktor Frankl",
+            "author_id": "viktor-frankl",
+            "difficulty": "Dễ đọc",
+            "year": 1946,
+            "tags": "ý nghĩa, nghị lực, tâm lý"
+          },
+          "distance": 0.34392035007476807
+        }
+      ],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "Hôm nay mình rất hào hứng và tràn đầy năng lượng! Mình muốn khởi nghiệp, gợi ý cho mình sách nhé!"
+    },
+    {
+      "role": "assistant",
+      "content": "Thật tuyệt vời! Tinh thần hào hứng và nguồn năng lượng dồi dào của bạn thực sự rất truyền cảm hứng. Quyết tâm khởi nghiệp là một bước đi đầy mạnh mẽ và bứt phá!\n\nĐể tiếp thêm động lực cũng như trang bị phương pháp phù hợp cho hành trình khởi nghiệp của bạn, thư viện xin gợi ý 2 cuốn sách sau:\n\n1. **Khởi nghiệp tinh gọn**\n   - **Tác giả:** Eric Ries\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Kinh doanh\n   - **Lý do phù hợp:** Dành riêng cho đối tượng nhà sáng lập và người muốn bắt đầu khởi nghiệp. Cuốn sách giới thiệu phương pháp xây dựng sản phẩm bằng cách thử nghiệm nhanh, học hỏi liên tục và đo lường phản hồi thực tế từ khách hàng.\n\n2. **Make Something Wonderful**\n   - **Tác giả:** Steve Jobs\n   - **Năm xuất bản:** 2023\n   - **Thể loại:** Biography (Tiểu sử)\n   - **Lý do phù hợp:** Phù hợp với độc giả có tâm trạng tích cực. Cuốn sách là tập hợp các bài phát biểu, phỏng vấn và thư từ của Steve Jobs – một trong những nhà khởi nghiệp sáng tạo nhất thế giới, giúp truyền cảm hứng mạnh mẽ để bạn bắt tay vào tạo nên những điều tuyệt vời.",
+      "books": [
+        {
+          "document": "Title: Khởi nghiệp tinh gọn\nAuthor: Eric Ries\nGenre: Kinh doanh\nPublication year: 2011\nTags: khởi nghiệp, sản phẩm, thử nghiệm\nTarget audience: Nhà sáng lập\nMood: Muốn học hỏi\nDifficulty: Dễ đọc\nSummary: Xây dựng sản phẩm bằng học hỏi liên tục.\nDescription: Giới thiệu phương pháp xây dựng sản phẩm qua thử nghiệm nhanh, học hỏi liên tục và đo lường phản hồi thực tế từ khách hàng.",
+          "metadata": {
+            "year": 2011,
+            "title": "Khởi nghiệp tinh gọn",
+            "rating": 4.4,
+            "author": "Eric Ries",
+            "author_id": "eric-ries",
+            "genre": "Kinh doanh",
+            "book_id": "book_009",
+            "tags": "khởi nghiệp, sản phẩm, thử nghiệm",
+            "mood": "Muốn học hỏi",
+            "target_audience": "Nhà sáng lập",
+            "featured": false,
+            "difficulty": "Dễ đọc"
+          },
+          "distance": 0.2708745002746582
+        },
+        {
+          "document": "Title: Từ tốt đến vĩ đại\nAuthor: Jim Collins\nGenre: Kinh doanh\nPublication year: 2001\nTags: lãnh đạo, doanh nghiệp, kỷ luật\nTarget audience: Người làm quản lý\nMood: Muốn tiến bộ\nDifficulty: Chuyên sâu\nSummary: Các nguyên tắc vận hành tổ chức hiệu quả.\nDescription: Phân tích những đặc điểm giúp một doanh nghiệp chuyển từ mức tốt sang mức xuất sắc, nhấn mạnh lãnh đạo và kỷ luật tổ chức.",
+          "metadata": {
+            "mood": "Muốn tiến bộ",
+            "tags": "lãnh đạo, doanh nghiệp, kỷ luật",
+            "featured": true,
+            "difficulty": "Chuyên sâu",
+            "genre": "Kinh doanh",
+            "author": "Jim Collins",
+            "title": "Từ tốt đến vĩ đại",
+            "year": 2001,
+            "book_id": "book_008",
+            "rating": 4.5,
+            "target_audience": "Người làm quản lý",
+            "author_id": "jim-collins"
+          },
+          "distance": 0.3235432505607605
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "author_id": "james-clear",
+            "mood": "Mất động lực",
+            "book_id": "book_001",
+            "author": "James Clear",
+            "featured": true,
+            "rating": 4.8,
+            "tags": "thói quen, năng suất, thay đổi",
+            "year": 2018,
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "genre": "Kỹ năng sống",
+            "difficulty": "Dễ đọc",
+            "title": "Atomic Habits"
+          },
+          "distance": 0.3244592547416687
+        },
+        {
+          "document": "Title: Make Something Wonderful\nAuthor: Steve Jobs\nGenre: Biography\nPublication year: 2023\nTags: tài chính\nTarget audience: Mọi độc giả\nMood: Tích cực\nDifficulty: Trung bình\nSummary: A curated collection of Steve’s speeches, interviews and correspondence, Make Something Wonderful offers an unparalleled window into how one of the world’s most creative entrepreneurs approached his life and work. Across the pages of this book, Steve shares his perspective on his childhood, on launching and being pushed out of Apple, on his time with Pixar and NeXT, and on his ultimate return to the company that started it all.Featuring an introduction by Laurene Powell Jobs and edited by Leslie...\nDescription: A curated collection of Steve’s speeches, interviews and correspondence, Make Something Wonderful offers an unparalleled window into how one of the world’s most creative entrepreneurs approached his life and work. Across the pages of this book, Steve shares his perspective on his childhood, on launching and being pushed out of Apple, on his time with Pixar and NeXT, and on his ultimate return to the company that started it all.Featuring an introduction by Laurene Powell Jobs and edited by Leslie Berlin, founding executive director of the Steve Jobs Archive, this beautiful handbook is designed to inspire readers to make their own “wonderful somethings” that move the world forward.",
+          "metadata": {
+            "genre": "Biography",
+            "difficulty": "Trung bình",
+            "tags": "tài chính",
+            "title": "Make Something Wonderful",
+            "target_audience": "Mọi độc giả",
+            "mood": "Tích cực",
+            "author": "Steve Jobs",
+            "year": 2023,
+            "author_id": "nan",
+            "book_id": "077748f7",
+            "rating": 3.5,
+            "featured": false
+          },
+          "distance": 0.33467602729797363
+        }
+      ],
+      "location": null
+    }
+  ]
+}

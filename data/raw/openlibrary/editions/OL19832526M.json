@@ -1,0 +1,152 @@
+{
+  "publishers": [
+    "Pickering & Chatto",
+    "Routledge"
+  ],
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "",
+      "title": "v. 1. 1878-1900",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "v. 2. 1901-1913",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "v. 3. 1913-1930",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "v. 4. 1930-1946 and index.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    }
+  ],
+  "isbn_10": [
+    "1851961739",
+    "1851961704",
+    "1851961712",
+    "1851961720",
+    "1851961585"
+  ],
+  "lc_classifications": [
+    "PR5776 .A4 1996",
+    "PR5776.A4 1996"
+  ],
+  "key": "/books/OL19832526M",
+  "authors": [
+    {
+      "key": "/authors/OL13066A"
+    }
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "contributions": [
+    "Smith, David C. 1929-"
+  ],
+  "lccn": [
+    "96031086"
+  ],
+  "pagination": "4 v. :",
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:638917287:2091",
+    "bwb:9781851961733",
+    "marc:marc_loc_2016/BooksAll.2016.part25.utf8:97131833:1197",
+    "bwb:9781851961726",
+    "bwb:9781851961719",
+    "bwb:9781851961702",
+    "bwb:9781851961580",
+    "promise:bwb_daily_pallets_2022-03-17",
+    "amazon:1851961739",
+    "promise:bwb_daily_pallets_2023-05-29:KS-388-884",
+    "promise:bwb_daily_pallets_2023-05-29:KS-388-885",
+    "marc:marc_columbia/Columbia-extract-20221130-004.mrc:432512033:1666",
+    "marc:harvard_bibliographic_metadata/20220215_020.bib.mrc:74740243:2968"
+  ],
+  "title": "The correspondence of H.G. Wells",
+  "work_titles": [
+    "Correspondence."
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographical references."
+  },
+  "identifiers": {
+    "goodreads": [
+      "4037497",
+      "1920832",
+      "269335"
+    ],
+    "librarything": [
+      "3276519"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "dewey_decimal_class": [
+    "823/.912",
+    "B"
+  ],
+  "subjects": [
+    "Wells, H. G. -- 1866-1946 -- Correspondence",
+    "Novelists, English -- 20th century -- Correspondence",
+    "Journalists -- Great Britain -- Correspondence"
+  ],
+  "publish_date": "1998",
+  "publish_country": "vtu",
+  "by_statement": "edited by David C. Smith.",
+  "works": [
+    {
+      "key": "/works/OL52187W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "local_id": [
+    "urn:bwbsku:P7-DKR-681",
+    "urn:bwbsku:KS-388-884",
+    "urn:bwbsku:KS-388-885"
+  ],
+  "covers": [
+    13589064
+  ],
+  "number_of_pages": 1900,
+  "oclc_numbers": [
+    "503412965",
+    "39483156"
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-24T07:37:38.111618"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-26T07:45:44.903144"
+  }
+}

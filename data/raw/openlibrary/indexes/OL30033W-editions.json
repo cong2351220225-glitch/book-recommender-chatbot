@@ -1,0 +1,2333 @@
+{
+  "links": {
+    "self": "/works/OL30033W/editions.json",
+    "work": "/works/OL30033W",
+    "next": "/works/OL30033W/editions.json?offset=50"
+  },
+  "size": 208,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "MiraVista Press"
+      ],
+      "source_records": [
+        "bwb:9781956221367",
+        "amazon:1956221360"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Best of Alcott",
+      "subtitle": "Jack and Jill",
+      "full_title": "Best of Alcott Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL34989061M",
+      "covers": [
+        13187069
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9781956221367"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-09T18:32:31.252401"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:20:48.444625"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798668818198"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "215",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798668818198"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.386",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL49066846M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T06:22:54.349433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B015QI9H5E"
+        ],
+        "better_world_books": [
+          "BWBM32295306"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W8-AQM-549"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-07-05:W8-AQM-549",
+        "bwb:9798537876861"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL48591506M",
+      "publishers": [
+        "Independently Published"
+      ],
+      "publish_date": "2021",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-07T01:01:15.920297"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798656771269"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "346",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798656771269"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.341",
+      "subtitle": "Pocket Edition",
+      "full_title": "Jack and Jill Pocket Edition",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL48412114M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:54:11.024523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681352730"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "416",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681352730"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.700",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL48298106M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T14:01:57.828291"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B0018N1Z1Q"
+        ],
+        "better_world_books": [
+          "BWBM53389099"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:KS-276-566"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-03-10:KS-276-566",
+        "bwb:9798716089112",
+        "bwb:9798745833892",
+        "bwb:9798745833908",
+        "bwb:9798527151312",
+        "bwb:9798527150360",
+        "bwb:9798741629574",
+        "bwb:9798537875628"
+      ],
+      "title": "Jack and Jill",
+      "subtitle": "a village story",
+      "full_title": "Jack and Jill a village story",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL47737631M",
+      "publishers": [
+        "Independently Published"
+      ],
+      "publish_date": "2021",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-04T05:27:51.662191"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798624864054"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "213",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798624864054"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.627",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46832978M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T20:50:15.010494"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1541218671"
+      ],
+      "isbn_13": [
+        "9781541218673"
+      ],
+      "number_of_pages": 150,
+      "physical_format": "paperback",
+      "publish_date": "Dec 20, 2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "amazon:1541218671",
+        "bwb:9781541218673"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "covers": [
+        13255326
+      ],
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46538564M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-04T19:48:30.993026"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T16:02:29.079425"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1776751515"
+      ],
+      "isbn_13": [
+        "9781776751518"
+      ],
+      "physical_format": "mp3 cd",
+      "publish_date": "Feb 04, 2018",
+      "publishers": [
+        "IDB Productions"
+      ],
+      "source_records": [
+        "amazon:1776751515"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "covers": [
+        13255333
+      ],
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46538565M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-04T19:48:46.352135"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798702236957"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "217",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798702236957"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.300",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46741832M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T15:13:16.749510"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798625130820"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "213",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798625130820"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.295",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46790522M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T18:10:14.710324"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798366775120"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "223",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798366775120"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.518",
+      "subtitle": "Square Sized Edition",
+      "full_title": "Jack and Jill Square Sized Edition",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL46154535M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T11:45:41.233769"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B001FGFHE2"
+        ],
+        "better_world_books": [
+          "BWB24455425"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O6-DKB-630"
+      ],
+      "publish_date": "1928-01-01",
+      "publishers": [
+        "A. L. Burt"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-05-23"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL45689048M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T06:52:23.281994"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL36233A"
+        }
+      ],
+      "isbn_13": [
+        "9780316037785"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1997",
+      "publishers": [
+        "Little Brown & Company"
+      ],
+      "source_records": [
+        "bwb:9780316037785"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Friendship, fiction",
+        "Family life, fiction",
+        "New england, fiction",
+        "Winter, fiction"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL44262775M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T20:24:49.582338"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0007EJJHE"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:994-BAB-175"
+      ],
+      "publish_date": "1956-01-01",
+      "publishers": [
+        "Nelson Doubleday/Junior Deluxe Editions"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-10-14"
+      ],
+      "title": "Jack and Jill",
+      "subtitle": "A village story",
+      "full_title": "Jack and Jill A village story",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL43608370M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T19:57:53.750705"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798836928643"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "208",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798836928643"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.373",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL44324789M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-18T00:11:37.566913"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1905",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "05030059"
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "17288282"
+      ],
+      "lc_classifications": [
+        "PZ7.A335 J7"
+      ],
+      "title": "Jack and Jill",
+      "subtitle": "a village story",
+      "by_statement": "by Louisa M. Alcott ... illustrated by Harriet Roosevelt Richards",
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "5 p. l., 334 p., 1 l.",
+      "number_of_pages": 334,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:87048182:965"
+      ],
+      "full_title": "Jack and Jill a village story",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL43251882M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T00:01:59.847248"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1886",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "18450529"
+      ],
+      "title": "Jack and Jill",
+      "subtitle": "a village story",
+      "by_statement": "by Louisa M. Alcott; with illustrations",
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "325 p., [6] leaves of plates",
+      "number_of_pages": 325,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:213054305:879"
+      ],
+      "full_title": "Jack and Jill a village story",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL43571267M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T13:57:20.470458"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1880",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "lc_classifications": [
+        "PZ7.A335 J21 1880"
+      ],
+      "series": [
+        "Women's Studies Archive: Rare Titles from the American Antiquarian Society, 1820-1922",
+        "Women's Studies Archive: Rare Titles from the American Antiquarian Society, 1820-1922"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "First edition.\n\nOriginally published in serial form in St. Nicholas, Dec. 1879-Oct. 1880.\n\nNumber of plates from BAL.\n\nIn original publisher's binding: Blue cloth stamped in gilt and black, with decorated endpapers.\n\nPublisher's advertisements on 6 pages at end."
+      },
+      "links": [
+        {
+          "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio15896991",
+          "title": "Gale, Women's Studies Archive: Rare Titles from the American Antiquarian Society, 1820-1922"
+        }
+      ],
+      "subjects": [
+        "Friendship",
+        "Juvenile fiction",
+        "Winter",
+        "Families",
+        "Children's accidents"
+      ],
+      "title": "Jack and Jill",
+      "subtitle": "a village story",
+      "by_statement": "by Louisa M. Alcott ... ; with illustrations",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "1 online resource (325 pages)",
+      "number_of_pages": 325,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:201827988:1619"
+      ],
+      "full_title": "Jack and Jill a village story",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL43882188M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T13:34:09.455094"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1515426513"
+      ],
+      "isbn_13": [
+        "9781515426516"
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-BRU-432"
+      ],
+      "publish_date": "2018-04-03",
+      "publishers": [
+        "SMK Books"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL43220097M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T21:01:10.960132"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0068PZCTK"
+        ],
+        "better_world_books": [
+          "BWBM24262390"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O8-AKP-602"
+      ],
+      "publish_date": "1928-01-01",
+      "publishers": [
+        "Grosset & Dunlap"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-04-01"
+      ],
+      "title": "Jack and Jill, 1928",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42988728M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-05T22:03:31.590695"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B000Q38FE4"
+        ],
+        "better_world_books": [
+          "BWB15720178"
+        ]
+      },
+      "title": "Jack and Jill Goldsmith Edition",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:T2-EGB-983"
+      ],
+      "publishers": [
+        "Goldsmith Publishing Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-11-09"
+      ],
+      "key": "/books/OL42881066M",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T06:59:46.164318"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-06T02:12:57.707969"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926218"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "256",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926218"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42712919M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T09:36:59.059093"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926225"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "256",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926225",
+        "promise:bwb_daily_pallets_2024-11-13:S0-BMZ-294"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42732560M",
+      "local_id": [
+        "urn:bwbsku:S0-BMZ-294"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T10:59:59.054432"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T10:10:25.480181"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926232"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "256",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926232"
+      ],
+      "title": "Jack and Jill",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42831059M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T17:06:49.560464"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798702236988"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "217",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798702236988"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.491",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42617121M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T03:25:49.227599"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798586139795"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "161",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798586139795"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.236",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42681733M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T07:26:44.020382"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798353122579"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "239",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798353122579"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.536",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42711972M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T09:32:04.848187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721530449"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "160",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721530449"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.264",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42495308M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T13:58:23.164439"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798608133381"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "232",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798608133381"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.677",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42343564M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T16:13:06.065116"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798656771245"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "346",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798656771245"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.591",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42367794M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T20:43:33.905676"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721530432"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "154",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721530432"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.368",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42397978M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T00:51:35.103365"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632190381"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "207",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632190381"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.373",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42212817M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T19:41:39.809706"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798645684389"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "175",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798645684389"
+      ],
+      "title": "Jack and Jill : (5*8)",
+      "weight": "0.250",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42058135M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T17:24:39.304799"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798611923894"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "234",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611923894"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.414",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41981371M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T05:17:04.908618"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781670650955"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "176",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781670650955"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.423",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41992314M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T06:57:13.232586"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781670651464"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "174",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781670651464"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.250",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41992315M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T06:57:13.706108"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781677206025"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "794",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781677206025"
+      ],
+      "title": "Jack and Jill",
+      "weight": "1.045",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41992608M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T07:00:23.281968"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632164443"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "174",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632164443"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.518",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42100097M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T00:38:45.631732"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632164481"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "174",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632164481"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.250",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42202934M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T18:10:50.045458"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798618466875"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "189",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798618466875"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.345",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL42266817M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T04:26:43.533730"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607426927"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "279",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607426927"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.486",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41973325M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T04:05:01.411418"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798638482367"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "276",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798638482367"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.482",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41928614M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T21:13:46.195060"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781654158026"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "550",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781654158026"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.800",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41869186M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T11:51:49.172646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781659657418"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "232",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781659657418"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.318",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41891845M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T15:19:53.788633"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781677206063"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "210",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781677206063"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.232",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41893484M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T15:35:09.518708"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781654158309"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "262",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781654158309"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.614",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41919026M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T19:39:48.564917"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707544394"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "279",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707544394"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.486",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41828956M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T05:48:09.777136"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695439269"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695439269"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.568",
+      "subtitle": "Large Print",
+      "full_title": "Jack and Jill Large Print",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41617420M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T21:14:24.131431"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781696798693"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "548",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781696798693"
+      ],
+      "title": "Jack and Jill",
+      "weight": "0.591",
+      "full_title": "Jack and Jill",
+      "works": [
+        {
+          "key": "/works/OL30033W"
+        }
+      ],
+      "key": "/books/OL41618901M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T21:28:42.419604"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:19:20.555475"
+      }
+    }
+  ]
+}

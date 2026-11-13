@@ -1,0 +1,50 @@
+{
+  "pagination": "1 p.l., 76 p.",
+  "source_records": [
+    "marc:marc_miami_univ_ohio/allbibs0138.out:1616981:695"
+  ],
+  "title": "Pansies and water-lilies",
+  "lccn": [
+    "02019103"
+  ],
+  "series": [
+    "The Children's friend series"
+  ],
+  "number_of_pages": 76,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-27T03:54:59.178470"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T20:41:53.751382"
+  },
+  "publish_date": "1902",
+  "publish_country": "mau",
+  "key": "/books/OL17024424M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "by_statement": "by Louisa M. Alcott",
+  "publish_places": [
+    "Boston",
+    "Little, Brown, and Co"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30002W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 3,
+  "revision": 3
+}

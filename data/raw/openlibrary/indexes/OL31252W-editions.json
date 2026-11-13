@@ -1,0 +1,1592 @@
+{
+  "links": {
+    "self": "/works/OL31252W/editions.json",
+    "work": "/works/OL31252W"
+  },
+  "size": 25,
+  "entries": [
+    {
+      "publishers": [
+        "Państwowy Instytut Wydawniczy"
+      ],
+      "classifications": {},
+      "title": "Podróż Bena",
+      "identifiers": {},
+      "covers": [
+        9249613,
+        9249612
+      ],
+      "isbn_13": [
+        "9788306031232"
+      ],
+      "publish_date": "2005",
+      "key": "/books/OL27895662M",
+      "publish_places": [
+        "Warszawa, Poland"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-01-16T08:48:55.358463"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-11T15:02:16.533911"
+      }
+    },
+    {
+      "title": "Le Monde De Ben (French Edition)",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "publish_date": "2009-04-17",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "2290015385"
+      ],
+      "isbn_13": [
+        "9782290015384"
+      ],
+      "local_id": [
+        "urn:bwbsku:KL-606-726"
+      ],
+      "publishers": [
+        "Editions 84"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-05-15:KL-606-726"
+      ],
+      "full_title": "Le Monde De Ben (French Edition)",
+      "ocaid": "lemondedebenfren0000dori",
+      "key": "/books/OL47777769M",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-17T01:20:27.908508"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-23T01:26:50.317700"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "isbn_13": [
+        "9780007102129"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2000",
+      "publishers": [
+        "Sterling Publishing Co., Inc."
+      ],
+      "source_records": [
+        "bwb:9780007102129"
+      ],
+      "subjects": [
+        "Fiction, psychological"
+      ],
+      "title": "Ben, in the World",
+      "full_title": "Ben, in the World",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "key": "/books/OL44101960M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T04:10:04.746083"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2000",
+      "publish_country": "it",
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "oclc_numbers": [
+        "797816603"
+      ],
+      "dewey_decimal_class": [
+        "823.914"
+      ],
+      "other_titles": [
+        "Ben, in the world"
+      ],
+      "series": [
+        "I Narratori / [Feltrinelli]",
+        "Narratori / Feltrinelli"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Tit. orig.: Ben, in the world."
+      },
+      "title": "Ben nel mondo",
+      "by_statement": "Doris Lessing ; traduzione di Grazia Gatti",
+      "publishers": [
+        "Feltrinelli"
+      ],
+      "publish_places": [
+        "Milano"
+      ],
+      "isbn_10": [
+        "880701579X"
+      ],
+      "isbn_13": [
+        "9788807015793"
+      ],
+      "pagination": "167, [1] p.",
+      "number_of_pages": 167,
+      "ocaid": "bennelmondo0000less",
+      "source_records": [
+        "ia:bennelmondo0000less",
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "covers": [
+        12787898
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "key": "/books/OL38243333M",
+      "local_id": [
+        "urn:bwbsku:KQ-615-369"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-06-14T05:58:06.605818"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Ben En El Mundo",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        },
+        {
+          "key": "/authors/OL9945523A"
+        }
+      ],
+      "publish_date": "Nov 02, 2007",
+      "source_records": [
+        "amazon:9875780952"
+      ],
+      "number_of_pages": 270,
+      "isbn_10": [
+        "9875780952"
+      ],
+      "isbn_13": [
+        "9789875780958"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        12333600
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "key": "/books/OL35626566M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-05T22:21:40.847255"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "isbn_13": [
+        "9780007378623"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "192",
+      "publish_date": "2012",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780007378623"
+      ],
+      "title": "Ben, in the World",
+      "full_title": "Ben, in the World",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "key": "/books/OL35476304M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-02T11:35:15.229468"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Flammarion"
+      ],
+      "weight": "7.8 ounces",
+      "covers": [
+        3080301
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL12399300M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "isbn_13": [
+        "9782080679628"
+      ],
+      "source_records": [
+        "amazon:2080679627"
+      ],
+      "title": "Le Monde de Ben",
+      "number_of_pages": 209,
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "isbn_10": [
+        "2080679627"
+      ],
+      "publish_date": "January 22, 2001",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.4 x 5.8 x 0.6 inches",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Hoffmann & Campe"
+      ],
+      "identifiers": {
+        "librarything": [
+          "176214"
+        ],
+        "goodreads": [
+          "1575052"
+        ]
+      },
+      "source_records": [
+        "amazon:3455043941"
+      ],
+      "title": "Ben in der Welt.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "number_of_pages": 256,
+      "covers": [
+        3204041
+      ],
+      "isbn_13": [
+        "9783455043945"
+      ],
+      "isbn_10": [
+        "3455043941"
+      ],
+      "publish_date": "March 1, 2000",
+      "key": "/books/OL12725698M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "oclc_numbers": [
+        "76136639"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Ben, in the world: the sequel to The fifth child."
+      },
+      "identifiers": {
+        "goodreads": [
+          "3055164"
+        ]
+      },
+      "title": "Fu shi ji ling ren",
+      "subtitle": "Di wu ge hai zi 2",
+      "publish_date": "2001",
+      "publishers": [
+        "Tian pei wen hua you xian gong si",
+        "Zong jing xiao Jiu ge chu ban she"
+      ],
+      "series": [
+        "Yue shi jie -- 9"
+      ],
+      "local_id": [
+        "urn:sfpl:31223081560030"
+      ],
+      "publish_places": [
+        "Taibei Shi"
+      ],
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "pagination": "222 p. ;",
+      "source_records": [
+        "marc:SanFranPL10/SanFranPL10.out:23416266:1907",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:235528164:1877"
+      ],
+      "work_titles": [
+        "Ben, in the world: the sequel to The fifth child."
+      ],
+      "edition_name": "Chu ban",
+      "isbn_10": [
+        "9575608143"
+      ],
+      "publish_country": "ch ",
+      "by_statement": "Duolisi Laixin zhu ; Zhu Enling yi = Ben, in the world / Doris Lessing.",
+      "oclc_numbers": [
+        "48414557"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL23011529M",
+      "number_of_pages": 222,
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T00:10:51.140209"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-19T06:19:45.408716"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins"
+      ],
+      "subtitle": "the sequel to The fifth child",
+      "ia_box_id": [
+        "IA112418"
+      ],
+      "isbn_13": [
+        "9780060196288"
+      ],
+      "isbn_10": [
+        "0060196289"
+      ],
+      "covers": [
+        6963252
+      ],
+      "ia_loaded_id": [
+        "beninworldsequel00less"
+      ],
+      "lc_classifications": [
+        "PR6023.E833 B4 2000",
+        "PR6023.E833B4 2000"
+      ],
+      "key": "/books/OL24949752M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "ocaid": "beninworldsequel00less",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Homeless persons",
+        "Drug traffic",
+        "Human Abnormalities",
+        "Young men",
+        "Bildungsromans",
+        "British",
+        "Fiction"
+      ],
+      "edition_name": "1st ed.",
+      "pagination": "178 p. ;",
+      "source_records": [
+        "ia:beninworldsequel00less",
+        "marc:marc_openlibraries_phillipsacademy/PANO_FOR_IA_05072019.mrc:68424515:1020",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:204201175:2144",
+        "ia:beninworldseque00less",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:36574558:998",
+        "bwb:9780060196288",
+        "promise:bwb_daily_pallets_2022-10-26",
+        "amazon:0060196289",
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:153692150:2328",
+        "marc:harvard_bibliographic_metadata/20220215_029.bib.mrc:120732984:1908"
+      ],
+      "title": "Ben, in the world",
+      "dewey_decimal_class": [
+        "823/.914"
+      ],
+      "number_of_pages": 178,
+      "full_title": "Ben, in the world the sequel to The fifth child",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99089804"
+      ],
+      "subject_places": [
+        "London (England)",
+        "Foreign countries"
+      ],
+      "local_id": [
+        "urn:phillips:31867000881560",
+        "urn:sfpl:31223129345709",
+        "urn:sfpl:31223082621708",
+        "urn:sfpl:31223108321655",
+        "urn:bwbsku:T2-DZL-404"
+      ],
+      "publish_date": "2000",
+      "publish_country": "nyu",
+      "by_statement": "Doris Lessing",
+      "oclc_numbers": [
+        "43186062"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "\"Ben Lovatt can never fit in. To those he meets, he seems awkward: too big, too strong, inhumanly made. He baffles and he terrifies: those who do not understand him want him locked up.\".\n\n\"His own mother locked him up; then, guilty, she liberated him. But her unyielding love for him corroded their family; this fifth child broke the home into bits. And now he has come of age and again finds himself bewildered and alone. He searches in the faces of those he meets to see the hostility there, or the fear, or more rarely the kindness. Occasionally a gentler, less fearful person understands his need, how hard he is trying to fit in.\n\nMostly people make use of him, and he finds himself in the south of France, in Brazil, and in the mountains of the Andes, where at last he discovers where he has come from and who is people are\"--BOOK JACKET."
+      },
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-08-11T01:39:46.469822"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-31T18:40:49.000768"
+      }
+    },
+    {
+      "publishers": [
+        "ISIS Large Print Books"
+      ],
+      "number_of_pages": 208,
+      "covers": [
+        4702720
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7986314M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Fiction - General"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "source_records": [
+        "amazon:0753163810:cs:1279692337:230333"
+      ],
+      "title": "Ben, in the World",
+      "identifiers": {
+        "goodreads": [
+          "492662"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "isbn_13": [
+        "9780753163818"
+      ],
+      "isbn_10": [
+        "0753163810"
+      ],
+      "publish_date": "January 2002",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Harpercollins Pub Ltd"
+      ],
+      "number_of_pages": 192,
+      "subtitle": "The Sequel to \"the Fifth Child\"",
+      "covers": [
+        1478
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL9210628M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "subjects": [
+        "Modern fiction",
+        "Medical",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0002261952:o-0:682344815:224674",
+        "amazon:0002261952:1:364148320:226390"
+      ],
+      "title": "Ben, in the World",
+      "identifiers": {
+        "goodreads": [
+          "309886"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "isbn_13": [
+        "9780002261951"
+      ],
+      "isbn_10": [
+        "0002261952"
+      ],
+      "publish_date": "November 2000",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Harper Perennial"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "245839"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "subtitle": "The Sequel to the Fifth Child",
+      "covers": [
+        41131
+      ],
+      "key": "/books/OL7285212M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0060934654:o-3:2385440051:243233",
+        "amazon:0060934654:4:1898872089:243123",
+        "bwb:9780060934651"
+      ],
+      "title": "Ben, In the World",
+      "number_of_pages": 192,
+      "isbn_13": [
+        "9780060934651"
+      ],
+      "isbn_10": [
+        "0060934654"
+      ],
+      "publish_date": "July 24, 2001",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Flamingo"
+      ],
+      "number_of_pages": 178,
+      "subtitle": "the sequel to The fifth child",
+      "isbn_10": [
+        "0002261952"
+      ],
+      "pagination": "178 p. ;",
+      "covers": [
+        5596390
+      ],
+      "key": "/books/OL21745904M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:1504768406:1125",
+        "bwb:9780002261951",
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:396446268:1057"
+      ],
+      "title": "Ben, in the world",
+      "dewey_decimal_class": [
+        "823.914"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "309886"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "British -- Foreign countries -- Fiction",
+        "Abnormalities, Human -- Fiction",
+        "Homeless persons -- Fiction",
+        "Drug traffic -- Fiction",
+        "Young men -- Fiction",
+        "Teenagers -- Fiction",
+        "Mothers and sons -- Fiction",
+        "Self-realization -- Fiction",
+        "London (England) -- Fiction"
+      ],
+      "publish_date": "2000",
+      "publish_country": "enk",
+      "by_statement": "Doris Lessing.",
+      "oclc_numbers": [
+        "43632268"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-03T19:27:20.483495"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-16T10:32:32.550266"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2154293"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "subtitle": "The Sequel to the Fifth Child",
+      "covers": [
+        23215
+      ],
+      "key": "/books/OL7275912M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0060196289:o-2:2181818632:238468",
+        "amazon:0060196289:3:1837168657:237331",
+        "marc:marc_ithaca_college/ic_marc.mrc:174976834:919"
+      ],
+      "title": "Ben, in the World",
+      "number_of_pages": 192,
+      "isbn_13": [
+        "9780060196288"
+      ],
+      "isbn_10": [
+        "0060196289"
+      ],
+      "publish_date": "July 25, 2000",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins"
+      ],
+      "covers": [
+        6411340
+      ],
+      "physical_format": "Electronic resource",
+      "key": "/books/OL24262926M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11k.mrc:8052092:1560",
+        "bwb:9780061967870"
+      ],
+      "title": "Ben, In the World",
+      "identifiers": {
+        "overdrive": [
+          "2345741F-949F-4BBE-A702-9306983D33CD"
+        ]
+      },
+      "isbn_13": [
+        "9780061967870"
+      ],
+      "publish_date": "2009",
+      "publish_country": "nyu",
+      "oclc_numbers": [
+        "611570838"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-17T21:18:50.521760"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Harper Perennial"
+      ],
+      "identifiers": {
+        "librarything": [
+          "176214"
+        ],
+        "goodreads": [
+          "245839"
+        ]
+      },
+      "subtitle": "The Sequel to the Fifth Child",
+      "weight": "5.4 ounces",
+      "isbn_10": [
+        "0060934654"
+      ],
+      "covers": [
+        41130
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9239919M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "source_records": [
+        "amazon:0060934654:o-3:2385440051:243233",
+        "amazon:0060934654:4:1898872089:243123"
+      ],
+      "title": "Ben, In the World",
+      "number_of_pages": 192,
+      "isbn_13": [
+        "9780060934651"
+      ],
+      "edition_name": "1 edition",
+      "subjects": [
+        "Psychological",
+        "Fiction - General",
+        "Fiction",
+        "Literary",
+        "Fiction / Literary"
+      ],
+      "publish_date": "July 24, 2001",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5.3 x 0.4 inches",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-28T15:20:11.036391"
+      }
+    },
+    {
+      "publishers": [
+        "Flamingo"
+      ],
+      "number_of_pages": 192,
+      "weight": "5.1 ounces",
+      "covers": [
+        6956
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9214787M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "subjects": [
+        "Modern fiction",
+        "Fiction"
+      ],
+      "edition_name": "New Ed edition",
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "source_records": [
+        "amazon:0006552293:o-0:1753235168:223893",
+        "amazon:0006552293:1:1460374541:225802"
+      ],
+      "title": "Ben, in the World",
+      "identifiers": {
+        "goodreads": [
+          "2154324"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "isbn_13": [
+        "9780006552291"
+      ],
+      "isbn_10": [
+        "0006552293"
+      ],
+      "publish_date": "April 2, 2001",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.8 x 5.1 x 0.6 inches",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "btb"
+      ],
+      "number_of_pages": 204,
+      "subtitle": "Roman",
+      "isbn_10": [
+        "3442727413"
+      ],
+      "key": "/books/OL18710977M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "publish_places": [
+        "[Germany]"
+      ],
+      "pagination": "204 p.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2399254560:681",
+        "promise:bwb_daily_pallets_2022-05-23"
+      ],
+      "title": "Ben in der Welt",
+      "work_titles": [
+        "Ben, in the world."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Ben, in the world."
+      },
+      "identifiers": {
+        "librarything": [
+          "176214"
+        ],
+        "goodreads": [
+          "1651676"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.914"
+      ],
+      "subjects": [
+        "Teenagers -- Fiction",
+        "Alienation (Social psychology) -- Fiction"
+      ],
+      "publish_date": "2002",
+      "publish_country": "gw ",
+      "by_statement": "Doris Lessing ; aus dem Englischen von Lutz Kliche.",
+      "oclc_numbers": [
+        "76372830"
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W3-ATJ-599"
+      ],
+      "latest_revision": 29,
+      "revision": 29,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-19T09:01:57.464375"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Harpercollins Pub Ltd"
+      ],
+      "number_of_pages": 192,
+      "subtitle": "The Sequel to \"the Fifth Child\"",
+      "covers": [
+        1477
+      ],
+      "key": "/books/OL7255912M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "isbn_13": [
+        "9780002261951"
+      ],
+      "source_records": [
+        "amazon:0002261952:o-0:682344815:224674",
+        "amazon:0002261952:1:364148320:226390"
+      ],
+      "title": "Ben, in the World",
+      "identifiers": {
+        "goodreads": [
+          "309886"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0002261952"
+      ],
+      "publish_date": "November 2000",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "publishers": [
+        "Flamingo"
+      ],
+      "number_of_pages": 192,
+      "source_records": [
+        "amazon:0006552293:o-0:1753235168:223893",
+        "amazon:0006552293:1:1460374541:225802",
+        "bwb:9780006552291"
+      ],
+      "title": "Ben, in the World",
+      "identifiers": {
+        "goodreads": [
+          "2154324"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "covers": [
+        6955
+      ],
+      "isbn_13": [
+        "9780006552291"
+      ],
+      "isbn_10": [
+        "0006552293"
+      ],
+      "publish_date": "April 2, 2001",
+      "key": "/books/OL7260072M",
+      "authors": [
+        {
+          "key": "/authors/OL27709A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-12-15T17:40:30.893427"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "7025691"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "title": "Ben, in the World",
+      "publish_date": "January 2003",
+      "publishers": [
+        "Ulverscroft Large Print",
+        "Isis Audio Books",
+        "Isis"
+      ],
+      "weight": "12 ounces",
+      "edition_name": "Unabridged edition",
+      "physical_format": "Audio Cassette",
+      "contributions": [
+        "Martyn Read (Narrator)"
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Literary"
+      ],
+      "isbn_13": [
+        "9780753110003"
+      ],
+      "source_records": [
+        "amazon:0753110008:cs:1130184607:222724",
+        "amazon:0753110008"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0753110008"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 6.4 x 1.3 inches",
+      "covers": [
+        13783059
+      ],
+      "key": "/books/OL7985646M",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-19T06:20:23.654746"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "7025693"
+        ]
+      },
+      "title": "Ben, in the World",
+      "publish_date": "October 2001",
+      "publishers": [
+        "ISIS Audio Books"
+      ],
+      "weight": "14.6 ounces",
+      "covers": [
+        4702719
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Modern fiction",
+        "Literary",
+        "Fiction - General",
+        "Fiction",
+        "General"
+      ],
+      "edition_name": "Lrg edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "source_records": [
+        "amazon:0753163802:cs:1279458272:234047",
+        "amazon:0753163802"
+      ],
+      "isbn_13": [
+        "9780753163801"
+      ],
+      "isbn_10": [
+        "0753163802"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.5 x 6.3 x 0.7 inches",
+      "key": "/books/OL7986313M",
+      "number_of_pages": 208,
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-19T06:20:25.389105"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "7025692"
+        ]
+      },
+      "title": "Ben, in the World",
+      "publish_date": "January 2003",
+      "publishers": [
+        "Ulverscroft Large Print"
+      ],
+      "physical_format": "Audio CD",
+      "source_records": [
+        "amazon:075312226X:cs:1202097080:228702",
+        "amazon:075312226X"
+      ],
+      "contributions": [
+        "Martyn Read (Narrator)"
+      ],
+      "isbn_13": [
+        "9780753122266"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "075312226X"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Literary"
+      ],
+      "covers": [
+        13248159
+      ],
+      "key": "/books/OL7985956M",
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-19T06:20:24.942553"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2154293"
+        ],
+        "librarything": [
+          "176214"
+        ]
+      },
+      "title": "Ben, in the World",
+      "subtitle": "The Sequel to the Fifth Child",
+      "publish_date": "July 25, 2000",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "weight": "12.8 ounces",
+      "covers": [
+        23216
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Modern fiction",
+        "Lessing, Doris - Prose & Criticism",
+        "Fiction - General",
+        "Fiction",
+        "England",
+        "Literary",
+        "Psychological",
+        "Reading Group Guide",
+        "Abnormalities, Human",
+        "British",
+        "Foreign countries",
+        "Homeless persons"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "This card had afflicted Ben with such a despair of rage that he took it from his mother, and ran out of the house."
+      },
+      "source_records": [
+        "amazon:0060196289:o-2:2181818632:238468",
+        "amazon:0060196289:3:1837168657:237331"
+      ],
+      "isbn_13": [
+        "9780060196288"
+      ],
+      "isbn_10": [
+        "0060196289"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 5.8 x 0.8 inches",
+      "key": "/books/OL9230620M",
+      "number_of_pages": 192,
+      "works": [
+        {
+          "key": "/works/OL31252W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-19T06:20:33.699152"
+      }
+    }
+  ]
+}

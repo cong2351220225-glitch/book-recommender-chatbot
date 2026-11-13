@@ -1,0 +1,660 @@
+{
+  "links": {
+    "self": "/works/OL77413W/editions.json",
+    "work": "/works/OL77413W"
+  },
+  "size": 8,
+  "entries": [
+    {
+      "publishers": [
+        "Arbor House"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "735364"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "subtitle": "struggle and triumph in the jungles of Belize",
+      "isbn_10": [
+        "0877958254"
+      ],
+      "subject_place": [
+        "Belize",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)",
+        "Belize.",
+        "United States"
+      ],
+      "lc_classifications": [
+        "QL737.C23 R33 1986",
+        "QL737.C23R33 1986"
+      ],
+      "key": "/books/OL2715021M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "vi, 368 p., [33] p. of plates :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part18.dat:149727480:966",
+        "marc:marc_loc_2016/BooksAll.2016.part17.utf8:44179243:960",
+        "bwb:9780877958253",
+        "marc:harvard_bibliographic_metadata/ab.bib.00.20150123.full.mrc:681627714:1212",
+        "marc:marc_columbia/Columbia-extract-20221130-002.mrc:190795305:1210",
+        "marc:harvard_bibliographic_metadata/20220215_009.bib.mrc:7752656:2217"
+      ],
+      "title": "Jaguar",
+      "dewey_decimal_class": [
+        "333.95/4"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. 353-357.\nMap on lining papers.\nIncludes index."
+      },
+      "number_of_pages": 368,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "86008023"
+      ],
+      "subjects": [
+        "Rabinowitz, Alan, 1953-",
+        "Jaguar -- Belize",
+        "Zoologists -- United States -- Biography",
+        "Belize -- Description and travel",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)"
+      ],
+      "publish_date": "1986",
+      "publish_country": "nyu",
+      "by_statement": "Alan Rabinowitz.",
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "13455640"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-09T06:17:20.580044"
+      }
+    },
+    {
+      "publishers": [
+        "Island Press [for] Shearwater Books"
+      ],
+      "number_of_pages": 378,
+      "subtitle": "one man's struggle to establish the world's first jaguar preserve",
+      "isbn_10": [
+        "155963801X",
+        "1559638028"
+      ],
+      "subject_place": [
+        "Belize",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)",
+        "Belize.",
+        "United States"
+      ],
+      "pagination": "xv, 378 p., [16] p. of plates :",
+      "covers": [
+        787432
+      ],
+      "lc_classifications": [
+        "QL737.C23 R33 2000",
+        "QL737.C23R33 2000"
+      ],
+      "key": "/books/OL59606M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "ocaid": "jaguaronemansstr00rabi",
+      "publish_places": [
+        "Washington, DC"
+      ],
+      "genres": [
+        "Biography."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:26504885:1121",
+        "marc:marc_ithaca_college/ic_marc.mrc:184443468:1096",
+        "ia:jaguaronemansstr00rabi",
+        "amazon:155963801X",
+        "bwb:9781559638029",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:35320315:1222",
+        "ia:jaguaronemansstr0000rabi_n4j8",
+        "promise:bwb_daily_pallets_2022-06-30",
+        "promise:bwb_daily_pallets_2021-06-08",
+        "bwb:9781559638012"
+      ],
+      "title": "Jaguar",
+      "dewey_decimal_class": [
+        "333.95/9755"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 363-367) and index.\nOriginally published: New York : Arbor House, c1986.  With new pref. and afterword."
+      },
+      "identifiers": {
+        "goodreads": [
+          "213258",
+          "2252555"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99088301"
+      ],
+      "subjects": [
+        "Rabinowitz, Alan, 1953-",
+        "Jaguar -- Belize",
+        "Zoologists -- United States -- Biography",
+        "Belize -- Description and travel",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)"
+      ],
+      "publish_date": "2000",
+      "publish_country": "dcu",
+      "by_statement": "Alan Rabinowitz.",
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W7-CFW-374",
+        "urn:bwbsku:P7-AZF-649"
+      ],
+      "latest_revision": 27,
+      "revision": 27,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-31T02:56:58.513285"
+      }
+    },
+    {
+      "publishers": [
+        "HarperCollins"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2252556"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T01:35:17.317599"
+      },
+      "source_records": [
+        "amazon:0002178273:1:66479715:228496",
+        "amazon:0002178273:o-0:391757322:224884"
+      ],
+      "title": "Jaguar",
+      "number_of_pages": 360,
+      "isbn_13": [
+        "9780002178273"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0002178273"
+      ],
+      "publish_date": "August 17, 1987",
+      "key": "/books/OL9209935M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "latest_revision": 7,
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Mammals"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "I could tell it was midday as I maneuvered my truck off the two-lane dirt road called the Southern Highway onto the narrow dirt track that led into the jungle."
+      },
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "Anchor Books"
+      ],
+      "identifiers": {
+        "librarything": [
+          "451728"
+        ],
+        "goodreads": [
+          "2252551"
+        ]
+      },
+      "subtitle": "one man's battle to establish the world's first jaguar preserve",
+      "ia_box_id": [
+        "IA179301"
+      ],
+      "isbn_10": [
+        "0385415192"
+      ],
+      "subject_place": [
+        "Belize",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)",
+        "Belize.",
+        "United States"
+      ],
+      "covers": [
+        7108303
+      ],
+      "ia_loaded_id": [
+        "jaguaronemansbat00rabi"
+      ],
+      "lc_classifications": [
+        "QL737.C23 R33 1991"
+      ],
+      "latest_revision": 8,
+      "key": "/books/OL1547413M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "ocaid": "jaguaronemansbat00rabi",
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "viii, 370 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part22.dat:15288226:1017",
+        "ia:jaguaronemansbat00rabi",
+        "marc:marc_loc_2016/BooksAll.2016.part21.utf8:14712108:1017"
+      ],
+      "title": "Jaguar",
+      "dewey_decimal_class": [
+        "639.9/7974428"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index.\nOriginally published: New York : Arbor House, c1986."
+      },
+      "number_of_pages": 370,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "1st Anchor Books ed.",
+      "lccn": [
+        "91026792"
+      ],
+      "subjects": [
+        "Rabinowitz, Alan 1953-",
+        "Jaguar -- Belize",
+        "Zoologists -- United States -- Biography",
+        "Belize -- Description and travel",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)"
+      ],
+      "publish_date": "1991",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T06:50:17.720516"
+      },
+      "by_statement": "Alan Rabinowitz.",
+      "oclc_numbers": [
+        "24218549"
+      ],
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 8
+    },
+    {
+      "publishers": [
+        "Collins"
+      ],
+      "number_of_pages": 368,
+      "subtitle": "one man's struggle to save jaguars in the wild",
+      "isbn_10": [
+        "0002178273"
+      ],
+      "lc_classifications": [
+        "QL737.C23"
+      ],
+      "key": "/books/OL20935976M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "vi,368p.,(16)p. of plates :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:391039214:901",
+        "ia:jaguaronemansstr0000rabi",
+        "promise:bwb_daily_pallets_2020-06-24",
+        "bwb:9780002178273"
+      ],
+      "title": "Jaguar",
+      "dewey_decimal_class": [
+        "599.74/428"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Originallypublished, New York , Arbor House, 1986.\n\nBibliography, p353-357. - Includes index."
+      },
+      "identifiers": {
+        "goodreads": [
+          "2252556"
+        ],
+        "librarything": [
+          "451728"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Jaguars",
+        "Mammals -- Central America"
+      ],
+      "publish_date": "1987",
+      "publish_country": "xxk",
+      "by_statement": "Alan Rabinowitz.",
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        11657755
+      ],
+      "ocaid": "jaguaronemansstr0000rabi",
+      "local_id": [
+        "urn:bwbsku:KN-676-561"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T01:41:02.660438"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T05:09:50.877939"
+      }
+    },
+    {
+      "publishers": [
+        "William Morrow & Co"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "735364"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "subtitle": "Struggle and Triumph in the Jungles of Belize",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-09T20:53:00.238512"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL8114499M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "subjects": [
+        "Wildlife",
+        "Jaguars",
+        "Biography",
+        "Animals",
+        "Jaguar",
+        "Zoologists",
+        "United States",
+        "General",
+        "Rabinowitz, Alan",
+        "Belize"
+      ],
+      "isbn_13": [
+        "9780877958253"
+      ],
+      "source_records": [
+        "amazon:0877958254:eb:2781601271:167738"
+      ],
+      "title": "Jaguar",
+      "number_of_pages": 368,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0877958254"
+      ],
+      "publish_date": "November 1986",
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "HarperCollins Publishers Ltd"
+      ],
+      "number_of_pages": 360,
+      "source_records": [
+        "amazon:0002178273:1:66479715:228496",
+        "amazon:0002178273:o-0:391757322:224884"
+      ],
+      "title": "Jaguar",
+      "identifiers": {
+        "goodreads": [
+          "2252556"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-04T22:35:49.360598"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "isbn_13": [
+        "9780002178273"
+      ],
+      "isbn_10": [
+        "0002178273"
+      ],
+      "publish_date": "August 17, 1987",
+      "key": "/books/OL7255219M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "latest_revision": 7,
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "I could tell it was midday as I maneuvered my truck off the two-lane dirt road called the Southern Highway onto the narrow dirt track that led into the jungle."
+      },
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "Island Press"
+      ],
+      "number_of_pages": 416,
+      "subtitle": "One Man's Struggle To Establish The World's First Jaguar Preserve",
+      "weight": "1.5 pounds",
+      "covers": [
+        787433
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-10T05:52:57.603101"
+      },
+      "latest_revision": 8,
+      "key": "/books/OL8611776M",
+      "authors": [
+        {
+          "key": "/authors/OL39424A"
+        }
+      ],
+      "subjects": [
+        "NATURAL HISTORY, COUNTRY LIFE & PETS",
+        "Rabinowitz, Alan,",
+        "Essays & Travelogues",
+        "Description and travel",
+        "Wildlife",
+        "Nature",
+        "Environmental Studies",
+        "Nature/Ecology",
+        "General",
+        "Environmental Conservation & Protection - General",
+        "Travel / Essays & Travelogues",
+        "Zoologists",
+        "Biography",
+        "United States",
+        "1953-",
+        "Belize",
+        "Cockscomb Forest Reserve/Jaguar Preserve (Belize)",
+        "Jaguar"
+      ],
+      "edition_name": "1 edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "I could tell it was midday as I maneuvered my truck off the two-lane dirt road called the Southern Highway onto the narrow dirt track that led into the jungle."
+      },
+      "source_records": [
+        "amazon:1559638028:fl:1749513264:253133"
+      ],
+      "title": "Jaguar",
+      "identifiers": {
+        "goodreads": [
+          "213258"
+        ],
+        "librarything": [
+          "451728"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "isbn_13": [
+        "9781559638029"
+      ],
+      "isbn_10": [
+        "1559638028"
+      ],
+      "publish_date": "February 2, 2000",
+      "works": [
+        {
+          "key": "/works/OL77413W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.9 x 1.1 inches",
+      "revision": 8
+    }
+  ]
+}

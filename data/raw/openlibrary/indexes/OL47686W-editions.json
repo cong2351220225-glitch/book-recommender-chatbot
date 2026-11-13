@@ -1,0 +1,105 @@
+{
+  "links": {
+    "self": "/works/OL47686W/editions.json",
+    "work": "/works/OL47686W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "p. [65]-109.",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:1217516952:1000",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:635282090:699",
+        "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:330935687:1169"
+      ],
+      "title": "Sir Peter Harpdon's end",
+      "series": [
+        "English and American drama of the nineteenth century"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Half title.\n\nIn Morris, William, 1834-1896.  The defence of Guenevere, and other poems.  London : Ellis & White, 1883.\n\nMicroopaque. New York : Readex Microprint, 1970. 1 microopaque ; 23 x 15 cm. (English and American drama of the nineteenth century. English)"
+      },
+      "number_of_pages": 109,
+      "physical_format": "Microform",
+      "publish_date": "1970",
+      "publish_country": "nyu",
+      "key": "/books/OL17809611M",
+      "by_statement": "[by William Morris]",
+      "oclc_numbers": [
+        "8898551"
+      ],
+      "works": [
+        {
+          "key": "/works/OL47686W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-01T07:24:29.421831"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T15:40:40.983336"
+      }
+    },
+    {
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "p. [65]-109",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0116.out:10416555:961"
+      ],
+      "title": "Sir Peter Harpdon's end",
+      "series": [
+        "English and American drama of the nineteenth century"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Half title\n\nIn Morris, William, 1834-1896.  The defence of Guenevere, and other poems.  London : Ellis & White, 1883\n\nMicroopaque. New York : Readex Microprint, 1970. 1 microopaque ; 23 x 15 cm. (English and American drama of the nineteenth century. English)"
+      },
+      "number_of_pages": 109,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-18T16:22:45.846503"
+      },
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-04T17:04:05.647848"
+      },
+      "publish_date": "1970",
+      "publish_country": "nyu",
+      "key": "/books/OL15152128M",
+      "authors": [
+        {
+          "key": "/authors/OL28409A"
+        }
+      ],
+      "by_statement": "[by William Morris]",
+      "latest_revision": 3,
+      "works": [
+        {
+          "key": "/works/OL47686W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

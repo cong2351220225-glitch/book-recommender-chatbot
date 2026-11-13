@@ -1,0 +1,39 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-05T01:22:27.991368"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL454041W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL25766A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:23:09.948630"
+  },
+  "title": "Where the river runs north",
+  "subject_places": [
+    "New River Gorge Region (W. Va.)",
+    "West Virginia"
+  ],
+  "subjects": [
+    "Genealogy"
+  ],
+  "subject_people": [
+    "Fox family",
+    "Gwyn family",
+    "O'Connor family"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

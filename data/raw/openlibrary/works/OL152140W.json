@@ -1,0 +1,49 @@
+{
+  "first_publish_date": "1999",
+  "description": {
+    "type": "/type/text",
+    "value": "Bored with her ordinary pets, a young girl chooses a monster from the pet store, but soon finds that it is more trouble than she expected."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-04T05:17:22.973752"
+  },
+  "title": "There's a wardrobe in my monster!",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-19T23:22:20.267455"
+  },
+  "covers": [
+    1927628
+  ],
+  "lc_classifications": [
+    "PZ7.G2927 Th 1999"
+  ],
+  "latest_revision": 5,
+  "key": "/works/OL152140W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL22151A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "[E]"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Monsters",
+    "Pets",
+    "Children's fiction",
+    "Monsters, fiction",
+    "Fear, fiction"
+  ],
+  "revision": 5
+}

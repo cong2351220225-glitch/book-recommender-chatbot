@@ -1,0 +1,18 @@
+{
+  "id": "5212a11c-6377-49ac-81fe-5ec6bfa88296",
+  "title": "Thời tiết ngày mai ở thành phố Paris thế",
+  "timestamp": "2026-11-02 18:30:24",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thành phố Paris thế nào?",
+      "timestamp": "18:30"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn, làm một trợ lý AI, tôi không có khả năng cập nhật dữ liệu thời tiết theo thời gian thực nên không thể cung cấp dự báo chính xác cho thời tiết ngày mai tại Paris.\n\nĐể xem thông tin thời tiết cập nhật mới nhất, bạn có thể kiểm tra nhanh qua ứng dụng thời tiết trên điện thoại, Google Weather hoặc các trang web như AccuWeather và Weather.com nhé.\n\nNếu bạn cần hỗ trợ thông tin kiến thức, học tập hay dịch thuật, viết lách khác, hãy cứ nhắn cho tôi biết nhé!",
+      "timestamp": "18:30",
+      "sources": []
+    }
+  ]
+}

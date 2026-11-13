@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "Minuit",
+    "MINUIT"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "6722275"
+    ]
+  },
+  "subtitle": "trois explications",
+  "isbn_10": [
+    "2707319724"
+  ],
+  "lc_classifications": [
+    "PQ2663.O695 A97 2006"
+  ],
+  "key": "/books/OL16270585M",
+  "authors": [
+    {
+      "key": "/authors/OL512517A"
+    }
+  ],
+  "publish_places": [
+    "Paris"
+  ],
+  "pagination": "74 p. ;",
+  "title": "L' autre",
+  "lccn": [
+    "2007397042"
+  ],
+  "number_of_pages": 74,
+  "languages": [
+    {
+      "key": "/languages/fre"
+    }
+  ],
+  "publish_date": "2006",
+  "publish_country": "fr ",
+  "works": [
+    {
+      "key": "/works/OL3189758W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "by_statement": "Enzo Cormann.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part34.utf8:256279791:470",
+    "amazon:2707319724"
+  ],
+  "covers": [
+    13852841
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-23T01:14:19.338519"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-07T11:48:21.923139"
+  }
+}

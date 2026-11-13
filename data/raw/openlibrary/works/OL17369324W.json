@@ -1,0 +1,37 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:04:50.578255"
+  },
+  "subtitle": "Pencemaran Satu Pengajaran",
+  "key": "/works/OL17369324W",
+  "links": [
+    {
+      "url": "https://bukudbp.com/collections/kanak-kanak/products/siri-alam-sekitar-pencemaran-satu-pengajaran",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Laman Web Dewan Bahasa & Pustaka"
+    }
+  ],
+  "title": "Siri Alam Sekitar",
+  "latest_revision": 2,
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7294361A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:05:34.489581"
+  },
+  "revision": 2
+}

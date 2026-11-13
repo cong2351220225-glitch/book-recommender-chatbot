@@ -1,0 +1,84 @@
+{
+  "links": {
+    "self": "/works/OL651113W/editions.json",
+    "work": "/works/OL651113W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Campanotto"
+      ],
+      "isbn_10": [
+        "8845600157"
+      ],
+      "series": [
+        "Zeta università ;",
+        "68",
+        "Zeta-università ;",
+        "68."
+      ],
+      "lc_classifications": [
+        "B395 .C68 1997",
+        "B395 .C76 1997"
+      ],
+      "key": "/books/OL429525M",
+      "authors": [
+        {
+          "key": "/authors/OL50579A"
+        }
+      ],
+      "publish_places": [
+        "Pasian di Prato, UD"
+      ],
+      "pagination": "292 p. :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:83765642:753",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:210027364:1147",
+        "marc:harvard_bibliographic_metadata/20220215_040.bib.mrc:281241675:1552"
+      ],
+      "title": "Platone e il gioco dello spreco della filosofia",
+      "lccn": [
+        "98136582"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 287-292) and index.\n\"Saggi.\""
+      },
+      "number_of_pages": 292,
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "subjects": [
+        "Plato -- Criticism and interpretation.",
+        "Philosophy, Ancient."
+      ],
+      "publish_date": "1997",
+      "publish_country": "it ",
+      "by_statement": "Giancarlo Croci.",
+      "works": [
+        {
+          "key": "/works/OL651113W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "38257009"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-24T18:46:25.694956"
+      }
+    }
+  ]
+}

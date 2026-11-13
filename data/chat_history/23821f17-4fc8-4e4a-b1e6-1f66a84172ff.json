@@ -1,0 +1,18 @@
+{
+  "id": "23821f17-4fc8-4e4a-b1e6-1f66a84172ff",
+  "title": "Thời tiết ngày mai ở thành phố Paris thế",
+  "timestamp": "2026-11-02 14:51:04",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thành phố Paris thế nào?",
+      "timestamp": "14:50"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, mình đang gặp trục trặc khi trả lời. Bạn thử nhắn lại cho mình nhé.",
+      "timestamp": "14:50",
+      "sources": []
+    }
+  ]
+}

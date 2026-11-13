@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "DK Print World"
+  ],
+  "number_of_pages": 717,
+  "weight": "2.6 pounds",
+  "covers": [
+    2267662
+  ],
+  "edition_name": "1 edition",
+  "physical_format": "Hardcover",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T12:17:20.754774"
+  },
+  "latest_revision": 4,
+  "key": "/books/OL9782167M",
+  "authors": [
+    {
+      "key": "/authors/OL2622226A"
+    }
+  ],
+  "subjects": [
+    "India",
+    "Asian / Middle Eastern history",
+    "Cultural studies",
+    "Encyclopaedias & Reference Works",
+    "Hinduism",
+    "Nonfiction / General"
+  ],
+  "isbn_13": [
+    "9788124601280"
+  ],
+  "source_records": [
+    "amazon:8124601283:2-at:2533417420:174619"
+  ],
+  "title": "Classical Dictionary of India",
+  "identifiers": {
+    "librarything": [
+      "8483656"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "8124601283"
+  ],
+  "publish_date": "January 1, 1999",
+  "works": [
+    {
+      "key": "/works/OL259364W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.9 x 5.7 x 2 inches",
+  "revision": 4
+}

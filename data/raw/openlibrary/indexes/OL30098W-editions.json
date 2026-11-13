@@ -1,0 +1,356 @@
+{
+  "links": {
+    "self": "/works/OL30098W/editions.json",
+    "work": "/works/OL30098W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "publishers": [
+        "Bantam Books",
+        "Brand: Skylark",
+        "Skylark"
+      ],
+      "series": [
+        "Choose your own adventure -- 142"
+      ],
+      "covers": [
+        8871762,
+        7295475
+      ],
+      "key": "/books/OL24513936M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Copyright Paperback Collection (Library of Congress)"
+      ],
+      "pagination": "118 p. :",
+      "source_records": [
+        "marc:marc_loc_updates/v38.i33.records.utf8:16130233:758",
+        "ia:realitymachine00pack",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:174320898:758",
+        "bwb:9780553564013",
+        "amazon:0553564013"
+      ],
+      "title": "The Reality Machine",
+      "number_of_pages": 118,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1993",
+      "publish_country": "nyu",
+      "by_statement": "by Edward Packard ; illustrated by June Brigman",
+      "works": [
+        {
+          "key": "/works/OL30098W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "ocaid": "realitymachine00pack",
+      "isbn_10": [
+        "0553564013"
+      ],
+      "lccn": [
+        "98813974"
+      ],
+      "oclc_numbers": [
+        "29370662"
+      ],
+      "lc_classifications": [
+        "CPB Box no. 1263 vol. 7"
+      ],
+      "subtitle": "Choose Your Own Adventure #142",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-12-08T22:19:46.052307"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-24T17:18:06.673644"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Turtleback\r\nChoose Your Own Adventure"
+      },
+      "identifiers": {
+        "goodreads": [
+          "6846165"
+        ]
+      },
+      "title": "The Reality Machine",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "January 1993",
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780606059855"
+      ],
+      "isbn_10": [
+        "0606059857"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Children's 9-12"
+      ],
+      "source_records": [
+        "amazon:0606059857"
+      ],
+      "key": "/books/OL9655858M",
+      "number_of_pages": 118,
+      "works": [
+        {
+          "key": "/works/OL30098W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-17T02:11:50.485072"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Choose Your Own Adventure"
+      },
+      "identifiers": {
+        "librarything": [
+          "800822"
+        ],
+        "goodreads": [
+          "191023"
+        ]
+      },
+      "title": "The Reality Machine",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "November 1, 1993",
+      "publishers": [
+        "Skylark"
+      ],
+      "weight": "3.4 ounces",
+      "series": [
+        "Choose Your Own Adventure No. 142"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Adventure game-books / choose your own adventure",
+        "Fiction",
+        "Video games",
+        "Children's 9-12 - Fiction - General",
+        "Children: Grades 4-6",
+        "Virtual reality",
+        "Action & Adventure - General",
+        "Juvenile Fiction / Action & Adventure",
+        "Plot-your-own stories",
+        "Specimens"
+      ],
+      "isbn_13": [
+        "9780553564013"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553564013"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.9 x 4.2 x 0.4 inches",
+      "source_records": [
+        "amazon:0553564013"
+      ],
+      "key": "/books/OL7829199M",
+      "number_of_pages": 128,
+      "works": [
+        {
+          "key": "/works/OL30098W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-18T05:17:00.783696"
+      }
+    },
+    {
+      "series": [
+        "Elige tu propia aventura -- 56",
+        "Choose your own adventure -- 56."
+      ],
+      "latest_revision": 3,
+      "contributions": [
+        "Brigman, June.",
+        "Grandiccelli, Edith."
+      ],
+      "id": 19325798,
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/pcc_bibs.mrc_rev.mrc:67490607:1233"
+      ],
+      "title": "La maquina de la realidad",
+      "work_titles": [
+        "Reality machine."
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Virtual reality -- Fiction",
+        "Computer games -- Fiction",
+        "Spanish language books"
+      ],
+      "publish_country": "ag ",
+      "oclc_numbers": [
+        "34819171"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "por Edward Packard ; ilustrado por June Brigman ; traduccion, Edith Grandiccelli.",
+      "revision": 3,
+      "publishers": [
+        "Atlantida"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "The reader's decisions control the course of an adventure in a video game parlor where two virtual reality games are waiting to be tested."
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "key": "/books/OL14419321M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Buenos Aires"
+      ],
+      "pagination": "118 p. :",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-12T13:16:41.823916"
+      },
+      "number_of_pages": 118,
+      "isbn_10": [
+        "9500814676"
+      ],
+      "publish_date": "1995",
+      "works": [
+        {
+          "key": "/works/OL30098W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "Bantam Books"
+      ],
+      "number_of_pages": 118,
+      "series": [
+        "Choose your own adventure -- 142"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-18T22:20:41.524078"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL21525660M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "New York",
+        "London"
+      ],
+      "pagination": "118p. ;",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:623709043:578"
+      ],
+      "title": "The reality machine",
+      "dewey_decimal_class": [
+        "813.54"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "191023"
+        ],
+        "librarything": [
+          "800822"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T23:05:46.841543"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553564013"
+      ],
+      "publish_date": "1994",
+      "publish_country": "enk",
+      "by_statement": "Edward Packard.",
+      "works": [
+        {
+          "key": "/works/OL30098W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    }
+  ]
+}

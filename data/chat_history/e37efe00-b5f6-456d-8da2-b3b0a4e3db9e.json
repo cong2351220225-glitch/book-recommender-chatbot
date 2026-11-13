@@ -1,0 +1,18 @@
+{
+  "id": "e37efe00-b5f6-456d-8da2-b3b0a4e3db9e",
+  "title": "Hello",
+  "timestamp": "2026-11-02 13:21:50",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello",
+      "timestamp": "13:21"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Tôi là trợ lý AI của thư viện sách điện tử. Tôi có thể giúp gì cho bạn hôm nay? \n\nBạn có thể hỏi tôi về kiến thức chung, nhờ hỗ trợ học tập, viết lách, chỉnh sửa văn bản hoặc bất kỳ thắc mắc nào khác nhé!",
+      "timestamp": "13:21",
+      "sources": []
+    }
+  ]
+}

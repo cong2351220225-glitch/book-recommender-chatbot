@@ -1,0 +1,253 @@
+{
+  "links": {
+    "self": "/works/OL30081W/editions.json",
+    "work": "/works/OL30081W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "subtitle": "practice, research, and theory",
+      "latest_revision": 2,
+      "contributions": [
+        "Humenick, Sharron Smith."
+      ],
+      "id": 33463945,
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1239962149:541"
+      ],
+      "title": "Childbirth education",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xxu",
+      "by_statement": "Francine H. Nichols, Sharron Smith Humenick.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "W. B. Saunders"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "key": "/books/OL22828412M",
+      "authors": [
+        {
+          "key": "/authors/OL26683A"
+        }
+      ],
+      "publish_places": [
+        "Philadelphia"
+      ],
+      "pagination": "xxix,586p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-01-05T03:25:32.486049"
+      },
+      "number_of_pages": 586,
+      "isbn_10": [
+        "0721667791"
+      ],
+      "publish_date": "1988",
+      "works": [
+        {
+          "key": "/works/OL30081W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "Saunders"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "4004736"
+        ],
+        "librarything": [
+          "7728472"
+        ],
+        "doi": [
+          "10.1604/9780721620527"
+        ]
+      },
+      "subtitle": "practice, research, and theory",
+      "isbn_10": [
+        "0721620523"
+      ],
+      "covers": [
+        4123526
+      ],
+      "lc_classifications": [
+        "RG973 .N53 1988",
+        "RG973.N53 1988"
+      ],
+      "key": "/books/OL2394674M",
+      "authors": [
+        {
+          "key": "/authors/OL26683A"
+        }
+      ],
+      "publish_places": [
+        "Philadelphia"
+      ],
+      "contributions": [
+        "Humenick, Sharron Smith."
+      ],
+      "pagination": "xxix, 586 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part19.dat:95610459:803",
+        "amazon:0721620523",
+        "marc:marc_loc_2016/BooksAll.2016.part18.utf8:10447178:803",
+        "marc:marc_columbia/Columbia-extract-20221130-008.mrc:502630678:1369",
+        "bwb:9780721620527",
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:482842128:883",
+        "marc:harvard_bibliographic_metadata/20220215_044.bib.mrc:244082306:1976"
+      ],
+      "title": "Childbirth education",
+      "dewey_decimal_class": [
+        "618.4"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographies and indexes."
+      },
+      "number_of_pages": 586,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "87024323"
+      ],
+      "subjects": [
+        "Childbirth -- Study and teaching",
+        "Labor",
+        "Parents -- education",
+        "Pregnancy"
+      ],
+      "publish_date": "1988",
+      "publish_country": "pau",
+      "by_statement": "Francine H. Nichols, Sharron Smith Humenick.",
+      "oclc_numbers": [
+        "16581975"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30081W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-04T21:36:37.847681"
+      }
+    },
+    {
+      "publishers": [
+        "Saunders"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1343260"
+        ],
+        "librarything": [
+          "990307"
+        ]
+      },
+      "subtitle": "practice, research and  theory",
+      "isbn_10": [
+        "0721680097"
+      ],
+      "covers": [
+        458566
+      ],
+      "lc_classifications": [
+        "RG973 .N53 2000",
+        "RG973.N53 2000"
+      ],
+      "key": "/books/OL40979M",
+      "authors": [
+        {
+          "key": "/authors/OL26683A"
+        }
+      ],
+      "ocaid": "childbirtheducat0000nich",
+      "publish_places": [
+        "Philadelphia"
+      ],
+      "contributions": [
+        "Humenick, Sharron Smith."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "xxviii, 731 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:9680754:821",
+        "amazon:0721680097",
+        "ia:childbirtheducat0000nich",
+        "bwb:9780721680095",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:1714970:821",
+        "marc:marc_columbia/Columbia-extract-20221130-009.mrc:78002975:4198"
+      ],
+      "title": "Childbirth education",
+      "dewey_decimal_class": [
+        "618.4"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index."
+      },
+      "number_of_pages": 731,
+      "edition_name": "2nd ed.",
+      "lccn": [
+        "99032238"
+      ],
+      "subjects": [
+        "Childbirth -- Study and teaching",
+        "Labor",
+        "Health Promotion",
+        "Parents -- education"
+      ],
+      "publish_date": "2000",
+      "publish_country": "pau",
+      "by_statement": "Francine H. Nichols, Sharron Smith Humenick.",
+      "works": [
+        {
+          "key": "/works/OL30081W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "41355831"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-06T19:37:24.642842"
+      }
+    }
+  ]
+}

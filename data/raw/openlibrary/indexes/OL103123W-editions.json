@@ -1,0 +1,2571 @@
+{
+  "links": {
+    "self": "/works/OL103123W/editions.json",
+    "work": "/works/OL103123W",
+    "next": "/works/OL103123W/editions.json?offset=50"
+  },
+  "size": 264,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Wilhelm Heyne Verlag"
+      ],
+      "publish_date": "1982",
+      "key": "/books/OL62592617M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15257435
+      ],
+      "identifiers": {
+        "bookbrainz": [
+          "d510912f-34a3-4f67-82d3-cdfdcf097f39"
+        ]
+      },
+      "isbn_10": [
+        "3453300440"
+      ],
+      "edition_name": "12. Auflage",
+      "series": [
+        "Heyne Science Fiction & Fantasy: 3112"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "Fahrenheit 451",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Taschenbuch",
+      "number_of_pages": 158,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T15:43:06.204189"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T15:44:53.411409"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "hyspamerica"
+      ],
+      "publish_date": "1986",
+      "key": "/books/OL62530256M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15252485
+      ],
+      "isbn_10": [
+        "9506144419"
+      ],
+      "physical_dimensions": "19.2 x 12 x 1.2 centimeters",
+      "publish_places": [
+        "Argentina"
+      ],
+      "series": [
+        "Ediciones de Ciencia Ficción"
+      ],
+      "number_of_pages": 185,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-08T05:26:09.532933"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-08T05:35:46.725025"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Globo"
+      ],
+      "publish_date": "2014",
+      "key": "/books/OL62233363M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15235399,
+        15246769,
+        -1
+      ],
+      "isbn_13": [
+        "9788525057501"
+      ],
+      "publish_places": [
+        "Brasil"
+      ],
+      "copyright_date": "1953",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Cid Knipel"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "Fahrenheit 451",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Pocket Book",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-07-03T17:32:23.552794"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-18T18:35:28.523814"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Booket"
+      ],
+      "publish_date": "2024",
+      "key": "/books/OL61409301M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9786125027535"
+      ],
+      "covers": [
+        15182499
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-03-18T03:56:08.420357"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-18T03:56:23.179631"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Corgi Books"
+      ],
+      "publish_date": "1972",
+      "key": "/books/OL61336779M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15171080
+      ],
+      "isbn_10": [
+        "055208350X"
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributors": [
+        {
+          "role": "Cover Art",
+          "name": "Bruce Pennington"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T06:01:30.383643"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-18T06:02:21.650667"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Del Rey",
+        "Ballantine Books"
+      ],
+      "publish_date": "1991",
+      "key": "/books/OL61248585M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "goodreads": [
+          "119787"
+        ]
+      },
+      "covers": [
+        15167623
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Hearth and the Salamander",
+          "pagenum": "1",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Seve and the Sand",
+          "pagenum": "69",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Burning Bright",
+          "pagenum": "111",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Afterword",
+          "pagenum": "167",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Coda",
+          "pagenum": "175",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "publish_places": [
+        "New York, USA"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "The 50th anniversary edition",
+      "notes": "First edition: October 1953.\r\nSecond printing: April 1991.",
+      "other_titles": [
+        "Fahrenheit 451: The temperature at which book paper catches fire, and burns..."
+      ],
+      "physical_format": "Paperback",
+      "number_of_pages": 190,
+      "pagination": "190 p ; 18 cm",
+      "isbn_10": [
+        "0345342968"
+      ],
+      "oclc_numbers": [
+        "58795915",
+        "29189279"
+      ],
+      "lccn": [
+        "53011280"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_042.bib.mrc:81574767:1373"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-05T16:53:20.970522"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-05T00:33:39.858999"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Corgi Books"
+      ],
+      "publish_date": "1968",
+      "key": "/books/OL60748154M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15149053
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributors": [
+        {
+          "role": "Cover Art",
+          "name": "Gino D'Achille"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-03T05:09:50.944873"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-03T05:10:38.589028"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Diogines Verlag"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL59741549M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15110801
+      ],
+      "isbn_13": [
+        "9783257247329"
+      ],
+      "publish_places": [
+        "Zürich"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Peter Torberg"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "physical_format": "Taschenbuch",
+      "number_of_pages": 271,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-05T16:03:29.630830"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-05T16:07:38.060337"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "The Ballantine Publishing Group"
+      ],
+      "publish_date": "1953",
+      "key": "/books/OL59206146M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-27T21:08:03.084729"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-27T21:08:03.084729"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL8336888A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 184,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781508760863"
+      ],
+      "subjects": [
+        "Fiction, political",
+        "Fiction, dystopian",
+        "Fiction, science fiction, general"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.336 ",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL55772600M",
+      "identifiers": {},
+      "isbn_13": [
+        "9781508760863"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Raul Bracho"
+        }
+      ],
+      "covers": [
+        15140929
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T08:28:14.695488"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-09T20:43:04.486525"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "better_world_books": [
+          "BWBM57199130"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W8-CEG-033"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-07-26:W8-CEG-033",
+        "ia:fahrenheit4510000unse_i8j7"
+      ],
+      "title": "Fahrenheit 451",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL49213952M",
+      "classifications": {},
+      "publishers": [
+        "Ballantine Books"
+      ],
+      "ocaid": "fahrenheit4510000unse_i8j7",
+      "publish_places": [
+        "New York"
+      ],
+      "publish_date": "1971-11",
+      "copyright_date": "1953",
+      "edition_name": "Twenty-sixth printing",
+      "physical_format": "mass market paperback",
+      "number_of_pages": 147,
+      "pagination": "147p.",
+      "covers": [
+        15141082,
+        14828158
+      ],
+      "lccn": [
+        "53011280"
+      ],
+      "lc_classifications": [
+        "PZ3.B72453 Fah",
+        "PS3503.R167 Fah"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-28T01:06:07.510647"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-10T05:51:16.130846"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Ballantine Books"
+      ],
+      "publish_date": "1970-11",
+      "key": "/books/OL57075515M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "covers": [
+        14828144
+      ],
+      "ocaid": "fahrenheit4510000unse_i6g3",
+      "publish_places": [
+        "New York"
+      ],
+      "copyright_date": "1953",
+      "edition_name": "Twenty-second printing",
+      "physical_format": "mass market paperback",
+      "number_of_pages": 147,
+      "pagination": "147p.",
+      "lc_classifications": [
+        "PS3503.R167 F34 1970"
+      ],
+      "oclc_numbers": [
+        "6116870"
+      ],
+      "source_records": [
+        "ia:fahrenheit4510000unse_i6g3"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-12-08T15:11:48.771873"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-01T15:14:45.718414"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1953",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "by_statement": "Ray Bradbury; Illustrated by Joe Mugnaini",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "oclc_numbers": [
+        "252057799"
+      ],
+      "series": [
+        "Ballantine Books -- 41"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"This is an original publication--not a reprint\"-Flyleaf verso.\n\nAlso contains the short stories \"The playground\" and \"And the rock cried out.\"\n\nCurrey, L. W.  Science fiction and fantasy authors, p. 55"
+      },
+      "contributions": [
+        "Mugnaini, Joseph A., ill"
+      ],
+      "subjects": [
+        "American Science fiction"
+      ],
+      "publishers": [
+        "Ballantine Books, Inc."
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "199 p.",
+      "number_of_pages": 199,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:533728560:1049",
+        "ia:bwb_S0-AUN-176",
+        "marc:harvard_bibliographic_metadata/20220215_016.bib.mrc:245979126:1872"
+      ],
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL49973040M",
+      "covers": [
+        14912671
+      ],
+      "ocaid": "bwb_S0-AUN-176",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T08:28:17.178275"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-04T09:50:22.166884"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1965",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "by_statement": "Ray Bradbury; cover painting by Joe Mugnaini",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "oclc_numbers": [
+        "418735215"
+      ],
+      "series": [
+        "Ballantine Books -- U2138"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"This is an original novel--not a reprint\"-Flyleaf verso."
+      },
+      "contributions": [
+        "Mugnaini, Joseph A., ill"
+      ],
+      "subjects": [
+        "American Science fiction"
+      ],
+      "publishers": [
+        "Ballantine Books, Inc."
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "147 p.",
+      "number_of_pages": 147,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:533756612:707",
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:124229940:1468"
+      ],
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL49973048M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T08:28:25.856503"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-22T00:27:28.353535"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B000MAJWV6"
+        ],
+        "better_world_books": [
+          "BWBM52066132"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O8-CQD-803"
+      ],
+      "publish_date": "1979",
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-10-06:O8-CQD-803",
+        "ia:bwb_S0-AWK-921"
+      ],
+      "title": "Fahrenheit 451",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL46949912M",
+      "classifications": {},
+      "publishers": [
+        "Ballantine Books"
+      ],
+      "covers": [
+        14912873
+      ],
+      "ocaid": "bwb_S0-AWK-921",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 196,
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T03:31:27.217535"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T16:14:10.036436"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "FollettBound"
+      ],
+      "publish_date": "/1993",
+      "key": "/books/OL49829462M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "isbn_9780329046491",
+      "isbn_13": [
+        "9780329046491"
+      ],
+      "classifications": {},
+      "copyright_date": "1982",
+      "number_of_pages": 190,
+      "pagination": "190p.",
+      "edition_name": "1991 Second printing (45)",
+      "physical_format": "library binding",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-05T10:58:07.917140"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-05T11:00:26.013971"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Corgi"
+      ],
+      "publish_date": "1965",
+      "key": "/books/OL49353394M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14415965
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Cover Art",
+          "name": "Josh Kirby"
+        }
+      ],
+      "physical_format": "Paperback",
+      "publish_places": [
+        "London"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:52:26.085618"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:53:02.745010"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Corgi"
+      ],
+      "publish_date": "1963",
+      "key": "/books/OL49353388M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14415959
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Cover Art",
+          "name": "Josh Kirby"
+        }
+      ],
+      "physical_format": "Paperback",
+      "publish_places": [
+        "London"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:33:13.774423"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:33:52.443306"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "title": "Fahrenheit 451",
+      "publishers": [
+        "Corgi"
+      ],
+      "publish_date": "1967",
+      "key": "/books/OL49353372M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14415945
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "publish_places": [
+        "London"
+      ],
+      "contributors": [
+        {
+          "role": "Cover Art",
+          "name": "Gino D'Achille"
+        }
+      ],
+      "physical_format": "Paperback",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:06:28.621581"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-30T10:07:05.417088"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL8301623A"
+        },
+        {
+          "key": "/authors/OL53305A"
+        },
+        {
+          "key": "/authors/OL5726550A"
+        }
+      ],
+      "isbn_13": [
+        "9781951151232"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2020",
+      "publishers": [
+        "Suntup Editions"
+      ],
+      "source_records": [
+        "bwb:9781951151232"
+      ],
+      "subjects": [
+        "Fiction, science fiction, general"
+      ],
+      "title": "Fahrenheit 451 - Artist Gift Edition",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48836691M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T16:08:06.466731"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL8301623A"
+        },
+        {
+          "key": "/authors/OL53305A"
+        }
+      ],
+      "isbn_13": [
+        "9781954848931"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2020",
+      "publishers": [
+        "Suntup Editions"
+      ],
+      "source_records": [
+        "bwb:9781954848931"
+      ],
+      "subjects": [
+        "Fiction, science fiction, general"
+      ],
+      "title": "Fahrenheit 451 - Numbered Edition",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48784087M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T13:45:16.481915"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL8301623A"
+        },
+        {
+          "key": "/authors/OL53305A"
+        }
+      ],
+      "isbn_13": [
+        "9781733075862"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2020",
+      "publishers": [
+        "Suntup Editions"
+      ],
+      "source_records": [
+        "bwb:9781733075862"
+      ],
+      "subjects": [
+        "Fiction, horror"
+      ],
+      "title": "Fahrenheit 451 - Lettered Edition",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48760030M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:35:21.065269"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL1014526A"
+        }
+      ],
+      "isbn_13": [
+        "9784871871143"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "204",
+      "publish_date": "2020",
+      "publishers": [
+        "Ishi Press International"
+      ],
+      "source_records": [
+        "bwb:9784871871143"
+      ],
+      "title": "Fahrenheit 451 Ray Bradbury",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48754945M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:21:33.364598"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781979899093"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "118",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979899093"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.232",
+      "subtitle": "RB Edition",
+      "full_title": "Fahrenheit 451 RB Edition",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48751368M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:10:57.196136"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781514801604"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "78",
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781514801604"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.168",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48752646M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:14:57.490977"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL13010376A"
+        }
+      ],
+      "isbn_13": [
+        "9781530021277"
+      ],
+      "languages": [
+        {
+          "key": "/languages/rus"
+        }
+      ],
+      "pagination": "336",
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781530021277"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.732",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48752937M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:15:51.350872"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9786070764004"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "272",
+      "publish_date": "2020",
+      "publishers": [
+        "Editorial Planeta, S. A."
+      ],
+      "source_records": [
+        "bwb:9786070764004"
+      ],
+      "title": "Fahrenheit 451",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48758212M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T12:30:31.757807"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781545703670"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2017",
+      "publishers": [
+        "eBooks2go Inc"
+      ],
+      "source_records": [
+        "bwb:9781545703670"
+      ],
+      "subjects": [
+        "Education",
+        "Language arts"
+      ],
+      "title": "Fahrenheit 451",
+      "subtitle": "Instructional Guides for Literature",
+      "full_title": "Fahrenheit 451 Instructional Guides for Literature",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48672277M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T08:10:55.781485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781530031832"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "166",
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781530031832"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.250",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48732975M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:18:36.966182"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781975713935"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975713935"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.273",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48736986M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:30:04.212774"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781976454745"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781976454745"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.273",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48737165M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:30:34.146466"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781530031689"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "126",
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781530031689"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.305",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48738777M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:35:30.503802"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781548832797"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "144",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548832797"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.273",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48739197M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:36:40.060661"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781981711468"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781981711468"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.273",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48740051M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:38:48.733075"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781517162917"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "174",
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781517162917"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.323",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48741428M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:42:21.069643"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781976144677"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "142",
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781976144677"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.273",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48745328M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:52:46.819588"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "isbn_13": [
+        "9781530031481"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "122",
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781530031481"
+      ],
+      "title": "Fahrenheit 451",
+      "weight": "0.241",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL48747061M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T11:58:01.487278"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "publish_date": "Sep 01, 2011",
+      "source_records": [
+        "amazon:2701156319"
+      ],
+      "number_of_pages": 288,
+      "publishers": [
+        "BELIN EDUCATION"
+      ],
+      "isbn_10": [
+        "2701156319"
+      ],
+      "isbn_13": [
+        "9782701156316"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (French Edition)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        14158758
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47541425M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T05:46:44.313422"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL50242A"
+        }
+      ],
+      "publish_date": "Feb 05, 2020",
+      "source_records": [
+        "amazon:8475888216"
+      ],
+      "number_of_pages": 264,
+      "publishers": [
+        "Proa"
+      ],
+      "isbn_10": [
+        "8475888216"
+      ],
+      "isbn_13": [
+        "9788475888217"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Fahrenheit 451 Traducció de jaume Subirana. Pròleg de Víctor García Tur",
+      "subtitle": "Traducció de jaume Subirana. Pròleg de Víctor García Tur",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451: Traducció de jaume Subirana. Pròleg de Víctor García Tur"
+      },
+      "covers": [
+        13959052
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47365937M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-14T04:16:08.133564"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL50242A"
+        }
+      ],
+      "publish_date": "Feb 05, 2020",
+      "source_records": [
+        "amazon:8475888216"
+      ],
+      "number_of_pages": 264,
+      "publishers": [
+        "Proa"
+      ],
+      "isbn_10": [
+        "8475888216"
+      ],
+      "isbn_13": [
+        "9788475888217"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Fahrenheit 451 Traducció de jaume Subirana. Pròleg de Víctor García Tur",
+      "subtitle": "Traducció de jaume Subirana. Pròleg de Víctor García Tur",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451: Traducció de jaume Subirana. Pròleg de Víctor García Tur"
+      },
+      "covers": [
+        13959051
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47365938M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-14T04:16:08.142474"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "publish_date": "Jun 29, 2021",
+      "source_records": [
+        "amazon:846634540X"
+      ],
+      "number_of_pages": 272,
+      "publishers": [
+        "DEBOLSILLO"
+      ],
+      "isbn_10": [
+        "846634540X"
+      ],
+      "isbn_13": [
+        "9788466345408"
+      ],
+      "physical_format": "mass market paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (edición escolar)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        13987454
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47391498M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-14T19:44:13.012511"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "publish_date": "Jun 29, 2021",
+      "source_records": [
+        "amazon:846634540X"
+      ],
+      "number_of_pages": 272,
+      "publishers": [
+        "DEBOLSILLO"
+      ],
+      "isbn_10": [
+        "846634540X"
+      ],
+      "isbn_13": [
+        "9788466345408"
+      ],
+      "physical_format": "mass market paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (edición escolar)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        13987453
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47391499M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-14T19:44:12.985973"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL10834146A"
+        }
+      ],
+      "publish_date": "Mar 11, 2021",
+      "source_records": [
+        "amazon:8417125841"
+      ],
+      "number_of_pages": 192,
+      "publishers": [
+        "RESERVOIR BOOKS"
+      ],
+      "isbn_10": [
+        "8417125841"
+      ],
+      "isbn_13": [
+        "9788417125844"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (edición ilustrada)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        13995883
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47398150M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-15T03:21:34.662985"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL10834146A"
+        }
+      ],
+      "publish_date": "Mar 11, 2021",
+      "source_records": [
+        "amazon:8417125841"
+      ],
+      "number_of_pages": 192,
+      "publishers": [
+        "RESERVOIR BOOKS"
+      ],
+      "isbn_10": [
+        "8417125841"
+      ],
+      "isbn_13": [
+        "9788417125844"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (edición ilustrada)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        13995884
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47398151M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-15T03:21:34.661091"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL10834146A"
+        }
+      ],
+      "publish_date": "Oct 21, 2021",
+      "source_records": [
+        "amazon:8466358161"
+      ],
+      "number_of_pages": 192,
+      "publishers": [
+        "DEBOLSILLO"
+      ],
+      "isbn_10": [
+        "8466358161"
+      ],
+      "isbn_13": [
+        "9788466358163"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Fahrenheit 451 (nueva traducción)"
+      },
+      "full_title": "Fahrenheit 451",
+      "covers": [
+        14091275
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL47482813M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-17T12:16:09.644604"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B0012WNTTY"
+        ],
+        "better_world_books": [
+          "BWBM52718576"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P8-CCD-321"
+      ],
+      "publish_date": "1994",
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-12-14",
+        "amazon:8476340958"
+      ],
+      "title": "Fahrenheit 451",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL44791038M",
+      "covers": [
+        14415964,
+        13766795
+      ],
+      "publishers": [
+        "Denoël"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T09:15:45.466040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-17T07:34:30.905066"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2005",
+      "publish_country": "cc",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "other_titles": [
+        "Fahrenheit 451"
+      ],
+      "series": [
+        "Zhong xian jing dian xi lie"
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        },
+        {
+          "key": "/authors/OL10815004A"
+        }
+      ],
+      "subject_times": [
+        "Xiandai"
+      ],
+      "subjects": [
+        "Zhang pian xiao shuo"
+      ],
+      "subject_places": [
+        "Mei guo"
+      ],
+      "title": "华氏451",
+      "by_statement": "Bu lei de bo li, zhu su min",
+      "publishers": [
+        "Zhong qing chu ban she"
+      ],
+      "publish_places": [
+        "Zhong qing"
+      ],
+      "source_records": [
+        "ia:huashi4510000unse"
+      ],
+      "covers": [
+        12971854
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL40215276M",
+      "identifiers": {
+        "goodreads": [
+          "197865542"
+        ]
+      },
+      "classifications": {},
+      "ocaid": "huashi4510000unse",
+      "isbn_10": [
+        "7536671490"
+      ],
+      "isbn_13": [
+        "9787536671492"
+      ],
+      "oclc_numbers": [
+        "302884539"
+      ],
+      "translation_of": "Fahrenheit 451",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "200p.",
+      "physical_format": "paperback",
+      "number_of_pages": 201,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-26T05:06:13.095882"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:40:52.653696"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Fahrenheit 451",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "publish_date": "Aug 30, 2004",
+      "source_records": [
+        "amazon:1415916195"
+      ],
+      "publishers": [
+        "Books on Tape"
+      ],
+      "isbn_10": [
+        "1415916195"
+      ],
+      "isbn_13": [
+        "9781415916193"
+      ],
+      "physical_format": "audio cd",
+      "full_title": "Fahrenheit 451",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "key": "/books/OL39476588M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-30T10:05:31.274157"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:38:19.086270"
+      }
+    },
+    {
+      "publishers": [
+        "Eksmo; SPb.: Domino"
+      ],
+      "source_records": [
+        "amazon:569945537X"
+      ],
+      "title": "451 Fahrenheit 451 po Farengeytu",
+      "number_of_pages": 384,
+      "isbn_13": [
+        "9785699455379"
+      ],
+      "covers": [
+        10489108
+      ],
+      "physical_format": "hardcover",
+      "isbn_10": [
+        "569945537X"
+      ],
+      "publish_date": "Oct 23, 2010",
+      "key": "/books/OL30691794M",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-10-23T18:42:02.972088"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:37:13.204913"
+      }
+    },
+    {
+      "publishers": [
+        "Simon & Schuster"
+      ],
+      "covers": [
+        -1
+      ],
+      "full_title": "Fahrenheit 451",
+      "key": "/books/OL26267092M",
+      "authors": [
+        {
+          "key": "/authors/OL24137A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "190 S.",
+      "source_records": [
+        "ia:isbn_9781607511663"
+      ],
+      "title": "Fahrenheit 451",
+      "notes": "Former edition: cop. 2003.",
+      "number_of_pages": 190,
+      "edition_name": "[Reprinted].",
+      "publish_date": "2007",
+      "publish_country": "nyu",
+      "by_statement": "Ray Bradbury",
+      "works": [
+        {
+          "key": "/works/OL103123W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "1607511665"
+      ],
+      "isbn_13": [
+        "9781607511663"
+      ],
+      "oclc_numbers": [
+        "730444688"
+      ],
+      "classifications": {},
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2017-04-30T11:21:07.058518"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-08-25T13:45:19.249477"
+      }
+    }
+  ]
+}

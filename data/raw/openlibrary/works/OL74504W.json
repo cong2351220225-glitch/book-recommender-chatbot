@@ -1,0 +1,150 @@
+{
+  "description": "The story of a wolf/dog cross, who is raised by Indians, and becomes a deadly fighter.",
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_Fang",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "VIAF ID: 178996936",
+      "url": "https://viaf.org/viaf/178996936",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "title": "White Fang",
+  "covers": [
+    8236920,
+    8893058,
+    -1,
+    10324598,
+    10413582,
+    10139989,
+    10512882,
+    10551306,
+    10551305,
+    10718824,
+    11128984,
+    11106296,
+    11211236,
+    12029928,
+    11426648,
+    11749469,
+    12079029,
+    11569341,
+    12370651,
+    10848601,
+    12123206,
+    12599660,
+    14534828
+  ],
+  "subject_places": [
+    "Canada",
+    "Northern Canada",
+    "Yukon Territory",
+    "Klondike River Valley (Yukon)",
+    "California",
+    "Yukon",
+    "Klondike River Valley",
+    "Alaska"
+  ],
+  "subjects": [
+    "Gold discoveries",
+    "Wolfdogs",
+    "Classic Literature",
+    "American Adventure stories",
+    "Open Library Staff Picks",
+    "Juvenile fiction",
+    "Fiction",
+    "Gold mines and mining",
+    "Historical Fiction",
+    "Wolves",
+    "Human-animal relationships",
+    "Juvenile Literature",
+    "Dogs",
+    "Thriller",
+    "Accelerated Reader",
+    "Mensch",
+    "Survival",
+    "Children: Grades 4-6",
+    "Children: Grades 3-4",
+    "Children's fiction",
+    "Wolves, fiction",
+    "Gold mines and mining, fiction",
+    "American fiction (fictional works by one author)",
+    "Dogs, fiction",
+    "Canada, fiction",
+    "Indians of North America",
+    "Large type books",
+    "Loups",
+    "Romans, nouvelles, etc. pour la jeunesse",
+    "Chiens",
+    "Pôle Nord",
+    "Romans",
+    "Adventure stories",
+    "Nature, fiction",
+    "Fiction, action & adventure",
+    "Fiction, historical, general",
+    "Human-animal relationships, fiction",
+    "History",
+    "Wolfdogs -- Fiction",
+    "Canada, Northern -- Fiction",
+    "Wilderness survival, fiction",
+    "Alaska, fiction",
+    "Yukon, fiction",
+    "California, fiction",
+    "Dogs, juvenile literature",
+    "Adventure and adventurers, fiction"
+  ],
+  "key": "/works/OL74504W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL44633A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_times": [
+    "1867-1914"
+  ],
+  "identifiers": {
+    "wikidata": [
+      "Q152267"
+    ],
+    "bookbrainz": [
+      "98501a1a-2300-4d7e-ac45-24210429ca5d"
+    ],
+    "librarything": [
+      "4784"
+    ],
+    "goodreads": [
+      "2949952"
+    ]
+  },
+  "genres": [
+    "/tags/OL174T",
+    "/tags/OL170T",
+    "/tags/OL180T",
+    "/tags/OL164T"
+  ],
+  "latest_revision": 85,
+  "revision": 85,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T09:25:55.733651"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-03T01:25:10.908389"
+  }
+}

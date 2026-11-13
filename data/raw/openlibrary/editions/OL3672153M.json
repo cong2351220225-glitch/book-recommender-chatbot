@@ -1,0 +1,106 @@
+{
+  "publishers": [
+    "Millbrook Press"
+  ],
+  "subtitle": "Supreme Court justice",
+  "description": {
+    "type": "/type/text",
+    "value": "A biography of Sandra Day O'Connor who, in 1981, became the first woman appointed as Supreme Court justice."
+  },
+  "isbn_10": [
+    "0761325026"
+  ],
+  "subject_place": [
+    "United States"
+  ],
+  "pagination": "p. cm.",
+  "covers": [
+    1424276
+  ],
+  "lc_classifications": [
+    "KF8745.O25 M386 2003",
+    "KF8745.O25M386 2003"
+  ],
+  "latest_revision": 10,
+  "key": "/books/OL3672153M",
+  "authors": [
+    {
+      "key": "/authors/OL26332A"
+    }
+  ],
+  "ocaid": "sandradayoconnor0000mcel",
+  "publish_places": [
+    "Brookfield, Conn"
+  ],
+  "genres": [
+    "Juvenile literature.",
+    "Biography",
+    "Biography."
+  ],
+  "source_records": [
+    "marc:marc_records_scriblio_net/part14.dat:135415993:1187",
+    "marc:marc_loc_updates/v37.i38.records.utf8:19163944:1187",
+    "ia:sandradayoconnor0000mcel",
+    "bwb:9780761325024"
+  ],
+  "title": "Sandra Day O'Connor",
+  "dewey_decimal_class": [
+    "347.73/2634",
+    "B"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographical references and index."
+  },
+  "identifiers": {
+    "librarything": [
+      "9097686"
+    ],
+    "goodreads": [
+      "235273"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "2003002230"
+  ],
+  "subjects": [
+    "O'Connor, Sandra Day, 1930- -- Juvenile literature",
+    "O'Connor, Sandra Day, 1930-",
+    "United States. Supreme Court -- Biography -- Juvenile literature",
+    "United States. Supreme Court -- Biography",
+    "Judges -- United States -- Biography -- Juvenile literature",
+    "Judges",
+    "Women -- Biography"
+  ],
+  "publish_date": "2003",
+  "publish_country": "ctu",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-10-12T08:29:12.568065"
+  },
+  "series": [
+    "A Gateway biography"
+  ],
+  "by_statement": "Lisa McElroy.",
+  "oclc_numbers": [
+    "51763762"
+  ],
+  "works": [
+    {
+      "key": "/works/OL27429W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 10
+}

@@ -1,0 +1,35 @@
+{
+  "subtitle": "the following motion was made by Mr. Adams ...",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-05-10T10:38:27.289214"
+  },
+  "latest_revision": 4,
+  "key": "/works/OL692482W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL4610079A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T01:35:27.469467"
+  },
+  "title": "The report of the committee on the amendment to the Constitution, being under consideration",
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Presidents",
+    "Election"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

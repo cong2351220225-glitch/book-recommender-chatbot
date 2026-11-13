@@ -1,0 +1,159 @@
+{
+  "links": {
+    "self": "/works/OL245974W/editions.json",
+    "work": "/works/OL245974W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "subtitle": "a collaboration",
+      "covers": [
+        6270878
+      ],
+      "latest_revision": 4,
+      "ocaid": "cu31924050108715",
+      "contributions": [
+        "Dennison, Henry S. 1877-1952",
+        "Gay, Edwin F. 1867-1946",
+        "Heilman, Ralph Emerson, 1886-",
+        "Kendall, Henry Plimpton, 1878-"
+      ],
+      "id": 19924283,
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0049.out:2743289:1060",
+        "ia:cu31924050108715"
+      ],
+      "title": "Profit sharing, its principles and practice",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Profit-sharing"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by Arthur W. Burritt ... Henry S. Dennison ... Edwin F. Gay ... Ralph E. Heilman ... Henry P. Kendall",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4,
+      "publishers": [
+        "Harper & brothers"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-13T10:31:19.280464"
+      },
+      "key": "/books/OL14638407M",
+      "authors": [
+        {
+          "key": "/authors/OL2558554A"
+        }
+      ],
+      "publish_places": [
+        "New York and London"
+      ],
+      "pagination": "x, 328 p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-13T18:09:04.541560"
+      },
+      "lccn": [
+        "35023622"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography:  p. 317-318"
+      },
+      "number_of_pages": 328,
+      "publish_date": "1920",
+      "works": [
+        {
+          "key": "/works/OL245974W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "Harper & brothers"
+      ],
+      "subtitle": "a collaboration",
+      "covers": [
+        5741413
+      ],
+      "lc_classifications": [
+        "HD2971 .B95",
+        "HD2971 .B95 1920"
+      ],
+      "key": "/books/OL7103059M",
+      "authors": [
+        {
+          "key": "/authors/OL2558554A"
+        }
+      ],
+      "ocaid": "profitsharingit00heilgoog",
+      "publish_places": [
+        "New York and London"
+      ],
+      "contributions": [
+        "Dennison, Henry S. (Henry Sturgis), 1877-1952.",
+        "Gay, Edwin F. 1867-1946.",
+        "Heilman, Ralph Emerson, b. 1886.",
+        "Kendall, Henry P. 1878-1959."
+      ],
+      "subjects": [
+        "Profit-sharing"
+      ],
+      "pagination": "328 p.",
+      "source_records": [
+        "ia:profitsharingits00burriala",
+        "ia:profitsharingit00heilgoog",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:40806449:1520",
+        "marc:marc_marygrove/marygrovecollegelibrary.full.D20191108.T213022.internetarchive2nd_REPACK.mrc:64828085:1855",
+        "ia:profitsharingits0000burr",
+        "ia:profitsharing0000unse_f8w0",
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:277260372:1639",
+        "marc:harvard_bibliographic_metadata/20220215_023.bib.mrc:118767587:3039"
+      ],
+      "title": "Profit sharing, its principles and practice",
+      "lccn": [
+        "18006183"
+      ],
+      "local_id": [
+        "urn:sfpl:31223010488923",
+        "urn:mgc:31927001163499"
+      ],
+      "publish_date": "1918",
+      "publish_country": "vp ",
+      "by_statement": "by Arthur W. Burritt ... Henry S. Dennison ... Edwin F. Gay ... Ralph E. Heilman ... Henry P. Kendall.",
+      "oclc_numbers": [
+        "1819941"
+      ],
+      "works": [
+        {
+          "key": "/works/OL245974W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "number_of_pages": 328,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-02T05:04:53.802736"
+      }
+    }
+  ]
+}

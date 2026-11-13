@@ -1,0 +1,376 @@
+{
+  "links": {
+    "self": "/works/OL30032W/editions.json",
+    "work": "/works/OL30032W"
+  },
+  "size": 6,
+  "entries": [
+    {
+      "title": "Debby's Debut (Large Print)",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "January 3, 2007",
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "weight": "6.9 ounces",
+      "covers": [
+        2822518
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Fiction / General"
+      ],
+      "isbn_13": [
+        "9781425068820"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1425068820"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "source_records": [
+        "amazon:1425068820"
+      ],
+      "key": "/books/OL11859501M",
+      "number_of_pages": 96,
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-15T11:22:08.209272"
+      }
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "number_of_pages": 48,
+      "weight": "2.4 ounces",
+      "covers": [
+        2794210
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-17T09:21:14.767121"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL11792266M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Classics",
+        "Fiction",
+        "Literature - Classics / Criticism",
+        "Literature: Classics"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "On a cheery June day Mrs. Penelope Carroll and her niece Debby Wilder were whizzing along on their way to a certain gay watering-place, both in the best of humors with each other and all the world beside."
+      },
+      "source_records": [
+        "amazon:1419115448"
+      ],
+      "title": "Debby's Debut",
+      "identifiers": {
+        "goodreads": [
+          "744434"
+        ],
+        "librarything": [
+          "2743213"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "isbn_13": [
+        "9781419115448"
+      ],
+      "isbn_10": [
+        "1419115448"
+      ],
+      "publish_date": "June 30, 2004",
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 7.4 x 0.5 inches",
+      "revision": 7
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "number_of_pages": 92,
+      "weight": "2.8 pounds",
+      "covers": [
+        2821162
+      ],
+      "physical_format": "Perfect Paperback",
+      "key": "/books/OL11858149M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Fiction",
+        "Fiction - General",
+        "Literature: Classics",
+        "Classics",
+        "10007",
+        "Fiction / Classics"
+      ],
+      "edition_name": "Lrg edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:142500525X",
+        "bwb:9781425005252"
+      ],
+      "title": "Debby's Debut",
+      "identifiers": {
+        "goodreads": [
+          "2789237"
+        ],
+        "librarything": [
+          "2743213"
+        ]
+      },
+      "isbn_13": [
+        "9781425005252"
+      ],
+      "isbn_10": [
+        "142500525X"
+      ],
+      "publish_date": "September 4, 2007",
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10 x 7.8 x 1.4 inches",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T05:54:07.346973"
+      }
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "weight": "7 ounces",
+      "covers": [
+        2822738
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:45.165480"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11859721M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Fiction / General"
+      ],
+      "isbn_13": [
+        "9781425071462"
+      ],
+      "source_records": [
+        "amazon:1425071465"
+      ],
+      "title": "Debby's Debut [EasyRead Large Edition]",
+      "number_of_pages": 100,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1425071465"
+      ],
+      "publish_date": "January 3, 2007",
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1102341"
+        ]
+      },
+      "weight": "5.4 ounces",
+      "covers": [
+        2822662
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:45.165480"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL11859645M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Fiction / General"
+      ],
+      "isbn_13": [
+        "9781425070588"
+      ],
+      "source_records": [
+        "amazon:1425070582"
+      ],
+      "title": "Debby's Debut [EasyRead Comfort Edition]",
+      "number_of_pages": 72,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1425070582"
+      ],
+      "publish_date": "January 3, 2007",
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "ReadHowYouWant.com"
+      ],
+      "weight": "4.8 ounces",
+      "covers": [
+        2822585
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:45.165480"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11859568M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Fiction / General"
+      ],
+      "isbn_13": [
+        "9781425069704"
+      ],
+      "source_records": [
+        "amazon:1425069703"
+      ],
+      "title": "Debby's Debut [EasyRead Edition]",
+      "number_of_pages": 60,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1425069703"
+      ],
+      "publish_date": "January 3, 2007",
+      "works": [
+        {
+          "key": "/works/OL30032W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 4
+    }
+  ]
+}

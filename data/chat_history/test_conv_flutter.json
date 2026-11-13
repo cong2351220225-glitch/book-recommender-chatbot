@@ -1,0 +1,139 @@
+{
+  "id": "test_conv_flutter",
+  "title": "Giới thiệu cho tôi cuốn sách Atomic Habi",
+  "timestamp": "2026-11-03 01:07:29",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Giới thiệu cho tôi cuốn sách Atomic Habits",
+      "timestamp": "01:06"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin giới thiệu đến bạn cuốn sách trong thư viện:\n\n**Atomic Habits**\n- **Tác giả:** James Clear\n- **Năm xuất bản:** 2018\n- **Thể loại:** Kỹ năng sống\n- **Tóm tắt nội dung:** Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày, giúp tạo nên sự thay đổi bền vững.\n- **Đặc điểm & Phù hợp với:** Sách thuộc mức độ \"Dễ đọc\", phù hợp cho những người muốn bắt đầu thay đổi, nâng cao năng suất hoặc đang cảm thấy mất động lực.",
+      "timestamp": "01:06",
+      "sources": [
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "featured": true,
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "author_id": "james-clear",
+            "rating": 4.8,
+            "author": "James Clear",
+            "tags": "thói quen, năng suất, thay đổi",
+            "book_id": "book_001",
+            "mood": "Mất động lực",
+            "genre": "Kỹ năng sống",
+            "title": "Atomic Habits",
+            "year": 2018,
+            "difficulty": "Dễ đọc"
+          },
+          "distance": 0.19512724876403809
+        },
+        {
+          "document": "Title: 7 thói quen hiệu quả\nAuthor: Stephen R. Covey\nGenre: Kỹ năng sống\nPublication year: 1989\nTags: thói quen, lãnh đạo, hiệu quả\nTarget audience: Người muốn phát triển\nMood: Muốn tiến bộ\nDifficulty: Dễ đọc\nSummary: Khung nguyên tắc cho hiệu quả cá nhân.\nDescription: Khung phát triển cá nhân và lãnh đạo dựa trên các nguyên tắc chủ động, ưu tiên điều quan trọng và hợp tác cùng có lợi.",
+          "metadata": {
+            "featured": true,
+            "genre": "Kỹ năng sống",
+            "book_id": "book_016",
+            "mood": "Muốn tiến bộ",
+            "author": "Stephen R. Covey",
+            "difficulty": "Dễ đọc",
+            "tags": "thói quen, lãnh đạo, hiệu quả",
+            "target_audience": "Người muốn phát triển",
+            "title": "7 thói quen hiệu quả",
+            "author_id": "stephen-covey",
+            "rating": 4.6,
+            "year": 1989
+          },
+          "distance": 0.3351002335548401
+        },
+        {
+          "document": "Title: Từ tốt đến vĩ đại\nAuthor: Jim Collins\nGenre: Kinh doanh\nPublication year: 2001\nTags: lãnh đạo, doanh nghiệp, kỷ luật\nTarget audience: Người làm quản lý\nMood: Muốn tiến bộ\nDifficulty: Chuyên sâu\nSummary: Các nguyên tắc vận hành tổ chức hiệu quả.\nDescription: Phân tích những đặc điểm giúp một doanh nghiệp chuyển từ mức tốt sang mức xuất sắc, nhấn mạnh lãnh đạo và kỷ luật tổ chức.",
+          "metadata": {
+            "difficulty": "Chuyên sâu",
+            "mood": "Muốn tiến bộ",
+            "title": "Từ tốt đến vĩ đại",
+            "author_id": "jim-collins",
+            "author": "Jim Collins",
+            "year": 2001,
+            "target_audience": "Người làm quản lý",
+            "genre": "Kinh doanh",
+            "featured": true,
+            "tags": "lãnh đạo, doanh nghiệp, kỷ luật",
+            "rating": 4.5,
+            "book_id": "book_008"
+          },
+          "distance": 0.3454399108886719
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "Giới thiệu cho tôi cuốn sách Atomic Habits",
+      "timestamp": "01:07"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "01:07",
+      "sources": [
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "author": "James Clear",
+            "featured": true,
+            "author_id": "james-clear",
+            "mood": "Mất động lực",
+            "book_id": "book_001",
+            "rating": 4.8,
+            "genre": "Kỹ năng sống",
+            "year": 2018,
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "tags": "thói quen, năng suất, thay đổi",
+            "difficulty": "Dễ đọc",
+            "title": "Atomic Habits"
+          },
+          "distance": 0.19512724876403809
+        },
+        {
+          "document": "Title: 7 thói quen hiệu quả\nAuthor: Stephen R. Covey\nGenre: Kỹ năng sống\nPublication year: 1989\nTags: thói quen, lãnh đạo, hiệu quả\nTarget audience: Người muốn phát triển\nMood: Muốn tiến bộ\nDifficulty: Dễ đọc\nSummary: Khung nguyên tắc cho hiệu quả cá nhân.\nDescription: Khung phát triển cá nhân và lãnh đạo dựa trên các nguyên tắc chủ động, ưu tiên điều quan trọng và hợp tác cùng có lợi.",
+          "metadata": {
+            "target_audience": "Người muốn phát triển",
+            "rating": 4.6,
+            "author": "Stephen R. Covey",
+            "author_id": "stephen-covey",
+            "genre": "Kỹ năng sống",
+            "year": 1989,
+            "featured": true,
+            "tags": "thói quen, lãnh đạo, hiệu quả",
+            "book_id": "book_016",
+            "title": "7 thói quen hiệu quả",
+            "mood": "Muốn tiến bộ",
+            "difficulty": "Dễ đọc"
+          },
+          "distance": 0.3351002335548401
+        },
+        {
+          "document": "Title: Từ tốt đến vĩ đại\nAuthor: Jim Collins\nGenre: Kinh doanh\nPublication year: 2001\nTags: lãnh đạo, doanh nghiệp, kỷ luật\nTarget audience: Người làm quản lý\nMood: Muốn tiến bộ\nDifficulty: Chuyên sâu\nSummary: Các nguyên tắc vận hành tổ chức hiệu quả.\nDescription: Phân tích những đặc điểm giúp một doanh nghiệp chuyển từ mức tốt sang mức xuất sắc, nhấn mạnh lãnh đạo và kỷ luật tổ chức.",
+          "metadata": {
+            "genre": "Kinh doanh",
+            "difficulty": "Chuyên sâu",
+            "year": 2001,
+            "author_id": "jim-collins",
+            "title": "Từ tốt đến vĩ đại",
+            "tags": "lãnh đạo, doanh nghiệp, kỷ luật",
+            "mood": "Muốn tiến bộ",
+            "target_audience": "Người làm quản lý",
+            "book_id": "book_008",
+            "author": "Jim Collins",
+            "featured": true,
+            "rating": 4.5
+          },
+          "distance": 0.3454399108886719
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+import 'package:flutter/material.dart';
+import 'package:dio/dio.dart';
+import '../models/chat_message_model.dart';
+import '../models/chat_session_model.dart';
+import '../models/location_item_model.dart';
+import '../repositories/chat_repository.dart';
+
+class ChatProvider extends ChangeNotifier {
+  final ChatRepository _chatRepository;
+
+  final List<ChatMessageModel> _messages = [];
+  String? _sessionId;
+  bool _isStreaming = false;
+  bool _isThinking = false;
+  String? _errorMessage;
+  CancelToken? _cancelToken;
+
+  int _topK = 3;
+  int? _vectorCount;
+  bool _isLoadingConfig = false;
+  String? _configError;
+
+  List<ChatSessionModel> _sessions = [];
+  bool _isLoadingSessions = false;
+  bool _isLoadingHistory = false;
+
+  Map<String, dynamic> _readerProfile = {};
+
+  final List<String> _suggestedPrompts = [
+    'So sánh cuốn Atomic Habits và 7 Thói Quen Hiệu Quả',
+    'So sánh sách Clean Code và The Pragmatic Programmer',
+    'Tôi muốn tìm nhà sách gần đây',
+    'Tìm nhà sách ở Đà Nẵng',
+    'Có thư viện nào gần quận Liên Chiểu không?',
+    'Thư viện hiện có bao nhiêu cuốn sách?',
+    'Gợi ý sách lập trình phần mềm kinh điển?',
+    'Sách The Pragmatic Programmer nói về điều gì?',
+    'Tìm sách phát triển bản thân và tư duy tích cực?',
+  ];
+
+  ChatProvider({ChatRepository? chatRepository})
+      : _chatRepository = chatRepository ?? ChatRepository();
+
+  List<ChatMessageModel> get messages => _messages;
+  String? get sessionId => _sessionId;
+  bool get isStreaming => _isStreaming;
+  bool get isThinking => _isThinking;
+  String? get errorMessage => _errorMessage;
+  List<String> get suggestedPrompts => _suggestedPrompts;
+  Map<String, dynamic> get readerProfile => _readerProfile;
+
+  int get topK => _topK;
+  int? get vectorCount => _vectorCount;
+  bool get isLoadingConfig => _isLoadingConfig;
+  String? get configError => _configError;
+
+  List<ChatSessionModel> get sessions => _sessions;
+  bool get isLoadingSessions => _isLoadingSessions;
+  bool get isLoadingHistory => _isLoadingHistory;
+
+  void setTopK(int val) {
+    if (val >= 1 && val <= 10 && _topK != val) {
+      _topK = val;
+      notifyListeners();
+    }
+  }
+
+  Future<void> fetchRagConfig() async {
+    _isLoadingConfig = true;
+    _configError = null;
+    notifyListeners();
+
+    try {
+      final config = await _chatRepository.getRagConfig();
+      _vectorCount = config.vectorCount;
+      _configError = null;
+    } catch (e) {
+      _configError = 'Không thể kết nối đến Backend hoặc ChromaDB: ${e.toString()}';
+    } finally {
+      _isLoadingConfig = false;
+      notifyListeners();
+    }
+  }
+
+  Future<void> loadSessions() async {
+    _isLoadingSessions = true;
+    notifyListeners();
+
+    try {
+      final res = await _chatRepository.getSessions();
+      _sessions = res;
+    } catch (_) {
+      // Keep existing sessions on error
+    } finally {
+      _isLoadingSessions = false;
+      notifyListeners();
+    }
+  }
+
+  Future<void> selectSession(String targetSessionId) async {
+    if (_sessionId == targetSessionId && _messages.isNotEmpty) return;
+
+    stopResponse();
+    _isLoadingHistory = true;
+    _errorMessage = null;
+    notifyListeners();
+
+    try {
+      final history = await _chatRepository.getHistory(targetSessionId);
+      _sessionId = targetSessionId;
+      _messages.clear();
+      _messages.addAll(history);
+      _readerProfile = {};
+      _errorMessage = null;
+    } catch (e) {
+      _errorMessage = 'Không thể tải lịch sử đoạn chat: ${e.toString()}';
+    } finally {
+      _isLoadingHistory = false;
+      notifyListeners();
+    }
+  }
+
+  Future<bool> deleteSession(String targetSessionId) async {
+    try {
+      final ok = await _chatRepository.deleteSession(targetSessionId);
+      if (ok) {
+        _sessions.removeWhere((s) => s.id == targetSessionId);
+        if (_sessionId == targetSessionId) {
+          startNewSession();
+        } else {
+          notifyListeners();
+        }
+        return true;
+      }
+      return false;
+    } catch (e) {
+      _errorMessage = 'Lỗi khi xóa phiên chat: ${e.toString()}';
+      notifyListeners();
+      return false;
+    }
+  }
+
+  void startNewSession() {
+    stopResponse();
+    _sessionId = 'session_${DateTime.now().millisecondsSinceEpoch}';
+    _messages.clear();
+    _readerProfile = {};
+    _errorMessage = null;
+    notifyListeners();
+  }
+
+  void stopResponse() {
+    if (_isStreaming && _cancelToken != null && !_cancelToken!.isCancelled) {
+      _cancelToken!.cancel('Người dùng dừng tạo phản hồi');
+    }
+    _isStreaming = false;
+    _isThinking = false;
+    if (_messages.isNotEmpty && _messages.last.isStreaming) {
+      _messages.last.isStreaming = false;
+    }
+    notifyListeners();
+  }
+
+  Future<void> sendMessage(String text) async {
+    final query = text.trim();
+    if (query.isEmpty || _isStreaming) return;
+
+    _sessionId ??= 'session_${DateTime.now().millisecondsSinceEpoch}';
+    _errorMessage = null;
+
+    final now = DateTime.now();
+    final timeStr = '${now.hour.toString().padLeft(2, '0')}:${now.minute.toString().padLeft(2, '0')}';
+
+    // 1. Add User Message
+    final userMsg = ChatMessageModel(
+      id: 'msg_user_${now.millisecondsSinceEpoch}',
+      role: 'user',
+      content: query,
+      timestamp: timeStr,
+    );
+    _messages.add(userMsg);
+
+    // 2. Add Assistant Streaming Placeholder
+    final assistantMsgId = 'msg_ai_${now.millisecondsSinceEpoch}';
+    final assistantMsg = ChatMessageModel(
+      id: assistantMsgId,
+      role: 'assistant',
+      content: '',
+      timestamp: timeStr,
+      isStreaming: true,
+    );
+    _messages.add(assistantMsg);
+
+    _isStreaming = true;
+    _isThinking = true;
+    _cancelToken = CancelToken();
+    notifyListeners();
+
+    try {
+      await _chatRepository.streamMessage(
+        message: query,
+        sessionId: _sessionId,
+        topK: _topK,
+        readerProfile: _readerProfile,
+        cancelToken: _cancelToken,
+        onChunk: (chunk) {
+          if (_isThinking) {
+            _isThinking = false;
+          }
+          assistantMsg.content += chunk;
+          notifyListeners();
+        },
+        onDone: (fullAnswer, sources, locations, intent, newSessionId) {
+          _isStreaming = false;
+          _isThinking = false;
+          assistantMsg.isStreaming = false;
+          if (fullAnswer.isNotEmpty) {
+            assistantMsg.content = fullAnswer;
+          }
+          assistantMsg.sources = List<ChatSourceBook>.from(sources);
+          assistantMsg.locations = List<LocationItemModel>.from(locations);
+          if (newSessionId.isNotEmpty) {
+            _sessionId = newSessionId;
+          }
+          _errorMessage = null;
+          notifyListeners();
+          loadSessions();
+        },
+        onError: (err) async {
+          // If streaming failed and assistant message has no content yet, try non-streaming fallback
+          if (assistantMsg.content.isEmpty && !(_cancelToken?.isCancelled ?? false)) {
+            try {
+              final fallbackRes = await _chatRepository.sendMessage(
+                message: query,
+                sessionId: _sessionId,
+                topK: _topK,
+                readerProfile: _readerProfile,
+              );
+              _isStreaming = false;
+              _isThinking = false;
+              assistantMsg.isStreaming = false;
+              assistantMsg.content = fallbackRes['answer']?.toString() ?? '';
+
+              final rawBooks = fallbackRes['books'] as List<dynamic>? ?? [];
+              assistantMsg.sources = rawBooks
+                  .map((b) => ChatSourceBook.fromMap(b as Map<String, dynamic>))
+                  .toList();
+
+              final rawLocations = fallbackRes['locations'] as List<dynamic>? ?? [];
+              assistantMsg.locations = rawLocations
+                  .map((l) => LocationItemModel.fromJson(l as Map<String, dynamic>))
+                  .toList();
+
+              final newSId = fallbackRes['session_id']?.toString();
+              if (newSId != null && newSId.isNotEmpty) {
+                _sessionId = newSId;
+              }
+              _errorMessage = null;
+              notifyListeners();
+              loadSessions();
+              return;
+            } catch (_) {}
+          }
+
+          _isStreaming = false;
+          _isThinking = false;
+          assistantMsg.isStreaming = false;
+          if (assistantMsg.content.isEmpty) {
+            assistantMsg.content = err;
+            assistantMsg.hasError = true;
+          }
+          _errorMessage = err;
+          notifyListeners();
+        },
+      );
+    } catch (e) {
+      _isStreaming = false;
+      _isThinking = false;
+      assistantMsg.isStreaming = false;
+      if (assistantMsg.content.isEmpty) {
+        assistantMsg.content = 'Đã xảy ra lỗi kết nối: ${e.toString()}';
+        assistantMsg.hasError = true;
+      }
+      _errorMessage = e.toString();
+      notifyListeners();
+    }
+  }
+
+  void clearError() {
+    _errorMessage = null;
+    notifyListeners();
+  }
+
+  @override
+  void dispose() {
+    stopResponse();
+    super.dispose();
+  }
+}

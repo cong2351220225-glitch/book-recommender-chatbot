@@ -1,0 +1,85 @@
+{
+  "links": {
+    "self": "/works/OL478050W/editions.json",
+    "work": "/works/OL478050W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "identifiers": {
+        "librarything": [
+          "3028806"
+        ],
+        "goodreads": [
+          "393822"
+        ]
+      },
+      "title": "Delicious Dishes ",
+      "subtitle": "Creole Cooking For Children",
+      "authors": [
+        {
+          "key": "/authors/OL29956A"
+        }
+      ],
+      "publish_date": "July 1, 1991",
+      "publishers": [
+        "The Authors]"
+      ],
+      "covers": [
+        2686972
+      ],
+      "physical_format": "Mass Market Paperback",
+      "subjects": [
+        "Children's 9-12",
+        "Cookbook",
+        "Cookery",
+        "Cookery, Creole",
+        "Cooking",
+        "Juvenile Nonfiction",
+        "Juvenile literature",
+        "Regional & Ethnic - Cajun & Creole",
+        "Cookery, American",
+        "Louisiana",
+        "Juvenile Nonfiction / Cooking"
+      ],
+      "edition_name": "2nd ed edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780922589364"
+      ],
+      "isbn_10": [
+        "0922589364"
+      ],
+      "oclc_numbers": [
+        "27326842"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0922589364"
+      ],
+      "key": "/books/OL11447960M",
+      "number_of_pages": 82,
+      "works": [
+        {
+          "key": "/works/OL478050W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-26T00:22:29.815145"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "test_session_387908bd",
+  "title": "Xin chào thư viện!",
+  "timestamp": "2026-11-03 12:40:03",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào thư viện!",
+      "timestamp": "12:39"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "12:39",
+      "sources": [
+        {
+          "document": "Title: Hello, Red Fox\nAuthor: Eric Carle\nGenre: Khoa học viễn tưởng\nPublication year: 2000\nTags: Birthday parties, Animals, Color, Juvenile fiction, Birthdays, Fiction, Frogs, Parties, Colors, Concepts, JUVENILE FICTION, Children's fiction, Color, fiction, Frogs, fiction, Parties, fiction, Animals, fiction, Birthdays, fiction\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: Guests at Little Frog's birthday party include the red fox, the purple butterfly, the orange cat, and other colorful animals. The illustrations are designed to demonstrate the concept of complementary colors.",
+          "metadata": {
+            "mood": "nan",
+            "rating": 0.0,
+            "difficulty": "nan",
+            "featured": false,
+            "target_audience": "nan",
+            "author_id": "ol34330a",
+            "title": "Hello, Red Fox",
+            "tags": "Birthday parties, Animals, Color, Juvenile fiction, Birthdays, Fiction, Frogs, Parties, Colors, Concepts, JUVENILE FICTION, Children's fiction, Color, fiction, Frogs, fiction, Parties, fiction, Animals, fiction, Birthdays, fiction",
+            "genre": "Khoa học viễn tưởng",
+            "author": "Eric Carle",
+            "book_id": "book_067",
+            "year": 2000
+          },
+          "distance": 0.34081023931503296
+        },
+        {
+          "document": "Title: Python Crash Course\nAuthor: Eric Matthes\nGenre: Lập trình\nPublication year: 2019\nTags: python, lập trình, nhập môn\nTarget audience: Người mới học\nMood: Muốn học hỏi\nDifficulty: Dễ đọc\nSummary: Lộ trình thực hành Python cho người mới.\nDescription: Giáo trình thực hành nhập môn Python qua cú pháp nền tảng, cấu trúc dữ liệu và các dự án nhỏ có tính ứng dụng.",
+          "metadata": {
+            "rating": 4.7,
+            "mood": "Muốn học hỏi",
+            "book_id": "book_011",
+            "author_id": "eric-matthes",
+            "author": "Eric Matthes",
+            "year": 2019,
+            "genre": "Lập trình",
+            "target_audience": "Người mới học",
+            "featured": true,
+            "difficulty": "Dễ đọc",
+            "title": "Python Crash Course",
+            "tags": "python, lập trình, nhập môn"
+          },
+          "distance": 0.36261671781539917
+        },
+        {
+          "document": "Title: Tư duy như một nhà giáo dục\nAuthor: John Holt\nGenre: Giáo dục\nPublication year: 1964\nTags: giáo dục, trẻ em, học tập\nTarget audience: Phụ huynh và giáo viên\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Góc nhìn về tò mò và học tập tự nhiên.\nDescription: Suy ngẫm về cách trẻ em học tập tự nhiên, vai trò của tò mò và môi trường giáo dục trong việc nuôi dưỡng tư duy độc lập.",
+          "metadata": {
+            "author": "John Holt",
+            "genre": "Giáo dục",
+            "rating": 4.1,
+            "author_id": "john-holt",
+            "featured": false,
+            "book_id": "book_015",
+            "year": 1964,
+            "title": "Tư duy như một nhà giáo dục",
+            "target_audience": "Phụ huynh và giáo viên",
+            "difficulty": "Chuyên sâu",
+            "mood": "Muốn học hỏi",
+            "tags": "giáo dục, trẻ em, học tập"
+          },
+          "distance": 0.3632492423057556
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

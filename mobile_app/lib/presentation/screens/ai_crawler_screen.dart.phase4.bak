@@ -1,0 +1,805 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import '../../models/crawler_book_model.dart';
+import '../../providers/auth_provider.dart';
+import '../../providers/crawler_provider.dart';
+
+class AiCrawlerScreen extends StatefulWidget {
+  const AiCrawlerScreen({super.key});
+
+  @override
+  State<AiCrawlerScreen> createState() => _AiCrawlerScreenState();
+}
+
+class _AiCrawlerScreenState extends State<AiCrawlerScreen> {
+  final TextEditingController _searchController = TextEditingController();
+  bool _upsertChroma = true;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      context.read<CrawlerProvider>().fetchSources();
+    });
+  }
+
+  @override
+  void dispose() {
+    _searchController.dispose();
+    super.dispose();
+  }
+
+  void _onSearch() {
+    final query = _searchController.text.trim();
+    if (query.isNotEmpty) {
+      FocusScope.of(context).unfocus();
+      context.read<CrawlerProvider>().search(query);
+    }
+  }
+
+  void _confirmAndBatchImport() {
+    final provider = context.read<CrawlerProvider>();
+    final selected = provider.selectedBooks;
+    if (selected.isEmpty) return;
+
+    final hasDuplicate = selected.any((b) => b.isDuplicate);
+
+    showDialog(
+      context: context,
+      builder: (dialogCtx) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1B263B),
+          title: Row(
+            children: const [
+              Icon(Icons.cloud_download_outlined, color: Color(0xFFD4AF37)),
+              SizedBox(width: 8),
+              Text(
+                'Xác nhận nhập sách',
+                style: TextStyle(color: Colors.white, fontSize: 18),
+              ),
+            ],
+          ),
+          content: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Bạn chuẩn bị nhập ${selected.length} cuốn sách đã chọn vào Thư viện số AI.',
+                  style: const TextStyle(color: Colors.white70),
+                ),
+                const SizedBox(height: 12),
+                if (hasDuplicate)
+                  Container(
+                    padding: const EdgeInsets.all(10),
+                    decoration: BoxDecoration(
+                      color: Colors.amber.withOpacity(0.15),
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(color: Colors.amber.shade700),
+                    ),
+                    child: Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: const [
+                        Icon(Icons.warning_amber_rounded, color: Colors.amber, size: 20),
+                        SizedBox(width: 8),
+                        Expanded(
+                          child: Text(
+                            'Lưu ý: Một số sách có dấu hiệu trùng lặp sẽ tự động được hệ thống bỏ qua để bảo vệ dữ liệu.',
+                            style: TextStyle(color: Colors.amber, fontSize: 12),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                const SizedBox(height: 12),
+                Row(
+                  children: [
+                    Icon(
+                      _upsertChroma ? Icons.check_circle : Icons.radio_button_unchecked,
+                      color: const Color(0xFFD4AF37),
+                      size: 18,
+                    ),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(
+                        _upsertChroma
+                            ? 'Tự động lập vector embedding ChromaDB'
+                            : 'Không lập vector embedding',
+                        style: const TextStyle(color: Colors.white70, fontSize: 13),
+                      ),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(dialogCtx),
+              child: const Text('Hủy bỏ', style: TextStyle(color: Colors.white54)),
+            ),
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFD4AF37),
+                foregroundColor: const Color(0xFF0D1B2A),
+              ),
+              onPressed: () {
+                Navigator.pop(dialogCtx);
+                _executeBatchImport();
+              },
+              child: const Text('Bắt đầu nhập', style: TextStyle(fontWeight: FontWeight.bold)),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _executeBatchImport() async {
+    final provider = context.read<CrawlerProvider>();
+
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (ctx) {
+        return WillPopScope(
+          onWillPop: () async => false,
+          child: AlertDialog(
+            backgroundColor: const Color(0xFF1B263B),
+            content: Row(
+              children: const [
+                CircularProgressIndicator(color: Color(0xFFD4AF37)),
+                SizedBox(width: 20),
+                Expanded(
+                  child: Text(
+                    'Đang tiến hành nhập và lập chỉ mục...',
+                    style: TextStyle(color: Colors.white),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        );
+      },
+    );
+
+    final response = await provider.importSelectedBooks(upsertChroma: _upsertChroma);
+
+    if (mounted) {
+      Navigator.pop(context); // Tắt dialog loading
+      _showImportResultDialog(response);
+    }
+  }
+
+  void _showImportResultDialog(CrawlerBatchImportResponse resp) {
+    showDialog(
+      context: context,
+      builder: (ctx) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF1B263B),
+          title: Row(
+            children: const [
+              Icon(Icons.fact_check_outlined, color: Color(0xFFD4AF37)),
+              SizedBox(width: 8),
+              Text('Kết quả nhập sách', style: TextStyle(color: Colors.white, fontSize: 18)),
+            ],
+          ),
+          content: SizedBox(
+            width: double.maxFinite,
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF0D1B2A),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+                      _buildSummaryStat('Tổng số', '${resp.totalRequested}', Colors.white70),
+                      _buildSummaryStat('Thành công', '${resp.importedCount}', Colors.greenAccent),
+                      _buildSummaryStat('Bỏ qua/Trùng', '${resp.skippedCount}', Colors.orangeAccent),
+                    ],
+                  ),
+                ),
+                const SizedBox(height: 12),
+                const Text(
+                  'Chi tiết từng cuốn:',
+                  style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 13),
+                ),
+                const SizedBox(height: 8),
+                ConstrainedBox(
+                  constraints: const BoxConstraints(maxHeight: 250),
+                  child: ListView.separated(
+                    shrinkWrap: true,
+                    itemCount: resp.results.length,
+                    separatorBuilder: (_, __) => const Divider(color: Colors.white12, height: 1),
+                    itemBuilder: (c, idx) {
+                      final item = resp.results[idx];
+                      return ListTile(
+                        dense: true,
+                        contentPadding: EdgeInsets.zero,
+                        leading: Icon(
+                          item.success ? Icons.check_circle : Icons.cancel_outlined,
+                          color: item.success ? Colors.greenAccent : Colors.orangeAccent,
+                          size: 20,
+                        ),
+                        title: Text(
+                          item.title,
+                          style: const TextStyle(color: Colors.white, fontSize: 13),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                        subtitle: Text(
+                          item.message,
+                          style: TextStyle(
+                            color: item.success ? Colors.white60 : Colors.orange.shade200,
+                            fontSize: 11,
+                          ),
+                        ),
+                        trailing: item.vectorIndexed
+                            ? const Tooltip(
+                                message: 'Đã lập vector ChromaDB',
+                                child: Icon(Icons.bolt, color: Color(0xFFD4AF37), size: 16),
+                              )
+                            : null,
+                      );
+                    },
+                  ),
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFFD4AF37),
+                foregroundColor: const Color(0xFF0D1B2A),
+              ),
+              onPressed: () => Navigator.pop(ctx),
+              child: const Text('Đóng'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Widget _buildSummaryStat(String label, String value, Color color) {
+    return Column(
+      children: [
+        Text(value, style: TextStyle(color: color, fontSize: 18, fontWeight: FontWeight.bold)),
+        const SizedBox(height: 2),
+        Text(label, style: const TextStyle(color: Colors.white54, fontSize: 11)),
+      ],
+    );
+  }
+
+  void _showBookDetailsSheet(CrawlerBookCandidate book) {
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: const Color(0xFF1B263B),
+      isScrollControlled: true,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(16)),
+      ),
+      builder: (sheetCtx) {
+        return DraggableScrollableSheet(
+          initialChildSize: 0.7,
+          minChildSize: 0.4,
+          maxChildSize: 0.9,
+          expand: false,
+          builder: (_, scrollController) {
+            return Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: ListView(
+                controller: scrollController,
+                children: [
+                  Center(
+                    child: Container(
+                      width: 40,
+                      height: 4,
+                      decoration: BoxDecoration(
+                        color: Colors.white24,
+                        borderRadius: BorderRadius.circular(2),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+                  Text(
+                    book.title,
+                    style: const TextStyle(
+                      color: Color(0xFFD4AF37),
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text('Tác giả: ${book.author}', style: const TextStyle(color: Colors.white70)),
+                  const Divider(color: Colors.white24, height: 24),
+                  _buildDetailRow('Nguồn thu thập', book.source),
+                  _buildDetailRow('ISBN', book.isbn.isEmpty ? 'Không có' : book.isbn),
+                  _buildDetailRow('Năm xuất bản', '${book.year ?? "Không rõ"}'),
+                  _buildDetailRow('Nhà xuất bản', book.publisher.isEmpty ? 'Không rõ' : book.publisher),
+                  _buildDetailRow('Số trang', '${book.pages ?? "Không rõ"}'),
+                  _buildDetailRow('Ngôn ngữ', book.language.isEmpty ? 'Không rõ' : book.language),
+                  _buildDetailRow('Thể loại phân loại', book.genre.isEmpty ? 'Tổng hợp' : book.genre),
+                  _buildDetailRow(
+                    'Trạng thái đọc số',
+                    book.readingAvailable ? 'Có tài liệu số (${book.readingType})' : 'Không có tệp trực tiếp',
+                  ),
+                  if (book.readingUrl.isNotEmpty)
+                    _buildDetailRow('Link tài liệu', book.readingUrl),
+                  if (book.purchaseUrl.isNotEmpty)
+                    _buildDetailRow('Link liên kết', book.purchaseUrl),
+                  const SizedBox(height: 12),
+                  const Text('Mô tả / Tóm tắt:', style: TextStyle(color: Colors.white70, fontWeight: FontWeight.bold)),
+                  const SizedBox(height: 6),
+                  Text(
+                    book.description.isEmpty ? 'Không có mô tả chi tiết' : book.description,
+                    style: const TextStyle(color: Colors.white60, fontSize: 13, height: 1.4),
+                  ),
+                  const SizedBox(height: 24),
+                  ElevatedButton.icon(
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: const Color(0xFFD4AF37),
+                      foregroundColor: const Color(0xFF0D1B2A),
+                      padding: const EdgeInsets.symmetric(vertical: 12),
+                    ),
+                    icon: const Icon(Icons.download_rounded),
+                    label: const Text('Nhập ngay cuốn sách này', style: TextStyle(fontWeight: FontWeight.bold)),
+                    onPressed: () async {
+                      Navigator.pop(sheetCtx);
+                      final res = await context.read<CrawlerProvider>().importSingleBook(book, upsertChroma: _upsertChroma);
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            backgroundColor: res.success ? Colors.green.shade800 : Colors.red.shade800,
+                            content: Text(res.message),
+                          ),
+                        );
+                      }
+                    },
+                  ),
+                ],
+              ),
+            );
+          },
+        );
+      },
+    );
+  }
+
+  Widget _buildDetailRow(String label, String value) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 8.0),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          SizedBox(
+            width: 130,
+            child: Text(label, style: const TextStyle(color: Colors.white54, fontSize: 12)),
+          ),
+          Expanded(
+            child: Text(value, style: const TextStyle(color: Colors.white, fontSize: 12)),
+          ),
+        ],
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final authProvider = context.watch<AuthProvider>();
+    final crawlerProvider = context.watch<CrawlerProvider>();
+
+    // 1. Phân quyền Guard: Chỉ Admin mới có quyền truy cập
+    if (!authProvider.isAdmin) {
+      return Scaffold(
+        backgroundColor: const Color(0xFF0D1B2A),
+        appBar: AppBar(
+          title: const Text('AI Book Crawler'),
+          backgroundColor: const Color(0xFF1B263B),
+        ),
+        body: Center(
+          child: Padding(
+            padding: const EdgeInsets.all(24.0),
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                const Icon(Icons.gpp_bad_outlined, size: 72, color: Colors.redAccent),
+                const SizedBox(height: 16),
+                const Text(
+                  'Truy cập bị từ chối',
+                  style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
+                ),
+                const SizedBox(height: 8),
+                const Text(
+                  'Chức năng AI Book Crawler chỉ dành riêng cho Quản trị viên thư viện (Admin) để bổ sung và quản lý kho sách.',
+                  textAlign: TextAlign.center,
+                  style: TextStyle(color: Colors.white70),
+                ),
+                const SizedBox(height: 24),
+                ElevatedButton(
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: const Color(0xFFD4AF37),
+                    foregroundColor: const Color(0xFF0D1B2A),
+                  ),
+                  onPressed: () => Navigator.pop(context),
+                  child: const Text('Quay lại'),
+                ),
+              ],
+            ),
+          ),
+        ),
+      );
+    }
+
+    // 2. Màn hình quản trị cho Admin
+    return Scaffold(
+      backgroundColor: const Color(0xFF0D1B2A),
+      appBar: AppBar(
+        title: const Text('Trung tâm AI Crawler & Thu thập'),
+        backgroundColor: const Color(0xFF1B263B),
+        foregroundColor: Colors.white,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.refresh),
+            tooltip: 'Làm mới nguồn dữ liệu',
+            onPressed: () => crawlerProvider.fetchSources(),
+          ),
+        ],
+      ),
+      body: Column(
+        children: [
+          // Khung tìm kiếm và bộ lọc nguồn
+          Container(
+            padding: const EdgeInsets.all(16.0),
+            color: const Color(0xFF1B263B),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    Expanded(
+                      child: TextField(
+                        controller: _searchController,
+                        style: const TextStyle(color: Colors.white),
+                        decoration: InputDecoration(
+                          hintText: 'Nhập tiêu đề, tác giả hoặc mã ISBN...',
+                          hintStyle: const TextStyle(color: Colors.white38),
+                          filled: true,
+                          fillColor: const Color(0xFF0D1B2A),
+                          contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            borderSide: const BorderSide(color: Color(0xFFD4AF37)),
+                          ),
+                          focusedBorder: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            borderSide: const BorderSide(color: Color(0xFFD4AF37), width: 2),
+                          ),
+                          suffixIcon: _searchController.text.isNotEmpty
+                              ? IconButton(
+                                  icon: const Icon(Icons.clear, color: Colors.white54),
+                                  onPressed: () {
+                                    _searchController.clear();
+                                    setState(() {});
+                                  },
+                                )
+                              : null,
+                        ),
+                        onSubmitted: (_) => _onSearch(),
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    ElevatedButton(
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFFD4AF37),
+                        foregroundColor: const Color(0xFF0D1B2A),
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+                      ),
+                      onPressed: crawlerProvider.isLoading ? null : _onSearch,
+                      child: const Icon(Icons.search),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 12),
+                Row(
+                  children: [
+                    const Text('Nguồn: ', style: TextStyle(color: Colors.white70, fontSize: 13)),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF0D1B2A),
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(color: Colors.white24),
+                        ),
+                        child: DropdownButtonHideUnderline(
+                          child: DropdownButton<String>(
+                            value: crawlerProvider.selectedSource,
+                            isExpanded: true,
+                            dropdownColor: const Color(0xFF1B263B),
+                            style: const TextStyle(color: Colors.white, fontSize: 13),
+                            items: crawlerProvider.sources.map((src) {
+                              return DropdownMenuItem<String>(
+                                value: src.id,
+                                child: Text('${src.name} (${src.description})', overflow: TextOverflow.ellipsis),
+                              );
+                            }).toList(),
+                            onChanged: (val) {
+                              if (val != null) {
+                                crawlerProvider.setSelectedSource(val);
+                              }
+                            },
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+
+          // Thanh điều khiển Batch Import & ChromaDB
+          if (crawlerProvider.results.isNotEmpty)
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              decoration: const BoxDecoration(
+                color: Color(0xFF14213D),
+                border: Border(bottom: BorderSide(color: Colors.white12)),
+              ),
+              child: Row(
+                children: [
+                  Checkbox(
+                    value: crawlerProvider.isAllSelected,
+                    activeColor: const Color(0xFFD4AF37),
+                    checkColor: const Color(0xFF0D1B2A),
+                    onChanged: crawlerProvider.toggleSelectAll,
+                  ),
+                  const Text('Chọn tất cả', style: TextStyle(color: Colors.white70, fontSize: 13)),
+                  const Spacer(),
+                  Row(
+                    children: [
+                      const Text('Vector RAG', style: TextStyle(color: Colors.white70, fontSize: 12)),
+                      Switch(
+                        value: _upsertChroma,
+                        activeColor: const Color(0xFFD4AF37),
+                        onChanged: (v) => setState(() => _upsertChroma = v),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 8),
+                  ElevatedButton.icon(
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: const Color(0xFFD4AF37),
+                      foregroundColor: const Color(0xFF0D1B2A),
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    ),
+                    icon: const Icon(Icons.download, size: 16),
+                    label: Text(
+                      'Nhập (${crawlerProvider.selectedCount})',
+                      style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 13),
+                    ),
+                    onPressed: crawlerProvider.selectedCount > 0 ? _confirmAndBatchImport : null,
+                  ),
+                ],
+              ),
+            ),
+
+          // Khu vực hiển thị danh sách kết quả hoặc trạng thái
+          Expanded(
+            child: crawlerProvider.isLoading
+                ? const Center(
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        CircularProgressIndicator(color: Color(0xFFD4AF37)),
+                        SizedBox(height: 16),
+                        Text('Đang truy vấn các nguồn dữ liệu số...', style: TextStyle(color: Colors.white70)),
+                      ],
+                    ),
+                  )
+                : crawlerProvider.errorMessage != null
+                    ? Center(
+                        child: Padding(
+                          padding: const EdgeInsets.all(24.0),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              const Icon(Icons.error_outline, size: 48, color: Colors.redAccent),
+                              const SizedBox(height: 12),
+                              Text(
+                                crawlerProvider.errorMessage!,
+                                textAlign: TextAlign.center,
+                                style: const TextStyle(color: Colors.white70),
+                              ),
+                              const SizedBox(height: 16),
+                              ElevatedButton(
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: const Color(0xFFD4AF37),
+                                  foregroundColor: const Color(0xFF0D1B2A),
+                                ),
+                                onPressed: _onSearch,
+                                child: const Text('Thử lại'),
+                              ),
+                            ],
+                          ),
+                        ),
+                      )
+                    : crawlerProvider.results.isEmpty
+                        ? Center(
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: const [
+                                Icon(Icons.manage_search, size: 64, color: Colors.white24),
+                                SizedBox(height: 12),
+                                Text(
+                                  'Nhập từ khóa và bấm tìm kiếm để thu thập sách từ 6 nguồn chính thống',
+                                  style: TextStyle(color: Colors.white38),
+                                ),
+                              ],
+                            ),
+                          )
+                        : ListView.builder(
+                            padding: const EdgeInsets.all(12),
+                            itemCount: crawlerProvider.results.length,
+                            itemBuilder: (ctx, index) {
+                              final book = crawlerProvider.results[index];
+                              return _buildBookCard(book, index, crawlerProvider);
+                            },
+                          ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildBookCard(
+    CrawlerBookCandidate book,
+    int index,
+    CrawlerProvider provider,
+  ) {
+    return Card(
+      color: const Color(0xFF1B263B),
+      margin: const EdgeInsets.only(bottom: 12),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(10),
+        side: BorderSide(
+          color: book.isSelected ? const Color(0xFFD4AF37) : Colors.white12,
+          width: book.isSelected ? 1.5 : 1,
+        ),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(12.0),
+        child: Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Checkbox(
+              value: book.isSelected,
+              activeColor: const Color(0xFFD4AF37),
+              checkColor: const Color(0xFF0D1B2A),
+              onChanged: (val) => provider.toggleSelectBook(index, val),
+            ),
+            ClipRRect(
+              borderRadius: BorderRadius.circular(6),
+              child: book.coverUrl.isNotEmpty
+                  ? Image.network(
+                      book.coverUrl,
+                      width: 60,
+                      height: 90,
+                      fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) => _buildCoverPlaceholder(),
+                    )
+                  : _buildCoverPlaceholder(),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    book.title,
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 14,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Tác giả: ${book.author}',
+                    style: const TextStyle(color: Colors.white70, fontSize: 12),
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    'Năm: ${book.year ?? "N/A"} • NXB: ${book.publisher.isNotEmpty ? book.publisher : "N/A"}',
+                    style: const TextStyle(color: Colors.white54, fontSize: 11),
+                  ),
+                  const SizedBox(height: 6),
+                  Wrap(
+                    spacing: 6,
+                    runSpacing: 4,
+                    children: [
+                      _buildBadge(book.source, Colors.blueGrey),
+                      if (book.readingAvailable)
+                        _buildBadge('Đọc tự do (${book.readingType})', Colors.green),
+                      if (book.isDuplicate)
+                        _buildBadge('Trùng: ${book.matchReason}', Colors.redAccent)
+                      else if (book.isUncertain)
+                        _buildBadge('Nghi trùng', Colors.orange)
+                      else
+                        _buildBadge('Sách mới', Colors.teal),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: [
+                      TextButton(
+                        onPressed: () => _showBookDetailsSheet(book),
+                        child: const Text('Chi tiết', style: TextStyle(color: Color(0xFFD4AF37), fontSize: 12)),
+                      ),
+                      const SizedBox(width: 4),
+                      OutlinedButton(
+                        style: OutlinedButton.styleFrom(
+                          side: const BorderSide(color: Color(0xFFD4AF37)),
+                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        ),
+                        onPressed: () async {
+                          final res = await provider.importSingleBook(book, upsertChroma: _upsertChroma);
+                          if (mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                backgroundColor: res.success ? Colors.green.shade800 : Colors.red.shade800,
+                                content: Text(res.message),
+                              ),
+                            );
+                          }
+                        },
+                        child: const Text('Nhập ngay', style: TextStyle(color: Colors.white, fontSize: 12)),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildCoverPlaceholder() {
+    return Container(
+      width: 60,
+      height: 90,
+      color: const Color(0xFF0D1B2A),
+      child: const Icon(Icons.book, color: Colors.white24, size: 30),
+    );
+  }
+
+  Widget _buildBadge(String label, Color color) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+      decoration: BoxDecoration(
+        color: color.withOpacity(0.2),
+        borderRadius: BorderRadius.circular(4),
+        border: Border.all(color: color.withOpacity(0.6), width: 0.8),
+      ),
+      child: Text(
+        label,
+        style: TextStyle(color: color, fontSize: 10, fontWeight: FontWeight.bold),
+      ),
+    );
+  }
+}
+

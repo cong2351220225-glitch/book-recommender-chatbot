@@ -1,0 +1,45 @@
+{
+  "title": "Help! You're shrinking",
+  "first_publish_date": "1983",
+  "key": "/works/OL30092W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subjects": [
+    "Plot-your-own stories",
+    "Adventure stories",
+    "Children's stories, Spanish",
+    "Whales",
+    "Juvenile fiction",
+    "collectionID:CYOAyouth"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    6508871,
+    12464551,
+    3210659,
+    -1
+  ],
+  "genres": [
+    "/tags/OL164T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-18T16:21:47.595370"
+  }
+}

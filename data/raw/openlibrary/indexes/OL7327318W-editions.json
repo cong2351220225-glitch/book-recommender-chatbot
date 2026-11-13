@@ -1,0 +1,74 @@
+{
+  "links": {
+    "self": "/works/OL7327318W/editions.json",
+    "work": "/works/OL7327318W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "other_titles": [
+        "Chekuthan arastil"
+      ],
+      "publishers": [
+        "Es.Ecc. Līg",
+        "Es.Ecc. Līg"
+      ],
+      "subtitle": "nāṭakaṃ",
+      "lc_classifications": [
+        "PL4718.9.Y3 C4"
+      ],
+      "key": "/books/OL5748387M",
+      "authors": [
+        {
+          "key": "/authors/OL2157425A"
+        }
+      ],
+      "publish_places": [
+        "Āluvā"
+      ],
+      "pagination": "98 p. ;",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part07.utf8:65230874:624",
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:147029266:652"
+      ],
+      "title": "Cekuttān ar̲ast̲t̲il",
+      "lccn": [
+        "70928496"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "In Malayalam.\nA play."
+      },
+      "number_of_pages": 98,
+      "languages": [
+        {
+          "key": "/languages/mal"
+        }
+      ],
+      "publish_date": "1970",
+      "publish_country": "ii ",
+      "by_statement": "Yakkōv.",
+      "oclc_numbers": [
+        "31115653"
+      ],
+      "works": [
+        {
+          "key": "/works/OL7327318W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-27T05:51:13.161493"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "alternate_names": [
+    "Stewart Ross Sally Hewitt",
+    "Ross, Stewart, Pipe, Jim",
+    "STEWART ROSS"
+  ],
+  "name": "Stewart Ross",
+  "birth_date": "1947",
+  "key": "/authors/OL21846A",
+  "personal_name": "Ross, Stewart.",
+  "type": {
+    "key": "/type/author"
+  },
+  "source_records": [
+    "promise:bwb_daily_pallets_2022-03-17",
+    "promise:bwb_daily_pallets_2021-06-17",
+    "ia:unebddesinfospou0000ross"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-20T19:27:45.558791"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL24522A",
+  "title": "attributed author",
+  "photos": [
+    6294049,
+    6294049,
+    3367004
+  ],
+  "bio": "Jonathan Swift was an Irish satirist, essayist, political pamphleteer (first for the Whigs, then for the Tories), poet and cleric who became Dean of St. Patrick's, Dublin. He is remembered for works such as Gulliver's Travels, A Modest Proposal, A Journal to Stella, Drapier's Letters, The Battle of the Books, An Argument Against Abolishing Christianity, and A Tale of a Tub. \r\n\r\nSource and more information: https://en.wikipedia.org/wiki/Jonathan_Swift",
+  "remote_ids": {
+    "wikidata": "Q41166",
+    "viaf": "14777110",
+    "isni": "0000000121214321",
+    "bookbrainz": "d57c2ab8-8388-4949-931b-ae5a45bb824f",
+    "musicbrainz": "9ab4a3b4-3206-4c12-ac6b-50d64ca98119",
+    "goodreads": "1831",
+    "imdb": "nm0842605",
+    "lc_naf": "n78096912",
+    "librarything": "swiftjonathan",
+    "librivox": "1038",
+    "project_gutenberg": "326",
+    "opac_sbn": "CFIV004182",
+    "amazon": "B001HCV1RG"
+  },
+  "source_records": [
+    "ia:geliefoyouji0000shih_t3i4",
+    "amazon:1313150029",
+    "amazon:1447477421",
+    "amazon:1549880373",
+    "bwb:9798483082606",
+    "amazon:6071415322",
+    "bwb:9798768919405",
+    "bwb:9798489740951",
+    "bwb:9798777492869",
+    "bwb:9798433842182",
+    "bwb:9798774574148",
+    "bwb:9798403087896",
+    "amazon:1371810788",
+    "bwb:9798703306321",
+    "pressbooks:https://pressbooks.library.ryerson.ca/modestproposal/",
+    "amazon:8853607874",
+    "bwb:9781095005064",
+    "bwb:9798640905618",
+    "bwb:9798556715813",
+    "bwb:9798712435128",
+    "promise:bwb_daily_pallets_2020-07-30",
+    "promise:bwb_daily_pallets_2022-04-26",
+    "bwb:9781016674706",
+    "amazon:9600306893",
+    "amazon:9500397528",
+    "promise:bwb_daily_pallets_2024-01-catchup:P8-AEM-241",
+    "ia:bib_fict_1765364_1",
+    "ia:bib_fict_4103196",
+    "ia:bwb_KP-350-609",
+    "ia:bwb_P9-AGB-104",
+    "ia:gulliverstravels0000jona_k4x9"
+  ],
+  "links": [
+    {
+      "title": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jonathan_Swift",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "BookBrainz",
+      "url": "https://bookbrainz.org/author/d57c2ab8-8388-4949-931b-ae5a45bb824f",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "inventaire.io",
+      "url": "https://inventaire.io/entity/wd:Q41166",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "birth_date": "30 November 1667",
+  "personal_name": "Swift, Jonathan",
+  "name": "Jonathan Swift",
+  "death_date": "19 October 1745",
+  "alternate_names": [
+    "J. Swift",
+    "Johnathan Swift",
+    "スウィフト,ジョナサン",
+    "Shi hui fu tuo",
+    "(ying) Si, wei fu te",
+    "(ying) Siwei, Fute",
+    "Jonathan Dean Swift",
+    "Si, Weifute Swift, Jonathan",
+    "Dr Jonathan Swift",
+    "Jonathan Swift Swift",
+    "Lemuel Gulliver",
+    "Джонатан Свифт",
+    "Д. Свифт",
+    "Dr. Jonathan Swift"
+  ],
+  "latest_revision": 25,
+  "revision": 25,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-03T17:38:09.985024"
+  }
+}

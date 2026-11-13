@@ -1,0 +1,79 @@
+{
+  "links": {
+    "self": "/works/OL287007W/editions.json",
+    "work": "/works/OL287007W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Āra. Āra. Śeṭhanī Kampanī",
+        "Āra. Āra. Śeṭhanī Kampanī"
+      ],
+      "series": [
+        "Saṃskāra granthāvali ;",
+        "pustaka 28",
+        "SAMP early 20th-century Indian books project ;",
+        "item 13096."
+      ],
+      "physical_format": "Microform",
+      "lc_classifications": [
+        "Microfilm BUL-GUJ-090 (P)"
+      ],
+      "key": "/books/OL331410M",
+      "authors": [
+        {
+          "key": "/authors/OL19A"
+        }
+      ],
+      "publish_places": [
+        "Mumbaī"
+      ],
+      "languages": [
+        {
+          "key": "/languages/guj"
+        }
+      ],
+      "pagination": "viii, 324 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part27.dat:46633982:1067",
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:224133416:1085",
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:220954820:827"
+      ],
+      "title": "Nīlarekhā",
+      "lccn": [
+        "97913167"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Microfilm. New Delhi : Library of Congress Office ; Chicago : Available from Center for Research Libraries, 1997. On 1 microfilm reel with other items ; 35 mm. (SAMP early 20th-century Indian books project ; item 13096) Master microform held by: ICRL.\nNovel.\nIn Gujarati."
+      },
+      "number_of_pages": 324,
+      "edition_name": "Āvr̥tti 1.",
+      "publish_date": "1943",
+      "publish_country": "ii ",
+      "by_statement": "Guṇavantarāya Ācārya.",
+      "works": [
+        {
+          "key": "/works/OL287007W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "39133443"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-05-27T17:02:18.305970"
+      }
+    }
+  ]
+}

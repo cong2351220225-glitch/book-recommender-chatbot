@@ -1,0 +1,27 @@
+{
+  "name": "Edmund Gibson",
+  "personal_name": "Edmund Gibson",
+  "remote_ids": {
+    "viaf": "54501262",
+    "wikidata": "Q3048098",
+    "isni": "0000000121337583",
+    "lc_naf": "n50068934",
+    "opac_sbn": "SBLV105036"
+  },
+  "death_date": "1748",
+  "birth_date": "1669",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL190497A",
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T19:12:10.366979"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Philip M. Parker",
+  "bio": {
+    "type": "/type/text",
+    "value": "> INSEAD marketing professor Philip Parker has, by his estimation, authored over 1 million books . . . Parker has developed a small arsenal of algorithms capable of automatically generating textbooks, crossword puzzles, poems and books on topics ranging from bookbinding to cataracts.—'[Philip Parker’s Trick For Authoring Over 1 Million Books: Don’t Write](https://www.huffpost.com/entry/philip-parker-books_n_2648820?section=india)' by [Bianca Bosker](https://openlibrary.org/authors/OL7126363A/Bianca_Bosker) for the *Huffington Post*\r\n\r\n> He has patented a method to automatically produce a set of similar books from a template which is filled with data from database and internet searches. He claims that his programs have written over 200,000 books. Parker publishes the automated books through Icon Group International, using several Icon group subheadings. Via EdgeMaven Media, he also provides applications for firms from different business domains to create their own computer-authored content material.—[*Wikipedia*](https://en.wikipedia.org/wiki/Philip_M._Parker)\r\n\r\nNotable works:\r\n • 2000: [*Physioeconomics*](https://openlibrary.org/works/OL3485672W/Physioeconomics?edition=)\r\n • 1997: Statistical Reference series: [*Religious Cultures of the World*](https://openlibrary.org/works/OL3332513W/Religious_cultures_of_the_world?edition=religiousculture0000park), [*Linguistic Cultures of the World*](https://openlibrary.org/works/OL3330006W/Linguistic_cultures_of_the_world?edition=linguisticcultur0000park), [*Ethnic Cultures of the World*](https://openlibrary.org/works/OL3330005W/Ethnic_cultures_of_the_world?edition=ethnicculturesof0000park) & [*National Cultures of the World*](https://openlibrary.org/works/OL3330007W/National_cultures_of_the_world?edition=)\r\n • 1995: [*Climatic Effects on Individual, Social and Economic Behavior*](https://openlibrary.org/works/OL3330002W/Climatic_effects_on_individual_social_and_economic_behavior?edition=)\r\n\r\nSee also: https://openlibrary.org/publishers/Icon_Group_International"
+  },
+  "personal_name": "Philip M. Parker",
+  "alternate_names": [
+    "philip M. Parker",
+    "Philip Parker",
+    "ICON_Group_Ltd.",
+    "ICON Group International, Inc."
+  ],
+  "photos": [
+    7395779,
+    6309724,
+    7395832
+  ],
+  "birth_date": "June 20, 1960",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "isni": "0000000114480891",
+    "wikidata": "Q374433",
+    "viaf": "74540139",
+    "lc_naf": "n88265944",
+    "librarything": "parkerphilipm"
+  },
+  "links": [
+    {
+      "url": "https://www.insead.edu/faculty-research/faculty/philip-m-parker",
+      "title": "INSEAD profile",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "key": "/authors/OL539875A",
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-12T17:03:11.059613"
+  }
+}

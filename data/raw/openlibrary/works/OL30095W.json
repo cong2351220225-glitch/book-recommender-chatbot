@@ -1,0 +1,48 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-07-29T05:48:48.351854"
+  },
+  "title": "Little Numbers",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "covers": [
+    2605402
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Did you know there are numbers even smaller than three two and one?"
+  },
+  "first_publish_date": "September 1, 2001",
+  "latest_revision": 6,
+  "key": "/works/OL30095W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26684A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "Did you know there are numbers even smaller than three two and one?"
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fractions",
+    "Juvenile literature"
+  ],
+  "revision": 6
+}

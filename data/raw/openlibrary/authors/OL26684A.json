@@ -1,0 +1,37 @@
+{
+  "name": "Edward Packard",
+  "bio": {
+    "type": "/type/text",
+    "value": "Edward Packard (born February 16, 1931) is an American author, creator of the Choose Your Own Adventure book concept and author of more than 50 books in the series, as well as many other children’s books. He is also a lawyer, essayist, and poet. Born in Huntington, New York, he is a graduate of Princeton University and Columbia Law School. [source](https://en.wikipedia.org/wiki/Edward_Packard_(writer))"
+  },
+  "birth_date": "16 February 1931",
+  "type": {
+    "key": "/type/author"
+  },
+  "source_records": [
+    "ia:notesfromafterli0000pack",
+    "promise:bwb_daily_pallets_2023-05-03:W8-BMQ-174",
+    "bwb:9781937133054"
+  ],
+  "photos": [
+    12662473
+  ],
+  "personal_name": "Edward Packard",
+  "remote_ids": {
+    "viaf": "29538702",
+    "isni": "0000000107791026",
+    "wikidata": "Q5344737",
+    "lc_naf": "n81018918"
+  },
+  "key": "/authors/OL26684A",
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T21:27:37.727521"
+  }
+}

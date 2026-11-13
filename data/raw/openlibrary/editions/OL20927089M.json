@@ -1,0 +1,54 @@
+{
+  "publishers": [
+    "Methuen"
+  ],
+  "subtitle": "poetry and prose.  Edited with an introd. by B. Ifor Evans.",
+  "series": [
+    "Methuen's English classics"
+  ],
+  "lc_classifications": [
+    "PR5853 E8"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL20927089M",
+  "authors": [
+    {
+      "key": "/authors/OL26159A"
+    }
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "contributions": [
+    "Evans, B. Ifor 1899-"
+  ],
+  "pagination": "217p.",
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:2230068312:571"
+  ],
+  "title": "Selections",
+  "number_of_pages": 217,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-30T16:19:39.668686"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-11-09T04:23:45.985128"
+  },
+  "publish_date": "1935",
+  "works": [
+    {
+      "key": "/works/OL26320W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

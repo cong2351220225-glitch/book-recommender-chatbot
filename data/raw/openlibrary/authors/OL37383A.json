@@ -1,0 +1,26 @@
+{
+  "name": "Chantal P. Thompson",
+  "alternate_names": [
+    "Chantal Thompson",
+    "THOMPSON",
+    "Thompson, Chantal"
+  ],
+  "key": "/authors/OL37383A",
+  "type": {
+    "key": "/type/author"
+  },
+  "source_records": [
+    "promise:bwb_daily_pallets_2022-03-17"
+  ],
+  "personal_name": "Chantal P. Thompson",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-11-28T20:23:04.122798"
+  }
+}

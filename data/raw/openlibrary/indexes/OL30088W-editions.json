@@ -1,0 +1,301 @@
+{
+  "links": {
+    "self": "/works/OL30088W/editions.json",
+    "work": "/works/OL30088W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "publishers": [
+        "Skylark"
+      ],
+      "number_of_pages": 117,
+      "weight": "2.4 ounces",
+      "series": [
+        "Choose Your Own Adventure, No 134"
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7825224M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "subjects": [
+        "Adventure game-books / choose your own adventure",
+        "Fiction",
+        "Specimens",
+        "Children's 9-12 - Fiction - General",
+        "Children: Grades 4-6",
+        "General",
+        "Juvenile Fiction / General",
+        "Dolphins",
+        "Plot-your-own stories"
+      ],
+      "classifications": {},
+      "title": "Secret of the Dolphins",
+      "identifiers": {
+        "goodreads": [
+          "190987"
+        ],
+        "librarything": [
+          "603680"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "March 1, 1993",
+      "works": [
+        {
+          "key": "/works/OL30088W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7 x 4.5 x 0.5 inches",
+      "covers": [
+        11321839
+      ],
+      "source_records": [
+        "ia:secretofdolphins0000pack",
+        "bwb:9780553293005",
+        "promise:bwb_daily_pallets_2021-04-01"
+      ],
+      "ocaid": "secretofdolphins0000pack",
+      "isbn_10": [
+        "0553293001"
+      ],
+      "isbn_13": [
+        "9780553293005"
+      ],
+      "lccn": [
+        "2011459327"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Sed 1993x",
+        "CPB Box no.13 vol.12"
+      ],
+      "subtitle": "Choose Your Own Adventure #134",
+      "local_id": [
+        "urn:bwbsku:P4-AVJ-363"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T23:41:26.176546"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Turtleback\r\nChoose Your Own Adventure"
+      },
+      "title": "Secret of the Dolphins",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "January 1993",
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "General",
+        "Children's 9-12"
+      ],
+      "isbn_13": [
+        "9780606055871"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0606055878"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0606055878"
+      ],
+      "key": "/books/OL9663453M",
+      "number_of_pages": 117,
+      "works": [
+        {
+          "key": "/works/OL30088W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-28T18:30:16.683056"
+      }
+    },
+    {
+      "title": "Secret of the Dolphins",
+      "publish_date": "April 1993",
+      "physical_format": "Paperback",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Dolphins",
+        "Fiction",
+        "Hawaii",
+        "Plot-your-own stories",
+        "Specimens"
+      ],
+      "isbn_10": [
+        "9994791435"
+      ],
+      "isbn_13": [
+        "9789994791439"
+      ],
+      "source_records": [
+        "amazon:9994791435"
+      ],
+      "key": "/books/OL13334629M",
+      "works": [
+        {
+          "key": "/works/OL30088W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T03:30:47.880549"
+      }
+    },
+    {
+      "publishers": [
+        "Atlantida"
+      ],
+      "physical_format": "Paperback",
+      "source_records": [
+        "amazon:9500824086"
+      ],
+      "title": "El Secreto de Los Delfines",
+      "number_of_pages": 122,
+      "isbn_13": [
+        "9789500824088"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "9500824086"
+      ],
+      "publish_date": "September 2000",
+      "key": "/books/OL12957106M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "General",
+        "Children's Books/Baby-Preschool"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30088W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 17120822,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Tandem Library"
+      ],
+      "physical_format": "Hardcover",
+      "source_records": [
+        "amazon:0613932315"
+      ],
+      "title": "El Secreto de Los Delfines",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780613932318"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_10": [
+        "0613932315"
+      ],
+      "publish_date": "September 2000",
+      "key": "/books/OL10979291M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-13T10:14:51.113371"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "General",
+        "Juvenile Fiction",
+        "Children's Baby/Preschool",
+        "Children's Books/Baby-Preschool"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30088W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 14521165,
+      "revision": 2
+    }
+  ]
+}

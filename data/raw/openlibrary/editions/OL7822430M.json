@@ -1,0 +1,65 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Choose Your Own Adventure"
+  },
+  "identifiers": {
+    "goodreads": [
+      "190918"
+    ],
+    "librarything": [
+      "489998"
+    ]
+  },
+  "title": "RETURN TO CAVE/TIME",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "publish_date": "October 1, 1985",
+  "publishers": [
+    "Bantam"
+  ],
+  "physical_format": "Mass Market Paperback",
+  "subjects": [
+    "General",
+    "Non-Classifiable",
+    "Children's 12-Up - Fiction - General",
+    "Juvenile Fiction"
+  ],
+  "isbn_13": [
+    "9780553252965"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0553252968"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "amazon:0553252968"
+  ],
+  "key": "/books/OL7822430M",
+  "number_of_pages": 128,
+  "works": [
+    {
+      "key": "/works/OL30099W"
+    }
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-19T09:56:46.764101"
+  }
+}

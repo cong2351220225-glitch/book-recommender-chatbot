@@ -1,0 +1,22 @@
+{
+  "bio": "Neville Wright Poulsom served in the British Army between 1943 and 1974, retiring with the rank of Lieutenant Colonel. He is an avid collector of medals.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-11-26T20:37:49.932955"
+  },
+  "latest_revision": 4,
+  "name": "Neville Wright Poulsom",
+  "key": "/authors/OL1637821A",
+  "personal_name": "Neville Wright Poulsom",
+  "type": {
+    "key": "/type/author"
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "alternate_names": [
+    "Lt. Colonel N. Poulsom"
+  ],
+  "revision": 4
+}

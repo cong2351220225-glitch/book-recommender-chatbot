@@ -1,0 +1,40 @@
+{
+  "subject_places": [
+    "China",
+    "Japan"
+  ],
+  "subjects": [
+    "Foreign relations",
+    "Eastern question (Far East)",
+    "Communism",
+    "Commerce"
+  ],
+  "key": "/works/OL1156662W",
+  "title": "Japan closing the \"open door\" in China",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL117300A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    14992778
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:36:22.950518"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-04T12:24:43.460985"
+  }
+}

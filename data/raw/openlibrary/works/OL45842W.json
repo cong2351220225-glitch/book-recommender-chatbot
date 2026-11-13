@@ -1,0 +1,43 @@
+{
+  "subjects": [
+    "Children's fiction",
+    "Ghost stories",
+    "American Ghost stories",
+    "English Ghost stories",
+    "Fiction, ghost",
+    "Fiction, short stories (single author)"
+  ],
+  "key": "/works/OL45842W",
+  "title": "Roald Dahl's Book of Ghost Stories",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL34184A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    9159709,
+    10309025,
+    -1
+  ],
+  "genres": [
+    "/tags/OL171T"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:34:21.437031"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T19:17:17.267252"
+  }
+}

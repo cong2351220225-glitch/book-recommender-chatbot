@@ -1,0 +1,75 @@
+{
+  "publishers": [
+    "Glass & Hoover, printers"
+  ],
+  "subtitle": "from the accusations of the Bureau of Ethnology, of the Smithsonian Institution.",
+  "authors": [
+    {
+      "key": "/authors/OL2617695A"
+    }
+  ],
+  "covers": [
+    5925020
+  ],
+  "lc_classifications": [
+    "E73 .P982"
+  ],
+  "key": "/books/OL7240209M",
+  "ocaid": "avindicationaut00putngoog",
+  "publish_places": [
+    "Davenport, Ia"
+  ],
+  "contributions": [
+    "Davenport Academy of Sciences."
+  ],
+  "pagination": "38, [2] p.",
+  "source_records": [
+    "ia:vindicationauth00putnrich",
+    "ia:avindicationaut00putngoog",
+    "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:264335015:3807"
+  ],
+  "title": "A vindication of the authenticity of the elephant pipes and inscribed tablets in the museum of the Davenport Academy of Natural Sciences",
+  "lccn": [
+    "10031973"
+  ],
+  "identifiers": {
+    "librarything": [
+      "3225968"
+    ]
+  },
+  "subjects": [
+    "Henshaw, Henry W. 1850-1930",
+    "Mounds -- Iowa",
+    "Iowa -- Antiquities"
+  ],
+  "publish_date": "1885",
+  "publish_country": "iau",
+  "by_statement": "By Charles E. Putnam, president of the Davenport Academy of Natural Sciences ...",
+  "oclc_numbers": [
+    "783247"
+  ],
+  "works": [
+    {
+      "key": "/works/OL256729W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 38,
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-03T20:02:42.810184"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Bibliography: p. 271-[272]\r\nFirst ed. published in 1975 under title: Uvod u međunarodni platni promet."
+  },
+  "title": "Međunarodni platni promet",
+  "authors": [
+    {
+      "key": "/authors/OL1213108A"
+    }
+  ],
+  "publish_date": "1976",
+  "publishers": [
+    "Savremena administracija"
+  ],
+  "lc_classifications": [
+    "HG3892 .T75 1976"
+  ],
+  "publish_places": [
+    "Beograd"
+  ],
+  "languages": [
+    {
+      "key": "/languages/hrv"
+    }
+  ],
+  "pagination": "x, 271, [1] p. ;",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part11.dat:21233292:648",
+    "marc:marc_loc_updates/v37.i52.records.utf8:6611820:682",
+    "marc:marc_loc_2016/BooksAll.2016.part11.utf8:114055883:682"
+  ],
+  "lccn": [
+    "78339082"
+  ],
+  "edition_name": "2., izm. i dop. izd.",
+  "subjects": [
+    "International clearing"
+  ],
+  "publish_country": "yu ",
+  "by_statement": "Miljko Trifunović.",
+  "type": {
+    "key": "/type/edition"
+  },
+  "key": "/books/OL4300436M",
+  "number_of_pages": 271,
+  "works": [
+    {
+      "key": "/works/OL5315802W"
+    }
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-31T05:47:36.085694"
+  }
+}

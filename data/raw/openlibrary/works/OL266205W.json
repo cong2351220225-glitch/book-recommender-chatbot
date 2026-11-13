@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-24T15:00:26.851325"
+  },
+  "title": "Cleopatra",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-24T15:00:26.851325"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL266205W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2624582A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 35089896,
+  "revision": 1
+}

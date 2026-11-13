@@ -1,0 +1,408 @@
+{
+  "links": {
+    "self": "/works/OL47228W/editions.json",
+    "work": "/works/OL47228W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "identifiers": {
+        "librarything": [
+          "1181280"
+        ],
+        "goodreads": [
+          "112449"
+        ]
+      },
+      "title": "Cases in International Relations",
+      "subtitle": "Portraits of the Future (2nd Edition)",
+      "authors": [
+        {
+          "key": "/authors/OL2454149A"
+        }
+      ],
+      "publish_date": "July 11, 2005",
+      "publishers": [
+        "Longman"
+      ],
+      "weight": "8 ounces",
+      "covers": [
+        193772
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "International relations",
+        "Political Science",
+        "Politics / Current Events",
+        "Textbooks",
+        "Politics/International Relations",
+        "International Relations - General",
+        "Political Science / General"
+      ],
+      "edition_name": "2 edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780321337979"
+      ],
+      "isbn_10": [
+        "0321337972"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.6 x 4.8 x 0.5 inches",
+      "source_records": [
+        "amazon:0321337972"
+      ],
+      "key": "/books/OL9531598M",
+      "number_of_pages": 320,
+      "works": [
+        {
+          "key": "/works/OL47228W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-09T00:25:30.227200"
+      }
+    },
+    {
+      "publishers": [
+        "Longman"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1181280"
+        ]
+      },
+      "subtitle": "Portraits of the Future",
+      "weight": "1 pounds",
+      "covers": [
+        2382738,
+        192009
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL10459546M",
+      "authors": [
+        {
+          "key": "/authors/OL28306A"
+        }
+      ],
+      "subjects": [
+        "Political science & theory",
+        "Political Science",
+        "Politics / Current Events",
+        "Politics/International Relations",
+        "International Relations - General",
+        "Political Science / General",
+        "General",
+        "International relations"
+      ],
+      "edition_name": "1st ed edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0321080610",
+        "bwb:9780321080615",
+        "marc:marc_loc_2016/BooksAll.2016.part29.utf8:203851254:645",
+        "ia:casesininternati0000snow_r7b4",
+        "promise:bwb_daily_pallets_2020-11-27"
+      ],
+      "title": "Cases in International Relations",
+      "number_of_pages": 336,
+      "isbn_13": [
+        "9780321080615"
+      ],
+      "isbn_10": [
+        "0321080610"
+      ],
+      "publish_date": "July 10, 2002",
+      "works": [
+        {
+          "key": "/works/OL47228W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 6.3 x 0.7 inches",
+      "lccn": [
+        "2002067121"
+      ],
+      "lc_classifications": [
+        "JZ1242 .S658 2003",
+        "JZ1242.S658 2003"
+      ],
+      "ocaid": "casesininternati0000snow_r7b4",
+      "local_id": [
+        "urn:bwbsku:P2-EBN-290"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T12:36:45.273650"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index."
+      },
+      "identifiers": {
+        "goodreads": [
+          "112449"
+        ],
+        "librarything": [
+          "1181280"
+        ]
+      },
+      "title": "Cases in international relations",
+      "subtitle": "portraits of the future",
+      "authors": [
+        {
+          "key": "/authors/OL28306A"
+        }
+      ],
+      "publish_date": "2006",
+      "publishers": [
+        "Pearson/Longman"
+      ],
+      "isbn_10": [
+        "0321337972"
+      ],
+      "lc_classifications": [
+        "JZ1242 .S658 2006",
+        "JZ1242.S658 2006"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "xv, 304 p. :",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:5452800521:898",
+        "bwb:9780321337979",
+        "marc:marc_loc_2016/BooksAll.2016.part32.utf8:124333709:783",
+        "ia:casesininternati0000snow_i2d6",
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "dewey_decimal_class": [
+        "327"
+      ],
+      "edition_name": "2nd ed.",
+      "url": [
+        "http://www.loc.gov/catdir/toc/ecip059/2005006303.html"
+      ],
+      "subjects": [
+        "International relations"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "Donald M. Snow.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "2005006303"
+      ],
+      "ocaid": "casesininternati0000snow_i2d6",
+      "key": "/books/OL22747284M",
+      "number_of_pages": 304,
+      "works": [
+        {
+          "key": "/works/OL47228W"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-BUW-930"
+      ],
+      "covers": [
+        13083667
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-20T13:43:17.522115"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-14T11:39:44.815830"
+      }
+    },
+    {
+      "publishers": [
+        "Longman"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1181280"
+        ]
+      },
+      "subtitle": "portraits of the future",
+      "isbn_10": [
+        "0321080610"
+      ],
+      "lc_classifications": [
+        "JZ1242 .S658 2003"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL18768994M",
+      "authors": [
+        {
+          "key": "/authors/OL28306A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "xiii, 322 p. :",
+      "source_records": [
+        "marc:bcl_marc/bcl_open.04.mrc:238669597:745"
+      ],
+      "title": "Cases in international relations",
+      "dewey_decimal_class": [
+        "327"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index."
+      },
+      "number_of_pages": 322,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-19T12:58:20.302883"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2002067121"
+      ],
+      "subjects": [
+        "International relations"
+      ],
+      "publish_date": "2003",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-18T11:31:50.819761"
+      },
+      "by_statement": "Donald M. Snow.",
+      "works": [
+        {
+          "key": "/works/OL47228W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Longman"
+      ],
+      "number_of_pages": 336,
+      "subtitle": "Portraits of the Future (3rd Edition)",
+      "covers": [
+        1146732
+      ],
+      "key": "/books/OL7412690M",
+      "authors": [
+        {
+          "key": "/authors/OL28306A"
+        }
+      ],
+      "ocaid": "casesininternati0000snow",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0205539084:15:3506676755:186960",
+        "marc:marc_loc_updates/v35.i12.records.utf8:11327974:678",
+        "marc:marc_loc_updates/v35.i16.records.utf8:16322144:778",
+        "marc:marc_loc_updates/v37.i05.records.utf8:13569229:678",
+        "marc:marc_loc_updates/v37.i31.records.utf8:12830791:790",
+        "marc:marc_loc_updates/v37.i42.records.utf8:79263203:790",
+        "marc:marc_loc_updates/v37.i45.records.utf8:7757284:790",
+        "ia:casesininternati0000snow",
+        "bwb:9780205539086",
+        "marc:marc_loc_2016/BooksAll.2016.part34.utf8:113957782:875",
+        "marc:marc_loc_2016/BooksAll.2016.part36.utf8:97011545:790",
+        "marc:marc_columbia/Columbia-extract-20221130-015.mrc:41438950:1090"
+      ],
+      "title": "Cases in International Relations",
+      "identifiers": {
+        "librarything": [
+          "1181280"
+        ],
+        "goodreads": [
+          "1866765"
+        ]
+      },
+      "isbn_13": [
+        "9780205539086"
+      ],
+      "isbn_10": [
+        "0205539084"
+      ],
+      "publish_date": "April 24, 2007",
+      "works": [
+        {
+          "key": "/works/OL47228W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "2007010981",
+        "2009002919"
+      ],
+      "lc_classifications": [
+        "JZ1242 .S658 2008",
+        "JZ1242 .S658 2010",
+        "JZ1242.S658 2008"
+      ],
+      "oclc_numbers": [
+        "300982238"
+      ],
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-26T07:14:20.655529"
+      }
+    }
+  ]
+}

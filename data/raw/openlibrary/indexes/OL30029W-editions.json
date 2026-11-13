@@ -1,0 +1,416 @@
+{
+  "links": {
+    "self": "/works/OL30029W/editions.json",
+    "work": "/works/OL30029W"
+  },
+  "size": 7,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Loki's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781636009896"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Pauline's Passion and Punishment Large Print Edition",
+      "full_title": "Pauline's Passion and Punishment Large Print Edition",
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "key": "/books/OL34319615M",
+      "covers": [
+        12427273
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9781636009896"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:43:41.982400"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Passion and Punishment",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jan 23, 2018",
+      "source_records": [
+        "amazon:1538064715"
+      ],
+      "number_of_pages": 46,
+      "publishers": [
+        "Nook Press"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        11508387
+      ],
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "key": "/books/OL32876117M",
+      "identifiers": {},
+      "isbn_10": [
+        "1538064715"
+      ],
+      "isbn_13": [
+        "9781538064719"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-26T13:59:43.550778"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "885114"
+        ]
+      },
+      "title": "Pauline's Passion and Punishment",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "November 13, 2006",
+      "publishers": [
+        "IndyPublish"
+      ],
+      "weight": "3.4 ounces",
+      "covers": [
+        2846308
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction / General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781428043817"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1428043810"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.1 inches",
+      "source_records": [
+        "amazon:1428043810"
+      ],
+      "key": "/books/OL11884984M",
+      "number_of_pages": 56,
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-15T16:43:27.651707"
+      }
+    },
+    {
+      "publishers": [
+        "Dodo Press"
+      ],
+      "number_of_pages": 52,
+      "weight": "2.9 ounces",
+      "covers": [
+        756051
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-10T02:43:43.746290"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL8408159M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781406505955"
+      ],
+      "source_records": [
+        "amazon:1406505951:fd:3599433117:155641"
+      ],
+      "title": "Pauline's Passion And Punishment",
+      "identifiers": {
+        "goodreads": [
+          "1554111"
+        ],
+        "librarything": [
+          "885114"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1406505951"
+      ],
+      "publish_date": "April 30, 2006",
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.8 x 0.3 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "weight": "4.2 ounces",
+      "covers": [
+        1801072
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:37.652926"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9801237M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Literature: Classics",
+        "Fiction",
+        "Fiction - General",
+        "Classics"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "To and fro, like a wild creature in its cage, paced that handsome woman, with bent head, locked hands, and restless steps."
+      },
+      "source_records": [
+        "amazon:1419140469:2-au:2555523380:153051"
+      ],
+      "title": "Pauline's Passion And Punishment",
+      "number_of_pages": 48,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781419140464"
+      ],
+      "isbn_10": [
+        "1419140469"
+      ],
+      "publish_date": "June 30, 2004",
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 7.6 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Paperbackshop.Co.UK Ltd - Echo Library"
+      ],
+      "weight": "5.3 ounces",
+      "covers": [
+        2037337
+      ],
+      "edition_name": "Largeprint edition",
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:42:37.652926"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL8962943M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Fiction",
+        "Fiction - General",
+        "General"
+      ],
+      "isbn_13": [
+        "9781846372599"
+      ],
+      "source_records": [
+        "amazon:1846372593:fx:2713683875:197154"
+      ],
+      "title": "Pauline's Passion And Punishment",
+      "number_of_pages": 96,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1846372593"
+      ],
+      "publish_date": "January 31, 2006",
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Hard Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1554124"
+        ]
+      },
+      "weight": "3.8 ounces",
+      "covers": [
+        1760612
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-11-23T10:34:50.360297"
+      },
+      "latest_revision": 10,
+      "key": "/books/OL9868464M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:1406938041:2-ay:501145056:154835"
+      ],
+      "title": "Pauline\\'s Passion and Punishment",
+      "number_of_pages": 42,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781406938043"
+      ],
+      "isbn_10": [
+        "1406938041"
+      ],
+      "publish_date": "November 3, 2006",
+      "works": [
+        {
+          "key": "/works/OL30029W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.1 inches",
+      "revision": 10
+    }
+  ]
+}

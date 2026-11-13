@@ -1,0 +1,198 @@
+{
+  "links": {
+    "self": "/works/OL10359W/editions.json",
+    "work": "/works/OL10359W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1966",
+      "publish_country": "mx",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL5071357A"
+        }
+      ],
+      "oclc_numbers": [
+        "1243274"
+      ],
+      "edition_name": "1a ed.",
+      "series": [
+        "Colección México heroico -- 62",
+        "Colección México heroico -- no. 62."
+      ],
+      "contributions": [
+        "Fuentes Mares, José"
+      ],
+      "subject_times": [
+        "1810-"
+      ],
+      "subjects": [
+        "History",
+        "Historia"
+      ],
+      "subject_places": [
+        "Mexico",
+        "México"
+      ],
+      "title": "Las memorias de Blas Pavón",
+      "by_statement": "José Fuentes Mares",
+      "publishers": [
+        "Editorial Jus"
+      ],
+      "publish_places": [
+        "México"
+      ],
+      "pagination": "xi, 169 pages",
+      "number_of_pages": 169,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-011.mrc:136234634:1105",
+        "marc:harvard_bibliographic_metadata/20220215_020.bib.mrc:203129273:1695"
+      ],
+      "full_title": "Las memorias de Blas Pavón",
+      "works": [
+        {
+          "key": "/works/OL10359W"
+        }
+      ],
+      "key": "/books/OL45134797M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-31T00:51:37.224873"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-31T04:15:10.330609"
+      }
+    },
+    {
+      "subtitle": "[Ed. de] José Fuentes Mares. [Illus. de Alberto Carlos.]",
+      "series": [
+        "Colección \"Mexico heroico\", 62"
+      ],
+      "lc_classifications": [
+        "F1231.5 P39"
+      ],
+      "latest_revision": 4,
+      "table_of_contents": [],
+      "contributions": [
+        "Fuentes Mares, José,"
+      ],
+      "id": 26528091,
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1404368456:773"
+      ],
+      "title": "Las memorias de Blas Pavón.",
+      "edition_name": "[1. ed.]",
+      "subjects": [
+        "Mexico -- History -- 1810-",
+        "Mexico -- History -- Wars of Independence, 1810-1821",
+        "Mexico -- History -- European intervention, 1861-1867"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4,
+      "publishers": [
+        "Editorial Jus"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-11T03:54:55.159138"
+      },
+      "key": "/books/OL17393225M",
+      "authors": [
+        {
+          "key": "/authors/OL5071357A"
+        }
+      ],
+      "publish_places": [
+        "Mexico"
+      ],
+      "pagination": "169p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-28T16:18:03.519174"
+      },
+      "number_of_pages": 169,
+      "publish_date": "1966",
+      "works": [
+        {
+          "key": "/works/OL10359W"
+        }
+      ]
+    },
+    {
+      "series": [
+        "Colección México heroico -- 62."
+      ],
+      "latest_revision": 2,
+      "contributions": [
+        "Fuentes Mares, José."
+      ],
+      "id": 24006783,
+      "edition_name": "1. ed.]",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:685553028:789"
+      ],
+      "title": "Las memorias de Blas Pavón",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "subjects": [
+        "Pavón, Blas, -- 1790-1877"
+      ],
+      "publish_country": "mx ",
+      "by_statement": "[por] José Fuentes Mares. [Illus. de Alberto Carlos.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "Editorial Jus"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-05T19:28:26.011797"
+      },
+      "key": "/books/OL16605931M",
+      "authors": [
+        {
+          "key": "/authors/OL5071357A"
+        }
+      ],
+      "publish_places": [
+        "Mexico"
+      ],
+      "pagination": "xi, 169 p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T03:30:46.447889"
+      },
+      "number_of_pages": 169,
+      "publish_date": "1966",
+      "works": [
+        {
+          "key": "/works/OL10359W"
+        }
+      ]
+    }
+  ]
+}

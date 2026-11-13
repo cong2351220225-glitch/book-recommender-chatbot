@@ -1,0 +1,69 @@
+{
+  "publishers": [
+    "Kennikat Press"
+  ],
+  "series": [
+    "Essay and general literature index reprint series"
+  ],
+  "lc_classifications": [
+    "PS3505.A56 G7 1968"
+  ],
+  "key": "/books/OL5608800M",
+  "authors": [
+    {
+      "key": "/authors/OL2120953A"
+    }
+  ],
+  "publish_places": [
+    "Port Washington, N.Y"
+  ],
+  "pagination": "237 p.",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part06.dat:61212165:629",
+    "marc:marc_ithaca_college/ic_marc.mrc:62759340:683",
+    "marc:marc_loc_2016/BooksAll.2016.part06.utf8:143577923:624",
+    "marc:marc_uic/UIC_2022.mrc:33029169:1710",
+    "marc:marc_columbia/Columbia-extract-20221130-001.mrc:448771909:1295"
+  ],
+  "title": "Grotesques and other reflections on art and the theatre.",
+  "dewey_decimal_class": [
+    "700/.9"
+  ],
+  "number_of_pages": 237,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "68016290"
+  ],
+  "subjects": [
+    "Art",
+    "Literature -- History and criticism",
+    "Theater"
+  ],
+  "publish_date": "1968",
+  "publish_country": "nyu",
+  "works": [
+    {
+      "key": "/works/OL153443W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "oclc_numbers": [
+    "294255"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-11T04:12:54.534485"
+  }
+}

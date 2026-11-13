@@ -1,0 +1,35 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:47:43.279549"
+  },
+  "subjects": [
+    "Angels",
+    "Guides (Spiritualism)",
+    "Mental healing"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL466542W",
+  "title": "Psychic healing with spirit guides and angels",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL27248A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-04T09:58:50.921691"
+  },
+  "covers": [
+    695073
+  ],
+  "revision": 3
+}

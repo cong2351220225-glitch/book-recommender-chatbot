@@ -1,0 +1,55 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Turtleback\r\nChoose Your Own Adventure"
+  },
+  "title": "Mountain Biker",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "publish_date": "January 1996",
+  "publishers": [
+    "Turtleback Books Distributed by Demco Media"
+  ],
+  "physical_format": "Hardcover",
+  "subjects": [
+    "General",
+    "Children's Books - Young Adult"
+  ],
+  "isbn_13": [
+    "9780606096331"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0606096337"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "amazon:0606096337"
+  ],
+  "key": "/books/OL9523355M",
+  "number_of_pages": 116,
+  "works": [
+    {
+      "key": "/works/OL30083W"
+    }
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-11T09:06:43.076221"
+  }
+}

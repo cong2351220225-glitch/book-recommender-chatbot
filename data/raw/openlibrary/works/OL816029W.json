@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T04:46:50.760843"
+  },
+  "title": "Antique Recollections",
+  "covers": [
+    2026337
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T09:37:54.784937"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL816029W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL68747A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

@@ -1,0 +1,16 @@
+{
+  "username": "user_a_9a9ef6",
+  "items": {
+    "book_203_favorite_f1afa5": {
+      "id": "book_203_favorite_f1afa5",
+      "book_id": "book_203",
+      "status": "favorite",
+      "progress_page": 0,
+      "total_pages": "352",
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-02T15:15:47.822030",
+      "updated_at": "2026-11-02T15:15:47.822030"
+    }
+  }
+}

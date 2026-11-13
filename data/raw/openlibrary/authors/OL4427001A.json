@@ -1,0 +1,33 @@
+{
+  "name": "Rosemary Wells",
+  "bio": {
+    "type": "/type/text",
+    "value": "Rosemary Wells (born January 29, 1943) is an American writer and illustrator of children's books. She is well known for using animal characters to address real human issues. Some of her most well known characters are Max and Ruby, Noisy Nora, and Yoko."
+  },
+  "personal_name": "Rosemary Wells",
+  "birth_date": "29 Jan 1943",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "100246838",
+    "wikidata": "Q1221893",
+    "isni": "0000000121452442",
+    "imdb": "nm1382041",
+    "lc_naf": "n80007810"
+  },
+  "photos": [
+    14544764
+  ],
+  "key": "/authors/OL4427001A",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-01T22:29:59.591678"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-01T04:13:52.321106"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL23919A"
+    }
+  ],
+  "dewey_decimal_class": [
+    "F"
+  ],
+  "isbn_13": [
+    "9798855115482"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 259,
+  "publish_date": "2016",
+  "publishers": [
+    "Bound to Stay Bound Books"
+  ],
+  "source_records": [
+    "bwb:9798855115482"
+  ],
+  "title": "Harry Potter and the Chamber of Secrets (il. Ed. )",
+  "weight": "0.455",
+  "full_title": "Harry Potter and the Chamber of Secrets (il. Ed. )",
+  "works": [
+    {
+      "key": "/works/OL82537W"
+    }
+  ],
+  "key": "/books/OL53339152M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-08-17T22:55:57.746135"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-12T16:31:26.501052"
+  }
+}

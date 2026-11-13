@@ -1,0 +1,75 @@
+{
+  "links": {
+    "self": "/works/OL2908076W/editions.json",
+    "work": "/works/OL2908076W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "identifiers": {
+        "goodreads": [
+          "5043216"
+        ]
+      },
+      "title": "Rhetoric and Ethics",
+      "subtitle": "Historical and Theoretical Perspectives",
+      "authors": [
+        {
+          "key": "/authors/OL443036A"
+        }
+      ],
+      "publish_date": "August 1991",
+      "publishers": [
+        "Edwin Mellen Pr"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "weight": "14.4 ounces",
+      "isbn_10": [
+        "0889462127"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9780889462120"
+      ],
+      "physical_format": "Hardcover",
+      "contributions": [
+        "Willis A. Salomon (Editor)"
+      ],
+      "subjects": [
+        "Ethics & moral philosophy",
+        "Rhetoric",
+        "Ethics",
+        "Ethics (Specific Aspects)",
+        "Rhetoric (General)",
+        "Philosophy"
+      ],
+      "physical_dimensions": "9.2 x 6.3 x 0.8 inches",
+      "source_records": [
+        "amazon:0889462127"
+      ],
+      "key": "/books/OL8213422M",
+      "number_of_pages": 284,
+      "works": [
+        {
+          "key": "/works/OL2908076W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T13:09:40.092834"
+      }
+    }
+  ]
+}

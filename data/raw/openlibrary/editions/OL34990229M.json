@@ -1,0 +1,53 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "2021",
+  "publishers": [
+    "MiraVista Press"
+  ],
+  "source_records": [
+    "bwb:9781956221374",
+    "amazon:1956221379"
+  ],
+  "subjects": [
+    "Fiction, general"
+  ],
+  "title": "Best of Alcott",
+  "subtitle": "Rose in Bloom",
+  "full_title": "Best of Alcott Rose in Bloom",
+  "works": [
+    {
+      "key": "/works/OL30020W"
+    }
+  ],
+  "key": "/books/OL34990229M",
+  "covers": [
+    13187070
+  ],
+  "identifiers": {},
+  "isbn_13": [
+    "9781956221374"
+  ],
+  "classifications": {},
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-09T18:43:52.665911"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T06:14:50.549009"
+  }
+}

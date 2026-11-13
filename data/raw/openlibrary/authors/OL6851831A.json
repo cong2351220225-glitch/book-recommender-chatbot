@@ -1,0 +1,18 @@
+{
+  "name": "Amy Puetz",
+  "personal_name": "Amy Puetz",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-11-19T04:45:18.099171"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-11-19T04:45:18.099171"
+  },
+  "latest_revision": 1,
+  "key": "/authors/OL6851831A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}

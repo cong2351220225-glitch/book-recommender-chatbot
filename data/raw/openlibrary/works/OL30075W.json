@@ -1,0 +1,43 @@
+{
+  "first_publish_date": "2007",
+  "subtitle": "a novel",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-11-04T22:44:55.262431"
+  },
+  "title": "The Independence Club",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "covers": [
+    1970287
+  ],
+  "lc_classifications": [
+    "PS3564.U468 I54 2007"
+  ],
+  "latest_revision": 5,
+  "key": "/works/OL30075W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Women",
+    "Friendship"
+  ],
+  "revision": 5
+}

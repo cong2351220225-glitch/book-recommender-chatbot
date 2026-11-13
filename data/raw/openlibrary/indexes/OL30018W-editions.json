@@ -1,0 +1,461 @@
+{
+  "links": {
+    "self": "/works/OL30018W/editions.json",
+    "work": "/works/OL30018W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references."
+      },
+      "identifiers": {
+        "goodreads": [
+          "1794733"
+        ],
+        "librarything": [
+          "683715"
+        ]
+      },
+      "title": "Plots and counterplots",
+      "subtitle": "more unknown thrillers of Louisa May Alcott",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1977",
+      "publishers": [
+        "W. H. Allen",
+        "Ebury Publishing"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Letters to Louisa May Alcott from her publishers.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "V. V.; or, Plots and counterplots.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A marble woman; or, The mysterious model.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The skelton in the closet.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A whisper in the dark.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Perilous play.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Thematic chart.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "isbn_10": [
+        "0491021429"
+      ],
+      "lc_classifications": [
+        "PZ3.A355 Pl 1977",
+        "PS1017 Pl 1977"
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Stern, Madeleine B., 1912-"
+      ],
+      "subjects": [
+        "Detective and mystery stories, American",
+        "Women -- Social life and customs -- Fiction",
+        "Man-woman relationships -- Fiction",
+        "Feminism -- Fiction",
+        "Sex role -- Fiction"
+      ],
+      "pagination": "315 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part11.dat:4979681:1179",
+        "marc:OpenLibraries-Trent-MARCs/tier5.mrc:7595279:966",
+        "marc:marc_loc_2016/BooksAll.2016.part11.utf8:97737761:1185",
+        "amazon:0491021429",
+        "bwb:9780491021425"
+      ],
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "78306362"
+      ],
+      "local_id": [
+        "urn:trent:0116301659185"
+      ],
+      "publish_country": "enk",
+      "by_statement": "edited and with an introd. by Madeleine Stern.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL4280316M",
+      "number_of_pages": 315,
+      "works": [
+        {
+          "key": "/works/OL30018W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T02:01:36.106256"
+      }
+    },
+    {
+      "publishers": [
+        "Morrow"
+      ],
+      "subtitle": "more unknown thrillers of Louisa May Alcott",
+      "covers": [
+        4448354
+      ],
+      "lc_classifications": [
+        "PZ3.A355 Pl5",
+        "PS1017 Pl5"
+      ],
+      "key": "/books/OL21617750M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Stern, Madeleine B."
+      ],
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part09.utf8:169203016:1130",
+        "bwb:9780688030469",
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:423025466:1363",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:163060764:1259",
+        "marc:harvard_bibliographic_metadata/20220215_067.bib.mrc:175133082:3069"
+      ],
+      "title": "Plots and counterplots",
+      "lccn": [
+        "76003578"
+      ],
+      "identifiers": {
+        "librarything": [
+          "683715"
+        ],
+        "goodreads": [
+          "5517855"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0688030467"
+      ],
+      "publish_date": "1976",
+      "publish_country": "xxu",
+      "by_statement": "edited and with an introduction by Madeleine Stern.",
+      "works": [
+        {
+          "key": "/works/OL30018W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "2035180"
+      ],
+      "number_of_pages": 315,
+      "description": {
+        "type": "/type/text",
+        "value": "Mind control, violence, madness, incest, manipulation, and drug addiction and experimentation are dealt with in six tales with such titles as A Marble Woman and Periilous Play. Bibliogs."
+      },
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-03T08:40:39.437516"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-19T12:27:00.037432"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references."
+      },
+      "identifiers": {
+        "goodreads": [
+          "5517855"
+        ],
+        "librarything": [
+          "683715"
+        ]
+      },
+      "title": "Plots and counterplots",
+      "subtitle": "more unknown thrillers of Louisa May Alcott",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1976",
+      "publishers": [
+        "Morrow"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Letters to Louisa May Alcott from her publisher.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "V. V.; or, Plots and counterplots.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A marble woman; or, The mysterious model.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The skeleton in the closet.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A whisper in the dark.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Perilous play.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Thematic chart.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "isbn_10": [
+        "0688030467"
+      ],
+      "covers": [
+        4448353
+      ],
+      "lc_classifications": [
+        "PZ3.A355 Pl5",
+        "PS1017 Pl5"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Stern, Madeleine B., 1912-"
+      ],
+      "pagination": "315 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part09.dat:77822137:1125"
+      ],
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "76003578"
+      ],
+      "subjects": [
+        "Detective and mystery stories, American",
+        "Women -- Social life and customs -- Fiction",
+        "Man-woman relationships -- Fiction",
+        "Feminism -- Fiction",
+        "Sex role -- Fiction"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "edited and with an introd. by Madeleine Stern.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL4876459M",
+      "number_of_pages": 315,
+      "works": [
+        {
+          "key": "/works/OL30018W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-03T10:21:07.143972"
+      }
+    },
+    {
+      "publishers": [
+        "Popular Library"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3717844"
+        ],
+        "librarything": [
+          "683715"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "subtitle": "More unknown thrillers of Louisa May Alcott",
+      "source_records": [
+        "amazon:0445041749:bl:2316737860:164618",
+        "amazon:0445041749",
+        "promise:bwb_daily_pallets_2020-04-09"
+      ],
+      "title": "Plots and counterplots",
+      "number_of_pages": 319,
+      "isbn_13": [
+        "9780445041745"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0445041749"
+      ],
+      "publish_date": "1978",
+      "key": "/books/OL7534525M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "37488322"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30018W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:680-BAA-116"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T11:57:25.785866"
+      }
+    }
+  ]
+}

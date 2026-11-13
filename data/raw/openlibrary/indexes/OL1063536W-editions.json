@@ -1,0 +1,64 @@
+{
+  "links": {
+    "self": "/works/OL1063536W/editions.json",
+    "work": "/works/OL1063536W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "title": "La légende des siècles (fragments) [par] Victor Hugo.",
+      "subtitle": "Éd. critique par Françaoise Lambert.",
+      "authors": [
+        {
+          "key": "/authors/OL107571A"
+        }
+      ],
+      "publish_date": "1970",
+      "publishers": [
+        "Flammarion"
+      ],
+      "series": [
+        "Cahiers Victor Hugo -- 9"
+      ],
+      "publish_places": [
+        "[Paris]"
+      ],
+      "contributions": [
+        "Lambert, Françoise"
+      ],
+      "edition_name": "Éd. critique",
+      "pagination": "367p.",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "lc_classifications": [
+        "PQ2285 L15 1970"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1550735307:617"
+      ],
+      "key": "/books/OL17846148M",
+      "number_of_pages": 367,
+      "works": [
+        {
+          "key": "/works/OL1063536W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-06T12:37:38.898049"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-29T09:42:43.815103"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is organised to benefit all who walk on four legs. But as time passes, the ideals of the rebellion are corrupted, then forgotten. And something new and unexpected emerges.."
+  },
+  "title": "Animal Farm",
+  "covers": [
+    11261770,
+    8600818,
+    297300,
+    10550889,
+    11227698,
+    10550735,
+    10828845,
+    10828846,
+    10863035,
+    11547586,
+    11548512,
+    9075815,
+    12217689,
+    12348107,
+    12564318,
+    12384602,
+    11682698,
+    12226837,
+    13523420,
+    13124215
+  ],
+  "subjects": [
+    "British and Irish fiction (fictional works by one author)",
+    "political satire",
+    "classic",
+    "animal drama",
+    "Fiction, political",
+    "English literature: literary criticism",
+    "For National Curriculum Key Stage 4 & GCSE",
+    "Fiction, satire",
+    "English literature",
+    "Fiction",
+    "Literature",
+    "Drama (dramatic works by one author)",
+    "Animals, fiction",
+    "Behavior, fiction",
+    "Totalitarianism",
+    "Domestic animals",
+    "Large type books",
+    "Zhong pian xiao shuo",
+    "Lectures et morceaux choisis",
+    "Roman",
+    "English Political satire",
+    "Animales domésticos",
+    "Ficción",
+    "Totalitarismo",
+    "Translations into Chinese",
+    "Animals in literature",
+    "Animals",
+    "Power (Social sciences)",
+    "Fiction, science fiction, general",
+    "Farms",
+    "Livestock",
+    "Political corruption",
+    "Englischunterricht",
+    "Skönlitteratur",
+    "Fiction, general",
+    "Political science",
+    "Fables",
+    "Satire",
+    "Political fiction",
+    "Politique-fiction",
+    "Animaux domestiques",
+    "Romans, nouvelles",
+    "Totalitarisme",
+    "In literature",
+    "Allegories",
+    "Long now manual for civilization",
+    "Englisch",
+    "Regensburg"
+  ],
+  "subject_people": [
+    "George Orwell (1903-1950)"
+  ],
+  "key": "/works/OL1168007W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL118077A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subject_places": [
+    "United Kingdom"
+  ],
+  "first_publish_date": "1997",
+  "links": [
+    {
+      "title": "A Revolução dos Bichos, de George Orwell",
+      "url": "https://love-books-review.com/pt-br/a-revolucao-dos-bichos-de-george-orwell/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Animal Farm by George Orwell",
+      "url": "https://love-books-review.com/blog/animal-farm-george-orwell/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "latest_revision": 82,
+  "revision": 82,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:37:56.502212"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-13T07:28:40.920779"
+  }
+}

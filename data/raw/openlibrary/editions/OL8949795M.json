@@ -1,0 +1,60 @@
+{
+  "title": "Antique Recollections",
+  "authors": [
+    {
+      "key": "/authors/OL68747A"
+    }
+  ],
+  "publish_date": "March 30, 2005",
+  "publishers": [
+    "Upso"
+  ],
+  "weight": "10.4 ounces",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1843751496"
+  ],
+  "isbn_13": [
+    "9781843751496"
+  ],
+  "covers": [
+    2026337
+  ],
+  "physical_format": "Paperback",
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Antiques & Collectables",
+    "Biography: general",
+    "Antiques & Collectibles",
+    "Antiques / Collectibles",
+    "Antiques/Collectibles",
+    "General"
+  ],
+  "physical_dimensions": "8.3 x 5.5 x 0.6 inches",
+  "source_records": [
+    "amazon:1843751496"
+  ],
+  "key": "/books/OL8949795M",
+  "number_of_pages": 224,
+  "works": [
+    {
+      "key": "/works/OL816029W"
+    }
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-05T01:43:35.752682"
+  }
+}

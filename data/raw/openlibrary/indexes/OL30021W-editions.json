@@ -1,0 +1,2600 @@
+{
+  "links": {
+    "self": "/works/OL30021W/editions.json",
+    "work": "/works/OL30021W",
+    "next": "/works/OL30021W/editions.json?offset=50"
+  },
+  "size": 92,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342383"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342383"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, psychological"
+      ],
+      "title": "Work",
+      "subtitle": "or, A Story of Experience",
+      "full_title": "Work or, A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL49320791M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:51:22.399187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342376"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342376"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, psychological"
+      ],
+      "title": "Work",
+      "subtitle": "or, A Story of Experience",
+      "full_title": "Work or, A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL49321641M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T09:58:50.029678"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342369"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342369"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "Fiction, psychological"
+      ],
+      "title": "Work",
+      "subtitle": "or, A Story of Experience",
+      "full_title": "Work or, A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL49322695M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T10:09:56.066197"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798450437842"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "303",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798450437842"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.873",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL49052353M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T05:30:39.308006"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798453081677"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "303",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798453081677"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.523",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL49104349M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T08:47:41.577627"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842456907"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "364",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842456907"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.359",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL48718661M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T10:38:33.296478"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798703437469"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "303",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798703437469"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.873",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL48456881M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T23:10:44.897819"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721518591"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "217",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721518591"
+      ],
+      "title": "Work",
+      "weight": "0.505",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL48377113M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:16:21.352485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798743503896"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "202",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798743503896"
+      ],
+      "title": "Work",
+      "weight": "0.459",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL48382435M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:40:35.969646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681357339"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "559",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681357339"
+      ],
+      "title": "Work",
+      "weight": "0.927",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL48299268M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T14:07:40.501667"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798543236512"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "435",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798543236512"
+      ],
+      "title": "Work : a Story of Experience",
+      "weight": "1.064",
+      "subtitle": "Large Print Edition",
+      "full_title": "Work : a Story of Experience Large Print Edition",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL46757915M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T16:10:08.115351"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781015515635"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "362",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781015515635"
+      ],
+      "title": "Work",
+      "weight": "0.682",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL46298250M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T20:04:56.810276"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000CDCIR8"
+        ],
+        "better_world_books": [
+          "BWB17090351"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:UD-129-783"
+      ],
+      "publish_date": "1893-01-01",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-06-01"
+      ],
+      "title": "Work",
+      "full_title": "Work",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL45681224M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T06:12:28.685387"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1886",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "875140385"
+      ],
+      "series": [
+        "Nineteenth Century Collections Online: Women and Transnational Networks",
+        "Nineteenth Century Collections Online: Women and Transnational Networks"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Work of fiction.\n\nPublisher's advertising: [2] p., 3rd count.\n\nReproduction of the original from the Arthur and Elizabeth Schlesinger Library on the History of Women in America, Harvard University."
+      },
+      "links": [
+        {
+          "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio10770383",
+          "title": "Gale, Nineteenth Century Collections Online"
+        }
+      ],
+      "subjects": [
+        "Women",
+        "Fiction",
+        "Employment",
+        "Young women"
+      ],
+      "title": "Work",
+      "subtitle": "a story of experience",
+      "by_statement": "by Louisa M. Alcott",
+      "physical_format": "[electronic resource] :",
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "1 online resource ([6], 443, [2] p.)",
+      "number_of_pages": 443,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-022.mrc:143338030:1300"
+      ],
+      "full_title": "Work a story of experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL44712716M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-21T17:56:32.998884"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1889",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "123239063"
+      ],
+      "title": "Work",
+      "subtitle": "a story of experience",
+      "publishers": [
+        "Roberts"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "443 p.",
+      "number_of_pages": 443,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131414376:461"
+      ],
+      "full_title": "Work a story of experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL45014030M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:06:51.306191"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781427018687"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "480",
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781427018687"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL44147914M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T08:03:27.106770"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944039"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944039"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL44234954M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T17:19:30.664507"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "0554378078"
+      ],
+      "isbn_13": [
+        "9780554378077"
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-ADD-276"
+      ],
+      "publish_date": "2008-08-18",
+      "publishers": [
+        "BiblioLife"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Work",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL43174784M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T16:53:46.395485"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798743503919"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "201",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798743503919"
+      ],
+      "title": "Work",
+      "weight": "0.282",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL42298756M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T09:19:01.003856"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721518607"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "215",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721518607"
+      ],
+      "title": "Work",
+      "weight": "0.341",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL42300663M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T09:36:42.325858"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798640823233"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "201",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798640823233"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.595",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL42178050M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T13:53:30.633524"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798621798192"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "242",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798621798192"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.327",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL42114565M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T03:33:59.578570"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798617761940"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "363",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798617761940"
+      ],
+      "title": "Work",
+      "weight": "0.618",
+      "subtitle": "a Story of Experience",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL42084573M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T21:58:38.452806"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781657220775"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "178",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781657220775"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.245",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41939692M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T22:56:26.912005"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607579258"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "363",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607579258"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.618",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41923837M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T20:28:00.697448"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707600427"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "364",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707600427"
+      ],
+      "title": "Work",
+      "weight": "0.532",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41777901M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T22:01:40.936158"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781688043749"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "308",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781688043749"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.455",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41606165M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T19:31:10.902498"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781701776746"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "350",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781701776746"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.595",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41597798M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T18:08:54.740327"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781692011314"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "284",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781692011314"
+      ],
+      "title": "Work",
+      "weight": "0.491",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41562242M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T12:31:08.852564"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695661028"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "350",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695661028"
+      ],
+      "title": "Work : A Story of Experience",
+      "weight": "0.814",
+      "subtitle": "Large Print",
+      "full_title": "Work : A Story of Experience Large Print",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41539378M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T08:58:25.911411"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781692785413"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "564",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781692785413"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.818",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41459375M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T20:42:53.208923"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070983356"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "364",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070983356"
+      ],
+      "title": "Work a Story of Experience",
+      "weight": "0.532",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL41231923M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T06:18:46.953081"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781520373423"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "520",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781520373423"
+      ],
+      "title": "Work",
+      "weight": "0.864",
+      "subtitle": "a Story of Experience",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40899888M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-22T00:47:30.744644"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL11001222A"
+        },
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781729486580"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "453",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781729486580"
+      ],
+      "title": "Work",
+      "weight": "0.759",
+      "subtitle": "A Story of Experience - Semi-Autobiographical Novel",
+      "full_title": "Work A Story of Experience - Semi-Autobiographical Novel",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40948379M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-22T08:24:47.184522"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980615620"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "363",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980615620"
+      ],
+      "title": "Work",
+      "weight": "0.618",
+      "subtitle": "a Story of Experience",
+      "full_title": "Work a Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40871180M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-21T19:54:28.542191"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781521237618"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "228",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781521237618"
+      ],
+      "title": "Work",
+      "weight": "0.405",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40688348M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T15:09:35.719718"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798840477212"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "275",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798840477212"
+      ],
+      "title": "Work",
+      "weight": "0.482",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40167399M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-20T00:44:43.188462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798525147485"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "234",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798525147485"
+      ],
+      "title": "Work : A Story of Experience",
+      "weight": "0.682",
+      "subtitle": "Large Print",
+      "full_title": "Work : A Story of Experience Large Print",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40147112M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-19T21:23:46.481244"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709743380"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "218",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709743380"
+      ],
+      "title": "Work : A Story of Experience",
+      "weight": "0.391",
+      "subtitle": "Complete",
+      "full_title": "Work : A Story of Experience Complete",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL40167629M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-20T00:46:43.131467"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1882",
+      "copyright_date": "1873",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "1329437498"
+      ],
+      "lc_classifications": [
+        "PZ7.A335"
+      ],
+      "dewey_decimal_class": [
+        "813"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"University Press : John Wilson & Son, Cambridge\" t.p. verso.\n\n\"From drawings by Sol Eytinge\"--List of illustrations.\n\ncommitted to retain 20170930 20421231 HathiTrust https://www.hathitrust.org/shared_print_program"
+      },
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Christie",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Servant",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Actress",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Governess",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Companion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Seamstress",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Through the mist",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A cure for despair",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mrs. Wilkins's minister",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Beginning again",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "In the strawberry bed",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Christie's gala",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Waking up",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Which?",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Midsummer",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mustered in",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The colonel",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sunrise",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little heart's-ease",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "At forty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "contributions": [
+        "Eytinge, Solomon, 1833-1905, illustrator",
+        "Roberts Brothers (Boston, Mass.)"
+      ],
+      "subjects": [
+        "Women",
+        "Juvenile fiction",
+        "Employment",
+        "Young women"
+      ],
+      "title": "Work",
+      "subtitle": "a story of experience",
+      "by_statement": "by Louisa May Alcott, author of Little women, Little men, An old-fashioned girl, Hospital sketches, etc",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "443 pages",
+      "number_of_pages": 443,
+      "ocaid": "workstoryofexper00alco_5",
+      "source_records": [
+        "ia:workstoryofexper00alco_5"
+      ],
+      "full_title": "Work a story of experience",
+      "covers": [
+        12927029
+      ],
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL39809814M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-02T05:49:18.376676"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781411443808"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "456",
+      "publish_date": "2011",
+      "publishers": [
+        "Barnes & Noble, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781411443808"
+      ],
+      "title": "Work",
+      "full_title": "Work",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL39307524M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-17T23:15:48.506176"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798444869550"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "370",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798444869550"
+      ],
+      "title": "Work : a Story of Experience",
+      "weight": "0.627",
+      "subtitle": "With Orininal Annotated",
+      "full_title": "Work : a Story of Experience With Orininal Annotated",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL38179438M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T09:53:18.509262"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798429436845"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "399",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798429436845"
+      ],
+      "title": "Work : a Story of Experience",
+      "weight": "0.677",
+      "subtitle": "With Original Illustrations",
+      "full_title": "Work : a Story of Experience With Original Illustrations",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL38134469M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T01:31:25.774066"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798444875179"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "370",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798444875179"
+      ],
+      "title": "Work : a Story of Experience",
+      "weight": "0.627",
+      "subtitle": "With Orininal Annotated",
+      "full_title": "Work : a Story of Experience With Orininal Annotated",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL38160334M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T06:29:04.979157"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798584907938"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "223",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798584907938"
+      ],
+      "title": "Work",
+      "weight": "0.305",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL38133169M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T01:16:04.465559"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Work",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jun 09, 2015",
+      "source_records": [
+        "amazon:1514295547",
+        "bwb:9781514295540"
+      ],
+      "number_of_pages": 106,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1514295547"
+      ],
+      "isbn_13": [
+        "9781514295540"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Work A Story of Experience",
+      "subtitle": "A Story of Experience",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Work: A Story of Experience"
+      },
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL37772603M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-21T12:58:35.227833"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T23:49:49.488254"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798489068871"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "355",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798489068871"
+      ],
+      "title": "Work : a Story of Experience",
+      "weight": "0.605",
+      "subtitle": "With Original Illustrations",
+      "full_title": "Work : a Story of Experience With Original Illustrations",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL36932719M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-29T03:44:16.323439"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781625581020"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "298",
+      "publish_date": "2012",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781625581020"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Work",
+      "full_title": "Work",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL36793158M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T01:44:49.433347"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781081072445"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "277",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781081072445"
+      ],
+      "subjects": [
+        "New england, fiction",
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "Work",
+      "weight": "0.482",
+      "subtitle": "A Story of Experience",
+      "full_title": "Work A Story of Experience",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "key": "/books/OL36336595M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T13:26:54.262898"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:34:52.971433"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "identifiers": {
+        "amazon": [
+          "1986094693"
+        ]
+      },
+      "subtitle": "A Story of Experience",
+      "covers": [
+        9177626
+      ],
+      "physical_format": "paperback",
+      "full_title": "Work A Story of Experience",
+      "key": "/books/OL27768437M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "source_records": [
+        "amazon:1986094693",
+        "bwb:9781986094696"
+      ],
+      "title": "Work",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Work: A Story of Experience"
+      },
+      "number_of_pages": 364,
+      "isbn_13": [
+        "9781986094696"
+      ],
+      "isbn_10": [
+        "1986094693"
+      ],
+      "publish_date": "Mar 05, 2018",
+      "works": [
+        {
+          "key": "/works/OL30021W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-10T23:17:02.125064"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T04:52:32.360275"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "subtitle": "twelve thrilling tales",
+  "lc_classifications": [
+    "PS1016 .D95 1996"
+  ],
+  "title": "A whisper in the dark",
+  "covers": [
+    8275670
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "As we rolled along, I scanned my companion covertly, and saw much to interest a girl of seventeen."
+  },
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "As we rolled along, I scanned my companion covertly, and saw much to interest a girl of seventeen."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "first_publish_date": "1996",
+  "key": "/works/OL30009W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "American Detective and mystery stories",
+    "American Horror tales",
+    "Detective and mystery stories, American",
+    "Horror tales, American",
+    "Detective and mystery stories",
+    "Horror tales"
+  ],
+  "genres": [
+    "/tags/OL175T",
+    "/tags/OL171T"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T09:18:47.155062"
+  }
+}

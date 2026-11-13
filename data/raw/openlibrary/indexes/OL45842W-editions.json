@@ -1,0 +1,1135 @@
+{
+  "links": {
+    "self": "/works/OL45842W/editions.json",
+    "work": "/works/OL45842W"
+  },
+  "size": 19,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "isbn_13": [
+        "9788419654212"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "304",
+      "publish_date": "2023",
+      "publishers": [
+        "Blackie Books"
+      ],
+      "source_records": [
+        "bwb:9788419654212"
+      ],
+      "title": "Los Fantasmas Favoritos de Roald Dahl / Roald Dahl's Book of Ghost Stories",
+      "weight": "0.369",
+      "full_title": "Los Fantasmas Favoritos de Roald Dahl / Roald Dahl's Book of Ghost Stories",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "key": "/books/OL48377281M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:16:50.366870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-30T09:54:45.339114"
+      }
+    },
+    {
+      "title": "Histoires de fantomes",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "publish_date": "2008-03-12",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "2013225318"
+      ],
+      "isbn_13": [
+        "9782013225311"
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-645-686"
+      ],
+      "publishers": [
+        "Livre de Poche Jeunesse (Le)"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-05-15:KO-645-686"
+      ],
+      "full_title": "Histoires de fantomes",
+      "ocaid": "histoiresdefanto0000roal",
+      "key": "/books/OL47781209M",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-17T01:38:19.705245"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-30T09:54:45.339114"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "EL LLIBRE DELS FANTASMES",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        },
+        {
+          "key": "/authors/OL9206667A"
+        }
+      ],
+      "publish_date": "Mar 01, 1998",
+      "source_records": [
+        "amazon:848300481X"
+      ],
+      "number_of_pages": 1,
+      "publishers": [
+        "Columna CAT"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        13496280
+      ],
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "key": "/books/OL47115244M",
+      "isbn_10": [
+        "848300481X"
+      ],
+      "isbn_13": [
+        "9788483004814"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Roser Berdagué"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/cat"
+        }
+      ],
+      "translation_of": "Roald Dahl's Book of Ghost Stories",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-16T08:29:11.020599"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-30T09:54:45.339114"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Històries de fantasmes",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        },
+        {
+          "key": "/authors/OL8505108A"
+        }
+      ],
+      "publish_date": "May 01, 2008",
+      "source_records": [
+        "amazon:8466409378"
+      ],
+      "number_of_pages": 240,
+      "publishers": [
+        "Columna"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Històries de fantasmes (COL.LECCIO JOVE) (Catalan Edition)",
+      "covers": [
+        13477253
+      ],
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "key": "/books/OL47102723M",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Roser Berdagué Costa"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Roald Dahl's Book of Ghost Stories",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "8466409378"
+      ],
+      "isbn_13": [
+        "9788466409377"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-16T00:18:09.543235"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-30T09:54:45.339114"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "HISTÒRIES DE FANTASMES",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        },
+        {
+          "key": "/authors/OL9206667A"
+        }
+      ],
+      "publish_date": "Jun 01, 2001",
+      "source_records": [
+        "amazon:8466401172"
+      ],
+      "number_of_pages": 1,
+      "publishers": [
+        "Columna CAT"
+      ],
+      "isbn_10": [
+        "8466401172"
+      ],
+      "isbn_13": [
+        "9788466401173"
+      ],
+      "physical_format": "paperback",
+      "full_title": "HISTÒRIES DE FANTASMES",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "key": "/books/OL47115870M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-16T08:52:53.255849"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-30T09:54:45.339114"
+      }
+    },
+    {
+      "publishers": [
+        "imusti",
+        "Michael Joseph"
+      ],
+      "source_records": [
+        "amazon:0241955718",
+        "bwb:9780241955710"
+      ],
+      "title": "Roald Dahl's Book of Ghost Stories",
+      "isbn_10": [
+        "0241955718"
+      ],
+      "number_of_pages": 256,
+      "isbn_13": [
+        "9780241955710"
+      ],
+      "covers": [
+        10309025
+      ],
+      "physical_format": "paperback",
+      "full_title": "Roald Dahl's Book of Ghost Stories",
+      "lc_classifications": [
+        "PR6054.A35"
+      ],
+      "publish_date": "Mar 27, 2012",
+      "key": "/books/OL28372376M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-07-25T02:26:10.406453"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-02-18T09:10:02.045183"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1509"
+        ]
+      },
+      "title": "Svarte Bok",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "publishers": [
+        "Glydendal Norsk Forlag"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9788205186828"
+      ],
+      "isbn_10": [
+        "8205186820"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8205186820"
+      ],
+      "key": "/books/OL13182264M",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-10T09:50:46.122850"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1888877"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "title": "Roald Dahl's Buch der Schauergeschichten.",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "publish_date": "November 1, 1989",
+      "publishers": [
+        "Rowohlt Tb."
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "isbn_13": [
+        "9783499126291"
+      ],
+      "covers": [
+        3216358
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "349912629X"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "roalddahlsbuchde0000roal",
+      "source_records": [
+        "amazon:349912629X"
+      ],
+      "key": "/books/OL12743254M",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-27T02:28:22.255474"
+      }
+    },
+    {
+      "publishers": [
+        "Bt Bound"
+      ],
+      "weight": "13.1 ounces",
+      "covers": [
+        1316653
+      ],
+      "physical_format": "Library Binding",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-13T15:29:58.661329"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL9601437M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "subjects": [
+        "Children: Young Adult (Gr. 7-9)"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0613024850:2-bc:921674548:228144"
+      ],
+      "title": "Roald Dahl's Book of Ghost Stories",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780613024853"
+      ],
+      "isbn_10": [
+        "0613024850"
+      ],
+      "publish_date": "October 1999",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.2 x 5.8 x 0.8 inches",
+      "revision": 5
+    },
+    {
+      "title": "Histoires De Fantomes",
+      "subtitle": "Histoires De Fantomes",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "publishers": [
+        "Hachette"
+      ],
+      "isbn_13": [
+        "9782010147685"
+      ],
+      "physical_format": "Unknown Binding",
+      "isbn_10": [
+        "2010147685"
+      ],
+      "oclc_numbers": [
+        "35265649"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language readers"
+      ],
+      "source_records": [
+        "amazon:2010147685"
+      ],
+      "key": "/books/OL12342551M",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-17T08:06:34.659408"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1509"
+        ],
+        "goodreads": [
+          "3410934"
+        ]
+      },
+      "title": "Roald Dahl's Book of Ghost Stories (Mainstream Series)",
+      "subtitle": "A selection of classic chillers, chosen by the master of macabre.",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "publish_date": "October 1987",
+      "publishers": [
+        "Isis Large Print Books"
+      ],
+      "covers": [
+        9159709
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Ghosts",
+        "Fiction - Horror",
+        "Large Print",
+        "Ghost",
+        "Fiction",
+        "Short stories"
+      ],
+      "edition_name": "Largeprint edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-25:P7-DHN-235",
+        "ia:roalddahlsbookof00roal",
+        "promise:bwb_daily_pallets_2021-06-01:T2-AOF-534"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "roalddahlsbookof00roal",
+      "isbn_10": [
+        "1850891788"
+      ],
+      "isbn_13": [
+        "9781850891789"
+      ],
+      "oclc_numbers": [
+        "15660682"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-DHN-235",
+        "urn:bwbsku:T2-AOF-534"
+      ],
+      "key": "/books/OL9888460M",
+      "number_of_pages": 317,
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "latest_revision": 19,
+      "revision": 19,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T12:54:33.691718"
+      }
+    },
+    {
+      "publishers": [
+        "Farrar, Straus and Giroux"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "765395"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "lc_classifications": [
+        ""
+      ],
+      "source_records": [
+        "amazon:0374518688:18:1528268549:243092",
+        "bwb:9780374518684",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:454775802:1272"
+      ],
+      "title": "Roald Dahl's Book of Ghost Stories",
+      "number_of_pages": 235,
+      "covers": [
+        224697
+      ],
+      "isbn_13": [
+        "9780374518684"
+      ],
+      "isbn_10": [
+        "0374518688"
+      ],
+      "publish_date": "October 1, 1984",
+      "key": "/books/OL7424141M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "15184092"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-08T00:16:05.508687"
+      }
+    },
+    {
+      "publishers": [
+        "Hachette Jeunesse"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6987921"
+        ]
+      },
+      "weight": "7.8 ounces",
+      "covers": [
+        3068642
+      ],
+      "physical_format": "Mass Market Paperback",
+      "key": "/books/OL12384996M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "title": "Histoires de fantômes, nouvelle édition",
+      "number_of_pages": 315,
+      "isbn_13": [
+        "9782013220682"
+      ],
+      "isbn_10": [
+        "2013220685"
+      ],
+      "publish_date": "November 30, 2002",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.9 x 5 x 0.7 inches",
+      "ocaid": "histoiresdefanto0000unse_b9p5",
+      "source_records": [
+        "ia:histoiresdefanto0000unse_b9p5",
+        "promise:bwb_daily_pallets_2020-12-14"
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-650-701"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T07:23:02.597366"
+      }
+    },
+    {
+      "publishers": [
+        "Tandem Library"
+      ],
+      "weight": "11.2 ounces",
+      "covers": [
+        7311310
+      ],
+      "physical_format": "School & Library Binding",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-03-13T15:29:58.661329"
+      },
+      "latest_revision": 15,
+      "key": "/books/OL9774016M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "subjects": [
+        "Horror & Ghost Stories",
+        "Juvenile Fiction",
+        "Children's Books - Young Adult",
+        "Children's Books - Young Adult Fiction",
+        "Fiction",
+        "Ghost stories, American",
+        "Ghost stories, English",
+        "Ghosts",
+        "Short stories",
+        "Children: Young Adult (Gr. 7-9)"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0613851358:2-at:540256292:280770"
+      ],
+      "title": "Roald Dahls Book of Ghost Stories",
+      "identifiers": {
+        "goodreads": [
+          "3410933"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780613851350"
+      ],
+      "isbn_10": [
+        "0613851358"
+      ],
+      "publish_date": "October 1984",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.2 x 5.4 x 0.9 inches",
+      "revision": 15
+    },
+    {
+      "other_titles": [
+        "Book of ghost stories."
+      ],
+      "publishers": [
+        "Cape"
+      ],
+      "number_of_pages": 235,
+      "isbn_10": [
+        "0224021494"
+      ],
+      "lc_classifications": [
+        "PR1309.G5 R62 1983b",
+        "PR1309.G5"
+      ],
+      "key": "/books/OL2947075M",
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Dahl, Roald."
+      ],
+      "pagination": "235 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part17.dat:134494132:613",
+        "marc:marc_loc_2016/BooksAll.2016.part16.utf8:5057585:609",
+        "bwb:9780224021494"
+      ],
+      "title": "Roald Dahl's Book of ghost stories.",
+      "lccn": [
+        "84187274"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1509"
+        ],
+        "goodreads": [
+          "1974287"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823/.0872/08"
+      ],
+      "subjects": [
+        "Ghost stories, English.",
+        "Ghost stories, American."
+      ],
+      "publish_date": "1983",
+      "publish_country": "enk",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-17T08:27:40.728108"
+      }
+    },
+    {
+      "other_titles": [
+        "Book of ghost stories."
+      ],
+      "publishers": [
+        "Farrar, Straus, Giroux"
+      ],
+      "number_of_pages": 235,
+      "isbn_10": [
+        "0374251312"
+      ],
+      "lc_classifications": [
+        "PR1309.G5 R62 1983"
+      ],
+      "key": "/books/OL3187452M",
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Dahl, Roald."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "235 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part16.dat:122488026:610",
+        "marc:marc_loc_2016/BooksAll.2016.part14.utf8:191893890:756",
+        "bwb:9780374251314"
+      ],
+      "title": "Roald Dahl's Book of ghost stories.",
+      "lccn": [
+        "83048662"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3410932"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "edition_name": "1st American ed.",
+      "dewey_decimal_class": [
+        "823/.0872/08"
+      ],
+      "subjects": [
+        "Ghost stories, English.",
+        "Ghost stories, American."
+      ],
+      "publish_date": "1983",
+      "publish_country": "nyu",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-04-17T03:44:37.635295"
+      }
+    },
+    {
+      "publishers": [
+        "Jonathan Cape"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1974287"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "source_records": [
+        "amazon:0224021494:16:747229228:228119"
+      ],
+      "title": "Book of Ghost Stories",
+      "number_of_pages": 240,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-05T23:07:44.190426"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "isbn_13": [
+        "9780224021494"
+      ],
+      "isbn_10": [
+        "0224021494"
+      ],
+      "publish_date": "October 6, 1983",
+      "key": "/books/OL7414064M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "latest_revision": 5,
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Penguin Books"
+      ],
+      "number_of_pages": 256,
+      "weight": "5.3 ounces",
+      "covers": [
+        93935
+      ],
+      "edition_name": "New Ed edition",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T04:00:43.636847"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9301690M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "subjects": [
+        "Horror & ghost stories",
+        "Short stories",
+        "Fiction - General",
+        "Horror",
+        "General"
+      ],
+      "isbn_13": [
+        "9780140071788"
+      ],
+      "source_records": [
+        "amazon:0140071784:o-9:2387773682:237716",
+        "amazon:0140071784:10:1959351143:237170"
+      ],
+      "title": "Book of Ghost Stories",
+      "identifiers": {
+        "goodreads": [
+          "23792"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "0140071784"
+      ],
+      "publish_date": "June 1994",
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.2 x 4.5 x 0.8 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Penguin Books"
+      ],
+      "number_of_pages": 256,
+      "source_records": [
+        "amazon:0140071784:o-9:2387773682:237716",
+        "amazon:0140071784:10:1959351143:237170",
+        "bwb:9780140071788"
+      ],
+      "title": "Book of Ghost Stories",
+      "identifiers": {
+        "goodreads": [
+          "23792"
+        ],
+        "librarything": [
+          "1509"
+        ]
+      },
+      "isbn_13": [
+        "9780140071788"
+      ],
+      "covers": [
+        93936
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "0140071784"
+      ],
+      "publish_date": "June 1994",
+      "key": "/books/OL7347038M",
+      "authors": [
+        {
+          "key": "/authors/OL34184A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL45842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "PR1309.G5"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-17T10:20:28.262645"
+      }
+    }
+  ]
+}

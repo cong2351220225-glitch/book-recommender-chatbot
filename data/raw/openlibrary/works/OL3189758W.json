@@ -1,0 +1,35 @@
+{
+  "lc_classifications": [
+    "PQ2663.O695 A97 2006"
+  ],
+  "key": "/works/OL3189758W",
+  "title": "L' autre",
+  "first_publish_date": "2006",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL512517A"
+      }
+    }
+  ],
+  "subtitle": "trois explications",
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    13852841
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T02:41:21.508473"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-07T11:48:21.923139"
+  }
+}

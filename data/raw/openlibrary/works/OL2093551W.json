@@ -1,0 +1,33 @@
+{
+  "key": "/works/OL2093551W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:52:57.505092"
+  },
+  "title": "Crime and mental disorder",
+  "id": 37271542,
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "1984",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-03T04:53:28.000935"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL258059A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "People with mental disabilities and crime"
+  ],
+  "revision": 2
+}

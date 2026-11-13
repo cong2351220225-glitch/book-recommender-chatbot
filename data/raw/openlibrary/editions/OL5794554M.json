@@ -1,0 +1,128 @@
+{
+  "publishers": [
+    "Braziller"
+  ],
+  "subtitle": "and other stories.",
+  "lc_classifications": [
+    "PZ4.Z69 In"
+  ],
+  "key": "/books/OL5794554M",
+  "authors": [
+    {
+      "key": "/authors/OL2171284A"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "",
+      "title": "The journey to Brentwood.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "In a valley.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "My father and the Cossacks.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "The season's dying.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "In this world.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Neighbors.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "To be a man.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Wooden nickels.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "The paper it is printed on.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Sparrows.",
+      "pagenum": ""
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "The way to Eldorado.",
+      "pagenum": ""
+    }
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "pagination": "256 p.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part05.utf8:90652974:683",
+    "ia:inthisworldother0000zill"
+  ],
+  "title": "The seasons Dying",
+  "lccn": [
+    "60006278"
+  ],
+  "number_of_pages": 256,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1960",
+  "publish_country": "nyu",
+  "oclc_numbers": [
+    "1392824"
+  ],
+  "works": [
+    {
+      "key": "/works/OL7342686W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    14344017
+  ],
+  "ocaid": "inthisworldother0000zill",
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-06-08T04:33:10.680298"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "key": "/works/OL1227442W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:47:34.851379"
+  },
+  "title": "Haiku",
+  "first_publish_date": "1966",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-01-22T23:44:28.578206"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL123818A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 36405912,
+  "revision": 2
+}

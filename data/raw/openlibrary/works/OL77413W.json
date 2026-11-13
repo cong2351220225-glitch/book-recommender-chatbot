@@ -1,0 +1,55 @@
+{
+  "title": "Jaguar",
+  "covers": [
+    787432
+  ],
+  "subject_places": [
+    "Belize",
+    "Central America",
+    "Cockscomb Forest Reserve/Jaguar Preserve (Belize)",
+    "United States"
+  ],
+  "subjects": [
+    "Jaguar",
+    "Description and travel",
+    "Mammals",
+    "United States",
+    "Jaguars",
+    "Zoologists",
+    "Biography",
+    "Travel",
+    "Artenschutz",
+    "Jaguar Preserve",
+    "BUSINESS & ECONOMICS / Real Estate / General",
+    "United states, biography",
+    "Belize, description and travel",
+    "Zoology, central america"
+  ],
+  "subject_people": [
+    "Alan Rabinowitz (1953-)"
+  ],
+  "key": "/works/OL77413W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL39424A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T10:23:53.515424"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T05:09:50.877939"
+  }
+}

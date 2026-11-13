@@ -1,0 +1,38 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Examines the world's mountains, discussing how they were formed, what organisms live there, and how they are used by humans."
+  },
+  "covers": [
+    1929492
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-01T14:02:31.282693"
+  },
+  "latest_revision": 4,
+  "key": "/works/OL479401W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL30027A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T03:10:42.493074"
+  },
+  "title": "Mountains",
+  "subjects": [
+    "Mountains",
+    "Juvenile literature"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

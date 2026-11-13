@@ -1,0 +1,16 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-07-11T03:30:05.796828"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2015-07-14T19:24:23.347228"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL17154212W",
+  "type": {
+    "key": "/type/delete"
+  },
+  "revision": 2
+}

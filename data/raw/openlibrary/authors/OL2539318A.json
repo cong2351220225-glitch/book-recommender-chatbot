@@ -1,0 +1,16 @@
+{
+  "name": "R. M. Wenley",
+  "personal_name": "R. M. Wenley",
+  "death_date": "1929",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-04 05:33:58.534623"
+  },
+  "key": "/authors/OL2539318A",
+  "birth_date": "1861",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 9572226,
+  "revision": 2
+}

@@ -1,0 +1,133 @@
+{
+  "id": "sess_k_5",
+  "title": "Gợi ý sách lập trình hay nhất",
+  "timestamp": "2026-11-03 21:49:04",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "10:50"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "10:50",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "11:16"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "11:16",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "12:42"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "12:42",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "13:30"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "13:30",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "14:26"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "14:26",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "14:50"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "14:50",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "21:49"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "21:49",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

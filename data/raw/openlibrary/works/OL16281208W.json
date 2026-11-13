@@ -1,0 +1,40 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-11-16T07:49:53.548889"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL16281208W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL5906577A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-11-16T07:49:53.548889"
+  },
+  "title": "Sefer ha-Dor ṿeha-teḳufah",
+  "subject_places": [
+    "Jerusalem"
+  ],
+  "subjects": [
+    "Rabbis",
+    "Anecdotes"
+  ],
+  "subject_people": [
+    "Isaac Zeʼev Soloveichik ha-Levi (1886-1959)",
+    "Selig Reuben Bengis (1864-1953)",
+    "Avraham Yeshayahu Ḳarelitz (1878-1953)",
+    "Joseph Ẓevi ben Israel Duschinsky (1868-1948)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

@@ -1,0 +1,155 @@
+{
+  "links": {
+    "self": "/works/OL30100W/editions.json",
+    "work": "/works/OL30100W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Mcgraw-Hill"
+      ],
+      "subtitle": "What Is the Golden Horde? (Earth Inspectors, No. 12)",
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-28T18:31:19.303581"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9250844M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "contributions": [
+        "Barbara Carter (Illustrator)"
+      ],
+      "subjects": [
+        "Fiction",
+        "Plot-your-own stories",
+        "Soviet Union",
+        "Space and time",
+        "Time travel"
+      ],
+      "isbn_13": [
+        "9780070480049"
+      ],
+      "source_records": [
+        "amazon:0070480044:5:2829025558:137926",
+        "amazon:0070480044:o-4:3305943889:137120"
+      ],
+      "title": "Russia",
+      "identifiers": {
+        "librarything": [
+          "491439"
+        ],
+        "goodreads": [
+          "706953"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0070480044"
+      ],
+      "publish_date": "March 1990",
+      "oclc_numbers": [
+        "20057371"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30100W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Mcgraw-Hill"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subtitle": "What Is the Golden Horde? (Earth Inspectors, No. 12)",
+      "source_records": [
+        "amazon:0070480044:5:2829025558:137926",
+        "amazon:0070480044:o-4:3305943889:137120",
+        "ia:russiawhatisgold0000pack",
+        "amazon:0070480044",
+        "promise:bwb_daily_pallets_2020-11-27"
+      ],
+      "title": "Russia",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "librarything": [
+          "491439"
+        ],
+        "goodreads": [
+          "706953"
+        ]
+      },
+      "isbn_13": [
+        "9780070480049"
+      ],
+      "isbn_10": [
+        "0070480044"
+      ],
+      "publish_date": "March 1990",
+      "key": "/books/OL7296140M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "oclc_numbers": [
+        "20057371"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30100W"
+        }
+      ],
+      "contributions": [
+        "Barbara Carter (Illustrator)"
+      ],
+      "covers": [
+        10590315
+      ],
+      "ocaid": "russiawhatisgold0000pack",
+      "lccn": [
+        "89012725"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Ru 1989"
+      ],
+      "local_id": [
+        "urn:bwbsku:P6-ABF-514"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T09:57:12.748009"
+      }
+    }
+  ]
+}

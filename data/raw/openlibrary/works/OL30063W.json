@@ -1,0 +1,18 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-03-17T21:09:53.294249"
+  },
+  "latest_revision": 6,
+  "location": "/works/OL30020W",
+  "key": "/works/OL30063W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "id": 34794046,
+  "revision": 6
+}

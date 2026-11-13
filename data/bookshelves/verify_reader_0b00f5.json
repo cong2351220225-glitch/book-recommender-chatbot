@@ -1,0 +1,16 @@
+{
+  "username": "verify_reader_0b00f5",
+  "items": {
+    "book_001_reading_8e2120": {
+      "id": "book_001_reading_8e2120",
+      "book_id": "book_001",
+      "status": "reading",
+      "progress_page": 45,
+      "total_pages": 300,
+      "rating": 0,
+      "notes": "",
+      "added_at": "2026-11-03T04:45:24.536846",
+      "updated_at": "2026-11-03T04:45:24.536846"
+    }
+  }
+}

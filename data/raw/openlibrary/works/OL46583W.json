@@ -1,0 +1,49 @@
+{
+  "subtitle": "after being dumped by extraterrestrial on first date : entire disgusting story begins on page 3",
+  "description": {
+    "type": "/type/text",
+    "value": "Two student newspaper reporters spend the summer trying to get even with each other, and in the process, abuse the right of a free press."
+  },
+  "title": "Twelve-year-old vows revenge!",
+  "covers": [
+    8230518
+  ],
+  "subjects": [
+    "Tabloid newspapers",
+    "Juvenile fiction",
+    "Humorous stories",
+    "Tabloid newspapers in fiction",
+    "Fiction",
+    "Tabloid newspapers -- Juvenile fiction",
+    "Children's fiction",
+    "Science fiction"
+  ],
+  "key": "/works/OL46583W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34268A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL172T",
+    "/tags/OL179T"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:34:21.437031"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T09:03:00.538539"
+  }
+}

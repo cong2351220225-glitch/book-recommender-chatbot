@@ -1,0 +1,25 @@
+{
+  "title": "Ujāle",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:12:37.549361"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:12:37.549361"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL1042595W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL102640A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

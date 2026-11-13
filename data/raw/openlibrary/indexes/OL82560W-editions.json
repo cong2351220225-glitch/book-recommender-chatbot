@@ -1,0 +1,2924 @@
+{
+  "links": {
+    "self": "/works/OL82560W/editions.json",
+    "work": "/works/OL82560W",
+    "next": "/works/OL82560W/editions.json?offset=50"
+  },
+  "size": 243,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter et la coupe de feu",
+      "publishers": [
+        "Gallimard"
+      ],
+      "publish_date": "2025",
+      "key": "/books/OL62546322M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15254532
+      ],
+      "isbn_13": [
+        "9782075230056"
+      ],
+      "contributors": [
+        {
+          "role": "Illustrator",
+          "name": "Karl James Mountford"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-14T13:42:28.675738"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-14T13:47:00.574444"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter und der Feuerkelch",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL61202088M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "bookbrainz": [
+          "99f67805-5482-4c88-a1a1-c51ac9668227"
+        ]
+      },
+      "covers": [
+        15165889
+      ],
+      "isbn_10": [
+        "3551553009"
+      ],
+      "copyright_date": "2000",
+      "edition_name": "Limitierte Sonderausgabe",
+      "series": [
+        "Buch 4 aus \"Harryz Zauberbox\""
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "Harry Potter and the Goblet of Fire",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Taschenbuch",
+      "number_of_pages": 766,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-30T15:14:10.215690"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-30T15:15:44.263008"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL7403377A"
+        }
+      ],
+      "isbn_13": [
+        "9798890984920"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 696,
+      "publish_date": "2025",
+      "publishers": [
+        "Publicaciones y Ediciones Salamandra, S.A."
+      ],
+      "source_records": [
+        "bwb:9798890984920"
+      ],
+      "title": "Harry Potter y el Cáliz de Fuego (Edición con Ilustraciones de Xavier Bonet) / Harry Potter and the Goblet of Fire",
+      "weight": "0.625",
+      "full_title": "Harry Potter y el Cáliz de Fuego (Edición con Ilustraciones de Xavier Bonet) / Harry Potter and the Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL60899029M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-13T02:23:01.214535"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL7896175A"
+        },
+        {
+          "key": "/authors/OL16035741A"
+        }
+      ],
+      "isbn_13": [
+        "9781546154419"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 608,
+      "publish_date": "2025",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781546154419"
+      ],
+      "title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (Interactive Illustrated Edition)",
+      "full_title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (Interactive Illustrated Edition)",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL60890436M",
+      "covers": [
+        15227222
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-13T01:32:27.777072"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-04T04:15:31.732953"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL7896175A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9781526691262"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 608,
+      "publish_date": "2025",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781526691262"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "weight": "1.604",
+      "subtitle": "A Sumptuously Illustrated Gift Book with Magical Interactive Surprises",
+      "full_title": "Harry Potter and the Goblet of Fire A Sumptuously Illustrated Gift Book with Magical Interactive Surprises",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL60833796M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-12T20:34:20.255723"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_10": [
+        "1546171428"
+      ],
+      "isbn_13": [
+        "9781546171423"
+      ],
+      "local_id": [
+        "urn:bwbsku:T5-CQB-982"
+      ],
+      "publish_date": "2025-07-01",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2025-03-26:T5-CQB-982"
+      ],
+      "title": "Harry Potter and the Goblet of Fire (Stenciled Edges) (Harry Potter, Book 4)",
+      "full_title": "Harry Potter and the Goblet of Fire (Stenciled Edges) (Harry Potter, Book 4)",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL60415925M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T02:34:12.688507"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:KU-464-091"
+      ],
+      "publish_date": "2005",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-17:KU-464-091"
+      ],
+      "title": "Harry Potter og Ildbegeret",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL56907644M",
+      "identifiers": {},
+      "isbn_10": [
+        "8204108133"
+      ],
+      "isbn_13": [
+        "9788204108135"
+      ],
+      "ocaid": "harrypotterogild0000jkro",
+      "languages": [
+        {
+          "key": "/languages/nor"
+        }
+      ],
+      "covers": [
+        15159998
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-06T07:13:26.729829"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9780798184410"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "464",
+      "publish_date": "2024",
+      "publishers": [
+        "NB Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780798184410"
+      ],
+      "title": "Harry Potter en Die Beker Vol Vuur",
+      "subtitle": "Harry Potter 4",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL51805919M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-17T16:56:05.783969"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter en die beker vol vuur",
+      "publishers": [
+        "Human & Rousseau"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL61067741M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0798141034"
+      ],
+      "ocaid": "harrypotterendie0000jkro",
+      "languages": [
+        {
+          "key": "/languages/afr"
+        }
+      ],
+      "covers": [
+        15159937
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T15:10:00.595641"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2456431A"
+        }
+      ],
+      "isbn_13": [
+        "9781526614599"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2019",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781526614599"
+      ],
+      "title": "Harry Potter and The Goblet of Fire",
+      "full_title": "Harry Potter and The Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL48673290M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T08:13:57.786179"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781408865637"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "616",
+      "publish_date": "2015",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781408865637"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Wizards, fiction",
+        "Magic, fiction",
+        "Schools, fiction",
+        "England, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "full_title": "Harry Potter and the Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL48657023M",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T07:12:32.719455"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9780747549710"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "0",
+      "publish_date": "2000",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9780747549710"
+      ],
+      "subjects": [
+        "Magic, fiction",
+        "England, fiction",
+        "Potter, harry (fictitious character), fiction",
+        "Children's fiction",
+        "Fantasy fiction",
+        "Schools, fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "weight": "1.102",
+      "full_title": "Harry Potter and the Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL48607572M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T04:07:58.139451"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2009",
+      "publish_country": "ii",
+      "languages": [
+        {
+          "key": "/languages/mar"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the goblet of fire"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "A juvenile novel.\r\n\r\nIn Marathi."
+      },
+      "contributions": [
+        "Āmaḍekara, Maṅjushā"
+      ],
+      "subjects": [
+        "English Fantasy literature",
+        "Translations into Marathi",
+        "Harry Potter (Fictitious character)",
+        "Juvenile fiction"
+      ],
+      "title": "Hêrī Pôṭara āṇi agnicashaka",
+      "by_statement": "Je. Ke. Roliṅga ; anuvāda, Mañjushā Āmaḍekara",
+      "publishers": [
+        "Mañjula Pabliśiṅga Hāusa"
+      ],
+      "publish_places": [
+        "Bhopal, India"
+      ],
+      "pagination": "672 p.",
+      "number_of_pages": 672,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:573733692:835",
+        "marc:harvard_bibliographic_metadata/20220215_030.bib.mrc:262210968:1505"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL45335863M",
+      "identifiers": {},
+      "oclc_numbers": [
+        "759063025"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Maṅjushā. Āmaḍekara"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-04T12:24:21.822964"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T18:21:19.950022"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter és a tűz serlege",
+      "publishers": [
+        "Animus"
+      ],
+      "publish_date": "2012",
+      "key": "/books/OL43086303M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "covers": [
+        13028326
+      ],
+      "isbn_13": [
+        "9789639884762"
+      ],
+      "physical_dimensions": "21.5 x 15 x 5 centimeters",
+      "weight": "660 grams",
+      "publish_places": [
+        "Budapest, Hungary"
+      ],
+      "translation_of": "Harry Potter and the Goblet of Fire",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Tóth Tamás Boldizsár"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "copyright_date": "2000",
+      "number_of_pages": 678,
+      "physical_format": "Hardcover",
+      "languages": [
+        {
+          "key": "/languages/hun"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T08:44:06.162890"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2003",
+      "publish_country": "xr",
+      "languages": [
+        {
+          "key": "/languages/cze"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "edition_name": "4. vyd., (1. vyd. v této úpravě).",
+      "notes": {
+        "type": "/type/text",
+        "value": "Dotisk [2005].\r\n\r\nPřeloženo z angličtiny.\r\n\r\nUrčeno pro čtenáře od 9 do 99 let i více."
+      },
+      "contributions": [
+        "Medek, Vladimír, 1940-"
+      ],
+      "title": "Harry Potter a ohnivý pohár",
+      "by_statement": "Joanne K. Rowlingová ; [z anglického originálu ... přeložil Vladimír Medek]",
+      "publishers": [
+        "Albatros"
+      ],
+      "publish_places": [
+        "Praha"
+      ],
+      "pagination": "570 s.",
+      "number_of_pages": 570,
+      "source_records": [
+        "ia:harrypotterohniv0000rowl",
+        "promise:bwb_daily_pallets_2022-09-12"
+      ],
+      "full_title": "Harry Potter a ohnivý pohár",
+      "covers": [
+        15156817
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL40295029M",
+      "local_id": [
+        "urn:bwbsku:O8-CMW-560"
+      ],
+      "identifiers": {},
+      "ocaid": "harrypotterohniv0000rowl",
+      "isbn_10": [
+        "8000012537"
+      ],
+      "isbn_13": [
+        "9788000012537"
+      ],
+      "oclc_numbers": [
+        "56854436"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-15T23:07:11.549364"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter i czara ognia",
+      "source_records": [
+        "amazon:8372780226",
+        "promise:bwb_daily_pallets_2022-04-05"
+      ],
+      "physical_format": "hardcover",
+      "notes": "Source title: Harry Potter i Czara Ognia (Harry Potter, #4)",
+      "full_title": "Harry Potter i Czara Ognia",
+      "covers": [
+        15157256
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL32575431M",
+      "local_id": [
+        "urn:bwbsku:W7-BQU-313"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000H0B4Y4"
+        ],
+        "better_world_books": [
+          "BWBM51473503"
+        ]
+      },
+      "isbn_10": [
+        "8372780226"
+      ],
+      "isbn_13": [
+        "9788372780225"
+      ],
+      "ocaid": "harrypottericzar0000unse",
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "publish_date": "2001",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-06-05T11:42:09.585352"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter i czara ognia",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jan 01, 2016",
+      "source_records": [
+        "amazon:8380082389"
+      ],
+      "number_of_pages": 764,
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "isbn_10": [
+        "8380082389"
+      ],
+      "isbn_13": [
+        "9788380082380"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter i czara ognia (Polish Edition)"
+      },
+      "full_title": "Harry Potter i czara ognia",
+      "covers": [
+        13942135
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47351489M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T16:29:49.568302"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "publishers": [
+        "Egmont Romania"
+      ],
+      "source_records": [
+        "amazon:9735833026"
+      ],
+      "title": "Harry Potter Pocalul de Foc",
+      "number_of_pages": 655,
+      "isbn_13": [
+        "9789735833022"
+      ],
+      "covers": [
+        10447762
+      ],
+      "physical_format": "hardcover",
+      "isbn_10": [
+        "9735833026"
+      ],
+      "publish_date": "Sep 16, 2003",
+      "key": "/books/OL30183037M",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-16T08:45:38.716864"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter şi pocalul de foc",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2017",
+      "source_records": [
+        "amazon:6067881713"
+      ],
+      "number_of_pages": 728,
+      "publishers": [
+        "Arthur"
+      ],
+      "physical_format": "hardcover",
+      "covers": [
+        15157558
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL31865269M",
+      "identifiers": {},
+      "isbn_10": [
+        "6067881713"
+      ],
+      "isbn_13": [
+        "9786067881714"
+      ],
+      "ocaid": "harrypottersipoc0000jkro",
+      "languages": [
+        {
+          "key": "/languages/rum"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-15T15:38:34.037717"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter si Pocalul de Foc",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jan 15, 2017",
+      "source_records": [
+        "amazon:6067881713",
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-204"
+      ],
+      "number_of_pages": 728,
+      "publishers": [
+        "Arthur"
+      ],
+      "isbn_10": [
+        "6067881713"
+      ],
+      "isbn_13": [
+        "9786067881714"
+      ],
+      "physical_format": "hardcover",
+      "covers": [
+        10547039
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL31865270M",
+      "local_id": [
+        "urn:bwbsku:W8-BSR-204"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-15T15:38:34.053825"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:04:46.756384"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "哈利.波特與火焰杯",
+      "publishers": [
+        "人民文學"
+      ],
+      "publish_date": "2008",
+      "key": "/books/OL61162473M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "7020034632"
+      ],
+      "ocaid": "haliboteyuhuoyan0000rowl",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15163690
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:02:30.254056"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:03:04.906448"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter & chiếc cốc lửa",
+      "publishers": [
+        "Nhà xuất bản Trẻ"
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL61089427M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/vie"
+        }
+      ],
+      "ocaid": "bwb_S0-BKQ-107",
+      "covers": [
+        15160623
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T11:36:51.985637"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T11:37:53.136333"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61057759M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "074754624X"
+      ],
+      "ocaid": "snj.harrypottergoble-2.0001rowl/",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15158661
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T15:00:47.933483"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T15:01:14.057547"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61057758M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "074754624X"
+      ],
+      "ocaid": "snj.harrypottergoble0001rowl",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15158659
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:56:04.824432"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:56:30.036037"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter e o cálice de fogo",
+      "publishers": [
+        "Editorial Presença"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL61057669M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9789722326803"
+      ],
+      "ocaid": "harrypottereocal0000jkro",
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "covers": [
+        15158651
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:38:39.638104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:39:16.689691"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter y el cáliz de fuego",
+      "publishers": [
+        "Letras de Bolsillo"
+      ],
+      "publish_date": "2018",
+      "key": "/books/OL61057541M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788498384444"
+      ],
+      "ocaid": "harrypotteryelcl0000unse",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "covers": [
+        15158631
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:02:46.958963"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:03:49.729515"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL61053584M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0439139600"
+      ],
+      "ocaid": "bwb_P8-BOL-606",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15158355
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T17:54:08.880373"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T17:55:09.219293"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Ο Χάρι Πότερ και το κύπελλο της φωτιάς",
+      "publishers": [
+        "Ψυχογιός"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL61052613M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "9602744812"
+      ],
+      "ocaid": "hocharipoterkait0000rowl",
+      "languages": [
+        {
+          "key": "/languages/gre"
+        }
+      ],
+      "covers": [
+        15158263
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T10:24:11.460735"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T10:36:36.581842"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61037975M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156295
+      ],
+      "isbn_13": [
+        "9780807286036"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:01:43.365824"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:02:01.176653"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter y el cáliz de fuego",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "08/08/2015",
+      "key": "/books/OL59922445M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15116681
+      ],
+      "isbn_13": [
+        "9781781101346"
+      ],
+      "publish_places": [
+        "España"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Alicia Dellepiane"
+        },
+        {
+          "role": "Translator",
+          "name": "Gemma Rovira Rovira Ortega"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Harry Potter and the Goblet of Fire",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "eBook",
+      "number_of_pages": 660,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:18:19.680346"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:20:47.531566"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and The Goblet of Fire",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2014",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 642,
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "source_records": [
+        "ia:rbanms.24649.harrypottergoble0000jkro_w1y9"
+      ],
+      "full_title": "Harry Potter and The Goblet of Fire 4",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL59004677M",
+      "covers": [
+        15159598
+      ],
+      "identifiers": {},
+      "ocaid": "rbanms.24649.harrypottergoble0000jkro_w1y9",
+      "isbn_13": [
+        "9781408855683"
+      ],
+      "latest_revision": 16,
+      "revision": 16,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T23:17:45.947433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-08T18:16:42.580602"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "ai",
+      "languages": [
+        {
+          "key": "/languages/arm"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the goblet of fire:"
+      ],
+      "title": "[Harry Potter and the goblet of fire",
+      "by_statement": "J.K. Rowling]",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Harry Potter and the prisoner of Azkaban."
+      },
+      "subject_places": [
+        "England"
+      ],
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction",
+        "Magic",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
+        "Schools"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_001.bib.mrc:148724623:1243"
+      ],
+      "full_title": "[Harry Potter and the goblet of fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL58446044M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-16T23:31:12.063427"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:53:27.251049"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "ai",
+      "languages": [
+        {
+          "key": "/languages/arm"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the goblet of fire:"
+      ],
+      "title": "[Harry Potter and the goblet of fire",
+      "by_statement": "J.K. Rowling]",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Harry Potter and the prisoner of Azkaban."
+      },
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction",
+        "Magic",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
+        "Schools"
+      ],
+      "subject_places": [
+        "England"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:288499772:676"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL54861155M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T19:42:44.916102"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:53:27.251049"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115444"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 451,
+      "publish_date": "2019",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115444"
+      ],
+      "title": "Harry Potter and the Goblet of Fire (illustrated E",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Goblet of Fire (illustrated E",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL53339359M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T22:58:44.096943"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:53:27.251049"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-207"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-207"
+      ],
+      "title": "哈利·波特与火焰杯",
+      "full_title": "Harry Potter and the Goblet of Fire() (Chinese Edition)",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47682324M",
+      "identifiers": {},
+      "isbn_10": [
+        "7020153054"
+      ],
+      "isbn_13": [
+        "9787020153053"
+      ],
+      "ocaid": "harrypottergoble0000unse_m7x4",
+      "publishers": [
+        "人民文学出版社"
+      ],
+      "publish_date": "2020",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15157635
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:36.019934"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T16:57:20.337814"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-206"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-206"
+      ],
+      "title": "哈利·波特与火焰杯",
+      "full_title": "Harry Potter and the Goblet of Fire() (Chinese Edition)",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47682320M",
+      "identifiers": {},
+      "isbn_10": [
+        "7020153046"
+      ],
+      "isbn_13": [
+        "9787020153046"
+      ],
+      "ocaid": "harrypottergoble0000unse_r9q3",
+      "publishers": [
+        "人民文学出版社"
+      ],
+      "publish_date": "2020",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15157629
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:35.059537"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T16:49:58.724930"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2456431A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "464",
+      "publish_date": "2024",
+      "publishers": [
+        "Bloomsbury Children's Books"
+      ],
+      "source_records": [
+        "bwb:9781526679864"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "full_title": "Harry Potter and the Goblet of Fire Illustrated Edition",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL51583995M",
+      "identifiers": {},
+      "isbn_13": [
+        "9781526679864"
+      ],
+      "ocaid": "harrypottergoble0000jkro_t3n4",
+      "covers": [
+        15160738
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-04-17T02:55:16.500197"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:43:27.351829"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781320882231"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2015",
+      "publishers": [
+        "Blurb"
+      ],
+      "source_records": [
+        "bwb:9781320882231"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "full_title": "Harry Potter and the Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL51827380M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-17T22:42:03.234727"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:10:33.208111"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115512"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 734,
+      "publish_date": "2000",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115512"
+      ],
+      "title": "Harry Potter and the Goblet of Fire",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Goblet of Fire",
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL53342180M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T23:12:52.191885"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:10:33.208111"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter and the goblet of fire",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "2016",
+      "key": "/books/OL51253937M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9781408855683"
+      ],
+      "ocaid": "harrypottergoble0000unse_l3b9",
+      "copyright_date": "2014",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15158658
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-03-11T06:34:24.336631"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T14:54:44.315414"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y el cáliz de fuego",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2456431A"
+        },
+        {
+          "key": "/authors/OL8006764A"
+        },
+        {
+          "key": "/authors/OL12723975A"
+        }
+      ],
+      "publish_date": "Nov 07, 2019",
+      "source_records": [
+        "amazon:8498389941"
+      ],
+      "number_of_pages": 464,
+      "publishers": [
+        "Salamandra Infantil y Juvenil"
+      ],
+      "physical_format": "hardcover",
+      "notes": "Source title: Harry Potter y el cáliz de fuego (Harry Potter [edición ilustrada] 4)",
+      "full_title": "Harry Potter y el cáliz de fuego",
+      "covers": [
+        14171591
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47552673M",
+      "identifiers": {},
+      "isbn_10": [
+        "8498389941"
+      ],
+      "isbn_13": [
+        "9788498389944"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "name": "Jim Kay",
+          "role": "Illustrator"
+        },
+        {
+          "role": "Translator",
+          "name": "Adolfo Muñoz García"
+        },
+        {
+          "name": "Nieves Martín Azofra",
+          "role": "Translator"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.806523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:10:33.208111"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y el cáliz de fuego",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2456431A"
+        },
+        {
+          "key": "/authors/OL8006764A"
+        },
+        {
+          "key": "/authors/OL12723974A"
+        }
+      ],
+      "publish_date": "Nov 07, 2019",
+      "source_records": [
+        "amazon:8498389941"
+      ],
+      "number_of_pages": 464,
+      "publishers": [
+        "Salamandra Infantil y Juvenil"
+      ],
+      "physical_format": "hardcover",
+      "notes": "Source title: Harry Potter y el cáliz de fuego (Harry Potter [edición ilustrada] 4)",
+      "full_title": "Harry Potter y el cáliz de fuego",
+      "covers": [
+        14171590
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47552671M",
+      "identifiers": {},
+      "isbn_10": [
+        "8498389941"
+      ],
+      "isbn_13": [
+        "9788498389944"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "name": "Jim Kay",
+          "role": "Illustrator"
+        },
+        {
+          "name": "Adolfo Muñoz García",
+          "role": "Translator"
+        },
+        {
+          "name": "Adolfo Muñoz García",
+          "role": "Translator"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.803577"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:10:33.208111"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y el cáliz de fuego",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2456431A"
+        },
+        {
+          "key": "/authors/OL8006764A"
+        },
+        {
+          "key": "/authors/OL12723973A"
+        }
+      ],
+      "publish_date": "Nov 07, 2019",
+      "source_records": [
+        "amazon:8498389941"
+      ],
+      "number_of_pages": 464,
+      "publishers": [
+        "Salamandra Infantil y Juvenil"
+      ],
+      "physical_format": "hardcover",
+      "notes": "Source title: Harry Potter y el cáliz de fuego (Harry Potter [edición ilustrada] 4)",
+      "full_title": "Harry Potter y el cáliz de fuego",
+      "covers": [
+        14171589
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47552672M",
+      "identifiers": {},
+      "isbn_10": [
+        "8498389941"
+      ],
+      "isbn_13": [
+        "9788498389944"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "name": "Jim Kay",
+          "role": "Illustrator"
+        },
+        {
+          "name": "Adolfo Muñoz García",
+          "role": "Translator"
+        },
+        {
+          "name": "Nieves Martín Azofra",
+          "role": "Translator"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T11:56:43.801084"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:10:33.208111"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter und der Feuerkelch",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "August 31, 2018",
+      "key": "/books/OL50716806M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14573310
+      ],
+      "series": [
+        "Harry Potter #4"
+      ],
+      "description": "Harrys viertes Schuljahr in Hogwarts beginnt und ein Wettkampf hält die Schüler in Atem: das Trimagische Turnier, in dem Harry eine Rolle übernimmt, die er sich im Traum nicht vorgestellt hätte. Natürlich steckt dahinter das Böse, das zurück an die Macht drängt: Lord Voldemort. Es wird eng für Harry. Doch auf seine Freunde und ihre Unterstützung kann er sich auch in verzweifelten Situationen verlassen.",
+      "physical_format": "gebundene Ausgabe",
+      "number_of_pages": 704,
+      "isbn_10": [
+        "3551557446"
+      ],
+      "isbn_13": [
+        "9783551557445"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-31T07:45:48.643591"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-11T12:39:20.152677"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter und der Feuerkelch",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "August 31, 2018",
+      "key": "/books/OL50567236M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14573120
+      ],
+      "isbn_13": [
+        "9783551557445"
+      ],
+      "isbn_10": [
+        "3551557446"
+      ],
+      "classifications": {},
+      "series": [
+        "Harry Potter #4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Harrys viertes Schuljahr in Hogwarts beginnt und ein Wettkampf hält die Schüler in Atem: das Trimagische Turnier, in dem Harry eine Rolle übernimmt, die er sich im Traum nicht vorgestellt hätte. Natürlich steckt dahinter das Böse, das zurück an die Macht drängt: Lord Voldemort. Es wird eng für Harry. Doch auf seine Freunde und ihre Unterstützung kann er sich auch in verzweifelten Situationen verlassen."
+      },
+      "physical_format": "gebundene Ausgabe",
+      "number_of_pages": 704,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-30T14:12:38.217419"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-30T14:13:20.927887"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter und der Feuerkelch",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "August 31, 2018",
+      "key": "/books/OL50567191M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14573017
+      ],
+      "isbn_13": [
+        "9783551557445"
+      ],
+      "isbn_10": [
+        "3551557446"
+      ],
+      "classifications": {},
+      "series": [
+        "Harry Potter #4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Harrys viertes Schuljahr in Hogwarts beginnt und ein Wettkampf hält die Schüler in Atem: das Trimagische Turnier, in dem Harry eine Rolle übernimmt, die er sich im Traum nicht vorgestellt hätte. Natürlich steckt dahinter das Böse, das zurück an die Macht drängt: Lord Voldemort. Es wird eng für Harry. Doch auf seine Freunde und ihre Unterstützung kann er sich auch in verzweifelten Situationen verlassen."
+      },
+      "physical_format": "gebundene Ausgabe",
+      "number_of_pages": 704,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-30T07:34:44.553422"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-30T07:35:23.067272"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter und der Feuerkelch",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "August 31, 2018",
+      "key": "/books/OL50563143M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14571610
+      ],
+      "isbn_13": [
+        "9783551557445"
+      ],
+      "isbn_10": [
+        "3551557446"
+      ],
+      "classifications": {},
+      "series": [
+        "Harry Potter #4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Harrys viertes Schuljahr in Hogwarts beginnt und ein Wettkampf hält die Schüler in Atem: das Trimagische Turnier, in dem Harry eine Rolle übernimmt, die er sich im Traum nicht vorgestellt hätte. Natürlich steckt dahinter das Böse, das zurück an die Macht drängt: Lord Voldemort. Es wird eng für Harry. Doch auf seine Freunde und ihre Unterstützung kann er sich auch in verzweifelten Situationen verlassen."
+      },
+      "physical_format": "gebundene Ausgabe",
+      "number_of_pages": 704,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-26T08:56:04.534038"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-26T08:56:57.941175"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "title": "Harry Potter et la Coupe de feu",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "8 décembre 2015",
+      "key": "/books/OL50533867M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9781781101063"
+      ],
+      "classifications": {},
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "1. La maison des «Jeux du sort»",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "2. La cicatrice",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "3. L’invitation",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "4. Retour au Terrier",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "5. Farces pour sorciers facétieux",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "6. Le Portoloin",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "7. Verpey et Croupton",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "8. La Coupe du Monde de Quidditch",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "9. La Marque des Ténèbres",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "10. Tempête au ministère",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "11. À bord du Poudlard Express",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "12. Le Tournoi des Trois Sorciers",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "13. Maugrey Fol Œil",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "14. Les Sortilèges Impardonnables",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "15. Beauxbâtons et Durmstrang",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "16. La Coupe de Feu",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "17. Les quatre champions",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "18. L’Examen des Baguettes",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "19. Le Magyar à pointes",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "20. La première tâche",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "21. Le Front de Libération des Elfes de Maison",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "22. La tâche inattendue",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "23. Le bal de Noël",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "24. Le scoop de Rita Skeeter",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "25. L’œuf et l’œil",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "26. La deuxième tâche",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "27. Le retour de Patmol",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "28. La folie de Mr Croupton",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "29. Le rêve",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "30. La Pensine",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "31. La troisième tâche",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "32. Les os, la chair, le sang",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "33. Les Mangemorts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "34. « Priori Incantatum »",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "35. Veritaserum",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "36. La croisée des chemins",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "37. Le commencement",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "translation_of": "Harry Potter and the Goblet of Fire",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Harry Potter a quatorze ans et entre en quatrième année au collège de Poudlard. Une grande nouvelle attend Harry, Ron et Hermione à leur arrivée : la tenue d’un tournoi de magie exceptionnel entre les plus célèbres écoles de sorcellerie. Déjà les délégations étrangères font leur entrée. Harry se réjouit… Trop vite. Il va se trouver plongé au cœur des événements les plus dramatiques qu’il ait jamais eu à affronter. Dans ce quatrième tome bouleversant, drôle, fascinant, qui révèle la richesse des enjeux en cours, Harry Potter doit faire face et relever d’immenses défis."
+      },
+      "physical_format": "eBook",
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Les habitants de Little Hangleton l’appelaient toujours la maison des « Jeux du sort », même s’il y avait de nombreuses années que la famille Jedusor n’y vivait plus. Elle se dressait au sommet d’une colline dominant le village, certaines de ses fenêtres condamnées par des planches, le toit dépourvu de tuiles en plusieurs endroits, la façade envahie d’un lierre épais qui poussait en toute liberté."
+      },
+      "covers": [
+        14564177
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T15:50:23.836479"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T15:52:58.012305"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter i Czara Ognia",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Apr 13, 2012",
+      "source_records": [
+        "amazon:8372786909"
+      ],
+      "number_of_pages": 768,
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        13949036
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47356894M",
+      "identifiers": {},
+      "isbn_10": [
+        "8372786909"
+      ],
+      "isbn_13": [
+        "9788372786906"
+      ],
+      "classifications": {},
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "series": [
+        "Harry Potter 4"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T21:28:45.766299"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-29T16:57:29.865862"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y el cáliz de fuego",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL12723972A"
+        },
+        {
+          "key": "/authors/OL8006764A"
+        }
+      ],
+      "publish_date": "Jun 04, 2020",
+      "source_records": [
+        "amazon:8418173114"
+      ],
+      "number_of_pages": 672,
+      "publishers": [
+        "Salamandra Bolsillo"
+      ],
+      "physical_format": "mass market paperback",
+      "notes": "Source title: Harry Potter y el cáliz de fuego (Harry Potter 4)",
+      "full_title": "Harry Potter y el cáliz de fuego",
+      "covers": [
+        14171980
+      ],
+      "works": [
+        {
+          "key": "/works/OL82560W"
+        }
+      ],
+      "key": "/books/OL47553021M",
+      "identifiers": {},
+      "isbn_10": [
+        "8418173114"
+      ],
+      "isbn_13": [
+        "9788418173110"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "name": "Jim Kay",
+          "role": "Illustrator"
+        },
+        {
+          "name": "Adolfo Muñoz Garcia",
+          "role": "Translator"
+        },
+        {
+          "name": "Nieves Martín Azrofa",
+          "role": "Translator"
+        }
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T12:05:51.616644"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T23:44:39.522171"
+      }
+    }
+  ]
+}

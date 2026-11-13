@@ -1,0 +1,65 @@
+{
+  "lc_classifications": [
+    "BQ1470.D37 N46 1999"
+  ],
+  "source_records": [
+    "marc:marc_records_scriblio_net/part28.dat:124592665:866",
+    "marc:marc_loc_updates/v37.i42.records.utf8:50913851:902",
+    "marc:marc_loc_2016/BooksAll.2016.part28.utf8:180373837:902"
+  ],
+  "title": "Buddhavāda Rāmalakkhaṇa",
+  "languages": [
+    {
+      "key": "/languages/bur"
+    }
+  ],
+  "subjects": [
+    "Tipiṭaka. Suttapiṭaka. Khuddakanikāya. Jātaka. Dasarathajātaka -- Commentaries"
+  ],
+  "publish_country": "br ",
+  "by_statement": "ʼA rhaṅʻ Nimmala.",
+  "type": {
+    "key": "/type/edition"
+  },
+  "publishers": [
+    "ʼA suiṅʻʺ ʼA vuiṅʻʺ Cā pe"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Commentary on Dasarathajātaka of Khuddakanikāya, Buddhist canon."
+  },
+  "key": "/books/OL169509M",
+  "authors": [
+    {
+      "key": "/authors/OL109442A"
+    }
+  ],
+  "publish_places": [
+    "Ma ramʻʺ kunʻʺ Mruiʹ nayʻ, [Rangoon]"
+  ],
+  "pagination": "113 p. ;",
+  "lccn": [
+    "99948237"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "In Burmese.\nIncludes bibliographical references (p. 113)."
+  },
+  "number_of_pages": 113,
+  "publish_date": "1999",
+  "works": [
+    {
+      "key": "/works/OL1072970W"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-03T11:40:40.906280"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "publishers": [
+    "Penguin Books"
+  ],
+  "ia_box_id": [
+    "IA116919"
+  ],
+  "isbn_10": [
+    "0140275118"
+  ],
+  "covers": [
+    6793925
+  ],
+  "full_title": "A celibate season",
+  "lc_classifications": [
+    "PR9199.3.S514 C45 1999",
+    "PR9199.3.S514C45"
+  ],
+  "key": "/books/OL24740229M",
+  "authors": [
+    {
+      "key": "/authors/OL23425A"
+    }
+  ],
+  "ocaid": "celibateseason00shie",
+  "publish_places": [
+    "New York"
+  ],
+  "contributions": [
+    "Howard, Blanche"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "A husband and wife exchange vows of celibacy when she has to move to the other side of the country for a job. Over a period of a year they exchange letters, telling each other how they are doing. The setting is Canada."
+  },
+  "isbn_13": [
+    "9780140275117"
+  ],
+  "pagination": "266, 7 p. ;",
+  "source_records": [
+    "ia:celibateseason00shie",
+    "marc:marc_loc_2016/BooksAll.2016.part27.utf8:231084875:769",
+    "bwb:9780140275117",
+    "marc:marc_columbia/Columbia-extract-20221130-005.mrc:401749914:1844"
+  ],
+  "title": "A celibate season",
+  "lccn": [
+    "99022368"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "\"Readers guide inside\"--Cover."
+  },
+  "number_of_pages": 266,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "dewey_decimal_class": [
+    "813/.54"
+  ],
+  "subjects": [
+    "Epistolary fiction",
+    "Spouses",
+    "Fiction"
+  ],
+  "publish_date": "1999",
+  "publish_country": "nyu",
+  "by_statement": "Carol Shields, Blanche Howard",
+  "oclc_numbers": [
+    "40862228"
+  ],
+  "works": [
+    {
+      "key": "/works/OL18330W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-07-07T04:24:32.651085"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-16T16:03:26.391940"
+  }
+}

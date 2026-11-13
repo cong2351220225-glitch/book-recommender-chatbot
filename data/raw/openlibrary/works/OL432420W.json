@@ -1,0 +1,32 @@
+{
+  "subtitle": "joint hearing before the Subcommittee on Health and Environment of the Committee on ... Congress, second session, June 18, 1998",
+  "title": "Putting patients first: Resolving allocation of transplant organs",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-28T11:30:36.486520"
+  },
+  "covers": [
+    4597317
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T08:49:32.553135"
+  },
+  "latest_revision": 3,
+  "key": "/works/OL432420W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18485A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 35345423,
+  "revision": 3
+}

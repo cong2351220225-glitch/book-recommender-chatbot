@@ -1,0 +1,30 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-05T05:30:37.763525"
+  },
+  "title": "Međunarodni platni promet",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T09:30:08.468643"
+  },
+  "subjects": [
+    "International clearing"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL5315802W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1213108A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 3
+}

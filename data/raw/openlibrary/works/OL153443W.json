@@ -1,0 +1,43 @@
+{
+  "lc_classifications": [
+    "PS3505.A56 G7 1968"
+  ],
+  "key": "/works/OL153443W",
+  "title": "Grotesques and other reflections on art and the theatre",
+  "first_publish_date": "1955",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2120953A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "700/.9"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Art",
+    "Literature",
+    "Theater",
+    "History and criticism"
+  ],
+  "genres": [
+    "/tags/OL174T"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-20T02:49:16.955374"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T12:55:07.554873"
+  }
+}

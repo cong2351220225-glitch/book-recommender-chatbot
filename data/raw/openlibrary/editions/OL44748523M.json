@@ -1,0 +1,69 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "1884",
+  "publish_country": "nyu",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL2521421A"
+    }
+  ],
+  "oclc_numbers": [
+    "722115431"
+  ],
+  "series": [
+    "Bermingham's medical library",
+    "Bermingham's medical library"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographical references and index.\n\nDigital version available with no restrictions Unrestricted online access\n\nElectronic reproduction. New York, N.Y.: Columbia University Libraries, 2010. Digitized by the Internet Archive.\n\nBenchmark for Faithful Digital Reproductions of Monographs and Serials. Version 1. December 2002. Digital version conforms to: http://purl.oclc.org/DLF/benchrepro0212\n\nDigitized. 2010 Columbia University Libraries committed to preserve"
+  },
+  "links": [
+    {
+      "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio10863702",
+      "title": "External source"
+    }
+  ],
+  "subjects": [
+    "Heart Diseases"
+  ],
+  "title": "Lectures on diseases of the heart",
+  "subtitle": "delivered at the College of Physicians and Surgeons, New York",
+  "by_statement": "by Alonzo Clark",
+  "physical_format": "[electronic resource] :",
+  "publishers": [
+    "Bermingham"
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "pagination": "251 p.",
+  "number_of_pages": 251,
+  "source_records": [
+    "marc:marc_columbia/Columbia-extract-20221130-022.mrc:194268792:1505"
+  ],
+  "full_title": "Lectures on diseases of the heart delivered at the College of Physicians and Surgeons, New York",
+  "works": [
+    {
+      "key": "/works/OL236894W"
+    }
+  ],
+  "key": "/books/OL44748523M",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-12-22T00:12:42.421701"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-22T00:12:42.421701"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "/works/OL30083W",
+  "title": "Mountain Biker",
+  "first_publish_date": "May 2000",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Plot-your-own stories",
+    "Bicycle racing",
+    "Fiction",
+    "collectionID:CYOA4"
+  ],
+  "covers": [
+    372067
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-03-25T19:01:22.928966"
+  }
+}

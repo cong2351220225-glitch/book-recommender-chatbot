@@ -1,0 +1,51 @@
+{
+  "name": "Carol Shields",
+  "links": [
+    {
+      "url": "http://www.carol-shields.com",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "The Carol Shields Literary Trust"
+    }
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "personal_name": "Carol Shields",
+  "source_records": [
+    "amazon:0753168499"
+  ],
+  "remote_ids": {
+    "viaf": "4944537",
+    "wikidata": "Q259956",
+    "isni": "0000000121185508",
+    "bookbrainz": "d4942f7b-2470-4273-857a-61c465b4e89d",
+    "goodreads": "12034",
+    "imdb": "nm0793177",
+    "lc_naf": "n50024187",
+    "opac_sbn": "RAVV087468"
+  },
+  "birth_date": "2 June 1935",
+  "alternate_names": [
+    "Shields Carol",
+    "Shields, Carol, 1935-",
+    "Shields, Carol",
+    "shields-carol"
+  ],
+  "death_date": "16 July 2003",
+  "photos": [
+    8166773
+  ],
+  "key": "/authors/OL23425A",
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-01T04:42:47.069416"
+  }
+}

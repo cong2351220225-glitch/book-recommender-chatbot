@@ -1,0 +1,68 @@
+{
+  "lc_classifications": [
+    "PZ7.A335 M1899x"
+  ],
+  "title": "Marjorie's Three Gifts",
+  "covers": [
+    1800582
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Marjorie sat on the door-step, shelling peas, quite unconscious what a pretty picture she made, with the roses peeping at her through the lattice work of the porch, the wind playing hide-and-seek in her curly hair, while the sunshine with its silent magic changed her faded gingham to a golden gown, and shimmered on the bright tin pan as if it were a silver shield."
+  },
+  "first_publish_date": "1899",
+  "key": "/works/OL30017W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "Marjorie sat on the door-step, shelling peas, quite unconscious what a pretty picture she made, with the roses peeping at her through the lattice work of the porch, the wind playing hide-and-seek in her curly hair, while the sunshine with its silent magic changed her faded gingham to a golden gown, and shimmered on the bright tin pan as if it were a silver shield."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "subjects": [
+    "Children's stories, American",
+    "Girls",
+    "Juvenile fiction",
+    "Conduct of life",
+    "Grandmothers",
+    "Surprise birthday parties",
+    "Cheerfulness",
+    "Love stories",
+    "Homeless girls",
+    "Poverty",
+    "Kindness",
+    "Friendship",
+    "Birthdays"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "F"
+  ],
+  "genres": [
+    "/tags/OL177T"
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-31T18:39:30.929191"
+  }
+}

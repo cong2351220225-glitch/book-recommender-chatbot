@@ -1,0 +1,60 @@
+{
+  "publishers": [
+    "Scholastic"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "identifiers": {
+    "librarything": [
+      "9637014"
+    ]
+  },
+  "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+  "title": "Phonics Fun",
+  "physical_format": "Hardcover",
+  "number_of_pages": 12,
+  "isbn_13": [
+    "9780439406840"
+  ],
+  "isbn_10": [
+    "0439406846"
+  ],
+  "publish_date": "January 2003",
+  "key": "/books/OL9666479M",
+  "authors": [
+    {
+      "key": "/authors/OL68744A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL816016W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Language Experience Approach",
+    "Education / Teaching"
+  ],
+  "local_id": [
+    "urn:bwbsku:O7-AUV-011"
+  ],
+  "source_records": [
+    "promise:bwb_daily_pallets_2021-01-15"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-09T02:44:25.874095"
+  }
+}

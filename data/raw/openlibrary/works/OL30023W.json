@@ -1,0 +1,66 @@
+{
+  "title": "The Inheritance",
+  "covers": [
+    361011,
+    10865686
+  ],
+  "subject_places": [
+    "England"
+  ],
+  "first_publish_date": "1997",
+  "key": "/works/OL30023W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Love stories",
+    "Orphans",
+    "Fiction",
+    "England",
+    "American fiction (fictional works by one author)",
+    "England, fiction",
+    "Children's fiction",
+    "Fiction, romance, historical",
+    "Love, fiction",
+    "Family life, fiction",
+    "Great britain, fiction",
+    "Large type books",
+    "History",
+    "Italians",
+    "Upper class",
+    "Inheritance and succession",
+    "Fiction, romance, historical, general",
+    "Fiction, general"
+  ],
+  "location": "/works/OL30023W",
+  "description": {
+    "type": "/type/text",
+    "value": "Set in an English country manor, the story follows the turbulent fortunes of Edith Adelon, an impoverished Italian orphan whose loyalty and beauty win her the patronage of wealthy friends until a jealous rival contrives to rob her of her position. In the locket around her neck, she carries a deep secret about her natural birthright. But an even greater truth lies hidden in Edith's heart - her deep reverence for the kind and noble Lord Percy, the only friend who can save her from the deceitful, envious machinations of Lady Ida. Reminiscent of Jane Austen in its charms, this chaste but stirringly passionate novel affirms the conquering power of both love and courtesy."
+  },
+  "genres": [
+    "/tags/OL177T"
+  ],
+  "latest_revision": 18,
+  "revision": 18,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-29T02:33:38.058517"
+  }
+}

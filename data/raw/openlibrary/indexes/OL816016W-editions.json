@@ -1,0 +1,3056 @@
+{
+  "links": {
+    "self": "/works/OL816016W/editions.json",
+    "work": "/works/OL816016W"
+  },
+  "size": 48,
+  "entries": [
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "9637014"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439406840"
+      ],
+      "isbn_10": [
+        "0439406846"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL9666479M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-AUV-011"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-01-15"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T02:44:25.874095"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "9636986"
+        ],
+        "goodreads": [
+          "645159"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "classifications": {},
+      "title": "Clifford and the Bees (Clifford the Big Red Dog Phonics Fun Reading Program, Pack 3)",
+      "number_of_pages": 12,
+      "covers": [
+        9950329
+      ],
+      "isbn_13": [
+        "9780439406819"
+      ],
+      "isbn_10": [
+        "0439406811"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512681M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "ocaid": "phonicsfun00fran_0",
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O6-BSO-506"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-04-30"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T09:48:25.423501"
+      }
+    },
+    {
+      "description": {
+        "type": "/type/text",
+        "value": "Learn about words with the \"Aw,\" and \"All\" sounds."
+      },
+      "identifiers": {
+        "librarything": [
+          "9636986"
+        ],
+        "goodreads": [
+          "3172687"
+        ]
+      },
+      "title": "Cleo's Lost Ball (Clifford the Big Red Dog Phonics Fun Reading Program, Pack 3)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "series": [
+        "Phonics Fun, Clifford the Big Red Dog"
+      ],
+      "covers": [
+        9668608
+      ],
+      "physical_format": "Hardcover",
+      "ocaid": "phonicsfun00fran",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439406888"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439406889"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P7-BPO-858",
+        "urn:bwbsku:O7-BDG-103",
+        "urn:bwbsku:W9-CFS-436"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-10-04:P7-BPO-858",
+        "promise:bwb_daily_pallets_2021-03-01:O7-BDG-103",
+        "promise:bwb_daily_pallets_2024-11-07:W9-CFS-436"
+      ],
+      "key": "/books/OL10251179M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T14:52:23.796708"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2311091"
+        ],
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780439409278"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0439409276"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "source_records": [
+        "amazon:0439409276"
+      ],
+      "key": "/books/OL9649037M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-03T19:43:49.819770"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 12,
+      "subtitle": "Reading Program, Pack 3, Book 3 \"A Treat for Emily Elizabeth\"",
+      "title": "Phonics Fun",
+      "identifiers": {
+        "goodreads": [
+          "2311030"
+        ],
+        "librarything": [
+          "5217488"
+        ]
+      },
+      "isbn_13": [
+        "9780439406802"
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "0439406803"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL9511460M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-DKJ-670",
+        "urn:bwbsku:W9-CFS-435"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-03-08",
+        "promise:bwb_daily_pallets_2024-11-07:W9-CFS-435"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T14:52:23.346563"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "645157"
+        ],
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277672
+      ],
+      "isbn_13": [
+        "9780439409513"
+      ],
+      "isbn_10": [
+        "0439409519"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512714M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "One day, Charley said, \"Today is National Canine Day! A canine is a dog.\""
+      },
+      "local_id": [
+        "urn:bwbsku:W9-CHJ-517"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-01:W9-CHJ-517"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-03T01:07:30.384931"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1745389"
+        ],
+        "librarything": [
+          "1244340"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277661
+      ],
+      "isbn_13": [
+        "9780439409407"
+      ],
+      "isbn_10": [
+        "0439409403"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512703M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "It was a nice morning."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-AYC-987"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-15:W9-AYC-987"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-18T06:50:41.499056"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "640834"
+        ],
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780439409308"
+      ],
+      "isbn_10": [
+        "0439409306"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0439409306"
+      ],
+      "key": "/books/OL7512701M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-04T14:50:51.162975"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "512838"
+        ],
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        2419968
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409629"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409624"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Dogs like to dig up soil."
+      },
+      "source_records": [
+        "amazon:0439409624"
+      ],
+      "key": "/books/OL10251215M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-02T22:44:58.356386"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "7160468"
+        ],
+        "librarything": [
+          "1244344"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        277670
+      ],
+      "isbn_13": [
+        "9780439409490"
+      ],
+      "isbn_10": [
+        "0439409497"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Emily Elizabeth twirled in her yard."
+      },
+      "source_records": [
+        "amazon:0439409497"
+      ],
+      "key": "/books/OL7512712M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-23T22:50:17.006491"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1232352"
+        ]
+      },
+      "covers": [
+        277664
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2018-01-02T17:37:08.185179"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL7512706M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "ocaid": "phonicsfun00fran_n9x",
+      "isbn_13": [
+        "9780439409438"
+      ],
+      "classifications": {},
+      "source_records": [
+        "ia:phonicsfun00fran_n9x"
+      ],
+      "title": "Jumping in Puddles (Clifford the Big Red Dog Phonics Fun Reading Program, Pack 5",
+      "number_of_pages": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409438"
+      ],
+      "publish_date": "January 2003",
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "It had rained the night before."
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6494963"
+        ],
+        "librarything": [
+          "5895194"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277662
+      ],
+      "isbn_13": [
+        "9780439409414"
+      ],
+      "isbn_10": [
+        "0439409411"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512704M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Emily Elizabeth,\" said Mrs. Howard, \"please drop this letter in the mailbox on your way to school.\""
+      },
+      "local_id": [
+        "urn:bwbsku:W9-CKC-468"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-11:W9-CKC-468"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-13T01:09:03.485742"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2311142"
+        ],
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        2419963
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409520"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409527"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Fire Chief Campbell spoke to the people of Birdwell Island."
+      },
+      "source_records": [
+        "amazon:0439409527"
+      ],
+      "key": "/books/OL10251210M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-22T01:29:06.511486"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        2419966
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409605"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409608"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I see one fish!\" said Clifford."
+      },
+      "source_records": [
+        "amazon:0439409608"
+      ],
+      "key": "/books/OL10251213M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-23T09:09:45.684498"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "5895194"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        277669
+      ],
+      "isbn_13": [
+        "9780439409483"
+      ],
+      "isbn_10": [
+        "0439409489"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "CLANK! BONK! CLATTER! CLINK! \"What is all that noise?\""
+      },
+      "source_records": [
+        "amazon:0439409489"
+      ],
+      "key": "/books/OL7512711M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-07T23:25:47.837851"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "5595692"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277668
+      ],
+      "isbn_13": [
+        "9780439409476"
+      ],
+      "isbn_10": [
+        "0439409470"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512710M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "In spring, Emily Elizabeth said, \"Charley, let's plant a garden."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-APV-133"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-12:W9-APV-133"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-14T01:06:46.384091"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409353"
+      ],
+      "isbn_10": [
+        "0439409357"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-CWL-991",
+        "urn:bwbsku:O7-BCY-304"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-08-13:O7-CWL-991",
+        "promise:bwb_daily_pallets_2021-03-11:O7-BCY-304"
+      ],
+      "key": "/books/OL10251206M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T14:41:28.937946"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409384"
+      ],
+      "isbn_10": [
+        "0439409381"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O8-AFK-306",
+        "urn:bwbsku:P7-CFM-127",
+        "urn:bwbsku:S0-AZS-503"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-04-18:O8-AFK-306",
+        "promise:bwb_daily_pallets_2021-06-28:P7-CFM-127",
+        "promise:bwb_daily_pallets_2024-11-12:S0-AZS-503"
+      ],
+      "key": "/books/OL10251209M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T12:21:26.733772"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "5437622"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409360"
+      ],
+      "isbn_10": [
+        "0439409365"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:T2-CNF-796",
+        "urn:bwbsku:W7-CCE-940"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-06-01:T2-CNF-796",
+        "promise:bwb_daily_pallets_2022-04-27:W7-CCE-940"
+      ],
+      "key": "/books/OL10251207M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T10:24:38.665613"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "9636986"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439406857"
+      ],
+      "isbn_10": [
+        "0439406854"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-BZO-649",
+        "urn:bwbsku:O7-BDM-797",
+        "urn:bwbsku:O7-CTX-947"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-06-30:P7-BZO-649",
+        "promise:bwb_daily_pallets_2021-03-11:O7-BDM-797",
+        "promise:bwb_daily_pallets_2021-03-04:O7-CTX-947"
+      ],
+      "key": "/books/OL10251176M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T15:25:31.571501"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3172689"
+        ],
+        "librarything": [
+          "9636986"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780439406789"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0439406781"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O8-AYU-104",
+        "urn:bwbsku:O7-BDG-102",
+        "urn:bwbsku:W9-AVI-819"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-04-27:O8-AYU-104",
+        "promise:bwb_daily_pallets_2021-03-01:O7-BDG-102",
+        "promise:bwb_daily_pallets_2024-08-02:W9-AVI-819"
+      ],
+      "key": "/books/OL10251172M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-04T01:07:45.983593"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "covers": [
+        2419967
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL10251214M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409612"
+      ],
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409616"
+      ],
+      "publish_date": "January 2003",
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Cleo was dreaming that she had just found a big bone."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-CHE-170"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-01:W9-CHE-170"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-03T01:07:29.261110"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3172686"
+        ],
+        "librarything": [
+          "9636986"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780439406871"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0439406870"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-BDG-104",
+        "urn:bwbsku:O7-AYR-611"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-03-01:O7-BDG-104",
+        "promise:bwb_daily_pallets_2020-11-30:O7-AYR-611"
+      ],
+      "key": "/books/OL10251178M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T16:29:15.924501"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "640830"
+        ],
+        "librarything": [
+          "1244349"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277666
+      ],
+      "isbn_13": [
+        "9780439409452"
+      ],
+      "isbn_10": [
+        "0439409454"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512708M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Do you want to play a game?\" asked Cleo."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-AYC-985"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-15:W9-AYC-985"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-18T06:50:40.479529"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "6492944"
+        ],
+        "librarything": [
+          "5437643"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        277663
+      ],
+      "isbn_13": [
+        "9780439409421"
+      ],
+      "isbn_10": [
+        "043940942X"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Emily Elizabeth,\" said Mrs. Howard."
+      },
+      "source_records": [
+        "amazon:043940942X"
+      ],
+      "key": "/books/OL7512705M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-26T18:23:07.540561"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "5437637"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439409292"
+      ],
+      "isbn_10": [
+        "0439409292"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL10251202M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-BVY-550"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-09-21"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T21:16:33.648756"
+      }
+    },
+    {
+      "description": "Phonic Fun Reading Program - Learn to read with Clifford and his friends. In this story, we are learning about the final \"e\" sound.",
+      "identifiers": {
+        "librarything": [
+          "5217510"
+        ],
+        "goodreads": [
+          "1624826"
+        ]
+      },
+      "title": "The Big Red Dog Bakes a Cake (Clifford The Big Red Dog, Book 1)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        8115051,
+        8016035
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-03-08:W6-APK-080",
+        "ia:isbn_9780439406789",
+        "amazon:043940679X",
+        "promise:bwb_daily_pallets_2021-03-01:O7-BEG-486",
+        "promise:bwb_daily_pallets_2024-08-08:W9-BJF-619"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W6-APK-080",
+        "urn:bwbsku:O7-BEG-486",
+        "urn:bwbsku:W9-BJF-619"
+      ],
+      "key": "/books/OL10251173M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "ocaid": "isbn_9780439406789",
+      "isbn_10": [
+        "043940679X"
+      ],
+      "isbn_13": [
+        "9780439406796"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-21T18:11:37.033528"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "covers": [
+        1228982
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL9760595M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409544"
+      ],
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409543"
+      ],
+      "publish_date": "January 2003",
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "One day, T-Bone said, \"What can we do?\""
+      },
+      "local_id": [
+        "urn:bwbsku:W9-CHE-175"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-01:W9-CHE-175"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-03T01:07:30.624177"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "9636986"
+        ],
+        "goodreads": [
+          "3172688"
+        ]
+      },
+      "title": "Clifford's Gift (Clifford the Big Red Dog, Phonics Fun Reading Program, Pack 3, Book 2)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        9468538
+      ],
+      "physical_format": "Hardcover",
+      "ocaid": "phonicsfun00fran_1",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780439406895"
+      ],
+      "isbn_10": [
+        "0439406897"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P7-ELB-809",
+        "urn:bwbsku:O7-BDG-101",
+        "urn:bwbsku:W9-AAV-571"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17:P7-ELB-809",
+        "promise:bwb_daily_pallets_2021-03-01:O7-BDG-101",
+        "promise:bwb_daily_pallets_2024-08-02:W9-AAV-571"
+      ],
+      "key": "/books/OL10251180M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-04T01:07:25.719824"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "5437630"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409322"
+      ],
+      "isbn_10": [
+        "0439409322"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "source_records": [
+        "amazon:0439409322"
+      ],
+      "key": "/books/OL10251203M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T13:54:14.941274"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "1244354"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277667
+      ],
+      "isbn_13": [
+        "9780439409469"
+      ],
+      "isbn_10": [
+        "0439409462"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512709M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Time to get up!"
+      },
+      "local_id": [
+        "urn:bwbsku:W9-AWS-490"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-15:W9-AWS-490"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-18T06:51:11.804452"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409377"
+      ],
+      "isbn_10": [
+        "0439409373"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-BUG-422",
+        "urn:bwbsku:O8-AGU-794",
+        "urn:bwbsku:O7-BDH-466",
+        "urn:bwbsku:S0-BBI-407"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-06-01:W7-BUG-422",
+        "promise:bwb_daily_pallets_2022-04-18:O8-AGU-794",
+        "promise:bwb_daily_pallets_2021-03-11:O7-BDH-466",
+        "promise:bwb_daily_pallets_2024-11-12:S0-BBI-407"
+      ],
+      "key": "/books/OL10251208M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T12:34:01.937576"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "9636997"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439406833"
+      ],
+      "isbn_10": [
+        "0439406838"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL10251175M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-CCL-838",
+        "urn:bwbsku:P9-EDT-280"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-08-11",
+        "promise:bwb_daily_pallets_2024-09-12:P9-EDT-280"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-14T01:16:44.849885"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439409346"
+      ],
+      "isbn_10": [
+        "0439409349"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL10251205M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-BLB-728",
+        "urn:bwbsku:S0-ADN-848"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-12-02",
+        "promise:bwb_daily_pallets_2024-10-29:S0-ADN-848"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-04T04:32:59.977579"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277675
+      ],
+      "isbn_13": [
+        "9780439409582"
+      ],
+      "isbn_10": [
+        "0439409586"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512717M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "It was Field Day at Emily Elizabeth's school."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-COA-030"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-01:W9-COA-030"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-03T01:07:33.891000"
+      }
+    },
+    {
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "physical_format": "Hardcover",
+      "publishers": [
+        "Scholastic"
+      ],
+      "isbn_10": [
+        "043940682X"
+      ],
+      "isbn_13": [
+        "9780439406826"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:043940682X"
+      ],
+      "key": "/books/OL10251174M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-11T09:56:06.562143"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "9636986"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 3 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439406864"
+      ],
+      "isbn_10": [
+        "0439406862"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL10251177M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-DMU-863"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-08-03"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T03:40:49.128486"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277676
+      ],
+      "isbn_13": [
+        "9780439409599"
+      ],
+      "isbn_10": [
+        "0439409594"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512718M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"See my new toy boat?\" asked Charley."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-CNQ-285"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-09-09:W9-CNQ-285"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T01:41:54.592023"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        277673
+      ],
+      "isbn_13": [
+        "9780439409537"
+      ],
+      "isbn_10": [
+        "0439409535"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "One day, Emily Elizabeth and her parents walked to the park with Clifford."
+      },
+      "source_records": [
+        "amazon:0439409535"
+      ],
+      "key": "/books/OL7512715M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-06T18:41:55.459373"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "9636968"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "physical_format": "Hardcover",
+      "number_of_pages": 12,
+      "isbn_13": [
+        "9780439409315"
+      ],
+      "isbn_10": [
+        "0439409314"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL9776802M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-CNO-330",
+        "urn:bwbsku:KJ-475-422"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-03-08",
+        "promise:bwb_daily_pallets_2021-06-10"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T18:36:00.783615"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "number_of_pages": 12,
+      "covers": [
+        8115054,
+        8010607
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL10251201M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "ocaid": "isbn_9780439409346",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409285"
+      ],
+      "classifications": {},
+      "source_records": [
+        "ia:isbn_9780439409346",
+        "ia:isbn_9780439409315"
+      ],
+      "title": "Clifford and the Wild Wind (Clifford the Big Red Dog Phonics Fun Reading Program, Pack 4)",
+      "identifiers": {
+        "goodreads": [
+          "3702251"
+        ],
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409284"
+      ],
+      "publish_date": "January 2003",
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "2003271264"
+      ],
+      "lc_classifications": [
+        "PZ7.B75235 Pho 2003"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-08-16T11:19:48.102066"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "1679515"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277674
+      ],
+      "isbn_13": [
+        "9780439409568"
+      ],
+      "isbn_10": [
+        "043940956X"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512716M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "One warm spring day, Emily Elizabeth and her mom decided to plant some flowers."
+      },
+      "local_id": [
+        "urn:bwbsku:O6-CCA-644"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-03-26"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T14:35:18.107756"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "2664551"
+        ],
+        "librarything": [
+          "1244339"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        277665
+      ],
+      "isbn_13": [
+        "9780439409445"
+      ],
+      "isbn_10": [
+        "0439409446"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Emily Elizabeth was in a big rush."
+      },
+      "source_records": [
+        "amazon:0439409446"
+      ],
+      "key": "/books/OL7512707M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-28T23:12:47.939928"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        2419964
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409551"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409551"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "One day, it was sunny, with puffy clouds in the sky."
+      },
+      "source_records": [
+        "amazon:0439409551"
+      ],
+      "key": "/books/OL10251211M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-14T19:32:29.487755"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "4446805"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 6 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "covers": [
+        2419965
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "isbn_13": [
+        "9780439409575"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0439409578"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Cleo ran over to Clifford's house as quickly as she could go."
+      },
+      "source_records": [
+        "amazon:0439409578"
+      ],
+      "key": "/books/OL10251212M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T23:26:21.732482"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "librarything": [
+          "5895194"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277671
+      ],
+      "isbn_13": [
+        "9780439409506"
+      ],
+      "isbn_10": [
+        "0439409500"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512713M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Clifford and Emily Elizabeth go to Clifford's doghouse."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-AXN-532"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-12:W9-AXN-532"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-14T01:06:44.406420"
+      }
+    },
+    {
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2311156"
+        ],
+        "librarything": [
+          "1232412"
+        ]
+      },
+      "subtitle": "Reading Program, Pack 5 (Clifford the Big Red Dog)",
+      "title": "Phonics Fun",
+      "number_of_pages": 12,
+      "covers": [
+        277660
+      ],
+      "isbn_13": [
+        "9780439409391"
+      ],
+      "isbn_10": [
+        "043940939X"
+      ],
+      "publish_date": "January 2003",
+      "key": "/books/OL7512702M",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"Today I will sell all my fudge cakes and get some money!\" said Cleo."
+      },
+      "local_id": [
+        "urn:bwbsku:W9-AAW-879"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-08-05:W9-AAW-879"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-07T01:09:46.826243"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "1648157"
+        ]
+      },
+      "title": "Phonics Fun",
+      "subtitle": "Reading Program, Pack 4 (Clifford the Big Red Dog)",
+      "authors": [
+        {
+          "key": "/authors/OL68744A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Scholastic"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "isbn_13": [
+        "9780439409339"
+      ],
+      "isbn_10": [
+        "0439409330"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Language Experience Approach",
+        "Education / Teaching"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-DGI-739",
+        "urn:bwbsku:P7-DPD-505",
+        "urn:bwbsku:W6-BLR-606"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17:P7-DGI-739",
+        "promise:bwb_daily_pallets_2021-10-04:P7-DPD-505",
+        "promise:bwb_daily_pallets_2021-03-11:W6-BLR-606"
+      ],
+      "key": "/books/OL10251204M",
+      "number_of_pages": 12,
+      "works": [
+        {
+          "key": "/works/OL816016W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T14:42:45.261804"
+      }
+    }
+  ]
+}

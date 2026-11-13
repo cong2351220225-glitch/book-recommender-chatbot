@@ -1,0 +1,90 @@
+{
+  "publishers": [
+    "Millbrook Press"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "603114"
+    ],
+    "librarything": [
+      "3365868"
+    ]
+  },
+  "weight": "1.1 pounds",
+  "isbn_10": [
+    "0761313974"
+  ],
+  "covers": [
+    2605402
+  ],
+  "physical_format": "Hardcover",
+  "key": "/books/OL10903907M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Did you know there are numbers even smaller than three two and one?"
+  },
+  "source_records": [
+    "amazon:0761313974",
+    "marc:marc_loc_2016/BooksAll.2016.part01.utf8:46712370:767",
+    "ia:littlenumberspic0000pack",
+    "promise:bwb_daily_pallets_2020-10-08"
+  ],
+  "title": "Little Numbers",
+  "lccn": [
+    "00065508"
+  ],
+  "number_of_pages": 32,
+  "isbn_13": [
+    "9780761313977"
+  ],
+  "subjects": [
+    "Arithmetic",
+    "Non-Classifiable",
+    "Mathematics - Fractions",
+    "Juvenile Nonfiction",
+    "Children's Books/Ages 4-8 Nonfiction",
+    "Fractions",
+    "Juvenile literature",
+    "Children: Grades 2-3"
+  ],
+  "publish_date": "September 1, 2001",
+  "oclc_numbers": [
+    "45493081"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30095W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "13.2 x 9.2 x 0.3 inches",
+  "ocaid": "littlenumberspic0000pack",
+  "lc_classifications": [
+    "QA117 .P145 2001"
+  ],
+  "local_id": [
+    "urn:bwbsku:W6-BYU-899"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-09T20:49:20.978854"
+  }
+}

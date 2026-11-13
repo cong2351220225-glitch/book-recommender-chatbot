@@ -1,0 +1,175 @@
+{
+  "links": {
+    "self": "/works/OL30074W/editions.json",
+    "work": "/works/OL30074W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Spring Creek Book Company"
+      ],
+      "number_of_pages": 246,
+      "weight": "14.4 ounces",
+      "covers": [
+        2127657
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9443432M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Religious - Romance/General",
+        "Mystery & Detective - General",
+        "Fiction - Religious",
+        "Fiction",
+        "Mystery/Suspense",
+        "Romantic suspense fiction",
+        "Christian - Romance",
+        "Missing persons",
+        "Organized crime"
+      ],
+      "isbn_13": [
+        "9781932898088"
+      ],
+      "source_records": [
+        "amazon:1932898085:2-ah:1365404604:193397",
+        "marc:marc_loc_2016/BooksAll.2016.part31.utf8:162705767:847"
+      ],
+      "title": "Framed For Love",
+      "identifiers": {
+        "librarything": [
+          "2006463"
+        ],
+        "goodreads": [
+          "1339126"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1932898085"
+      ],
+      "publish_date": "November 30, 2004",
+      "oclc_numbers": [
+        "56686340"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30074W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 6 x 0.7 inches",
+      "lccn": [
+        "2004022842"
+      ],
+      "lc_classifications": [
+        "PS3564.U468 F73 2004"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-12-08T10:01:14.384768"
+      }
+    },
+    {
+      "publishers": [
+        "Covenant Communications"
+      ],
+      "number_of_pages": 229,
+      "subtitle": "a novel",
+      "isbn_10": [
+        "157734474X"
+      ],
+      "covers": [
+        832716
+      ],
+      "lc_classifications": [
+        "PS3564.U468 F7 1999",
+        "PS3564.U468F7 1999"
+      ],
+      "key": "/books/OL40978M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "ocaid": "framedforlovenov00nune",
+      "publish_places": [
+        "American Fork, Utah"
+      ],
+      "pagination": "229 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:9680071:683",
+        "ia:framedforlovenov00nune",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:1713373:683",
+        "bwb:9781577344742"
+      ],
+      "title": "Framed for love",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Love to the highest bidder."
+      },
+      "identifiers": {
+        "goodreads": [
+          "3166719"
+        ],
+        "librarything": [
+          "2006463"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99032236"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction"
+      ],
+      "publish_date": "1999",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "41338203"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30074W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T07:58:42.845080"
+      }
+    }
+  ]
+}

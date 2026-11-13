@@ -1,0 +1,2502 @@
+{
+  "links": {
+    "self": "/works/OL30060W/editions.json",
+    "work": "/works/OL30060W",
+    "next": "/works/OL30060W/editions.json?offset=50"
+  },
+  "size": 237,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781726297967"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781726297967"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.209",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56780020M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T12:32:03.486330"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781725159938"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781725159938"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.245",
+      "subtitle": "Large Print",
+      "full_title": "Hospital Sketches Large Print",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56776221M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T11:52:34.053875"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781978360686"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 112,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781978360686"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.223",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56591912M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T09:40:48.946835"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781540801630"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 46,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781540801630"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.118",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55979751M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T15:30:24.510133"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781519550576"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781519550576"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.141",
+      "subtitle": "an Army Nurse's True Account of Her Experiences During the Civil War",
+      "full_title": "Hospital Sketches an Army Nurse's True Account of Her Experiences During the Civil War",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55943432M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T09:53:04.788896"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979077705"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 44,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979077705"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55634228M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T12:46:38.014336"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979331661"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 126,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979331661"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.245",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55529686M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T21:47:21.570333"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781523668502"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 56,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781523668502"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.136",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55424706M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T05:26:42.752289"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781544947983"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 66,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781544947983"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.150",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55337151M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T17:01:13.665266"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781546917335"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 110,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781546917335"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.223",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55341939M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T17:40:38.062193"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979633741"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 68,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979633741"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.155",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55358864M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T20:21:19.476796"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781546967668"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781546967668"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.141",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55211745M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T22:26:38.906195"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781978198692"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781978198692"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.141",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55259183M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T05:18:58.834973"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781499717792"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 54,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781499717792"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.132",
+      "subtitle": "an Army Nurse's True Account of Her Experiences During the Civil War",
+      "full_title": "Hospital Sketches an Army Nurse's True Account of Her Experiences During the Civil War",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55278462M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T08:18:46.685054"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781975657826"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 42,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975657826"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.114",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54881146M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T22:39:13.765010"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          ""
+        ]
+      },
+      "title": "Hospital Sketches",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9781449531188"
+      ],
+      "local_id": [
+        "urn:bwbsku:9781449531188"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-04-09",
+        "bwb:9781449531188"
+      ],
+      "full_title": "Hospital Sketches",
+      "key": "/books/OL46003338M",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "number_of_pages": 96,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "publish_date": "2009",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T17:41:32.416769"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781494377724"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 100,
+      "publish_date": "2013",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781494377724"
+      ],
+      "subjects": [
+        "Alcott, louisa may, 1832-1888",
+        "Nurses, biography",
+        "Military hospitals",
+        "United states, history, civil war, 1861-1865, medical care",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Georgetown (washington, d.c.)",
+        "Washington (d.c.), history"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.259",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54336173M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-20T13:31:06.663845"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL8349896A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781724506580"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781724506580"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55643265M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Dainy d. Angeles"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T14:11:53.398115"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781975906627"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 52,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975906627"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.132",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56058011M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T02:47:55.501554"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL10220360A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781983512674"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781983512674"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.141",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56069455M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Taylor Anderson"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T04:06:47.057231"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781545312421"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 110,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781545312421"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.223",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56144301M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T15:25:55.048982"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL8337000A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781508774051"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 68,
+      "publish_date": "2015",
+      "publishers": [
+        "The Perfect Library"
+      ],
+      "source_records": [
+        "bwb:9781508774051"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.155",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56225710M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T03:24:14.845347"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL9082707A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781540648549"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781540648549"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56643129M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Sir Angels"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-04T17:03:37.405505"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781727094961"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 70,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781727094961"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.159",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56761900M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T10:10:26.823205"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781724771650"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781724771650"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.150",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56794948M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T15:19:58.009800"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-20T20:38:37.520092"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979134354"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979134354"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.159",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56519547M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T23:05:46.135208"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781979513302"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 126,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979513302"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.391",
+      "subtitle": "Large Print",
+      "full_title": "Hospital Sketches Large Print",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56520900M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T23:14:44.036956"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781548182687"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 44,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548182687"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56447296M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T12:00:36.744596"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781977868305"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977868305"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.159",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56450178M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T12:33:02.364454"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781544629100"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 76,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781544629100"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL56112876M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T10:22:32.895437"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781519798961"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781519798961"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.186",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55914754M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T05:01:49.143764"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781977649911"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 126,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977649911"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.245",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55818223M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T14:58:54.989489"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979130646"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 52,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979130646"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.132",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55750452M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T05:02:59.970598"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781975806590"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 44,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975806590"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55129751M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T10:41:24.504807"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979323178"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979323178"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.159",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55090171M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T04:57:26.805779"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781975856120"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 138,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781975856120"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.264",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55088207M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T04:44:23.718350"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781976496219"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 60,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781976496219"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.141",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL55016555M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-24T19:01:14.353858"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL4773038A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781548272760"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 78,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548272760"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54795622M",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "S. R. P."
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T09:40:22.175779"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781979420402"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 44,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979420402"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.168",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54800945M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T10:18:36.857442"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781717302359"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781717302359"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.159",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54714396M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T22:02:18.376661"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781722240288"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 52,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781722240288"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.132",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54728584M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T23:34:45.749203"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781514295618"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 52,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781514295618"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.132",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54739708M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T01:20:51.584624"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781523428748"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 58,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781523428748"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.155",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54743780M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T02:05:56.223299"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781484962305"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 42,
+      "publish_date": "2013",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781484962305"
+      ],
+      "subjects": [
+        "Alcott, louisa may, 1832-1888",
+        "Nurses, biography",
+        "Military hospitals",
+        "United states, history, civil war, 1861-1865, medical care",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Georgetown (washington, d.c.)",
+        "Washington (d.c.), history"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.114",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54593610M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T05:04:21.186815"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781523641956"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 96,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781523641956"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.200",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54644316M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T12:15:23.075345"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781480170278"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 94,
+      "publish_date": "2012",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781480170278"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.241",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54514962M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T17:23:14.148047"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781481220248"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 64,
+      "publish_date": "2012",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781481220248"
+      ],
+      "subjects": [
+        "Alcott, louisa may, 1832-1888",
+        "Nurses, biography",
+        "Military hospitals",
+        "United states, history, civil war, 1861-1865, medical care",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Georgetown (washington, d.c.)",
+        "Washington (d.c.), history"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.150",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54517170M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T17:38:46.042427"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781456498634"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 58,
+      "publish_date": "2011",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781456498634"
+      ],
+      "subjects": [
+        "Nurses, biography",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Alcott, louisa may, 1832-1888",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, medical care",
+        "Military hospitals",
+        "Washington (d.c.), history",
+        "Authors, biography"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.182",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54554921M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T23:38:58.930411"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781466402904"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 64,
+      "publish_date": "2011",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781466402904"
+      ],
+      "subjects": [
+        "Nurses, biography",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Alcott, louisa may, 1832-1888",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, medical care",
+        "Military hospitals",
+        "Washington (d.c.), history",
+        "Authors, biography"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.150",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54427862M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T03:59:41.496968"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "973.776"
+      ],
+      "isbn_13": [
+        "9781450510929"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 72,
+      "publish_date": "2010",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781450510929"
+      ],
+      "subjects": [
+        "Nurses, biography",
+        "United states, history, civil war, 1861-1865, hospitals",
+        "United states, history, civil war, 1861-1865, personal narratives",
+        "Alcott, louisa may, 1832-1888",
+        "United states, history, civil war, 1861-1865, women",
+        "United states, history, civil war, 1861-1865, medical care",
+        "Military hospitals",
+        "Washington (d.c.), history",
+        "Authors, biography"
+      ],
+      "title": "Hospital Sketches",
+      "weight": "0.145",
+      "full_title": "Hospital Sketches",
+      "works": [
+        {
+          "key": "/works/OL30060W"
+        }
+      ],
+      "key": "/books/OL54480385M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-21T12:09:59.102230"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-18T11:19:02.271818"
+      }
+    }
+  ]
+}

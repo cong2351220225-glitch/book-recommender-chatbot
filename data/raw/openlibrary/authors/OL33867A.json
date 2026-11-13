@@ -1,0 +1,14 @@
+{
+  "name": "Amy Dean",
+  "personal_name": "Amy Dean",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-12 03:18:45.406613"
+  },
+  "key": "/authors/OL33867A",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 85561,
+  "revision": 2
+}

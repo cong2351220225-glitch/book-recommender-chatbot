@@ -1,0 +1,61 @@
+{
+  "publishers": [
+    "Doubleday"
+  ],
+  "lc_classifications": [
+    "PR3724 .G7 1945a"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL22088877M",
+  "authors": [
+    {
+      "key": "/authors/OL24522A"
+    }
+  ],
+  "publish_places": [
+    "Garden City, N.Y"
+  ],
+  "contributions": [
+    "Corbino, Jon, 1905-1964"
+  ],
+  "pagination": "[3] l., v-x, 308 p.",
+  "revision": 3,
+  "source_records": [
+    "marc:marc_binghamton_univ/bgm_openlib_final_0-5.mrc:258002149:720"
+  ],
+  "title": "Guilliver's travels",
+  "dewey_decimal_class": [
+    "827.52"
+  ],
+  "number_of_pages": 308,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-11-06T17:38:24.200351"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "48004511"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-10-14T19:21:36.446639"
+  },
+  "publish_date": "1945",
+  "publish_country": "nyu",
+  "by_statement": "illus. by Jon Corbino.",
+  "works": [
+    {
+      "key": "/works/OL20704W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "location": [
+    "BIN"
+  ]
+}

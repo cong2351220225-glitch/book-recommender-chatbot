@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:48:36.911709"
+  },
+  "title": "Sir Peter Harpdon's end",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:48:36.911709"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL47686W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL28409A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34825855,
+  "revision": 1
+}

@@ -1,0 +1,61 @@
+{
+  "publishers": [
+    "Regnery"
+  ],
+  "full_title": "Nuclear ambush",
+  "key": "/books/OL28406968M",
+  "authors": [
+    {
+      "key": "/authors/OL2196847A"
+    }
+  ],
+  "publish_places": [
+    "Chic"
+  ],
+  "subjects": [
+    "Nuclear disarmament"
+  ],
+  "pagination": "612 pages",
+  "source_records": [
+    "marc:marc_claremont_school_theology/CSTMARC2_barcode.mrc:111774332:678",
+    "ia:nuclearambush0000voss",
+    "marc:marc_claremont_school_theology/CSTMARC2_multibarcode.mrc:111922909:678"
+  ],
+  "title": "Nuclear ambush",
+  "number_of_pages": 612,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "local_id": [
+    "urn:cst:10011379541"
+  ],
+  "publish_date": "1963",
+  "publish_country": "ilu",
+  "oclc_numbers": [
+    "874372155"
+  ],
+  "works": [
+    {
+      "key": "/works/OL143689W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    10670365
+  ],
+  "ocaid": "nuclearambush0000voss",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-07-28T03:21:48.631895"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-03-03T07:45:01.886246"
+  }
+}

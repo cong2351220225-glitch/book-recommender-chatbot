@@ -1,0 +1,103 @@
+{
+  "id": "test_seq_0a821dbd",
+  "title": "Thư viện có sách nào về công nghệ không?",
+  "timestamp": "2026-11-02 13:36:02",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thư viện có sách nào về công nghệ không?",
+      "timestamp": "13:35"
+    },
+    {
+      "role": "assistant",
+      "content": "Thư viện hiện có các cuốn sách sau về chủ đề công nghệ:\n\n1. **Cuộc cách mạng công nghiệp lần thứ tư**\n   - **Tác giả:** Klaus Schwab\n   - **Năm xuất bản:** 2016\n   - **Thể loại:** Công nghệ\n   - **Lý do phù hợp:** Sách khắc họa bức tranh về tác động của các công nghệ mới đối với xã hội, doanh nghiệp và các kỹ năng trong tương lai, thích hợp cho người làm công nghệ muốn học hỏi.\n\n2. **Trí tuệ nhân tạo: Một cách tiếp cận hiện đại**\n   - **Tác giả:** Stuart Russell và Peter Norvig\n   - **Năm xuất bản:** 2020\n   - **Thể loại:** AI\n   - **Lý do phù hợp:** Đây là giáo trình nền tảng toàn diện về trí tuệ nhân tạo (học máy, tác tử thông minh, xử lý ngôn ngữ), phù hợp cho đối tượng sinh viên công nghệ.",
+      "timestamp": "13:35",
+      "sources": [
+        {
+          "document": "Title: Cuộc cách mạng công nghiệp lần thứ tư\nAuthor: Klaus Schwab\nGenre: Công nghệ\nPublication year: 2016\nTags: công nghệ, tương lai, xã hội\nTarget audience: Người làm công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh về công nghệ và kỹ năng tương lai.\nDescription: Dữ liệu mô tả demo về tác động của công nghệ mới đến xã hội, doanh nghiệp và kỹ năng tương lai.",
+          "metadata": {
+            "author_id": "klaus-schwab",
+            "mood": "Muốn học hỏi",
+            "tags": "công nghệ, tương lai, xã hội",
+            "genre": "Công nghệ",
+            "year": 2016,
+            "difficulty": "Chuyên sâu",
+            "author": "Klaus Schwab",
+            "book_id": "book_024",
+            "title": "Cuộc cách mạng công nghiệp lần thứ tư",
+            "target_audience": "Người làm công nghệ",
+            "featured": false,
+            "rating": 4.1
+          },
+          "distance": 0.28942978382110596
+        },
+        {
+          "document": "Title: Trí tuệ nhân tạo: Một cách tiếp cận hiện đại\nAuthor: Stuart Russell và Peter Norvig\nGenre: AI\nPublication year: 2020\nTags: AI, máy học, tác tử\nTarget audience: Sinh viên công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toàn diện về trí tuệ nhân tạo.\nDescription: Giáo trình nền tảng về trí tuệ nhân tạo, bao quát tác tử thông minh, tìm kiếm, học máy, xác suất và xử lý ngôn ngữ.",
+          "metadata": {
+            "rating": 4.6,
+            "title": "Trí tuệ nhân tạo: Một cách tiếp cận hiện đại",
+            "mood": "Muốn học hỏi",
+            "featured": true,
+            "target_audience": "Sinh viên công nghệ",
+            "year": 2020,
+            "difficulty": "Chuyên sâu",
+            "tags": "AI, máy học, tác tử",
+            "author": "Stuart Russell và Peter Norvig",
+            "book_id": "book_012",
+            "genre": "AI",
+            "author_id": "russell-norvig"
+          },
+          "distance": 0.30007678270339966
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": "Cuốn đầu tiên có tác giả là ai?",
+      "timestamp": "13:35"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên lịch sử trò chuyện, \"cuốn đầu tiên\" bạn đề cập là cuốn **\"Cuộc cách mạng công nghiệp lần thứ tư\"**. \n\nTuy nhiên, hiện tại thư viện chưa có đủ dữ liệu về cuốn sách này trong nguồn thông tin (RETRIEVED BOOK CONTEXT) để cung cấp cho bạn.",
+      "timestamp": "13:35",
+      "sources": [
+        {
+          "document": "Title: Flower Fables\nAuthor: Louisa May Alcott\nGenre: Khoa học viễn tưởng\nPublication year: 1854\nTags: Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: Louisa May Alcott was twenty-one when she published this, her first book. A collection of fairy stories and poems she originally told to Ralph Waldo Emerson's daughter Ellen, Flower Fables is a charming and delightful achievement from the hand that would eventually craft the timeless classic Little Women. Flower Fables is presented here in large print for easier reading by children and adults of any age.",
+          "metadata": {
+            "author": "Louisa May Alcott",
+            "target_audience": "nan",
+            "rating": 0.0,
+            "book_id": "book_126",
+            "year": 1854,
+            "title": "Flower Fables",
+            "genre": "Khoa học viễn tưởng",
+            "author_id": "ol26680a",
+            "difficulty": "nan",
+            "tags": "Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections",
+            "mood": "nan",
+            "featured": false
+          },
+          "distance": 0.2983282804489136
+        },
+        {
+          "document": "Title: Vũ trụ\nAuthor: Carl Sagan\nGenre: Khoa học\nPublication year: 1980\nTags: vũ trụ, không gian, khoa học\nTarget audience: Độc giả ham khám phá\nMood: Muốn thư giãn\nDifficulty: Dễ đọc\nSummary: Một chuyến du hành qua vũ trụ và khoa học.\nDescription: Cuốn sách phổ biến khoa học đưa người đọc khám phá nguồn gốc vũ trụ, sự sống và vị trí của con người trong không gian.",
+          "metadata": {
+            "book_id": "book_014",
+            "target_audience": "Độc giả ham khám phá",
+            "year": 1980,
+            "rating": 4.8,
+            "difficulty": "Dễ đọc",
+            "genre": "Khoa học",
+            "featured": true,
+            "author": "Carl Sagan",
+            "author_id": "carl-sagan",
+            "title": "Vũ trụ",
+            "mood": "Muốn thư giãn",
+            "tags": "vũ trụ, không gian, khoa học"
+          },
+          "distance": 0.3148775100708008
+        }
+      ]
+    }
+  ]
+}

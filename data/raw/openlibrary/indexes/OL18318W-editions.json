@@ -1,0 +1,202 @@
+{
+  "links": {
+    "self": "/works/OL18318W/editions.json",
+    "work": "/works/OL18318W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "publishers": [
+        "H. Hamilton"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2561923"
+        ],
+        "librarything": [
+          "27512"
+        ]
+      },
+      "isbn_10": [
+        "0241140668"
+      ],
+      "subject_place": [
+        "London (England)"
+      ],
+      "pagination": "215 p. ;",
+      "covers": [
+        2339727,
+        146204
+      ],
+      "lc_classifications": [
+        "PR6069.U775 L68 2000",
+        "PR6069.U775L68 2000"
+      ],
+      "key": "/books/OL6854603M",
+      "authors": [
+        {
+          "key": "/authors/OL23424A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:73442047:684",
+        "marc:marc_loc_2016/BooksAll.2016.part01.utf8:136339876:684",
+        "bwb:9780241140666",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:572484894:800",
+        "marc:harvard_bibliographic_metadata/20220215_005.bib.mrc:291180587:1420"
+      ],
+      "title": "The love hexagon",
+      "dewey_decimal_class": [
+        "823/.914"
+      ],
+      "number_of_pages": 215,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "00362538"
+      ],
+      "subjects": [
+        "Triangles (Interpersonal relations) -- Fiction",
+        "Young adults -- Fiction",
+        "London (England) -- Fiction"
+      ],
+      "publish_date": "2000",
+      "publish_country": "enk",
+      "by_statement": "William Sutcliffe.",
+      "works": [
+        {
+          "key": "/works/OL18318W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "44533314"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-23T19:34:57.788296"
+      }
+    },
+    {
+      "publishers": [
+        "QPD"
+      ],
+      "pagination": "216p. ;",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2237693650:404"
+      ],
+      "title": "The love hexagon",
+      "by_statement": "William Sutcliffe.",
+      "number_of_pages": 216,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-04T14:02:14.368774"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-15T23:23:01.674457"
+      },
+      "latest_revision": 2,
+      "publish_country": "enk",
+      "key": "/books/OL21889836M",
+      "authors": [
+        {
+          "key": "/authors/OL23424A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "publish_date": "1999",
+      "works": [
+        {
+          "key": "/works/OL18318W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 32338069,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "Penguin"
+      ],
+      "number_of_pages": 304,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-18T23:22:19.874586"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL21766485M",
+      "authors": [
+        {
+          "key": "/authors/OL23424A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "304p. ;",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1946136121:503"
+      ],
+      "title": "The love hexagon",
+      "identifiers": {
+        "goodreads": [
+          "2561925"
+        ],
+        "librarything": [
+          "27512"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-03T22:25:26.343919"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0140283684"
+      ],
+      "publish_date": "2000",
+      "publish_country": "enk",
+      "by_statement": "William Sutcliffe.",
+      "works": [
+        {
+          "key": "/works/OL18318W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    }
+  ]
+}

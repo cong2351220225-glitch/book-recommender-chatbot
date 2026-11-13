@@ -1,0 +1,73 @@
+{
+  "id": "test_vn_40c4aa5d",
+  "title": "Tôi muốn tìm một cuốn sách giúp rèn luyệ",
+  "timestamp": "2026-11-02 13:27:42",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi muốn tìm một cuốn sách giúp rèn luyện tư duy logic, sự kiên nhẫn và kỹ năng giải quyết vấn đề.",
+      "timestamp": "13:27"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên các thông tin hiện có trong thư viện, tôi xin đề xuất cuốn sách phù hợp nhất với nhu cầu tìm hiểu và rèn luyện tư duy của bạn:\n\n1. **Tư duy nhanh và chậm**\n   - **Tác giả:** Daniel Kahneman\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Tâm lý\n   - **Lý do phù hợp:** Cuốn sách đi sâu giải thích hai hệ thống tư duy (nhanh và chậm) cũng như các thiên kiến nhận thức ảnh hưởng trực tiếp đến phán đoán và quyết định của con người. Sách thuộc cấp độ chuyên sâu, rất thích hợp cho những ai muốn đào sâu suy ngẫm để nâng cao nhận thức.\n\nNgoài ra, nếu bạn muốn rèn luyện sự kiên nhẫn qua việc xây dựng thói quen và tính kỷ luật hằng ngày, bạn có thể tham khảo thêm:\n\n2. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Lý do phù hợp:** Cuốn sách trình bày phương pháp tạo nên sự thay đổi bền vững thông qua việc xây dựng các thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn mỗi ngày.",
+      "timestamp": "13:27",
+      "sources": [
+        {
+          "document": "Title: Tư duy nhanh và chậm\nAuthor: Daniel Kahneman\nGenre: Tâm lý\nPublication year: 2011\nTags: tư duy, nhận thức, quyết định\nTarget audience: Người thích đào sâu\nMood: Muốn suy ngẫm\nDifficulty: Chuyên sâu\nSummary: Cách các thiên kiến định hình lựa chọn.\nDescription: Giải thích hai hệ thống tư duy nhanh và chậm, cùng những thiên kiến nhận thức ảnh hưởng đến phán đoán và quyết định của con người.",
+          "metadata": {
+            "author_id": "daniel-kahneman",
+            "difficulty": "Chuyên sâu",
+            "author": "Daniel Kahneman",
+            "book_id": "book_003",
+            "tags": "tư duy, nhận thức, quyết định",
+            "mood": "Muốn suy ngẫm",
+            "featured": true,
+            "year": 2011,
+            "target_audience": "Người thích đào sâu",
+            "rating": 4.4,
+            "title": "Tư duy nhanh và chậm",
+            "genre": "Tâm lý"
+          },
+          "distance": 0.31817448139190674
+        },
+        {
+          "document": "Title: Thiền và nghệ thuật bảo dưỡng xe máy\nAuthor: Robert M. Pirsig\nGenre: Triết học\nPublication year: 1974\nTags: triết học, hành trình, chất lượng\nTarget audience: Độc giả thích suy ngẫm\nMood: Muốn thư giãn\nDifficulty: Chuyên sâu\nSummary: Một hành trình triết học giữa đời sống thường ngày.\nDescription: Dữ liệu mô tả demo về hành trình nội tâm, chất lượng và mối quan hệ giữa kỹ thuật với đời sống.",
+          "metadata": {
+            "target_audience": "Độc giả thích suy ngẫm",
+            "tags": "triết học, hành trình, chất lượng",
+            "book_id": "book_023",
+            "year": 1974,
+            "difficulty": "Chuyên sâu",
+            "title": "Thiền và nghệ thuật bảo dưỡng xe máy",
+            "genre": "Triết học",
+            "author_id": "robert-pirsig",
+            "mood": "Muốn thư giãn",
+            "featured": false,
+            "author": "Robert M. Pirsig",
+            "rating": 4.3
+          },
+          "distance": 0.32921040058135986
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "difficulty": "Dễ đọc",
+            "rating": 4.8,
+            "book_id": "book_001",
+            "tags": "thói quen, năng suất, thay đổi",
+            "featured": true,
+            "mood": "Mất động lực",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "genre": "Kỹ năng sống",
+            "author": "James Clear",
+            "author_id": "james-clear",
+            "year": 2018,
+            "title": "Atomic Habits"
+          },
+          "distance": 0.3293112516403198
+        }
+      ]
+    }
+  ]
+}

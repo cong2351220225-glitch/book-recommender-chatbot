@@ -1,0 +1,143 @@
+{
+  "links": {
+    "self": "/works/OL1208940W/editions.json",
+    "work": "/works/OL1208940W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "The University of Chicago Press"
+      ],
+      "subtitle": "its organization and administration",
+      "lc_classifications": [
+        "LB2805 .R38"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL6765986M",
+      "authors": [
+        {
+          "key": "/authors/OL122140A"
+        }
+      ],
+      "publish_places": [
+        "Chicago, Ill"
+      ],
+      "contributions": [
+        "Pierce, Paul Revere, 1890- joint author.",
+        "Stullken, Edward Henry, joint author."
+      ],
+      "pagination": "ix, 571p.",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part03.utf8:74219244:897"
+      ],
+      "title": "The elementary school",
+      "dewey_decimal_class": [
+        "371.2",
+        "372"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"Supplementary readings\": p. 519-545."
+      },
+      "number_of_pages": 571,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "31030708"
+      ],
+      "subjects": [
+        "School management and organization",
+        "Education."
+      ],
+      "publish_date": "1931",
+      "publish_country": "ilu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-14T17:31:49.404475"
+      },
+      "by_statement": "by William C. Reavis...Paul R. Pierce...[and] Edward H. Stullken...",
+      "oclc_numbers": [
+        "2517541"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1208940W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "The University of Chicago press"
+      ],
+      "lc_classifications": [
+        "LB2805 .R38 1938"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL6381001M",
+      "authors": [
+        {
+          "key": "/authors/OL122140A"
+        }
+      ],
+      "publish_places": [
+        "Chicago, Ill"
+      ],
+      "contributions": [
+        "Pierce, Paul Revere, 1890- joint author.",
+        "Stullken, Edward Henry, joint author."
+      ],
+      "pagination": "ix, 607 p.",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part03.utf8:168549037:734"
+      ],
+      "title": "The elementary school",
+      "lccn": [
+        "38043457"
+      ],
+      "number_of_pages": 607,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "School management and organization",
+        "Education, Elementary"
+      ],
+      "publish_date": "1938",
+      "publish_country": "ilu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-16T05:02:02.777545"
+      },
+      "oclc_numbers": [
+        "25443018"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1208940W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

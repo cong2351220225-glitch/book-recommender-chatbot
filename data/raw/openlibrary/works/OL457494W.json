@@ -1,0 +1,53 @@
+{
+  "subtitle": "selected correspondence",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:30:37.628565"
+  },
+  "title": "Leo Tolstoy and Russian peasant sectarian writers",
+  "subject_places": [
+    "Russie",
+    "Russia"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-03-12T23:41:55.317659"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL457494W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL26783A"
+      }
+    }
+  ],
+  "subject_people": [
+    "Leo Tolstoy graf (1828-1910)",
+    "Léon Tolstoï (1828-1910)"
+  ],
+  "subject_times": [
+    "19e siècle",
+    "19th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Correspondence",
+    "Histoire",
+    "Correspondance",
+    "History",
+    "Écrivains russes",
+    "Russian Authors",
+    "Dissidents (Religion)",
+    "Paysans écrivains",
+    "Peasants' writings, Russian",
+    "Peasants as authors",
+    "Translations into English",
+    "Religious Dissenters",
+    "Écrits de paysans russes"
+  ],
+  "revision": 2
+}

@@ -1,0 +1,72 @@
+{
+  "publishers": [
+    "Corporación de Estudios y Publicaciones"
+  ],
+  "isbn_10": [
+    "9978860630"
+  ],
+  "subject_place": [
+    "Ecuador."
+  ],
+  "lc_classifications": [
+    "KHK3230.A31959 A7 1991"
+  ],
+  "latest_revision": 4,
+  "key": "/books/OL1324054M",
+  "authors": [
+    {
+      "key": "/authors/OL54381A"
+    }
+  ],
+  "publish_places": [
+    "Quito, Ecuador"
+  ],
+  "contributions": [
+    "Corporación de Estudios y Publicaciones."
+  ],
+  "languages": [
+    {
+      "key": "/languages/spa"
+    }
+  ],
+  "pagination": "98 p. ;",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part22.utf8:73451307:710"
+  ],
+  "title": "Ley de regimen administrativo.",
+  "dewey_decimal_class": [
+    "342.866/06",
+    "348.66026"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "\"Actualizada a noviembre de 1991\"--Cover."
+  },
+  "number_of_pages": 98,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "edition_name": "18. ed.",
+  "lccn": [
+    "92201218"
+  ],
+  "subjects": [
+    "Administrative law -- Ecuador."
+  ],
+  "publish_date": "1991",
+  "publish_country": "ec ",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-16T07:03:57.664236"
+  },
+  "works": [
+    {
+      "key": "/works/OL690410W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

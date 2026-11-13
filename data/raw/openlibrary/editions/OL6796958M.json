@@ -1,0 +1,93 @@
+{
+  "identifiers": {
+    "librarything": [
+      "4734223"
+    ],
+    "goodreads": [
+      "1837865"
+    ]
+  },
+  "title": "This time forever",
+  "subtitle": "a novel",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "publish_date": "2001",
+  "publishers": [
+    "Covenant Communications"
+  ],
+  "isbn_10": [
+    "1577347870"
+  ],
+  "subject_place": [
+    "France"
+  ],
+  "pagination": "345 p. ;",
+  "covers": [
+    4530657
+  ],
+  "lc_classifications": [
+    "PS3564.U468 T47 2001",
+    "PS3564.U468T47 2001"
+  ],
+  "publish_places": [
+    "American Fork, UT"
+  ],
+  "genres": [
+    "Fiction."
+  ],
+  "source_records": [
+    "marc:marc_records_scriblio_net/part01.dat:21262653:661",
+    "marc:marc_loc_2016/BooksAll.2016.part01.utf8:50192175:661",
+    "ia:thistimeforevern0000nune",
+    "amazon:1577347870",
+    "promise:bwb_daily_pallets_2022-03-17",
+    "bwb:9781577347873"
+  ],
+  "dewey_decimal_class": [
+    "813/.54"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "00069401"
+  ],
+  "subjects": [
+    "Mormon women -- Fiction",
+    "France -- Fiction"
+  ],
+  "publish_country": "utu",
+  "by_statement": "Rachel Ann Nunes.",
+  "oclc_numbers": [
+    "45637082"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "ocaid": "thistimeforevern0000nune",
+  "key": "/books/OL6796958M",
+  "number_of_pages": 345,
+  "works": [
+    {
+      "key": "/works/OL30077W"
+    }
+  ],
+  "local_id": [
+    "urn:bwbsku:O7-CPV-591"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T07:36:49.495363"
+  }
+}

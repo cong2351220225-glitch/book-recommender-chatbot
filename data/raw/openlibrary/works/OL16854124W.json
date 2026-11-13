@@ -1,0 +1,17 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2014-07-24T21:38:06.214624"
+  },
+  "title": "Observations et Mémoires sur la Physique, sur l'Histoire Naturelle et sur les Arts et Métiers, etc",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2014-07-24T21:38:06.214624"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL16854124W",
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

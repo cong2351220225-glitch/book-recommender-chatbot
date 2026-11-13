@@ -1,0 +1,53 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "2021",
+  "publishers": [
+    "MiraVista Press"
+  ],
+  "source_records": [
+    "bwb:9781956221350",
+    "amazon:1956221352"
+  ],
+  "subjects": [
+    "Fiction, general"
+  ],
+  "title": "Best of Alcott",
+  "subtitle": "under the Lilacs",
+  "full_title": "Best of Alcott under the Lilacs",
+  "works": [
+    {
+      "key": "/works/OL30065W"
+    }
+  ],
+  "key": "/books/OL34987492M",
+  "covers": [
+    13187076
+  ],
+  "identifiers": {},
+  "isbn_13": [
+    "9781956221350"
+  ],
+  "classifications": {},
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-09T18:06:49.018940"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T15:58:02.031825"
+  }
+}

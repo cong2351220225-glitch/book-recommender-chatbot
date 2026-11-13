@@ -1,0 +1,29 @@
+{
+  "name": "Earle Birney",
+  "personal_name": "Birney, Earle",
+  "remote_ids": {
+    "viaf": "97679781",
+    "wikidata": "Q3046415",
+    "isni": "0000000114528242",
+    "musicbrainz": "fc5a37ee-5f45-476d-81f1-7e1ee968ff06",
+    "imdb": "nm0083711",
+    "lc_naf": "n79045356",
+    "goodreads": "44607"
+  },
+  "death_date": "1995",
+  "birth_date": "1904",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL123818A",
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T17:34:07.743765"
+  }
+}

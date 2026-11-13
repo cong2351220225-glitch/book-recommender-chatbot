@@ -1,0 +1,2536 @@
+{
+  "links": {
+    "self": "/works/OL82586W/editions.json",
+    "work": "/works/OL82586W",
+    "next": "/works/OL82586W/editions.json?offset=50"
+  },
+  "size": 144,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KT-310-198"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-02-20:KT-310-198"
+      ],
+      "title": "Harry Potter i insygnia śmierci",
+      "full_title": "Harry Potter i Insygnia Smierci (Polish Edition)",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL51155207M",
+      "identifiers": {},
+      "isbn_10": [
+        "8380082230"
+      ],
+      "isbn_13": [
+        "9788380082236"
+      ],
+      "ocaid": "harrypotteriinsy0000unse_r7s9",
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "publish_date": "2016",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "covers": [
+        15158694
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-22T01:01:55.170847"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2008",
+      "publish_country": "ua",
+      "languages": [
+        {
+          "key": "/languages/ara"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the deathly hallows"
+      ],
+      "title": "Hārī Būtar wa-muqaddasāt al-mawt",
+      "by_statement": "taʼlīf J.K. Rūlīnij",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "oclc_numbers": [
+        "271912924"
+      ],
+      "edition_name": "al-Ṭabʻah 2.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Sequel to: Harry Potter and the Half-Blood Prince."
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the path set out before him."
+      },
+      "subjects": [
+        "Wizards",
+        "Fiction",
+        "Magic",
+        "Coming of age",
+        "Harry Potter (Fictitious character)",
+        "Juvenile fiction",
+        "Schools",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place)"
+      ],
+      "subject_places": [
+        "England"
+      ],
+      "publishers": [
+        "Nahḍat Miṣr"
+      ],
+      "publish_places": [
+        "al-Qāhirah"
+      ],
+      "isbn_10": [
+        "9771442058"
+      ],
+      "pagination": "599 p.",
+      "number_of_pages": 599,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:498491019:1473"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL49964060M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-11-28T04:06:44.495952"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter e as Relíquias da Morte",
+      "publishers": [
+        "EDITORA ROCCO LTDA."
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL49810691M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788532522610"
+      ],
+      "isbn_10": [
+        "8532522610"
+      ],
+      "classifications": {},
+      "publish_places": [
+        "Rio de Janeiro, RJ - Brasil"
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Os dois homens se materializaram inesperadamente, a poucos metros de distância, na estreita ruazinha iluminada pelo luar. Por um momento eles ficaram imóveis, as varinhas apontadas para o peito um do outro; então, reconhecendo-se, guardaram a varinha sob a capa e começaram a andar apressados na mesma direção."
+      },
+      "physical_format": "Paperback",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "series": [
+        "Harry Potter"
+      ],
+      "translation_of": "HARRY POTTER AND THE DEATHLY HALLOWS",
+      "copyright_date": "2007",
+      "number_of_pages": 590,
+      "covers": [
+        14527261,
+        14527254
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-10-24T22:54:28.617756"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-221"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-221"
+      ],
+      "title": "Harry Potter et les reliques de la mort",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL47682293M",
+      "identifiers": {},
+      "isbn_10": [
+        "207061803X"
+      ],
+      "isbn_13": [
+        "9782070618033"
+      ],
+      "ocaid": "bwb_W8-BSR-221_t9s7",
+      "publishers": [
+        "Gallimard"
+      ],
+      "publish_date": "2009",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "covers": [
+        15157951
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:30.373442"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "title": "Harry Potter und die Heiligtümer des Todes",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2007",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-212"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-212",
+        "ia:harrypotter7undd0000joan"
+      ],
+      "key": "/books/OL47682268M",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "covers": [
+        15157619
+      ],
+      "number_of_pages": 774,
+      "identifiers": {},
+      "ocaid": "harrypotter7undd0000joan",
+      "isbn_10": [
+        "3551557004"
+      ],
+      "isbn_13": [
+        "9783551557001"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:26.519465"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter, VII",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 04, 2017",
+      "source_records": [
+        "amazon:1547904127"
+      ],
+      "number_of_pages": 896,
+      "publishers": [
+        "French and European Publications Inc"
+      ],
+      "isbn_10": [
+        "1547904127"
+      ],
+      "isbn_13": [
+        "9781547904129"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Harry Potter, VII : Harry Potter et les Reliques de la Mort [ Harry Potter and the Deathly Hallows ] nouvelle edition",
+      "subtitle": "Harry Potter et les Reliques de la Mort [ Harry Potter and the Deathly Hallows ] nouvelle edition",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter, VII : Harry Potter et les Reliques de la Mort [ Harry Potter and the Deathly Hallows ] nouvelle edition (French Edition)"
+      },
+      "covers": [
+        13208872
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL46533042M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-02T09:20:35.705516"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "title": "Harry Potter e i doni della morte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2014",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:T2-FPJ-747"
+      ],
+      "publishers": [
+        "Salani"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-01-11",
+        "amazon:8867156012",
+        "ia:harrypottereidon0000jkro"
+      ],
+      "full_title": "Harry Potter e i doni della morte vol. 7",
+      "covers": [
+        15157182
+      ],
+      "key": "/books/OL45639716M",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "number_of_pages": 678,
+      "identifiers": {},
+      "ocaid": "harrypottereidon0000jkro",
+      "isbn_10": [
+        "8867156012"
+      ],
+      "isbn_13": [
+        "9788867156016"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T02:29:34.809168"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "publishers": [
+        "Makhaon"
+      ],
+      "languages": [
+        {
+          "key": "/languages/rus"
+        }
+      ],
+      "source_records": [
+        "bwb:9785389077928",
+        "amazon:538907792X"
+      ],
+      "title": "Гарри Поттер и Дары Смерти",
+      "number_of_pages": 700,
+      "publish_date": "2019",
+      "key": "/books/OL29554500M",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL8309625A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15159984
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9785389077928"
+      ],
+      "ocaid": "garripotteridary0000jkro",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-27T10:54:05.789160"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:52.602334"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "哈利波特与死亡圣器",
+      "publishers": [
+        "Ren min wen xue chu ban she"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL61091398M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9787020063659"
+      ],
+      "ocaid": "haliboteyusiwang0000rowl",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15160783
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:39:38.490649"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:41:01.495888"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "哈利波特与死亡圣器",
+      "publishers": [
+        "Ren min wen xue chu ban she"
+      ],
+      "publish_date": "2014",
+      "key": "/books/OL61091384M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9787020103355"
+      ],
+      "ocaid": "haliboteyusiwang0007rowl",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15160782
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:36:25.209693"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:36:49.140642"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter y las reliquias de la muerte",
+      "publishers": [
+        "Turtleback Books"
+      ],
+      "publish_date": "2017",
+      "key": "/books/OL61068813M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780606379298"
+      ],
+      "ocaid": "isbn_9780606379298",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "covers": [
+        15160026
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T18:05:48.510313"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T18:07:31.937904"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61068190M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15159977
+      ],
+      "ocaid": "bwb_P9-CCG-593",
+      "isbn_10": [
+        "0545010225"
+      ],
+      "number_of_pages": 759,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T16:30:41.445157"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-15T15:27:22.978275"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61041694M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780545010221"
+      ],
+      "ocaid": "isbn_9780545010221_z4n9",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156796
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:37:45.326650"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:38:07.154424"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61041693M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156792
+      ],
+      "isbn_13": [
+        "9780739360385"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:09:19.793513"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T15:09:35.058172"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61041660M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780545010221"
+      ],
+      "ocaid": "isbn_9780545010221_i0l2",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156738
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T11:58:52.877414"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T11:59:34.612363"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61039932M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780545010221"
+      ],
+      "ocaid": "isbn_9780545010221_r1m3",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156425
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T16:44:14.408651"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T16:44:36.006570"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL61039914M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780545010221"
+      ],
+      "ocaid": "isbn_9780545010221_x5i4",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156424
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T16:42:50.129040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T16:43:10.825714"
+      }
+    },
+    {
+      "other_titles": [
+        "Si shen de sheng wu"
+      ],
+      "publishers": [
+        "Huang guan wen hua chu ban you xian gong si"
+      ],
+      "number_of_pages": 863,
+      "isbn_10": [
+        "9573323575"
+      ],
+      "series": [
+        "Choice -- 142",
+        "Huang guan cong shu -- di 3669zhong"
+      ],
+      "pagination": "2 v. (863 p) :",
+      "key": "/books/OL23102179M",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_places": [
+        "Taibei Shi"
+      ],
+      "contributions": [
+        "Huang guan bian yi zu."
+      ],
+      "edition_name": "880-03 Chu ban.",
+      "genres": [
+        "Juvenile fiction.",
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:SanFranPL15/SanFranPL15.out:37037587:7842"
+      ],
+      "title": "Hali Bote.",
+      "work_titles": [
+        "Harry Potter and the deathly hallows."
+      ],
+      "oclc_number": [
+        "176053923"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Harry Potter and the deathly hallows."
+      },
+      "identifiers": {
+        "goodreads": [
+          "5510083"
+        ],
+        "librarything": [
+          "3577382"
+        ]
+      },
+      "isbn_13": [
+        "9789573323570"
+      ],
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "subjects": [
+        "Potter, Harry (Fictitious character) -- Juvenile fiction",
+        "Wizards -- Juvenile fiction",
+        "Magic -- Juvenile fiction",
+        "Schools -- Juvenile fiction",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place) -- Juvenile fiction",
+        "Potter, Harry (Fictitious character) -- Fiction",
+        "Wizards -- Fiction",
+        "Magic -- Fiction",
+        "Schools -- Fiction",
+        "Hogwarts School of Witchcraft and Wizardry (Imaginary place) -- Fiction",
+        "England -- Juvenile fiction",
+        "England -- Fiction"
+      ],
+      "publish_date": "2007",
+      "publish_country": "ch ",
+      "by_statement": "J.K. Luolin (J.K. Rowling) zhu ; Huang guan bian yi zu yi.",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 24,
+      "revision": 24,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T16:47:28.019534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T18:10:04.431157"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter y las Reliquias de la Muerte",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "08/08/2015",
+      "key": "/books/OL59922466M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15116685
+      ],
+      "isbn_13": [
+        "9781781102701"
+      ],
+      "publish_places": [
+        "España"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Alicia Dellepiane"
+        },
+        {
+          "role": "Translator",
+          "name": "Gemma Rovira Rovira Ortega"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Harry Potter and the Deathly Hallows",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "eBook",
+      "number_of_pages": 689,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:26:09.414181"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:27:13.470500"
+      }
+    },
+    {
+      "title": "Harry Potter und die Heiligtümer des Todes",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2013",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-176"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-176",
+        "ia:harrypotter07har0000joan"
+      ],
+      "key": "/books/OL47682327M",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "covers": [
+        15157626
+      ],
+      "number_of_pages": 770,
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "identifiers": {},
+      "series": [
+        "Harry Potter"
+      ],
+      "ocaid": "harrypotter07har0000joan",
+      "isbn_10": [
+        "3551313172"
+      ],
+      "isbn_13": [
+        "9783551313171"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:36.659835"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T16:46:46.671287"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2014",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 642,
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "source_records": [
+        "ia:rbanms.24651.harrypotterdeath0000jkro_e6z9"
+      ],
+      "full_title": "Harry Potter and The Deathly Hallows 7",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL59004691M",
+      "identifiers": {},
+      "ocaid": "rbanms.24651.harrypotterdeath0000jkro_e6z9",
+      "isbn_13": [
+        "9781408855713"
+      ],
+      "covers": [
+        15159603
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T23:17:51.941288"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-08T18:22:25.449788"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the deathly hallows",
+      "publishers": [
+        "Bloomsbury Publishing"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL57377554M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-12-28T08:13:14.530095"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:56:44.294304"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "BLOOMSBURY"
+      ],
+      "publish_date": "july 21, 2007",
+      "key": "/books/OL56968609M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "classifications": {},
+      "covers": [
+        14825032
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-11-19T22:38:30.091489"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:56:44.294304"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115499"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 784,
+      "publish_date": "2007",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115499"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL53352183M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-18T00:11:13.928077"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9780747591078"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "PR6068.O93"
+      ],
+      "pagination": "608",
+      "publish_date": "2007",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9780747591078"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "England, fiction",
+        "Schools, fiction",
+        "Fantasy fiction",
+        "Magic, fiction",
+        "Children's fiction"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "weight": "1.031",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL48613380M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T04:59:13.767330"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781408865668"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "619",
+      "publish_date": "2015",
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781408865668"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "England, fiction",
+        "Schools, fiction",
+        "Fantasy fiction",
+        "Magic, fiction",
+        "Children's fiction"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL48655707M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T07:06:11.673502"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B009NNYM4K"
+        ]
+      },
+      "isbn_13": [
+        "6780135010221"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-DMA-297"
+      ],
+      "publish_date": "2007-01-01",
+      "publishers": [
+        "Arthur A. Levine"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL43046178M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T02:57:01.291187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781435762596"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "768",
+      "publish_date": "2011",
+      "publishers": [
+        "Lulu Press, Inc."
+      ],
+      "source_records": [
+        "bwb:9781435762596"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "England, fiction",
+        "Schools, fiction",
+        "Fantasy fiction",
+        "Magic, fiction",
+        "Children's fiction"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL39862864M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-17T11:33:50.028744"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9780557746309"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2010",
+      "publishers": [
+        "Lulu Press, Inc."
+      ],
+      "source_records": [
+        "bwb:9780557746309"
+      ],
+      "subjects": [
+        "Potter, harry (fictitious character), fiction",
+        "Wizards, fiction",
+        "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
+        "England, fiction",
+        "Schools, fiction",
+        "Fantasy fiction",
+        "Magic, fiction",
+        "Children's fiction"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL39877955M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-17T14:05:06.030722"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-11T16:11:30.255315"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter et les Reliques de la mort",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "8 décembre 2015",
+      "key": "/books/OL50533830M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        14564092
+      ],
+      "isbn_13": [
+        "9781781101094"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "translation_of": "Harry Potter and the Deathly Hallows",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Cette année, Harry a dix-sept ans et ne retourne pas à Poudlard. Avec Ron et Hermione, il se consacre à la dernière mission confiée par Dumbledore. Mais le Seigneur des Ténèbres règne en maître. Traqués, les trois fidèles amis sont contraints à la clandestinité. D’épreuves en révélations, le courage, les choix et les sacrifices de Harry seront déterminants dans la lutte contre les forces du Mal. Avec le dénouement de l’héroïque histoire de Harry Potter, J.K. Rowling signe un chef-d’œuvre d’une grande humanité et d’une maîtrise incomparable."
+      },
+      "physical_format": "eBook",
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Les deux hommes surgirent de nulle part, à quelques mètres l’un de l’autre, sur le chemin étroit éclairé par la lune. Pendant un instant, ils restèrent parfaitement immobiles, chacun pointant sa baguette magique sur la poitrine de l’autre."
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T13:05:37.599145"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-07T13:08:18.576450"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "2007",
+      "key": "/books/OL46532014M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        13198886
+      ],
+      "isbn_13": [
+        "9780747591054"
+      ],
+      "classifications": {},
+      "source_records": [
+        "bwb:9780747591054",
+        "marc:harvard_bibliographic_metadata/20220215_047.bib.mrc:14782050:1739"
+      ],
+      "lc_classifications": [
+        "PR6068.O93 H36 2007b"
+      ],
+      "oclc_numbers": [
+        "173512210"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 607,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-01T20:41:12.228707"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-14T08:49:04.055761"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781484474129"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "640",
+      "publish_date": "2015",
+      "publishers": [
+        "Penguin Random House Grupo Editorial"
+      ],
+      "source_records": [
+        "bwb:9781484474129"
+      ],
+      "title": "Harry Potter y Las Reliquias de la Muerte (Harry Potter and the Deathly Hallows)",
+      "full_title": "Harry Potter y Las Reliquias de la Muerte (Harry Potter and the Deathly Hallows)",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL39714396M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-19T01:58:55.854110"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2703953A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "784",
+      "publish_date": "2023",
+      "publishers": [
+        "Scholastic",
+        "Arthur A. Levine Books"
+      ],
+      "source_records": [
+        "bwb:9781338878981",
+        "amazon:1338878980"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows (Harry Potter, Book 7)",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL39443624M",
+      "covers": [
+        13264803
+      ],
+      "number_of_pages": 784,
+      "identifiers": {},
+      "isbn_13": [
+        "9781338878981"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-19T02:02:26.445523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-09T12:31:00.900568"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL9190537A"
+        },
+        {
+          "key": "/authors/OL10271790A"
+        }
+      ],
+      "publish_date": "Jun 26, 2018",
+      "source_records": [
+        "amazon:0606415181"
+      ],
+      "number_of_pages": 784,
+      "publishers": [
+        "Turtleback Books"
+      ],
+      "isbn_10": [
+        "0606415181"
+      ],
+      "isbn_13": [
+        "9780606415187"
+      ],
+      "physical_format": "library binding",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter and the Deathly Hallows (Brian Selznick Cover Edition)"
+      },
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL37926377M",
+      "covers": [
+        13264814
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-20T20:37:22.119798"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e os Talismãs da Morte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL10356492A"
+        }
+      ],
+      "publish_date": "2007",
+      "source_records": [
+        "amazon:9722338358",
+        "promise:bwb_daily_pallets_2024-03-01:O9-AHX-928"
+      ],
+      "number_of_pages": 608,
+      "publishers": [
+        "Editorial Presença"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: HARRY POTTER E OS TALISMÃS DA MORTE (Portugal Edition) (Colecção: Estrela do Mar, 107)",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL37875477M",
+      "covers": [
+        15158687
+      ],
+      "local_id": [
+        "urn:bwbsku:O9-AHX-928"
+      ],
+      "identifiers": {},
+      "publish_places": [
+        "Portugal"
+      ],
+      "translation_of": "Harry Potter and the Deathly Hallows",
+      "isbn_10": [
+        "9722338358"
+      ],
+      "isbn_13": [
+        "9789722338356"
+      ],
+      "ocaid": "harrypottereosta0000jkro",
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-16T20:01:19.914354"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T16:13:42.125732"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e i doni della morte vol. 7",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jan 01, 2014",
+      "source_records": [
+        "amazon:886715818X",
+        "promise:bwb_daily_pallets_2024-09-11:W9-CGS-821"
+      ],
+      "publishers": [
+        "French & European Pubns"
+      ],
+      "isbn_10": [
+        "886715818X"
+      ],
+      "isbn_13": [
+        "9788867158188"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e i doni della morte vol. 7 (Italian Edition)"
+      },
+      "full_title": "Harry Potter e i doni della morte vol. 7",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL37853409M",
+      "covers": [
+        13264860
+      ],
+      "local_id": [
+        "urn:bwbsku:W9-CGS-821"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0192CTOAI"
+        ]
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-04T21:33:21.156131"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-13T01:17:47.620141"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781484481073"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "784",
+      "publish_date": "2009",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781484481073"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL36345031M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T14:56:56.302780"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781536443783"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "759",
+      "publish_date": "2018",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781536443783"
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "full_title": "Harry Potter and the Deathly Hallows",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL36345046M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T14:57:05.403465"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9784863890886"
+      ],
+      "languages": [
+        {
+          "key": "/languages/jpn"
+        }
+      ],
+      "publish_date": "2010",
+      "publishers": [
+        "Sayzansha",
+        "ToÌ„kyoÌ„ : Seizansha, 2010.",
+        "Seizansha/Tsai Fong Books"
+      ],
+      "source_records": [
+        "bwb:9784863890886",
+        "amazon:4863890885"
+      ],
+      "title": "Harry Potter and the Deathly Hallows (Portable Size)",
+      "weight": "0.409",
+      "full_title": "Harry Potter and the Deathly Hallows (Portable Size)",
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL36338323M",
+      "covers": [
+        13264844
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T13:45:10.001707"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y las reliquias de la muerte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 30, 2013",
+      "source_records": [
+        "amazon:8498386691"
+      ],
+      "number_of_pages": 704,
+      "publishers": [
+        "Salamandra Infantil y Juvenil"
+      ],
+      "isbn_10": [
+        "8498386691"
+      ],
+      "isbn_13": [
+        "9788498386691"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter y las reliquias de la muerte (Harry Potter 7) (Spanish Edition)"
+      },
+      "full_title": "Harry Potter y las reliquias de la muerte",
+      "covers": [
+        12389355
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL35689373M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-30T18:02:57.606934"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter e as Reliquias da Morte - Edicao Comemorativa dos 20 anos da Colecao Harry Potter",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 13, 2019",
+      "source_records": [
+        "amazon:8532531822"
+      ],
+      "publishers": [
+        "Rocco"
+      ],
+      "isbn_10": [
+        "8532531822"
+      ],
+      "isbn_13": [
+        "9788532531827"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter e as Reliquias da Morte - Edicao Comemorativa dos 20 anos da Colecao Harry Potter (Em Portugues do Brasil)"
+      },
+      "full_title": "Harry Potter e as Reliquias da Morte - Edicao Comemorativa dos 20 anos da Colecao Harry Potter",
+      "covers": [
+        12369748
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL35664024M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-13T22:05:20.981759"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter und die Heiligtümer des Todes",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2018",
+      "source_records": [
+        "amazon:3551557470",
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-173",
+        "ia:harrypotterunddi0000jkro_a5b3"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Harry Potter und die Heiligtümer des Todes",
+      "covers": [
+        15157555
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL35659017M",
+      "local_id": [
+        "urn:bwbsku:W8-BSR-173"
+      ],
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": "An eine Rückkehr nach Hogwarts ist für Harry nicht zu denken. Er muss alles daransetzen, die übrigen Horkruxe zu finden. Erst wenn sie zerstört sind, kann Voldemorts Schreckensherrschaft vergehen. Mit Ron und Hermine an seiner Seite begibt sich Harry auf eine gefährliche Reise durch das ganze Land. Als die drei auf die rätselhaften Heiligtümer des Todes stoßen, muss Harry sich entscheiden. Soll er dieser Spur folgen? Doch welche Wahl er auch trifft – am Ende des Weges wird der Dunkle Lord auf ihn warten.",
+      "number_of_pages": 725,
+      "ocaid": "harrypotterunddi0000jkro_a5b3",
+      "isbn_10": [
+        "3551557470"
+      ],
+      "isbn_13": [
+        "9783551557476"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-10T14:38:04.983306"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T13:23:50.068095"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter ve Ölüm Yadigarları",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jan 05, 2007",
+      "source_records": [
+        "amazon:9750812980"
+      ],
+      "number_of_pages": 695,
+      "publishers": [
+        "Yapı Kredi Yayınları",
+        "Yap Kredi Yaynlar"
+      ],
+      "isbn_10": [
+        "9750812980"
+      ],
+      "isbn_13": [
+        "9789750812989"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Harry Potter ve Ölüm Yadigarları : Harry Potter Serisinin Yedinci ve Son Kitabı",
+      "subtitle": "Harry Potter Serisinin Yedinci ve Son Kitabı",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter ve Ölüm Yadigarları: Harry Potter Serisinin Yedinci ve Son Kitabı (Turkish Edition)"
+      },
+      "covers": [
+        12296953
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL35580579M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-03T08:22:51.080965"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Nov 02, 2014",
+      "source_records": [
+        "amazon:8498389151"
+      ],
+      "publishers": [
+        "SALAMANDRA",
+        "Salamandra Infantil y Juvenil"
+      ],
+      "isbn_10": [
+        "8498389151"
+      ],
+      "isbn_13": [
+        "9788498389159"
+      ],
+      "physical_format": "paperback",
+      "full_title": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE",
+      "covers": [
+        12293172
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL35458943M",
+      "number_of_pages": 704,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-02T06:41:04.000254"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter E I Doni Della Morte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Mar 22, 2011",
+      "source_records": [
+        "amazon:8862562837"
+      ],
+      "isbn_10": [
+        "8862562837"
+      ],
+      "isbn_13": [
+        "9788862562836"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Harry Potter E I Doni Della Morte",
+      "covers": [
+        10721143
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL32064499M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-22T08:56:44.707236"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter Et Les Reliques De La Mort",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL3114120A"
+        }
+      ],
+      "publish_date": "Nov 15, 2017",
+      "source_records": [
+        "amazon:2070585239"
+      ],
+      "number_of_pages": 896,
+      "publishers": [
+        "Gallimard",
+        "GALLIMARD JEUNE"
+      ],
+      "isbn_10": [
+        "2070585239"
+      ],
+      "isbn_13": [
+        "9782070585236"
+      ],
+      "physical_format": "mass market paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter Et Les Reliques De La Mort (French Edition)"
+      },
+      "full_title": "Harry Potter Et Les Reliques De La Mort",
+      "covers": [
+        10705861
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL32039348M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-14T13:49:26.381244"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-30T15:08:23.182508"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y las reliquias de la muerte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jun 07, 2011",
+      "source_records": [
+        "amazon:8498383641"
+      ],
+      "number_of_pages": 704,
+      "publishers": [
+        "Salamandra Bolsillo"
+      ],
+      "isbn_10": [
+        "8498383641"
+      ],
+      "isbn_13": [
+        "9788498383645"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter y las reliquias de la muerte (Harry Potter 7) (Spanish Edition)"
+      },
+      "full_title": "Harry Potter y las reliquias de la muerte",
+      "covers": [
+        10542713
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL31853825M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-10T22:22:48.613488"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter y las reliquias de la muerte",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Jun 07, 2011",
+      "source_records": [
+        "amazon:8498383641"
+      ],
+      "number_of_pages": 704,
+      "publishers": [
+        "Salamandra Bolsillo"
+      ],
+      "isbn_10": [
+        "8498383641"
+      ],
+      "isbn_13": [
+        "9788498383645"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter y las reliquias de la muerte (Harry Potter 7) (Spanish Edition)"
+      },
+      "full_title": "Harry Potter y las reliquias de la muerte",
+      "covers": [
+        10542714
+      ],
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "key": "/books/OL31853826M",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-10T22:22:48.659689"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T03:28:12.396727"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books an imprint of Scholastic Inc."
+      ],
+      "publish_date": "2009-11",
+      "key": "/books/OL39794425M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "publish_places": [
+        "New York"
+      ],
+      "number_of_pages": 759,
+      "edition_name": "First Scholastic trade paperback printing",
+      "copyright_date": "2007",
+      "physical_format": "paperback",
+      "pagination": "xvi, 759 pages",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156771
+      ],
+      "series": [
+        "Harry Potter"
+      ],
+      "notes": "Book 7",
+      "ocaid": "harrypotterdeath0000rowl_n2u6",
+      "isbn_13": [
+        "9780545139700"
+      ],
+      "latest_revision": 16,
+      "revision": 16,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-19T18:06:57.326647"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:55:31.788160"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82586W"
+        }
+      ],
+      "title": "Harry Potter and the Deathly Hallows",
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL35675912M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "goodreads": [
+          "57451837"
+        ]
+      },
+      "covers": [
+        12376646
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "xvi, 759p.",
+      "edition_name": "First Scholastic trade paperback printing (10)",
+      "copyright_date": "2007",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 759,
+      "physical_format": "Paperback",
+      "source_records": [
+        "bwb:9780545139700"
+      ],
+      "ocaid": "harrypotterdeath0000rowl_m0z4",
+      "isbn_10": [
+        "0545139708"
+      ],
+      "isbn_13": [
+        "9780545139700"
+      ],
+      "oclc_numbers": [
+        "1130764071"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-21T10:07:53.309630"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T16:03:26.776899"
+      }
+    }
+  ]
+}

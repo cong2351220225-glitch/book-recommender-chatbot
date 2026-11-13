@@ -1,0 +1,50 @@
+{
+  "lc_classifications": [
+    "PS3564.U468 F59 2007"
+  ],
+  "key": "/works/OL30073W",
+  "title": "Flying home",
+  "covers": [
+    2951091
+  ],
+  "subject_places": [
+    "India"
+  ],
+  "first_publish_date": "2007",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Adult children",
+    "India in fiction",
+    "Orphans in fiction",
+    "Orphans",
+    "Adult children in fiction",
+    "Identity (Philosophical concept)",
+    "Fiction, christian, general"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-09-17T21:34:36.120464"
+  }
+}

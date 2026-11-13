@@ -1,0 +1,178 @@
+{
+  "links": {
+    "self": "/works/OL30082W/editions.json",
+    "work": "/works/OL30082W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Millbrook Press"
+      ],
+      "subtitle": "and pictures that show just how big they are!",
+      "description": {
+        "type": "/type/text",
+        "value": "Uses illustrations of exponentially increasing peas to present the concept of numbers from one to a million, billion, trillion."
+      },
+      "isbn_10": [
+        "0761315705",
+        "0761312803"
+      ],
+      "pagination": "1 v. (unpaged) :",
+      "covers": [
+        1423854,
+        1423717
+      ],
+      "lc_classifications": [
+        "QA141.35 .P33 2000",
+        "QA141.35.P33 2000"
+      ],
+      "key": "/books/OL40980M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Brookfield, Conn"
+      ],
+      "contributions": [
+        "Murdocca, Sal, ill."
+      ],
+      "genres": [
+        "Juvenile literature."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:9681575:1056",
+        "bwb:9780761312802",
+        "bwb:9780761315704",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:1718643:1056",
+        "ia:bignumberspictur0000pack",
+        "promise:bwb_daily_pallets_2021-08-24",
+        "promise:bwb_daily_pallets_2021-05-20",
+        "marc:marc_nuls/NULS_PHC_180925.mrc:141647203:1317"
+      ],
+      "title": "Big numbers",
+      "dewey_decimal_class": [
+        "513.5/5"
+      ],
+      "identifiers": {
+        "librarything": [
+          "709030"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99032242"
+      ],
+      "subjects": [
+        "Place value (Mathematics) -- Juvenile literature",
+        "Decimal system -- Juvenile literature",
+        "Decimal system",
+        "Exponents (Algebra)",
+        "Number systems"
+      ],
+      "publish_date": "2000",
+      "publish_country": "ctu",
+      "by_statement": "by Edward Packard ; illustrated by Salvatore Murdocca.",
+      "works": [
+        {
+          "key": "/works/OL30082W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "bignumberspictur0000pack",
+      "local_id": [
+        "urn:bwbsku:T2-AWB-732",
+        "urn:bwbsku:O7-DFK-159",
+        "urn:nuls:31786101335112"
+      ],
+      "oclc_numbers": [
+        "41445748"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-07T17:43:06.436883"
+      }
+    },
+    {
+      "publishers": [
+        "Millbrook Press"
+      ],
+      "number_of_pages": 32,
+      "weight": "8 ounces",
+      "physical_format": "Paperback",
+      "key": "/books/OL8015556M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "subjects": [
+        "Mathematics - General",
+        "Juvenile Nonfiction / Mathematics / General",
+        "Juvenile Nonfiction",
+        "Children: Grades 1-2"
+      ],
+      "isbn_13": [
+        "9780761309383"
+      ],
+      "source_records": [
+        "amazon:0761309381:ct:2520003247:198426",
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Big Numbers",
+      "identifiers": {
+        "goodreads": [
+          "835237"
+        ],
+        "librarything": [
+          "709030"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0761309381"
+      ],
+      "publish_date": "August 17, 2001",
+      "works": [
+        {
+          "key": "/works/OL30082W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "12.8 x 8.6 x 0.5 inches",
+      "local_id": [
+        "urn:bwbsku:O6-BLU-519"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T09:16:08.529029"
+      }
+    }
+  ]
+}

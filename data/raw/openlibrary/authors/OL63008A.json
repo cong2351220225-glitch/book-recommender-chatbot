@@ -1,0 +1,44 @@
+{
+  "name": "Robert Burns",
+  "bio": {
+    "type": "/type/text",
+    "value": "Robert Burns (also known as Rabbie Burns, Scotland's favourite son, the Ploughman Poet, the Bard of Ayrshire and in Scotland as simply The Bard) was a Scottish poet and a lyricist. He is widely regarded as the national poet of Scotland, and is celebrated worldwide. He is the best known of the poets who have written in the Scots language, although much of his writing is also in English and a \"light\" Scots dialect, accessible to an audience beyond Scotland. He also wrote in standard English, and in these pieces, his political or civil commentary is often at its most blunt.\r\n\r\nHe is regarded as a pioneer of the Romantic movement and after his death became a great source of inspiration to the founders of both liberalism and socialism. A cultural icon in Scotland and among the Scottish Diaspora around the world, celebration of his life and work became almost a national charismatic cult during the 19th and 20th centuries, and his influence has long been strong on Scottish literature. In 2009 he was voted by the Scottish public as being the Greatest Scot, through a vote run by Scottish television channel STV. ([Source][1])\r\n\r\n\r\n  [1]: http://en.wikipedia.org/wiki/Robert_Burns"
+  },
+  "personal_name": "Burns, Robert",
+  "death_date": "21 July 1796",
+  "alternate_names": [
+    "Burns, Robert, 1759-1796.",
+    "Robert Burns"
+  ],
+  "photos": [
+    14358808,
+    11663638,
+    6390494,
+    3367139
+  ],
+  "birth_date": "25 January 1759",
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "32012434",
+    "wikidata": "Q81960",
+    "isni": "0000000081108515",
+    "musicbrainz": "56e7d9b7-174b-4e29-a50d-f164030d197f",
+    "lc_naf": "n78088009",
+    "librivox": "512",
+    "project_gutenberg": "583",
+    "opac_sbn": "SBLV075478"
+  },
+  "key": "/authors/OL63008A",
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-01T00:36:37.410218"
+  }
+}

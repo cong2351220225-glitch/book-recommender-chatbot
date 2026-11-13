@@ -1,0 +1,25 @@
+{
+  "title": "The Radio Antenna Handbook",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T20:57:15.139536"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T20:57:15.139536"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL7353617W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL2180688A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

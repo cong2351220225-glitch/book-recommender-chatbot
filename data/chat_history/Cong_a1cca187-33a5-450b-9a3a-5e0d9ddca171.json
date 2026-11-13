@@ -1,0 +1,266 @@
+{
+  "id": "a1cca187-33a5-450b-9a3a-5e0d9ddca171",
+  "title": "hỗ trợ tìm địa chỉ nhà sách ",
+  "timestamp": "2026-09-30 02:47:27",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hỗ trợ tìm địa chỉ nhà sách "
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn đang ở khu vực nào? Ví dụ: Huế, Đà Nẵng hoặc Hà Nội.",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "ở đà nẵng"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **10** nhà sách gần **ở đà nẵng**.",
+      "books": [],
+      "location": {
+        "results": [
+          {
+            "title": "Nhà Sách FAHASA Đà Nẵng",
+            "name": "Nhà Sách FAHASA Đà Nẵng",
+            "address": "300 Lê Duẩn, Thanh Khê, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.4,
+            "reviews": 2653,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "phone": "+84 236 3647 707",
+            "website": "http://fahasasg.com.vn/",
+            "description": "",
+            "latitude": 16.0696862,
+            "longitude": 108.21040889999999,
+            "place_id": "ChIJVQoJz0sYQjERz40FhQkJR9w",
+            "data_id": "0x3142184bcf090a55:0xdc47090985058dcf",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8RGB4ghm2lLg08wlHJfKOGQwnF4b5puN5JRluM-r8I5jD3vTB6dwlmQth-J-6oJ8flKioFMf3Enm4ZUuLYpX4BEoRINLSrGrnM-P9Hm7_lh06pMkD5BIPahx_okEzFOO_e5DV-g=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Đà Nẵng",
+            "name": "Nhà Sách Đà Nẵng",
+            "address": "78 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.1,
+            "reviews": 924,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "phone": "+84 236 3849 707",
+            "website": "http://www.danangbook.com/",
+            "description": "Hiệu sách nhà nước bán sách giáo khoa. Hiệu sách nhà nước chuyên cung cấp các đầu sách cho giáo viên và học sinh cùng một số đồ dùng học tập.",
+            "latitude": 16.0695244,
+            "longitude": 108.2248224,
+            "place_id": "ChIJa-zOEzIYQjERSB3fZBeziVQ",
+            "data_id": "0x3142183213ceec6b:0x5489b31764df1d48",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPPmDKyKCdtKoS-YsvJTRMN652YuNhlr9YLpX2L0wj3832qHxhI0xgklkW3t9d-xpgBjD9Nua2wn-O0JeCbpBOtmNGh8-4iOjagrDnTqEeiT2tilM1GJGQyEXIjt6mspPpbbRywMA=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Đà Nẵng 3",
+            "name": "Nhà sách Đà Nẵng 3",
+            "address": "409 Phan Châu Trinh, Hòa Cường, Đà Nẵng 550000, Việt Nam",
+            "rating": 3.9,
+            "reviews": 148,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 8:00",
+            "phone": "+84 236 3822 919",
+            "website": "http://danangbook.com/he-thong-nha-sach/",
+            "description": "",
+            "latitude": 16.0553406,
+            "longitude": 108.2189178,
+            "place_id": "ChIJy1Ma3MgZQjERmLh3ProzJ2o",
+            "data_id": "0x314219c8dc1a53cb:0x6a2733ba3e77b898",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeeGotakvNjofGJyHw1bSuRQEKTuLM_Qqb_dY4uqyD75GrzvQHPAPVlwTxB_60dedm98okYi4titf09RXlfauqZ8MzfRqwe5IArilXnrt5VoFjB1luzd2NB0pwkkcQWsUyTnHRv=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+%C4%90%C3%A0+N%E1%BA%B5ng+3%2C+409+Phan+Ch%C3%A2u+Trinh%2C+H%C3%B2a+C%C6%B0%E1%BB%9Dng%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+%C4%90%C3%A0+N%E1%BA%B5ng+3%2C+409+Phan+Ch%C3%A2u+Trinh%2C+H%C3%B2a+C%C6%B0%E1%BB%9Dng%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Phương Nam",
+            "name": "Nhà sách Phương Nam",
+            "address": "153 Phan Châu Trinh, Hải Châu, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.4,
+            "reviews": 792,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 7:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 7:00",
+            "phone": "+84 906 414 566",
+            "website": "https://nhasachphuongnam.com/",
+            "description": "",
+            "latitude": 16.0645,
+            "longitude": 108.220079,
+            "place_id": "ChIJybANfzMYQjERAaIvEG6ktAs",
+            "data_id": "0x314218337f0db0c9:0xbb4a46e102fa201",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLccgRQjiWBHLNcbwIwWUd25OivL4vLIYJG3qAJZcVP47LKiwn7nuwuBuLKJbUGVffjM3HohyjRXyiiO6an5Qv09BplFQcc6RygfuQ83FF-owyUNkt_TZJpstlzcu1vhigfGAdk=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Phương",
+            "name": "Nhà sách Phương",
+            "address": "4 Lý Thái Tổ, Thanh Khê, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.0,
+            "reviews": 341,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "hours": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "phone": "+84 236 3823 421",
+            "website": "",
+            "description": "",
+            "latitude": 16.066589099999998,
+            "longitude": 108.21010109999999,
+            "place_id": "ChIJj-hEFksYQjERZemHW-CXLcI",
+            "data_id": "0x3142184b1644e88f:0xc22d97e05b87e965",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdalpgsQfcrnp2ee7RblsiXyDOT5yQKHI9kNoDPxHcddGzlUnQ9DIqCnCls2PQEg6SSfOeoZZ1F2AETIUxiRD1QrQresChI32LJVocTadO2cJLRhL16U4Rr2MJmSQOs4LqVjvg=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng%2C+4+L%C3%BD+Th%C3%A1i+T%E1%BB%95%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng%2C+4+L%C3%BD+Th%C3%A1i+T%E1%BB%95%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Phương Nam Vincom Đà Nẵng",
+            "name": "Nhà Sách Phương Nam Vincom Đà Nẵng",
+            "address": "Vincom Plaza, 910A Ng. Quyền, An Hải, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.3,
+            "reviews": 177,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 10:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 10:00",
+            "phone": "+84 905 463 755",
+            "website": "",
+            "description": "",
+            "latitude": 16.0712737,
+            "longitude": 108.23044809999999,
+            "place_id": "ChIJR4455y4YQjERFJTdIZ89dds",
+            "data_id": "0x3142182ee7398e47:0xdb753d9f21dd9414",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfB1IEXiwCJ2AxwBSHXIbStIvQ6LOuGRJStsRFE_HjHvhY0eajnazcMkFsQpoXvOvHXbhZ08fLwKCC3zFzhfvnHSs2O9Rp4K8uIda2EAbSzoEc2gYCHfitsADxM89lTYSHIbH8YCQ=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam+Vincom+%C4%90%C3%A0+N%E1%BA%B5ng%2C+Vincom+Plaza%2C+910A+Ng.+Quy%E1%BB%81n%2C+An+H%E1%BA%A3i%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam+Vincom+%C4%90%C3%A0+N%E1%BA%B5ng%2C+Vincom+Plaza%2C+910A+Ng.+Quy%E1%BB%81n%2C+An+H%E1%BA%A3i%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Hòa Khánh",
+            "name": "Nhà sách Hòa Khánh",
+            "address": "812 Tôn Đức Thắng, Hòa Khánh, Đà Nẵng 550000, Việt Nam",
+            "rating": 3.9,
+            "reviews": 254,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "hours": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "phone": "+84 236 2210 619",
+            "website": "",
+            "description": "",
+            "latitude": 16.0686094,
+            "longitude": 108.1520104,
+            "place_id": "ChIJx-SgzCkZQjERCaDEqdhDlRQ",
+            "data_id": "0x31421929cca0e4c7:0x149543d8a9c4a009",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2pNLtXYZ5Do-x1p1JZgouop2iI65f0oL6UU1zTEmJWeUzVYBMd9X62HSPbiQuGTASFI9RsDjJXOUY9rfqJnIIlmol-1vDbFkOGimra6kf2paNaZyIjS41zSpxHdvH6x_7qjA8sw=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+H%C3%B2a+Kh%C3%A1nh%2C+812+T%C3%B4n+%C4%90%E1%BB%A9c+Th%E1%BA%AFng%2C+H%C3%B2a+Kh%C3%A1nh%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+H%C3%B2a+Kh%C3%A1nh%2C+812+T%C3%B4n+%C4%90%E1%BB%A9c+Th%E1%BA%AFng%2C+H%C3%B2a+Kh%C3%A1nh%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Cẩm Lệ",
+            "name": "Nhà sách Cẩm Lệ",
+            "address": "42 Ông Ích Đường, Cẩm Lệ, Đà Nẵng 550000, Việt Nam",
+            "rating": 3.7,
+            "reviews": 431,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "hours": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "phone": "+84 352 184 306",
+            "website": "",
+            "description": "",
+            "latitude": 16.0167154,
+            "longitude": 108.2046045,
+            "place_id": "ChIJJ2AiWiYaQjER_-uzUA2Er7c",
+            "data_id": "0x31421a265a226027:0xb7af840d50b3ebff",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnIEmr4yU3jhrc9oXWJhNf8QRXr5c0mPy9_ECSotFTErnnL4KHh4SVEvHUbAfg3o9b9szLV7nAcsXEEGyFvXhvFvU3fLb9bgsvM7sEjPXk311hvaVs7At1QZvCZz3EspdmRKnA=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+C%E1%BA%A9m+L%E1%BB%87%2C+42+%C3%94ng+%C3%8Dch+%C4%90%C6%B0%E1%BB%9Dng%2C+C%E1%BA%A9m+L%E1%BB%87%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+C%E1%BA%A9m+L%E1%BB%87%2C+42+%C3%94ng+%C3%8Dch+%C4%90%C6%B0%E1%BB%9Dng%2C+C%E1%BA%A9m+L%E1%BB%87%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà Sách Quốc Thắng",
+            "name": "Nhà Sách Quốc Thắng",
+            "address": "117 Phạm Văn Bạch, P, Hòa Cường, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.9,
+            "reviews": 93,
+            "type": "Hiệu sách",
+            "types": [
+              "Hiệu sách",
+              "Cửa hàng lưu niệm",
+              "Cửa hàng văn phòng phẩm",
+              "Cửa hàng đồ chơi"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 6:00",
+            "hours": "Đã đóng cửa · Mở cửa lúc 6:00",
+            "phone": "+84 905 047 036",
+            "website": "",
+            "description": "",
+            "latitude": 16.0318954,
+            "longitude": 108.2248541,
+            "place_id": "ChIJvd26L-kZQjERCxU6x4zhQJY",
+            "data_id": "0x314219e92fbaddbd:0x9640e18cc73a150b",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN2B2Grah7erBEZ9RbE_iXabtSclt9pOX3-CT9xUavTphJTEThek-1nuvgd6fet7iMF64-MD4POpV49IoNJtW-1qEGeZWfuaj4HBmqPlcN_yAannvfxs9zSvHODGLOAPEzx5DYRA=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+Qu%E1%BB%91c+Th%E1%BA%AFng%2C+117+Ph%E1%BA%A1m+V%C4%83n+B%E1%BA%A1ch%2C+P%2C+H%C3%B2a+C%C6%B0%E1%BB%9Dng%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+Qu%E1%BB%91c+Th%E1%BA%AFng%2C+117+Ph%E1%BA%A1m+V%C4%83n+B%E1%BA%A1ch%2C+P%2C+H%C3%B2a+C%C6%B0%E1%BB%9Dng%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          },
+          {
+            "title": "Nhà sách Kim Đồng",
+            "name": "Nhà sách Kim Đồng",
+            "address": "262 Hoàng Diệu, Hải Châu, Đà Nẵng 550000, Việt Nam",
+            "rating": 4.6,
+            "reviews": 140,
+            "type": "Cửa hàng sách trẻ em",
+            "types": [
+              "Cửa hàng sách trẻ em"
+            ],
+            "open_state": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "hours": "Đã đóng cửa · Mở cửa lúc 7:30",
+            "phone": "+84 236 3812 336",
+            "website": "http://nxbkimdong.com.vn/",
+            "description": "",
+            "latitude": 16.0593968,
+            "longitude": 108.2169826,
+            "place_id": "ChIJyxCcizMYQjERgw5F2RfN9Eo",
+            "data_id": "0x314218338b9c10cb:0x4af4cd17d9450e83",
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNl3ZZ0uFHX8IZm1v99-TR-1bfxYw3TTX_X0VDNhSku0xlQAZ_fLjb60k2tfs0vXr20GA-Zoe4ZVfkyARd_Et_p6VPfZj2B9ROi80OgBXCwaRcYOSAFmrdJosGsiI58Ui9m7yRdA=w1000-h1000-c-n",
+            "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Kim+%C4%90%E1%BB%93ng%2C+262+Ho%C3%A0ng+Di%E1%BB%87u%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+            "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Kim+%C4%90%E1%BB%93ng%2C+262+Ho%C3%A0ng+Di%E1%BB%87u%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+          }
+        ],
+        "url": "https://www.google.com/maps/search/nh%C3%A0+s%C3%A1ch+t%E1%BA%A1i+%E1%BB%9F+%C4%91%C3%A0+n%E1%BA%B5ng",
+        "kind": "bookstore",
+        "location": "ở đà nẵng"
+      }
+    }
+  ]
+}

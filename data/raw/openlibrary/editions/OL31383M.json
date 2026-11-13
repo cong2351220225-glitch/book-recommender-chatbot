@@ -1,0 +1,91 @@
+{
+  "publishers": [
+    "Alyson Books"
+  ],
+  "number_of_pages": 122,
+  "ia_box_id": [
+    "IA177901"
+  ],
+  "isbn_10": [
+    "1555834930"
+  ],
+  "subject_place": [
+    "New Zealand"
+  ],
+  "covers": [
+    12369192
+  ],
+  "ia_loaded_id": [
+    "bluelawn00tayl"
+  ],
+  "lc_classifications": [
+    "PZ7.T21875 Bl 1999"
+  ],
+  "key": "/books/OL31383M",
+  "authors": [
+    {
+      "key": "/authors/OL19486A"
+    }
+  ],
+  "ocaid": "bluelawn00tayl",
+  "publish_places": [
+    "Los Angeles, Calif"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "A fifteen-year-old boy acknowledges his attraction to an older rugby teammate, as he also begins to break out of the preconceived notions his family and others have about him."
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "122 p. ;",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part28.dat:957604:844",
+    "ia:bluelawn00tayl",
+    "marc:marc_loc_2016/BooksAll.2016.part27.utf8:221969268:844"
+  ],
+  "title": "The blue lawn",
+  "dewey_decimal_class": [
+    "[Fic]"
+  ],
+  "identifiers": {
+    "librarything": [
+      "385770"
+    ],
+    "goodreads": [
+      "1322951"
+    ]
+  },
+  "edition_name": "1st Alyson ed.",
+  "lccn": [
+    "99011761"
+  ],
+  "subjects": [
+    "Homosexuality -- Fiction",
+    "Coming of age -- Fiction",
+    "New Zealand -- Fiction"
+  ],
+  "publish_date": "1999",
+  "publish_country": "cau",
+  "by_statement": "by William Taylor.",
+  "works": [
+    {
+      "key": "/works/OL51091W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-11-13T10:41:36.515069"
+  }
+}

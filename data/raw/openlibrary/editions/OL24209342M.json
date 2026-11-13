@@ -1,0 +1,93 @@
+{
+  "publishers": [
+    "Bantam Skylark"
+  ],
+  "ia_box_id": [
+    "IA107818"
+  ],
+  "series": [
+    "Choose your own adventure -- 7"
+  ],
+  "pagination": "52 p. :",
+  "covers": [
+    6508871
+  ],
+  "key": "/books/OL24209342M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "publish_places": [
+    "Toronto",
+    "London"
+  ],
+  "contributions": [
+    "Tomei, Lorna"
+  ],
+  "genres": [
+    "Juvenile fiction."
+  ],
+  "source_records": [
+    "ia:helpyoureshrinki00pack",
+    "promise:bwb_daily_pallets_2022-08-29",
+    "promise:bwb_daily_pallets_2021-06-28",
+    "promise:bwb_daily_pallets_2021-05-14",
+    "promise:bwb_daily_pallets_2024-01-catchup:W8-ALY-625"
+  ],
+  "title": "Help! You're shrinking",
+  "number_of_pages": 52,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Plot-your-own stories -- Juvenile fiction."
+  ],
+  "publish_date": "1983",
+  "publish_country": "enk",
+  "by_statement": "Edward Packard ; illustrated by Lorna Tomei",
+  "works": [
+    {
+      "key": "/works/OL30092W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "ocaid": "helpyoureshrinki00pack",
+  "isbn_10": [
+    "0553151959"
+  ],
+  "isbn_13": [
+    "9780553151954"
+  ],
+  "oclc_numbers": [
+    "12475303"
+  ],
+  "classifications": {},
+  "dewey_decimal_class": [
+    "813/.54"
+  ],
+  "lc_classifications": [
+    "PZ7.P1245 He 1983"
+  ],
+  "local_id": [
+    "urn:bwbsku:O8-CVQ-045",
+    "urn:bwbsku:W6-AHD-565",
+    "urn:bwbsku:O7-AOW-129",
+    "urn:bwbsku:W8-ALY-625"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2010-05-05T09:47:37.021993"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-02-07T03:11:26.765193"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "A Thinking Reed",
+  "covers": [
+    4859378
+  ],
+  "key": "/works/OL816057W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL68747A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Biography",
+    "Politicians",
+    "Australian Labor Party"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "The extraordinary life of Barry Jones.\n\n\"From Quiz Kid to Australian Minister for Science, from frustrated school teacher to National President of the ALP, from the suburbs of Melbourne to UNESCO in Paris, Barry Jones has had a prodigious public life. Barry Jones first came to public prominence as a Pick-a-Box quiz champion. Since then he has embraced a myrid of passions and causes. A Thinking Reed spans his remarkable life from a lonely childhood in Melbourne of the 1930s and 1940s to the fight he led against the death penalty and his crusade to make science and the future prominent issues on the political agenda. He has worked tirelessly on both a global and local scale to rethink education, to improve and preserve our heritage, to revive the nation's film industry and to build a better Australia. Almost unique among politicians, Barry Jones is held in enormous public affection. And while he reveals many insights into the political process - the problems of office and the atrophy of Opposition - he concentrates above all on the life of the mind; a mind with deep, passionate and witty insights into history, philosophy, music and literature. A Thinking Reed is a generous gift from an extraordinary Australian.\"--Backcover."
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T04:46:50.760843"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-29T22:17:45.576962"
+  }
+}

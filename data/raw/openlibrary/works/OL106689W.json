@@ -1,0 +1,33 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-02-28T05:40:13.997892"
+  },
+  "title": "A garden of miracles",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T21:25:07.728178"
+  },
+  "subjects": [
+    "Herbal teas",
+    "Herbs",
+    "Therapeutic use",
+    "Herb gardening"
+  ],
+  "latest_revision": 4,
+  "key": "/works/OL106689W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL20334A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

@@ -1,0 +1,56 @@
+{
+  "first_publish_date": "1908",
+  "title": "The Louisa Alcott Reader",
+  "covers": [
+    1802972
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+  },
+  "lc_classifications": [
+    "PZ7.A335 Lo"
+  ],
+  "key": "/works/OL30039W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Boys",
+    "Juvenile fiction",
+    "Girls",
+    "Christmas stories",
+    "Conduct of life",
+    "Readers (Elementary)",
+    "Children's stories, American"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-12T13:39:01.678078"
+  }
+}

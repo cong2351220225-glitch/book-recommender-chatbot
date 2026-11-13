@@ -1,0 +1,55 @@
+{
+  "links": {
+    "self": "/works/OL3189736W/editions.json",
+    "work": "/works/OL3189736W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Tip. de Poch y Creixell"
+      ],
+      "source_records": [
+        "ia:galerialiterari00escogoog"
+      ],
+      "title": "Galeria literaria malagueña: Apuntes para un Indice biográfico bibliográfico ...",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-07-15T20:11:34.398511"
+      },
+      "covers": [
+        6156667
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-13T15:28:37.416666"
+      },
+      "publish_date": "1898",
+      "key": "/books/OL23438501M",
+      "authors": [
+        {
+          "key": "/authors/OL512510A"
+        }
+      ],
+      "ocaid": "galerialiterari00escogoog",
+      "latest_revision": 3,
+      "works": [
+        {
+          "key": "/works/OL3189736W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "67890686"
+      ],
+      "revision": 3
+    }
+  ]
+}

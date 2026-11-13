@@ -1,0 +1,57 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "1999",
+  "publish_country": "fr",
+  "languages": [
+    {
+      "key": "/languages/fre"
+    }
+  ],
+  "title": "D'Aléxis Léger à Saint-John Perse, ou, Decouverte de Saint-John Perse",
+  "by_statement": "Edmond Dupland",
+  "authors": [
+    {
+      "key": "/authors/OL419364A"
+    }
+  ],
+  "oclc_numbers": [
+    "45456993"
+  ],
+  "other_titles": [
+    "Decouverte de Saint-John Perse"
+  ],
+  "subject_people": [
+    "Saint-John Perse (1887-1975)"
+  ],
+  "publishers": [
+    "publisher not identified"
+  ],
+  "publish_places": [
+    "France?]"
+  ],
+  "pagination": "257, xv pages",
+  "number_of_pages": 257,
+  "source_records": [
+    "marc:marc_columbia/Columbia-extract-20221130-006.mrc:30561125:875",
+    "marc:harvard_bibliographic_metadata/20220215_041.bib.mrc:65367094:1217"
+  ],
+  "full_title": "D'Aléxis Léger à Saint-John Perse, ou, Decouverte de Saint-John Perse",
+  "works": [
+    {
+      "key": "/works/OL2816661W"
+    }
+  ],
+  "key": "/books/OL52272611M",
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-07-09T09:03:16.358263"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-17T10:28:41.398248"
+  }
+}

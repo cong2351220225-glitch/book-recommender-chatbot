@@ -1,0 +1,2852 @@
+{
+  "links": {
+    "self": "/works/OL30067W/editions.json",
+    "work": "/works/OL30067W",
+    "next": "/works/OL30067W/editions.json?offset=50"
+  },
+  "size": 81,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709669932"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709669932"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.164",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL49123009M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T09:53:17.879407"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783847215585"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "112",
+      "publish_date": "2012",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783847215585"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.136",
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48696241M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T09:38:29.601058"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798743497003"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "76",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798743497003"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.136",
+      "subtitle": "Volume 1",
+      "full_title": "Aunt Jo's Scrap Bag Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48425728M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:35:15.753254"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798676260415"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798676260415"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.205",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48421194M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:21:32.428023"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342161"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342161"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Fiction, general"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 1",
+      "subtitle": "My Boys",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48388947M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T19:24:03.091628"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342154"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342154"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Fiction, general"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 1",
+      "subtitle": "My Boys",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 1 My Boys",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48410486M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:49:30.690757"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781628342178"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Full Well Ventures"
+      ],
+      "source_records": [
+        "bwb:9781628342178"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)",
+        "Fiction, general"
+      ],
+      "title": "Aunt Jo's Scrap-Bag Volume 1",
+      "subtitle": "My Boys",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 1 My Boys",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48420900M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:20:45.353664"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798566704999"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "108",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798566704999"
+      ],
+      "title": "My Boys, Tilly's Christmas and Other Stories",
+      "weight": "0.173",
+      "subtitle": "Aunt Jo's Scrap-Bag, Vol. I",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48372596M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:02:38.319276"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798747120310"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "151",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798747120310"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.223",
+      "subtitle": "Volume 5",
+      "full_title": "Aunt Jo's Scrap Bag Volume 5",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48372324M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:01:43.900983"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798743496952"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "74",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798743496952"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.195",
+      "subtitle": "Volume 1",
+      "full_title": "Aunt Jo's Scrap Bag Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48372676M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:02:52.066476"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681455813"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "182",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681455813"
+      ],
+      "title": "Aunt Jo's Scrap Bag, Volume 1",
+      "weight": "0.332",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48288688M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T13:15:47.495421"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709889385"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709889385"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.323",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL48235011M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T10:24:43.737333"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607222499"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "118",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607222499"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.232",
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL46812877M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T19:39:54.475675"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781018424637"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "234",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781018424637"
+      ],
+      "title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "weight": "0.332",
+      "full_title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL46364200M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T23:57:15.353883"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781018419732"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "234",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781018419732"
+      ],
+      "title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "weight": "0.505",
+      "full_title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL46410812M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-18T02:36:04.389169"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798461495473"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798461495473"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.205",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL42591597M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T01:54:21.034463"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798613139187"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "100",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798613139187"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.205",
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL42193434M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T16:43:27.840920"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798611923481"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "100",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611923481"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.205",
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL41882303M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T13:50:40.509892"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781687879417"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781687879417"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.159",
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL41553886M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T11:10:18.370882"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781092211017"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "100",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781092211017"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.205",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL41303576M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T18:08:23.002312"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798431288678"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "59",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798431288678"
+      ],
+      "title": "Aunt Jo's Scrap Bag : Volume 1",
+      "weight": "0.168",
+      "subtitle": "Must Read Classics",
+      "full_title": "Aunt Jo's Scrap Bag : Volume 1 Must Read Classics",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39701092M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-18T23:39:02.288645"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798838408631"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "73",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798838408631"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.164",
+      "subtitle": "Volume 5",
+      "full_title": "Aunt Jo's Scrap Bag Volume 5",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39416823M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-18T21:00:00.068375"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798838408600"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "81",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798838408600"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.173",
+      "subtitle": "Volume 3",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 3",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39431475M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-18T23:42:24.754646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798838408648"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "95",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798838408648"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.195",
+      "subtitle": "Volume 6",
+      "full_title": "Aunt Jo's Scrap Bag Volume 6",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39462285M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-19T05:31:20.660697"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798846009653"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "131",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798846009653"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "weight": "0.227",
+      "subtitle": "Volume 4",
+      "full_title": "Aunt Jo's Scrap-Bag Volume 4",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39691672M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-18T22:15:11.676217"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798846008823"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "121",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798846008823"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.214",
+      "subtitle": "Volume 2",
+      "full_title": "Aunt Jo's Scrap Bag Volume 2",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39708632M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-19T01:08:25.114972"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798840561720"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "83",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798840561720"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.177",
+      "subtitle": "Volume 1",
+      "full_title": "Aunt Jo's Scrap Bag Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39762881M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-19T10:14:02.304963"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9780344071379"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "234",
+      "publish_date": "2018",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9780344071379"
+      ],
+      "title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "weight": "0.505",
+      "full_title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL39038933M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-07-20T20:45:42.756293"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798647630421"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798647630421"
+      ],
+      "title": "Aunt Jo's Scrap Bag : Volume 1",
+      "weight": "0.205",
+      "subtitle": "Original",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL38164060M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-27T07:18:32.804860"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798766529149"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "105",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798766529149"
+      ],
+      "title": "Aunt Jo's Scrap Bag (Annotated)",
+      "weight": "0.214",
+      "full_title": "Aunt Jo's Scrap Bag (Annotated)",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL36879463M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T18:27:42.265405"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798544002949"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "88",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798544002949"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.150",
+      "subtitle": "Volume 1",
+      "full_title": "Aunt Jo's Scrap Bag Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL36562839M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-01T04:18:33.140754"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798589403886"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "102",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798589403886"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.323",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL36028299M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-27T22:03:05.169970"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Aunt Jo's Scrap-Bag; Volume 1",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Oct 23, 2018",
+      "source_records": [
+        "amazon:0344071367"
+      ],
+      "number_of_pages": 234,
+      "publishers": [
+        "Franklin Classics Trade Press"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        11457297
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL32825242M",
+      "identifiers": {},
+      "isbn_10": [
+        "0344071367"
+      ],
+      "isbn_13": [
+        "9780344071362"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-19T13:49:34.608101"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:44:38.717827"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Aunt Jo's Scrap-bag",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Apr 09, 2009",
+      "source_records": [
+        "amazon:1103906275"
+      ],
+      "number_of_pages": 238,
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Aunt Jo's Scrap-bag An Old-Fashioned Thanksgiving, etc.",
+      "subtitle": "An Old-Fashioned Thanksgiving, etc.",
+      "notes": "Source title: Aunt Jo's Scrap-bag: An Old-Fashioned Thanksgiving, etc.",
+      "covers": [
+        10701304
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL32033820M",
+      "identifiers": {},
+      "isbn_10": [
+        "1103906275"
+      ],
+      "isbn_13": [
+        "9781103906277"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-12T10:35:43.623639"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Aunt Jo’s Scrap-bag",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Aug 03, 2011",
+      "source_records": [
+        "amazon:146375213X",
+        "bwb:9781463752132"
+      ],
+      "number_of_pages": 96,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "146375213X"
+      ],
+      "isbn_13": [
+        "9781463752132"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        10701302
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL32033818M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-12T10:35:33.538727"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-18T15:16:31.263501"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633557017"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 130,
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633557017"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34033304M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T18:57:29.166845"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633557000"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 105,
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633557000"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34033269M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T18:57:03.126763"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633556997"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 113,
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633556997"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "full_title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34030061M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T18:07:19.436090"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781633556980"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 108,
+      "publish_date": "2014",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781633556980"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34010754M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T13:38:45.191796"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721521096"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 77,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721521096"
+      ],
+      "title": "Aunt Jo's Scrap Bag",
+      "weight": "0.209",
+      "subtitle": "Volume 1",
+      "full_title": "Aunt Jo's Scrap Bag Volume 1",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34241563M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T13:33:09.445033"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Aunt Jo'S Scrap-Bag",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jan 11, 2021",
+      "source_records": [
+        "amazon:9354360718"
+      ],
+      "number_of_pages": 224,
+      "publishers": [
+        "Alpha Edition"
+      ],
+      "isbn_10": [
+        "9354360718"
+      ],
+      "isbn_13": [
+        "9789354360718"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Aunt Jo'S Scrap-Bag",
+      "covers": [
+        12041093
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL34510981M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-05T12:37:28.090341"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1873",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Children's stories",
+        "Families",
+        "Juvenile fiction"
+      ],
+      "title": "Aunt Jo's scrap-bag",
+      "publishers": [
+        "Roberts"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "v.",
+      "source_records": [
+        "ia:auntjosscrapbag00alco_0"
+      ],
+      "full_title": "Aunt Jo's scrap-bag",
+      "covers": [
+        11764908
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "key": "/books/OL33063311M",
+      "identifiers": {},
+      "ocaid": "auntjosscrapbag00alco_0",
+      "oclc_numbers": [
+        "464773618"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "PS 1017 A92 1873"
+      ],
+      "subtitle": "My boys, etc.",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-23T23:57:21.864061"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:31:50.745185"
+      }
+    },
+    {
+      "publishers": [
+        "Blurb"
+      ],
+      "source_records": [
+        "amazon:1388266229",
+        "bwb:9781388266226"
+      ],
+      "title": "Aunt Jo's Scrap-Bag",
+      "number_of_pages": 132,
+      "covers": [
+        8675400
+      ],
+      "isbn_13": [
+        "9781388266226"
+      ],
+      "full_title": "Aunt Jo's Scrap-Bag",
+      "isbn_10": [
+        "1388266229"
+      ],
+      "publish_date": "May 22, 2019",
+      "key": "/books/OL27060419M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-04T11:40:27.539801"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-18T16:40:59.380299"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Publisher's advertisements precede and follow text.\n\nSpecial Collections Copy: a bequest of Robert B. Sinclair.\n\nInscribed by Alcott on second flyleaf: \"Julia Lippmann, from her friend L. M. Alcott, Dec. 1879.\""
+      },
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "my girls, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1878",
+      "other_titles": [
+        "My girls, etc."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "My girls",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Lost in a London fog",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The boys' joke, and who got the best of it",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Roses and forget-me-nots",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Old Major",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the girls did",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little neighbors",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Marjorie's three gifts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Patty's place",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The autobiography of an omnibus",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Red tulips",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A happy birthday.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 4"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "John Wilson and Son."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "229, [2] p., [2] leaves of plates :",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0191.out:7208243:1727"
+      ],
+      "edition_name": "1st ed.",
+      "subjects": [
+        "Children's stories"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL15591392M",
+      "number_of_pages": 229,
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-20T16:35:50.524193"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T07:09:47.467502"
+      }
+    },
+    {
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "Jimmy's Cruise in the Pinafore, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1885",
+      "other_titles": [
+        "Jimmy's cruise in the pinafore, etc.",
+        "Old-fashioned Thanksgiving, etc."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 5. Jimmy's cruise in the pinafore, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v. 6. An old-fashioned Thanksgiving, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5898554
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "v. :",
+      "source_records": [
+        "ia:auntjosscrapbag05alco",
+        "ia:auntjosscrapbag06alco",
+        "marc:marc_columbia/Columbia-extract-20221130-027.mrc:30349728:1051"
+      ],
+      "subjects": [
+        "Short stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "auntjosscrapbag05alco",
+      "oclc_numbers": [
+        "317401234"
+      ],
+      "key": "/books/OL7038068M",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T06:16:22.545133"
+      }
+    },
+    {
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "My boys, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1872",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "(from t.p.) Vol. 1. My boys, etc.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "v. 2. Shawl-straps",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "v. 3. Cupid and Chow-Chow, etc.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "v. 4. My girls, etc.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "v. 5. Jimmy's cruise in the Pinafore, etc.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "v. 6. An old-fashioned Thanksgiving, etc.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5610177
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "6 v. :",
+      "source_records": [
+        "ia:auntjosscrapbag00alcoiala"
+      ],
+      "subjects": [
+        "Children's stories"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ...",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "auntjosscrapbag00alcoiala",
+      "lccn": [
+        "00006996"
+      ],
+      "oclc_numbers": [
+        "642519"
+      ],
+      "lc_classifications": [
+        "PZ7.A335 A",
+        "PS1017 .A867"
+      ],
+      "key": "/books/OL7089312M",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-25T09:24:10.845068"
+      }
+    },
+    {
+      "publishers": [
+        "Robert Brothers"
+      ],
+      "pagination": "3 p. l., [v]-vi p., 1 l., 1-226 p., 4 l. :",
+      "subtitle": "shawl-straps",
+      "source_records": [
+        "marc:bpl_marc/bpl113.mrc:29279237:688"
+      ],
+      "title": "Aunt Jo's scrap-bag",
+      "publish_date": "1872",
+      "publish_country": "mau",
+      "key": "/books/OL13441689M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "by_statement": "by Louisa M. Alcott.",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "BPL1SP"
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "lc_classifications": [
+        "PZ7.A335 Au 1873x"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-05-29T16:44:35.752844"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:32:36.951782"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Two pages of publisher's advertisements before text, two following.\n\nBound in red cloth, stamped in gold on spine.\n\nKing Collection copy signed on title page, \"Julia N. H. Brock, from her father.\""
+      },
+      "title": "Aunt Jo's Scrap-bag",
+      "subtitle": "My girls, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1889",
+      "other_titles": [
+        "My girls, etc."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "My girls",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Lost in a London fog",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The boys' joke, and who got the best of it",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Roses and forget-me-nots",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Old Major",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the girls did",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little neighbors",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Marjorie's three gifts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Patty's place",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The autobiography of an omnibus",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Red tulips",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A happy birthday.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 4"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "John Wilson and Son."
+      ],
+      "pagination": "[ii], 229, [3] p., [2] unnumbered plates ;",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0192.out:248992:1550"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL15594665M",
+      "number_of_pages": 229,
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-20T16:51:59.710515"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T01:27:00.020550"
+      }
+    },
+    {
+      "title": "Aunt Jo's scrap-bag.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1872",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "v.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.1. My boys, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.2. Shawlstraps.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.3. Cupid and Chow-chow, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.4. My girls, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "v.5. Jimmy's cruise in the Pinafore, etc.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:699097440:704"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "mau",
+      "publish_places": [
+        "Boston"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL16614749M",
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-25T04:55:30.967921"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T03:30:49.388779"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Signed on title page, \"Julia N. H. Brock, from her father.\"\n\nTwo pages of publisher's advertisements follow text.\n\nBound in red cloth, stamped in gold on spine."
+      },
+      "title": "Aunt Jo's scrap-bag",
+      "subtitle": "My boys, etc.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1889",
+      "other_titles": [
+        "My boys, etc."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "My boys",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Tessa's surprises",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Buzz",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The children's joke",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Dandelion",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Madam Cluck, and her family",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A curious call",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Tilly's Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My little gentlemen",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Back windows",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Little Marie of Lehon",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My May-Day among curious birds and beasts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Our little newsboy",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Patty's patchwork.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Aunt Jo's scrap-bag -- v. 1"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)",
+        "John Wilson and Son."
+      ],
+      "pagination": "[vi], 215, [3]p., [2] leaves of plates,",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0192.out:207237:1617"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL17205431M",
+      "number_of_pages": 215,
+      "works": [
+        {
+          "key": "/works/OL30067W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-27T23:51:18.271070"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T00:36:00.815865"
+      }
+    }
+  ]
+}

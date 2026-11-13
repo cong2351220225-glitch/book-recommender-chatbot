@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL4482761W",
+  "key": "/works/OL20038842W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2019-07-19T17:10:14.898949"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-13T20:52:49.515617"
+  }
+}

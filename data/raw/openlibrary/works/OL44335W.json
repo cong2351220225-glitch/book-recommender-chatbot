@@ -1,0 +1,47 @@
+{
+  "subtitle": "with its mystic cults, symbolism and mythology, and in its relation to Indian Buddhism",
+  "title": "The Buddhism of Tibet, or Lamaism",
+  "covers": [
+    6250064
+  ],
+  "subject_places": [
+    "China",
+    "Tibet",
+    "Tibet (China)"
+  ],
+  "subjects": [
+    "Buddhism",
+    "Dge-lugs-pa (Sect)",
+    "Religious life and customs",
+    "Religion",
+    "Buddha and Buddhism",
+    "Lamaism"
+  ],
+  "subject_people": [
+    "Gautama Buddha"
+  ],
+  "key": "/works/OL44335W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL12061A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T10:46:12.352495"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-02-20T00:44:35.891665"
+  }
+}

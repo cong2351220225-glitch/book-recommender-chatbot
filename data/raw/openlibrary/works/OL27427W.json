@@ -1,0 +1,49 @@
+{
+  "subtitle": "Chief Justice (Gateway Biographies)",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-28T07:04:35.780319"
+  },
+  "title": "John G. Roberts Jr",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T02:46:28.838662"
+  },
+  "covers": [
+    2655295
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "October 2006",
+  "subject_people": [
+    "John G. Roberts (1955-)"
+  ],
+  "key": "/works/OL27427W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26332A"
+      }
+    }
+  ],
+  "latest_revision": 7,
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Juvenile literature",
+    "Biography",
+    "United States",
+    "Judges",
+    "United States. Supreme Court",
+    "Biography & Autobiography - General",
+    "Children: Grades 3-4",
+    "United states, supreme court",
+    "United states, supreme court, juvenile literature"
+  ],
+  "revision": 7
+}

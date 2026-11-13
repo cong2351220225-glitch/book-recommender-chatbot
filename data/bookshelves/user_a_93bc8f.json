@@ -1,0 +1,16 @@
+{
+  "username": "user_a_93bc8f",
+  "items": {
+    "book_207_favorite_a10fb1": {
+      "id": "book_207_favorite_a10fb1",
+      "book_id": "book_207",
+      "status": "favorite",
+      "progress_page": 0,
+      "total_pages": "0",
+      "rating": 0,
+      "notes": "Ghi chú bí mật của User A",
+      "added_at": "2026-11-02T15:15:48.081786",
+      "updated_at": "2026-11-02T15:15:48.081786"
+    }
+  }
+}

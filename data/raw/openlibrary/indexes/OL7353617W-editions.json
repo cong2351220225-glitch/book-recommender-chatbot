@@ -1,0 +1,47 @@
+{
+  "links": {
+    "self": "/works/OL7353617W/editions.json",
+    "work": "/works/OL7353617W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "RADIO, Ltd"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-29T16:41:43.707096"
+      },
+      "contributions": [
+        "Editor"
+      ],
+      "number_of_pages": 80,
+      "latest_revision": 2,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-12-15T07:54:29.448777"
+      },
+      "publish_date": "1936",
+      "key": "/books/OL22647752M",
+      "authors": [
+        {
+          "key": "/authors/OL2180688A"
+        }
+      ],
+      "title": "The Radio Antenna Handbook",
+      "publish_places": [
+        "Los Angeles, CA"
+      ],
+      "works": [
+        {
+          "key": "/works/OL7353617W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2
+    }
+  ]
+}

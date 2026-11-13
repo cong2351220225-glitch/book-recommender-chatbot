@@ -1,0 +1,59 @@
+{
+  "publishers": [
+    "Pierpont Morgan Library"
+  ],
+  "subtitle": "a letter from Louisa May Alcott on the dealth of Henry David Thoreau ; with an introductory note by John L. Cooley.",
+  "lc_classifications": [
+    "PS1018 A455 1962"
+  ],
+  "latest_revision": 4,
+  "key": "/books/OL21885092M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "contributions": [
+    "Ford, Sophia"
+  ],
+  "pagination": "10 p. :",
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:2762862086:745"
+  ],
+  "title": "A sprig of andromeda",
+  "notes": {
+    "type": "/type/text",
+    "value": "Letter to Sophia Ford."
+  },
+  "number_of_pages": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-11-04T13:36:11.118025"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Thoreau, Henry David, -- 1817-1862"
+  ],
+  "publish_date": "1962",
+  "publish_country": "nyu",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-11-15T21:37:05.506674"
+  },
+  "works": [
+    {
+      "key": "/works/OL30006W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

@@ -1,0 +1,80 @@
+{
+  "publishers": [
+    "Skylark"
+  ],
+  "number_of_pages": 116,
+  "ia_box_id": [
+    "IA106721"
+  ],
+  "series": [
+    "Choose Your Own Adventure #80"
+  ],
+  "covers": [
+    8871757,
+    4672945
+  ],
+  "physical_format": "Paperback",
+  "ia_loaded_id": [
+    "perfectplanet00pack"
+  ],
+  "key": "/books/OL7823872M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "source_records": [
+    "ia:perfectplanet00pack"
+  ],
+  "title": "The Perfect Planet",
+  "identifiers": {
+    "goodreads": [
+      "755001"
+    ],
+    "librarything": [
+      "2215583"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Plot-your-own stories",
+    "Children's 12-Up - Fiction - General",
+    "Children: Grades 4-6",
+    "General",
+    "Non-Classifiable",
+    "Science fiction"
+  ],
+  "publish_date": "May 1, 1988",
+  "works": [
+    {
+      "key": "/works/OL30097W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "ocaid": "perfectplanet00pack",
+  "isbn_10": [
+    "0553272276"
+  ],
+  "isbn_13": [
+    "9780553272277"
+  ],
+  "oclc_numbers": [
+    "59208160"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-02-01T02:38:20.309718"
+  }
+}

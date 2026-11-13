@@ -1,0 +1,96 @@
+{
+  "alternate_names": [
+    "J Steinbeck",
+    "J. Steinbeck",
+    "John Ernst Steinbeck",
+    "John Ernst Steinbeck, Jr.",
+    "John John Steinbeck",
+    "John Steinback",
+    "John Steinbeck George Eliot",
+    "جون شتاينبك"
+  ],
+  "name": "John Steinbeck",
+  "birth_date": "27 February 1902",
+  "photos": [
+    15225730,
+    5721508
+  ],
+  "key": "/authors/OL25788A",
+  "links": [
+    {
+      "title": "Life and Work of John Steinbeck",
+      "url": "https://love-books-review.com/reviews-by-author/john-steinbeck/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "bio": "John Steinbeck was an American writer. He wrote the Pulitzer Prize-winning novel *The Grapes of Wrath* (1939) and the novella *Of Mice and Men* (1937). He wrote a total of 27 books, including 16 novels, six non-fiction books, and five collections of short stories. In 1962, Steinbeck received the Nobel Prize for Literature ([Source][1]).\r\n\r\n[1]:https://en.wikipedia.org/wiki/John_Steinbeck",
+  "personal_name": "John Steinbeck",
+  "remote_ids": {
+    "isni": "0000000121445760",
+    "librarything": "steinbeckjohn",
+    "wikidata": "Q39212",
+    "viaf": "96992551",
+    "amazon": "B000AQ2D1I",
+    "storygraph": "ad532cb9-aea1-4639-8979-5d0bf3adcca1",
+    "goodreads": "585",
+    "bookbrainz": "5783420f-2fd9-48f1-bc42-390b68f77fd1",
+    "musicbrainz": "3306ba20-06ab-4af8-96f2-e8aeb39461ee",
+    "imdb": "nm0825705",
+    "opac_sbn": "CFIV000628",
+    "lc_naf": "n79081460",
+    "gnd": "118617338"
+  },
+  "death_date": "20 December 1968",
+  "source_records": [
+    "bwb:9798745117565",
+    "amazon:1300383003",
+    "bwb:9798740014333",
+    "amazon:2916718567",
+    "amazon:067000278X",
+    "bwb:9798442105957",
+    "bwb:9780241620236",
+    "bwb:9798678536587",
+    "bwb:9798574421673",
+    "promise:bwb_daily_pallets_2022-08-30",
+    "promise:bwb_daily_pallets_2022-07-11",
+    "promise:bwb_daily_pallets_2022-04-20",
+    "promise:bwb_daily_pallets_2022-03-17",
+    "promise:bwb_daily_pallets_2021-08-24",
+    "promise:bwb_daily_pallets_2021-08-13",
+    "promise:bwb_daily_pallets_2021-06-07",
+    "promise:bwb_daily_pallets_2021-08-19",
+    "promise:bwb_daily_pallets_2021-07-13",
+    "promise:bwb_daily_pallets_2021-01-13",
+    "promise:bwb_daily_pallets_2021-01-12",
+    "bwb:9798357058614",
+    "promise:bwb_daily_pallets_2023-01-13:P8-AUB-153",
+    "promise:bwb_daily_pallets_2022-09-07:T2-DJG-354",
+    "promise:bwb_daily_pallets_2022-08-30:O8-CFE-613",
+    "promise:bwb_daily_pallets_2022-08-13:O8-AAA-361",
+    "amazon:9605735687",
+    "promise:bwb_daily_pallets_2023-04-07:T2-FMB-917",
+    "promise:bwb_daily_pallets_2023-02-28:P8-CXH-016",
+    "promise:bwb_daily_pallets_2023-07-13:KS-534-871",
+    "ia:bwb_P8-DAV-400",
+    "ia:bwb_S0-CBS-537",
+    "ia:grapesofwrath030650mbp",
+    "ia:bwb_P9-ASY-990",
+    "ia:bwb_S0-ASZ-383",
+    "promise:bwb_daily_pallets_2024-12-20:KU-359-768"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "latest_revision": 35,
+  "revision": 35,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-31T10:04:06.825739"
+  }
+}

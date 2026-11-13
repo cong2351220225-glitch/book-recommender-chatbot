@@ -1,0 +1,61 @@
+{
+  "title": "Trees and Nonflowering Plants (North American Wildlife Field Guides)",
+  "authors": [
+    {
+      "key": "/authors/OL1714233A"
+    }
+  ],
+  "publish_date": "May 1998",
+  "publishers": [
+    "Reader's Digest"
+  ],
+  "covers": [
+    7351857
+  ],
+  "physical_format": "Hardcover",
+  "subjects": [
+    "Gardening",
+    "Reference",
+    "Trees",
+    "Trees & Forests - General",
+    "Nature",
+    "Nature / Field Guide Books"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9780613999076"
+  ],
+  "isbn_10": [
+    "061399907X"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "North America has the world's tallest trees, the most massive trees, and the oldest trees."
+  },
+  "source_records": [
+    "amazon:061399907X"
+  ],
+  "key": "/books/OL9557444M",
+  "works": [
+    {
+      "key": "/works/OL8501258W"
+    }
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-13T23:02:29.786134"
+  }
+}

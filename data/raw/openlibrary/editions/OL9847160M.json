@@ -1,0 +1,69 @@
+{
+  "publishers": [
+    "Kessinger Publishing, LLC"
+  ],
+  "number_of_pages": 48,
+  "weight": "4 ounces",
+  "covers": [
+    1800582
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T13:28:03.430093"
+  },
+  "latest_revision": 4,
+  "key": "/books/OL9847160M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "subjects": [
+    "Classic fiction",
+    "Juvenile Fiction",
+    "Children's Books/Ages 9-12 Fiction",
+    "Children: Grades 4-6",
+    "Classics",
+    "Juvenile Fiction / Classics"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Marjorie sat on the door-step, shelling peas, quite unconscious what a pretty picture she made, with the roses peeping at her through the lattice work of the porch, the wind playing hide-and-seek in her curly hair, while the sunshine with its silent magic changed her faded gingham to a golden gown, and shimmered on the bright tin pan as if it were a silver shield."
+  },
+  "source_records": [
+    "amazon:1419132717:2-aw:4499767878:167503"
+  ],
+  "title": "Marjorie's Three Gifts",
+  "identifiers": {
+    "librarything": [
+      "1587621"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "isbn_13": [
+    "9781419132711"
+  ],
+  "isbn_10": [
+    "1419132717"
+  ],
+  "publish_date": "June 17, 2004",
+  "works": [
+    {
+      "key": "/works/OL30017W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.8 x 7.2 x 0.2 inches",
+  "revision": 4
+}

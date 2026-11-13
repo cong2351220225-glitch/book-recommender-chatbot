@@ -1,0 +1,20 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "latest_revision": 3,
+  "name": "Alonzo Clark",
+  "key": "/authors/OL2521421A",
+  "personal_name": "Alonzo Clark",
+  "birth_date": "1807",
+  "death_date": "1887",
+  "type": {
+    "key": "/type/author"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-06-07T08:56:02.991007"
+  },
+  "revision": 3
+}

@@ -1,0 +1,18 @@
+{
+  "id": "test_stream_90cfaf79",
+  "title": "Chào bạn, bạn là ai?",
+  "timestamp": "2026-11-02 14:03:34",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào bạn, bạn là ai?",
+      "timestamp": "14:03"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Tôi là trợ lý AI đa năng của thư viện sách điện tử. \n\nTôi có thể hỗ trợ bạn trong nhiều việc như: trò chuyện, giải thích kiến thức, hỗ trợ học tập, viết và chỉnh sửa nội dung, cũng như giải đáp các thắc mắc thông thường. Ngoài ra, nếu bạn cần thông tin về sách, tác giả hay thể loại, tôi cũng rất sẵn lòng hỗ trợ.\n\nHôm nay tôi có thể giúp gì cho bạn?",
+      "timestamp": "14:03",
+      "sources": []
+    }
+  ]
+}

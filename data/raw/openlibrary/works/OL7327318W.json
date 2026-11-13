@@ -1,0 +1,25 @@
+{
+  "title": "Cekuttān ar̲ast̲t̲il",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T20:53:20.165422"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T20:53:20.165422"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL7327318W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL2157425A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

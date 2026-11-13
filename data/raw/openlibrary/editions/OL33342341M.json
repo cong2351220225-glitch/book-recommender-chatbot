@@ -1,0 +1,56 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL34330A"
+    }
+  ],
+  "isbn_13": [
+    "9780689834929"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 26,
+  "publish_date": "2000",
+  "publishers": [
+    "Simon & Schuster Books For Young Readers"
+  ],
+  "source_records": [
+    "bwb:9780689834929",
+    "promise:bwb_daily_pallets_2020-11-19"
+  ],
+  "subjects": [
+    "Children's fiction",
+    "Color, fiction",
+    "Frogs, fiction",
+    "Animals, fiction",
+    "Parties, fiction"
+  ],
+  "title": "Hello, Red Fox",
+  "weight": "0.001",
+  "full_title": "Hello, Red Fox",
+  "works": [
+    {
+      "key": "/works/OL53006W"
+    }
+  ],
+  "key": "/books/OL33342341M",
+  "local_id": [
+    "urn:bwbsku:KO-363-550"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-09-15T14:47:13.907277"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-09T14:22:21.533879"
+  }
+}

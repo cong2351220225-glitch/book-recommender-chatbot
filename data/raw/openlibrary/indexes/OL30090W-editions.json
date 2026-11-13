@@ -1,0 +1,432 @@
+{
+  "links": {
+    "self": "/works/OL30090W/editions.json",
+    "work": "/works/OL30090W"
+  },
+  "size": 6,
+  "entries": [
+    {
+      "publishers": [
+        "Héritage"
+      ],
+      "isbn_10": [
+        "2762543789"
+      ],
+      "series": [
+        "Choisis ta propre aventure -- 3",
+        "Choisis ta propre aventure -- 3."
+      ],
+      "covers": [
+        8332275
+      ],
+      "lc_classifications": [
+        "H47C43"
+      ],
+      "key": "/books/OL26645049M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "ocaid": "isbn_9782762543780",
+      "publish_places": [
+        "Saint-Lambert, Québec"
+      ],
+      "contributions": [
+        "Granger, Paul"
+      ],
+      "isbn_13": [
+        "9782762543780"
+      ],
+      "pagination": "52 p. :",
+      "source_records": [
+        "ia:isbn_9782762543780"
+      ],
+      "title": "Gorga, le monstre de l'espace",
+      "dewey_decimal_class": [
+        "j813/.54"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Titre original: Gorga, the space monster."
+      },
+      "number_of_pages": 52,
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "subjects": [
+        "Romans, nouvelles, etc. pour la jeunesse",
+        "Monstres"
+      ],
+      "publish_date": "1985",
+      "publish_country": "quc",
+      "by_statement": "Edward Packard ; illustrations, Paul Granger ; traduit de l'anglais par Marie-Andrée Clermont",
+      "oclc_numbers": [
+        "319784630"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-01-11T02:17:35.290090"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-25T17:19:22.637062"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "6748004"
+        ]
+      },
+      "title": "Gorga, El Monstruo Espacial (Elige Tu Propia Aventura/Gorga, the Space Monster)",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "March 1986",
+      "publishers": [
+        "Timun Mas"
+      ],
+      "physical_format": "Paperback",
+      "isbn_13": [
+        "9788471768940"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "8471768941"
+      ],
+      "subjects": [
+        "Spanish: Adult Nonfiction"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8471768941"
+      ],
+      "key": "/books/OL13278887M",
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-08T05:53:39.680118"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Skylark"
+      ],
+      "number_of_pages": 52,
+      "series": [
+        "Choose your own adventure -- 5"
+      ],
+      "key": "/books/OL22239527M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Granger, Paul."
+      ],
+      "pagination": "52p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1259682713:758"
+      ],
+      "title": "Gorga, the space monster",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "936787",
+          "2433502"
+        ],
+        "librarything": [
+          "381089"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553050311",
+        "0553153080"
+      ],
+      "publish_date": "1983",
+      "publish_country": "xxk",
+      "by_statement": "Edward Packard ; illustrated by Paul Granger.",
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-09T03:50:01.305982"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-10T18:47:25.953944"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Books"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "936787",
+          "5693622"
+        ],
+        "librarything": [
+          "381089"
+        ]
+      },
+      "description": "The reader is given choices to make which determine the outcome of an adventure with a space monster who arrives in Cape Cod.",
+      "series": [
+        "Choose your own adventure"
+      ],
+      "covers": [
+        9702645
+      ],
+      "key": "/books/OL3491724M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "New York"
+      ],
+      "contributions": [
+        "Granger, Paul, ill."
+      ],
+      "pagination": "52 p. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:212135728:975",
+        "ia:gorgaspacemonste0000pack",
+        "marc:marc_loc_2016/BooksAll.2016.part14.utf8:32000797:975"
+      ],
+      "title": "Gorga, the space monster",
+      "notes": "\"RL 2,007-009\"--T.p. verso.",
+      "number_of_pages": 52,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Monsters -- Fiction",
+        "Plot-your-own stories"
+      ],
+      "publish_date": "1982",
+      "publish_country": "onc",
+      "by_statement": "Edward Packard ; illustrated by Paul Granger.",
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "gorgaspacemonste0000pack",
+      "isbn_10": [
+        "0553050311",
+        "0553151614"
+      ],
+      "lccn": [
+        "82011539"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "[E]"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Go 1982"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-25T19:11:48.726900"
+      }
+    },
+    {
+      "publishers": [
+        "Yearling"
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Monsters",
+        "Children's 9-12 - Fiction - General",
+        "Fiction",
+        "Plot-your-own stories"
+      ],
+      "source_records": [
+        "amazon:0553155075:bx:1235873903:166832",
+        "amazon:0553155075"
+      ],
+      "isbn_10": [
+        "0553155075"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6748005"
+        ]
+      },
+      "isbn_13": [
+        "9780553155075"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "January 1, 1983",
+      "key": "/books/OL7819216M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "title": "Gorga,/space Monster",
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14100614
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-17T17:41:44.938509"
+      }
+    },
+    {
+      "publishers": [
+        "Yearling"
+      ],
+      "identifiers": {
+        "librarything": [
+          "381089"
+        ],
+        "goodreads": [
+          "2433502"
+        ]
+      },
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-29T05:40:25.075359"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL7819063M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Fiction",
+        "Monsters",
+        "Plot-your-own stories",
+        "Children's 9-12 - Fiction - General",
+        "Juvenile Fiction"
+      ],
+      "edition_name": "Reissue edition",
+      "source_records": [
+        "amazon:0553153080:bx:1204590752:168070"
+      ],
+      "title": "Gorga,/space Monster",
+      "number_of_pages": 128,
+      "isbn_13": [
+        "9780553153088"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553153080"
+      ],
+      "publish_date": "January 1, 1983",
+      "oclc_numbers": [
+        "12470219"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30090W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    }
+  ]
+}

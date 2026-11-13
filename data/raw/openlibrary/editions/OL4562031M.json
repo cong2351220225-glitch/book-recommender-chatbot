@@ -1,0 +1,90 @@
+{
+  "publishers": [
+    "Random House",
+    "Random House Books for Young Readers"
+  ],
+  "number_of_pages": 13,
+  "description": {
+    "type": "/type/text",
+    "value": "Drawings and brief text characterize kittens."
+  },
+  "isbn_10": [
+    "0394835905"
+  ],
+  "lc_classifications": [
+    "SF445.7 .P43"
+  ],
+  "key": "/books/OL4562031M",
+  "authors": [
+    {
+      "key": "/authors/OL548486A"
+    }
+  ],
+  "publish_places": [
+    "[New York]"
+  ],
+  "pagination": "[13] p. :",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part10.utf8:122156110:656",
+    "amazon:0394835905",
+    "promise:bwb_daily_pallets_2024-01-12:P9-AXD-820"
+  ],
+  "title": "Kittens",
+  "dewey_decimal_class": [
+    "599/.74428"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Cover title."
+  },
+  "identifiers": {
+    "librarything": [
+      "437943"
+    ],
+    "goodreads": [
+      "4786404"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "77074471"
+  ],
+  "subjects": [
+    "Kittens -- Juvenile literature.",
+    "Cats."
+  ],
+  "publish_date": "1977",
+  "publish_country": "nyu",
+  "by_statement": "Jan Pfloog.",
+  "oclc_numbers": [
+    "3447105"
+  ],
+  "works": [
+    {
+      "key": "/works/OL3369688W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    13870109
+  ],
+  "local_id": [
+    "urn:bwbsku:P9-AXD-820"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-01-14T01:00:55.883093"
+  }
+}

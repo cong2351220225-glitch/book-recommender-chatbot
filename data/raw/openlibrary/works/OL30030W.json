@@ -1,0 +1,39 @@
+{
+  "title": "Transcendental wild oats and Excerpts from the Fruitlands diary",
+  "covers": [
+    9693866
+  ],
+  "first_publish_date": "1975",
+  "key": "/works/OL30030W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.4"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "American fiction (fictional works by one author)",
+    "Diaries"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-09-01T16:07:33.580899"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "personal_name": "Jean Van Leeuwen",
+  "name": "Jean Van Leeuwen",
+  "type": {
+    "key": "/type/author"
+  },
+  "key": "/authors/OL21432A",
+  "alternate_names": [
+    "Jean van Leeuwen"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-11-02T19:06:01.805563"
+  }
+}

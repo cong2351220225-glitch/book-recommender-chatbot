@@ -1,0 +1,69 @@
+{
+  "publishers": [
+    "Mcgraw-Hill"
+  ],
+  "subtitle": "What Is the Golden Horde? (Earth Inspectors, No. 12)",
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-28T18:31:19.303581"
+  },
+  "latest_revision": 6,
+  "key": "/books/OL9250844M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "contributions": [
+    "Barbara Carter (Illustrator)"
+  ],
+  "subjects": [
+    "Fiction",
+    "Plot-your-own stories",
+    "Soviet Union",
+    "Space and time",
+    "Time travel"
+  ],
+  "isbn_13": [
+    "9780070480049"
+  ],
+  "source_records": [
+    "amazon:0070480044:5:2829025558:137926",
+    "amazon:0070480044:o-4:3305943889:137120"
+  ],
+  "title": "Russia",
+  "identifiers": {
+    "librarything": [
+      "491439"
+    ],
+    "goodreads": [
+      "706953"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0070480044"
+  ],
+  "publish_date": "March 1990",
+  "oclc_numbers": [
+    "20057371"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30100W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 6
+}

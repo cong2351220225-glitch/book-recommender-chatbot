@@ -1,0 +1,47 @@
+{
+  "name": "United States",
+  "bio": {
+    "type": "/type/text",
+    "value": "In 1507, German cartographer Martin Waldseemüller produced a world map on which he named the lands of the Western Hemisphere \"America\" after Italian explorer and cartographer Amerigo Vespucci. The former British colonies first used the country's modern name in the Declaration of Independence, the \"unanimous Declaration of the thirteen united States of America\" adopted by the \"Representatives of the united States of America\" on July 4, 1776. The current name was finalized on November 15, 1777, when the Second Continental Congress adopted the Articles of Confederation, which states, \"The Stile of this Confederacy shall be 'The United States of America.'\" The short form the United States is also standard. Other common forms include the U.S., the USA, and America. Colloquial names include the U.S. of A. and the States. Columbia, a once popular name for the United States, was derived from Christopher Columbus. It appears in the name \"District of Columbia\"."
+  },
+  "personal_name": "US GOVERNMENT",
+  "alternate_names": [
+    "USA",
+    "US",
+    "America",
+    "United States.",
+    "United States",
+    "Us Government",
+    "U.S. Government",
+    "US Government",
+    "US GOVERNMENT"
+  ],
+  "photos": [
+    6273774
+  ],
+  "birth_date": "July 4, 1776",
+  "type": {
+    "key": "/type/author"
+  },
+  "entity_type": "org",
+  "remote_ids": {
+    "wikidata": "Q30",
+    "isni": "0000000123315230",
+    "viaf": "130168302",
+    "lc_naf": "n78095330",
+    "project_gutenberg": "1",
+    "opac_sbn": "BVEV001855",
+    "youtube": "UCcS5Ar_-1AWByLfBmJOG8Xg"
+  },
+  "key": "/authors/OL18485A",
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-31T19:06:47.980208"
+  }
+}

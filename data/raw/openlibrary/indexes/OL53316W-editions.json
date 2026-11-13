@@ -1,0 +1,214 @@
+{
+  "links": {
+    "self": "/works/OL53316W/editions.json",
+    "work": "/works/OL53316W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "University of Nebraska Press"
+      ],
+      "subtitle": "American military nurses of World War II",
+      "isbn_10": [
+        "0803276273"
+      ],
+      "subject_place": [
+        "United States.",
+        "United States"
+      ],
+      "covers": [
+        1514287
+      ],
+      "lc_classifications": [
+        "D807.U5 J33 2006",
+        "D807.U5J33 2006"
+      ],
+      "key": "/books/OL3408347M",
+      "authors": [
+        {
+          "key": "/authors/OL34418A"
+        }
+      ],
+      "publish_places": [
+        "Lincoln"
+      ],
+      "subject_time": [
+        "20th century."
+      ],
+      "isbn_13": [
+        "9780803276277"
+      ],
+      "pagination": "p. cm.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:129029500:927",
+        "bwb:9780803276277",
+        "marc:marc_loc_2016/BooksAll.2016.part32.utf8:146322341:1154",
+        "ia:theycalledtheman0000jack_o9y1",
+        "promise:bwb_daily_pallets_2021-06-14",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:76387453:1053",
+        "marc:harvard_bibliographic_metadata/20220215_012.bib.mrc:208245427:3388"
+      ],
+      "title": "They called them angels",
+      "dewey_decimal_class": [
+        "940.54/7573/0922"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index.\nOriginally published: Westport, Conn. : Praeger, 2000."
+      },
+      "identifiers": {
+        "librarything": [
+          "2405467"
+        ],
+        "goodreads": [
+          "1868900"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2005024228"
+      ],
+      "subjects": [
+        "World War, 1939-1945 -- Medical care -- United States",
+        "Nurses -- United States -- History -- 20th century"
+      ],
+      "publish_date": "2006",
+      "publish_country": "nbu",
+      "by_statement": "Kathi Jackson.",
+      "works": [
+        {
+          "key": "/works/OL53316W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "theycalledtheman0000jack_o9y1",
+      "local_id": [
+        "urn:bwbsku:O7-CMP-571"
+      ],
+      "oclc_numbers": [
+        "61448068"
+      ],
+      "number_of_pages": 211,
+      "description": {
+        "type": "/type/text",
+        "value": "\"With the insight and intimacy of firsthand accounts from some of the thousands of army and navy nurses who served both stateside and overseas during World War II, this book tells the stories of the brave women who used any and all resources to save as many lives as possible. Although military nurses could have made more money as civilians, thousands chose to leave the security of home to care for the young men who went off to war. They were not saints but vibrant women whose performance changed both military and civilian nursing. Kathi Jackson's account follows army and navy nurses from the time they joined the military, through their active service, to their lives today\"--Publisher website (February 2008)."
+      },
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-04T18:10:22.108970"
+      }
+    },
+    {
+      "publishers": [
+        "Praeger"
+      ],
+      "number_of_pages": 211,
+      "subtitle": "American military nurses of World War II",
+      "isbn_10": [
+        "0275968995"
+      ],
+      "subject_place": [
+        "United States.",
+        "United States"
+      ],
+      "covers": [
+        155063
+      ],
+      "lc_classifications": [
+        "D807.U5 J33 2000",
+        "D807"
+      ],
+      "key": "/books/OL52460M",
+      "authors": [
+        {
+          "key": "/authors/OL34418A"
+        }
+      ],
+      "ocaid": "theycalledtheman0000jack",
+      "publish_places": [
+        "Westport, Conn"
+      ],
+      "subject_time": [
+        "20th century."
+      ],
+      "pagination": "xx, 211 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:20224893:774",
+        "ia:theycalledtheman0000jack",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:24390410:774",
+        "bwb:9780275968991",
+        "marc:marc_columbia/Columbia-extract-20221130-009.mrc:79690420:1724",
+        "marc:marc_nuls/NULS_PHC_180925.mrc:100808134:1413",
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:142290540:1557"
+      ],
+      "title": "They called them angels",
+      "dewey_decimal_class": [
+        "940.54/7573"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. [183]-206) and index."
+      },
+      "identifiers": {
+        "goodreads": [
+          "3786990"
+        ],
+        "librarything": [
+          "2405467"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99059563"
+      ],
+      "subjects": [
+        "World War, 1939-1945 -- Medical care -- United States",
+        "Nurses -- United States -- History -- 20th century"
+      ],
+      "publish_date": "2000",
+      "publish_country": "ctu",
+      "by_statement": "Kathi Jackson.",
+      "works": [
+        {
+          "key": "/works/OL53316W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "42976837"
+      ],
+      "local_id": [
+        "urn:nuls:31786101253331"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-11T05:55:44.544196"
+      }
+    }
+  ]
+}

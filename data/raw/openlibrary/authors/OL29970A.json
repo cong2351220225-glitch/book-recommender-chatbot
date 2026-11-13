@@ -1,0 +1,27 @@
+{
+  "name": "Jeremy Sumner Wycherley Gibson",
+  "key": "/authors/OL29970A",
+  "alternate_names": [
+    "Jeremy Gibson",
+    "Jeremy S. Gibson",
+    "Jeremy Sumner Wycherle Gibson",
+    "Jeremy Sumner Wycherley Gibson",
+    "J S W. Gibson",
+    "J. S. W. Gibson"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "birth_date": "1934",
+  "personal_name": "Jeremy Sumner Wycherley Gibson",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-08-04T20:59:28.057819"
+  }
+}

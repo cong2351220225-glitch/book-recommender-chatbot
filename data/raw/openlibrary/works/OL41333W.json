@@ -1,0 +1,49 @@
+{
+  "description": "Miss Lazar, the janitor, likes to dance around the school with a mop! She has a secret room down in the basement where she keeps the bad kids! She says cleaning throw–up is fun! Miss Lazar is the weirdest custodian in the history of the world!",
+  "covers": [
+    37023,
+    1315969,
+    12358088
+  ],
+  "key": "/works/OL41333W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28174A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "title": "Miss Lazar is bizarre!",
+  "subjects": [
+    "Fiction",
+    "Humor (Fiction)",
+    "Janitors",
+    "Janitors in fiction",
+    "Juvenile fiction",
+    "Schools",
+    "Schools in fiction",
+    "Short Stories",
+    "Humorous stories",
+    "Children's fiction",
+    "Schools, fiction"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "genres": [
+    "/tags/OL172T"
+  ],
+  "latest_revision": 14,
+  "revision": 14,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T08:15:47.909262"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-04T14:42:43.789203"
+  }
+}

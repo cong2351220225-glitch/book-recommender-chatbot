@@ -1,0 +1,73 @@
+{
+  "title": "Ariana",
+  "covers": [
+    1871459
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The confrontation took place in the sitting room."
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "1998",
+  "key": "/works/OL30080W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "subjects": [
+    "Fiction",
+    "Foreign Students",
+    "French",
+    "Friendship",
+    "HIV-positive persons",
+    "Mormon women",
+    "Mormons",
+    "Mothers and daughters",
+    "Students, Foreign",
+    "United States",
+    "Mormons, fiction",
+    "Friendship, fiction",
+    "Fiction, christian, general",
+    "United states, fiction",
+    "Fiction, religious aspects",
+    "Mothers and daughters, fiction",
+    "Eternity"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "The confrontation took place in the sitting room."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Broken promises, broken dreams, broken hearts ... Ariana Perrault has seen them all in her short lifetime, but now they seem only distant memories. Having climbed the long pathway from sinner to Latter-day Saint, she has felt the arms of a loving Heavenly Father around her, guiding her to a wonderful life with Jean-Marc and their three beautiful children. Her best friend, Paulette, has also repented, embraced the gospel, and started an eternal family of her own. But who could know that one of life's deepest, darkest tragedies is just around the corner?"
+  },
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T08:27:59.149939"
+  }
+}

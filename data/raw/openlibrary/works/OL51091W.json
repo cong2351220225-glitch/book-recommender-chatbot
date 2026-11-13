@@ -1,0 +1,47 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "A fifteen-year-old boy acknowledges his attraction to an older rugby teammate, as he also begins to break out of the preconceived notions his family and others have about him."
+  },
+  "title": "The blue lawn",
+  "covers": [
+    12369192,
+    775532
+  ],
+  "subject_places": [
+    "New Zealand"
+  ],
+  "subjects": [
+    "Coming of age",
+    "Homosexuality",
+    "Fiction",
+    "New zealand, fiction",
+    "Children's fiction",
+    "Homosexuality, fiction",
+    "Child and youth fiction"
+  ],
+  "key": "/works/OL51091W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL19486A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T15:17:11.597389"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-07-17T04:19:04.276580"
+  }
+}

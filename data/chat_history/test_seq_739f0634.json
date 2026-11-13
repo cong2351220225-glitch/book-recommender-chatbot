@@ -1,0 +1,70 @@
+{
+  "id": "test_seq_739f0634",
+  "title": "Thư viện có sách nào về công nghệ không?",
+  "timestamp": "2026-11-03 03:02:22",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thư viện có sách nào về công nghệ không?",
+      "timestamp": "03:02"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm thư viện ở khu vực, thành phố hoặc quận nào? (Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn)",
+      "timestamp": "03:02",
+      "sources": [],
+      "locations": [],
+      "intent": "location_library"
+    },
+    {
+      "role": "user",
+      "content": "Cuốn đầu tiên có tác giả là ai?",
+      "timestamp": "03:02"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "03:02",
+      "sources": [
+        {
+          "document": "Title: Flower Fables\nAuthor: Louisa May Alcott\nGenre: Khoa học viễn tưởng\nPublication year: 1854\nTags: Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: Louisa May Alcott was twenty-one when she published this, her first book. A collection of fairy stories and poems she originally told to Ralph Waldo Emerson's daughter Ellen, Flower Fables is a charming and delightful achievement from the hand that would eventually craft the timeless classic Little Women. Flower Fables is presented here in large print for easier reading by children and adults of any age.",
+          "metadata": {
+            "mood": "nan",
+            "target_audience": "nan",
+            "title": "Flower Fables",
+            "author_id": "ol26680a",
+            "tags": "Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections",
+            "genre": "Khoa học viễn tưởng",
+            "book_id": "book_126",
+            "rating": 0.0,
+            "author": "Louisa May Alcott",
+            "year": 1854,
+            "difficulty": "nan",
+            "featured": false
+          },
+          "distance": 0.2983282804489136
+        },
+        {
+          "document": "Title: Vũ trụ\nAuthor: Carl Sagan\nGenre: Khoa học\nPublication year: 1980\nTags: vũ trụ, không gian, khoa học\nTarget audience: Độc giả ham khám phá\nMood: Muốn thư giãn\nDifficulty: Dễ đọc\nSummary: Một chuyến du hành qua vũ trụ và khoa học.\nDescription: Cuốn sách phổ biến khoa học đưa người đọc khám phá nguồn gốc vũ trụ, sự sống và vị trí của con người trong không gian.",
+          "metadata": {
+            "rating": 4.8,
+            "title": "Vũ trụ",
+            "target_audience": "Độc giả ham khám phá",
+            "difficulty": "Dễ đọc",
+            "tags": "vũ trụ, không gian, khoa học",
+            "author_id": "carl-sagan",
+            "genre": "Khoa học",
+            "featured": true,
+            "mood": "Muốn thư giãn",
+            "year": 1980,
+            "author": "Carl Sagan",
+            "book_id": "book_014"
+          },
+          "distance": 0.3148775100708008
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

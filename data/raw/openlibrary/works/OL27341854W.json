@@ -1,0 +1,51 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Experimentelle und Theoretische Untersuchungen über Die Atmosphärischen Zirkulationen, Den Jet Stream und Die Zyklonalen Störungen",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10232883A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10234241A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10234242A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL811941A"
+      }
+    }
+  ],
+  "key": "/works/OL27341854W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T07:28:12.744204"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-02-26T07:28:12.744204"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "test_cancel_11b6ddd1",
+  "title": "Xin chào, hãy giới thiệu 5 cuốn sách hay",
+  "timestamp": "2026-11-03 21:45:47",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào, hãy giới thiệu 5 cuốn sách hay nhất",
+      "timestamp": "21:45"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Hiện tại thư viện chưa có đủ dữ liệu để giới thiệu 5 cuốn sách (hệ thống hiện chỉ có thông tin của 3 cuốn sách). Dưới đây là 3 cuốn sách có trong thư viện mà bạn có thể tham khảo:\n\n1. **Atomic Habits**\n   - **Tác giả:** James Clear\n   - **Năm xuất bản:** 2018\n   - **Thể loại:** Kỹ năng sống\n   - **Lý do phù hợp:** Cuốn sách dễ đọc, trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu thông qua những thay đổi nhỏ, rất phù hợp cho người muốn bắt đầu thay đổi hoặc đang mất động lực.\n\n2. **Sapiens: Lược sử loài người**\n   - **Tác giả:** Yuval Noah Harari\n   - **Năm xuất bản:** 2011\n   - **Thể loại:** Lịch sử\n   - **Lý do phù hợp:** Cuốn sách mang đến cái nhìn bao quát về hành trình lịch sử nhân loại từ Cách mạng Nhận thức đến hiện đại. Phù hợp cho độc giả ham khám phá và muốn học hỏi chuyên sâu.\n\n3. **Thế giới phẳng**\n   - **Tác giả:** Thomas L. Friedman\n   - **Năm xuất bản:** 2005\n   - **Thể loại:** Kinh tế\n   - **Lý do phù hợp:** Cuốn sách cung cấp góc nhìn chuyên sâu về toàn cầu hóa, sự phát triển của công nghệ và biến đổi trong công việc. Phù hợp cho độc giả quan tâm đến các vấn đề xã hội và muốn mở rộng kiến thức.",
+      "timestamp": "21:45",
+      "sources": [
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "rating": 4.8,
+            "year": 2018,
+            "title": "Atomic Habits",
+            "author_id": "james-clear",
+            "author": "James Clear",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "featured": true,
+            "book_id": "book_001",
+            "genre": "Kỹ năng sống",
+            "tags": "thói quen, năng suất, thay đổi",
+            "mood": "Mất động lực",
+            "difficulty": "Dễ đọc"
+          },
+          "distance": 0.33804142475128174
+        },
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "year": 2011,
+            "genre": "Lịch sử",
+            "difficulty": "Chuyên sâu",
+            "mood": "Muốn học hỏi",
+            "author": "Yuval Noah Harari",
+            "target_audience": "Độc giả ham khám phá",
+            "rating": 4.7,
+            "title": "Sapiens: Lược sử loài người",
+            "featured": true,
+            "tags": "lịch sử, xã hội, nhân loại",
+            "author_id": "yuval-noah-harari",
+            "book_id": "book_004"
+          },
+          "distance": 0.34037959575653076
+        },
+        {
+          "document": "Title: Thế giới phẳng\nAuthor: Thomas L. Friedman\nGenre: Kinh tế\nPublication year: 2005\nTags: toàn cầu hóa, công nghệ, kinh tế\nTarget audience: Độc giả quan tâm xã hội\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Góc nhìn về thế giới kết nối.\nDescription: Dữ liệu mô tả demo về toàn cầu hóa, công nghệ và sự thay đổi của công việc.",
+          "metadata": {
+            "target_audience": "Độc giả quan tâm xã hội",
+            "title": "Thế giới phẳng",
+            "difficulty": "Chuyên sâu",
+            "featured": false,
+            "author": "Thomas L. Friedman",
+            "rating": 4.0,
+            "author_id": "thomas-friedman",
+            "year": 2005,
+            "tags": "toàn cầu hóa, công nghệ, kinh tế",
+            "genre": "Kinh tế",
+            "book_id": "book_022",
+            "mood": "Muốn học hỏi"
+          },
+          "distance": 0.3427847623825073
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

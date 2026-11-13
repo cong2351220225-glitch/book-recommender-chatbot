@@ -1,0 +1,38 @@
+{
+  "subtitle": "a picture book.",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-07-22T13:59:28.614425"
+  },
+  "latest_revision": 4,
+  "key": "/works/OL103005W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL24127A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T19:31:58.335109"
+  },
+  "title": "The American wing",
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Domestic Architecture",
+    "Metropolitan Museum of Art (New York, N.Y.). American Wing",
+    "Metropolitan Museum of Art (New York, N.Y.).",
+    "Interior decoration",
+    "Architecture"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 4
+}

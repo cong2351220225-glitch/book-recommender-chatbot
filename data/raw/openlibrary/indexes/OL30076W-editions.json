@@ -1,0 +1,186 @@
+{
+  "links": {
+    "self": "/works/OL30076W/editions.json",
+    "work": "/works/OL30076W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Covenant Communications"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "845476"
+        ],
+        "librarything": [
+          "2006470"
+        ]
+      },
+      "subtitle": "a novel",
+      "isbn_10": [
+        "1577346041"
+      ],
+      "subject_place": [
+        "France"
+      ],
+      "pagination": "244 p. ;",
+      "covers": [
+        832720
+      ],
+      "lc_classifications": [
+        "PS3564.U468 L55 2000",
+        "PS3564.U468L55 2000"
+      ],
+      "key": "/books/OL59793M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "American Fork, Utah"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:26678592:880",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:35695393:880",
+        "amazon:1577346041",
+        "bwb:9781577346043"
+      ],
+      "title": "Love on the run",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 244,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99088762"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction",
+        "Children of criminals -- Fiction",
+        "Americans -- France -- Fiction",
+        "Organized crime -- Fiction",
+        "Married people -- Fiction",
+        "France -- Fiction"
+      ],
+      "publish_date": "2000",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "43050209"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30076W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T07:30:46.524956"
+      }
+    },
+    {
+      "publishers": [
+        "Spring Creek Book Company"
+      ],
+      "number_of_pages": 256,
+      "weight": "15.2 ounces",
+      "covers": [
+        2127665
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9497016M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Romance: Modern",
+        "Religious - Romance/General",
+        "Fiction - Religious",
+        "Romance - General",
+        "Christian - Romance",
+        "Fiction",
+        "Americans",
+        "Children of criminals",
+        "France",
+        "Mormon women"
+      ],
+      "isbn_13": [
+        "9781932898200"
+      ],
+      "source_records": [
+        "amazon:1932898204:2-ak:546654021:188243",
+        "marc:marc_loc_2016/BooksAll.2016.part31.utf8:167936208:902",
+        "bwb:9781932898200",
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:592705059:958",
+        "marc:harvard_bibliographic_metadata/20220215_003.bib.mrc:108221154:1806"
+      ],
+      "title": "Love On The Run",
+      "identifiers": {
+        "librarything": [
+          "2006470"
+        ],
+        "goodreads": [
+          "1284333"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1932898204"
+      ],
+      "publish_date": "December 30, 2005",
+      "oclc_numbers": [
+        "57002348"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30076W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 5.9 x 0.9 inches",
+      "lccn": [
+        "2004027285"
+      ],
+      "lc_classifications": [
+        "PS3564.U468 L55 2005",
+        "PS3564.U468L55 2005"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-13T01:04:51.013875"
+      }
+    }
+  ]
+}

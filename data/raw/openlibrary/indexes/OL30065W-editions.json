@@ -1,0 +1,2327 @@
+{
+  "links": {
+    "self": "/works/OL30065W/editions.json",
+    "work": "/works/OL30065W",
+    "next": "/works/OL30065W/editions.json?offset=50"
+  },
+  "size": 227,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "MiraVista Press"
+      ],
+      "source_records": [
+        "bwb:9781956221350",
+        "amazon:1956221352"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Best of Alcott",
+      "subtitle": "under the Lilacs",
+      "full_title": "Best of Alcott under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL34987492M",
+      "covers": [
+        13187076
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9781956221350"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-09T18:06:49.018940"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:58:02.031825"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798711037392"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "216",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798711037392"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.295",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL49057512M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T05:48:45.598983"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798707737381"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "216",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798707737381",
+        "promise:bwb_daily_pallets_2024-01-30:P9-CVA-564"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.636",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48819886M",
+      "local_id": [
+        "urn:bwbsku:P9-CVA-564"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000881ETU"
+        ],
+        "better_world_books": [
+          "BWBM59059469"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T15:22:08.152694"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-01T08:50:52.884739"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798735726524"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "238",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798735726524"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.323",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL49129836M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-18T10:17:25.362423"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798537926085"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "248",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798537926085"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.550",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48806826M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T14:47:25.627500"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527545104"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "367",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527545104",
+        "promise:bwb_daily_pallets_2024-03-25:P9-EIP-794"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.495",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48492225M",
+      "local_id": [
+        "urn:bwbsku:P9-EIP-794"
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00CMVA7YO"
+        ],
+        "better_world_books": [
+          "BWBM59296308"
+        ]
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T01:23:46.346229"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-27T01:09:57.723990"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798527544695"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "221",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527544695"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.500",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48477761M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-18T00:20:25.526440"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746182371"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746182371"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.255",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48436091M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T22:06:28.014312"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798747872301"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "135",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798747872301"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.259",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48317126M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T15:15:06.097439"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632603898"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632603898"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.327",
+      "subtitle": "A Children's Novel by Louisa May Alcott, First Published in 1878. Bab and Betty, Two Little Girls, Are Having a Tea Party with Their Dolls When an Unknown Dog Appears and Steals Their Cake...",
+      "full_title": "Under the Lilacs A Children's Novel by Louisa May Alcott, First Published in 1878. Bab and Betty, Two Little Girls, Are Having a Tea Party with Their Dolls When an Unknown Dog Appears and Steals Their Cake...",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48383373M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:49:40.997742"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842453098"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "230",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842453098"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.232",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48649245M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T06:47:51.849463"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798597395463"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "305",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798597395463"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.464",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48296429M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T13:49:13.090202"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721517877"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "181",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721517877"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.427",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL48340219M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T16:23:45.859146"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000WR0UTC"
+        ],
+        "better_world_books": [
+          "BWB11486274"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:T3-BAB-885"
+      ],
+      "publish_date": "1955-01-01",
+      "publishers": [
+        "Junor Deluxe Editions"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-05-25:T3-BAB-885"
+      ],
+      "title": "Under the Lilac",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL47962068M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-27T01:06:39.597531"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "title": "Under the Lilacs ,by Louisa M. Alcott Novel-",
+      "subtitle": "Louisa May Alcott",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "2016-05-03",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1533064113"
+      ],
+      "isbn_13": [
+        "9781533064110"
+      ],
+      "local_id": [
+        "urn:bwbsku:P8-ASQ-592"
+      ],
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-28:P8-ASQ-592"
+      ],
+      "ocaid": "underlilacsbylou0000loui",
+      "key": "/books/OL47680905M",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:41:03.592708"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-29T15:19:41.684942"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00086EYHQ"
+        ],
+        "better_world_books": [
+          "BWB16457095"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O8-CCB-291"
+      ],
+      "publish_date": "1934-01-01",
+      "publishers": [
+        "Winston"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-06-13:O8-CCB-291"
+      ],
+      "title": "Under the lilacs",
+      "full_title": "Under the lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL47023504M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T08:20:09.858028"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607579173"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "254",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607579173"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.445",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46784078M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T17:45:37.553753"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798625010214"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "197",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798625010214"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.586",
+      "subtitle": "Large Print",
+      "full_title": "Under the Lilacs Large Print",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46805082M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T19:12:13.050936"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746182364"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "171",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746182364"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.395",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46723790M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T14:00:07.547200"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798840883372"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "192",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798840883372"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.568",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46707346M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T12:54:20.159124"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798848624847"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "263",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798848624847"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.586",
+      "subtitle": "Large Print",
+      "full_title": "Under the Lilacs Large Print",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46651594M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T09:38:34.962617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781015467590"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "244",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781015467590"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.518",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46297747M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T20:03:00.507807"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781015472457"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "244",
+      "publish_date": "2022",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781015472457",
+        "promise:bwb_daily_pallets_2024-06-27:P9-DUX-101"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.345",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL46297801M",
+      "local_id": [
+        "urn:bwbsku:P9-DUX-101"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-17T20:03:09.296408"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-29T01:08:41.490060"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00CPT0VNK"
+        ],
+        "better_world_books": [
+          "BWB24490266"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W1-BBF-674"
+      ],
+      "publish_date": "1950-01-01",
+      "publishers": [
+        "Little, Brown and Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-01-06"
+      ],
+      "title": "Under the Lilacs (1950) Orchard House Edition",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL45931110M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T08:34:09.303639"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00088Z7UC"
+        ],
+        "better_world_books": [
+          "BWB19512470"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:G5-BSO-864"
+      ],
+      "publish_date": "1928-01-01",
+      "publishers": [
+        "Little, Brown"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Under the lilacs (The Beacon Hill book shelf)",
+      "full_title": "Under the lilacs (The Beacon Hill book shelf)",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL45717847M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T09:17:50.961666"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798837480836"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "198",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798837480836"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.359",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44313415M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T23:33:25.484134"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0000CHPTH"
+        ],
+        "better_world_books": [
+          "BWB47601911"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:W3-CUV-216",
+        "urn:bwbsku:KR-252-243"
+      ],
+      "publish_date": "1950-01-01",
+      "publishers": [
+        "Nelson Doubleday, Inc."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-08-30",
+        "promise:bwb_daily_pallets_2022-08-26:KR-252-243"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL45654183M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T03:42:58.198265"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B001GHMOPK"
+        ],
+        "better_world_books": [
+          "BWB10851716"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O5-LTG-261"
+      ],
+      "publish_date": "1956-01-01",
+      "publishers": [
+        "Nelson Doubleday"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-08-24"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL45758891M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T13:41:35.299368"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL1866320A"
+        }
+      ],
+      "isbn_13": [
+        "9781297462528"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "312",
+      "publish_date": "2015",
+      "publishers": [
+        "Scholar's Choice"
+      ],
+      "source_records": [
+        "bwb:9781297462528"
+      ],
+      "title": "Under the Lilacs - Scholar's Choice Edition",
+      "weight": "0.559",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44273657M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:11:45.441520"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-18T17:20:04.439412"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781427018809"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "340",
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781427018809"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44151885M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T08:18:50.526295"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944213"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944213"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Runaways, fiction",
+        "Dogs, fiction",
+        "Friendship, fiction"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44236808M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T17:30:04.720445"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL1866320A"
+        }
+      ],
+      "isbn_13": [
+        "9781010386445"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "310",
+      "publish_date": "2019",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781010386445"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.436",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44274590M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:15:02.553900"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-18T17:20:04.439412"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        },
+        {
+          "key": "/authors/OL1866320A"
+        }
+      ],
+      "isbn_13": [
+        "9781010386452"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "310",
+      "publish_date": "2019",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781010386452"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.614",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL44275616M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:18:31.528793"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-18T17:20:04.439412"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1885",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "14449084"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Microfilm. New York, N.Y. : Columbia University Libraries, 1983. 1 microfilm reel. 35 mm."
+      },
+      "title": "Under the lilacs",
+      "by_statement": "By Louisa M. Alcott ...",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "305 pages",
+      "number_of_pages": 305,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:210697101:957"
+      ],
+      "full_title": "Under the lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43567851M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T13:23:38.999970"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B08V95JNL1"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:O7-CIV-878"
+      ],
+      "publish_date": "1929-01-01",
+      "publishers": [
+        "Generic"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-05-14"
+      ],
+      "title": "Rare - Louisa May Alcott UNDER THE LILACS 1929 HC DJ Children Color Plate Art Dog YA",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43355656M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T11:50:18.928980"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "195043575X"
+      ],
+      "isbn_13": [
+        "9781950435753"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-BWN-020"
+      ],
+      "publish_date": "2019-12-21",
+      "publishers": [
+        "SeaWolf Press"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-09-14"
+      ],
+      "title": "Under the Lilacs",
+      "subtitle": "Illustrated Classic",
+      "full_title": "Under the Lilacs Illustrated Classic",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43239010M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T22:42:40.185098"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000H52PE2"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:KO-623-900"
+      ],
+      "publish_date": "1955-01-01",
+      "publishers": [
+        "Junior Deluxe"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-02-05"
+      ],
+      "title": "UNDER THE LILACS",
+      "full_title": "UNDER THE LILACS",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43458458M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T22:39:02.513926"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926256"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926256"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42831235M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T17:07:52.231787"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B007QBDHI8"
+        ],
+        "better_world_books": [
+          "BWB20165900"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:T2-ASQ-396"
+      ],
+      "publish_date": "1962-01-01",
+      "publishers": [
+        "Collier Books"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Under the lilacs",
+      "full_title": "Under the lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43049053M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T03:13:05.119009"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "1616402970"
+      ],
+      "isbn_13": [
+        "9781616402976"
+      ],
+      "local_id": [
+        "urn:bwbsku:P7-DCG-004"
+      ],
+      "publish_date": "2010-07-01",
+      "publishers": [
+        "Cosimo Classics"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL43144660M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T14:11:07.183875"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "title": "Under the lilacs",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1935-01-01",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:789-AAZ-511",
+        "urn:bwbsku:W8-AFP-515"
+      ],
+      "publishers": [
+        "The Saalfield publishing company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17:789-AAZ-511",
+        "promise:bwb_daily_pallets_2022-12-15:W8-AFP-515"
+      ],
+      "full_title": "Under the lilacs",
+      "key": "/books/OL43162108M",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00085LN1C"
+        ],
+        "better_world_books": [
+          "BWB12977202"
+        ]
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T15:44:34.767381"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926263"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926263"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42712817M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T09:36:16.344376"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781665926270"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2023",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781665926270"
+      ],
+      "title": "Under the Lilacs",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42791659M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T14:36:50.755984"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798353570059"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "256",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798353570059"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.568",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42810561M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T15:51:36.473849"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798543779545"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "308",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798543779545"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.764",
+      "subtitle": "Large Print Edition",
+      "full_title": "Under the Lilacs Large Print Edition",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42606807M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T02:42:57.071194"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798657045321"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "319",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798657045321"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.550",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42432740M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T03:43:41.748579"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798575266419"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "259",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798575266419"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.455",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42469017M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T08:01:27.670203"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798609631374"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "213",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798609631374"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.627",
+      "full_title": "Under the Lilacs",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42472675M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T08:51:18.759216"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634947693"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "509",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634947693"
+      ],
+      "title": "Under the Lilacs",
+      "weight": "0.850",
+      "subtitle": "Large Print",
+      "full_title": "Under the Lilacs Large Print",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42490095M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T12:46:44.226739"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798695657890"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "497",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798695657890"
+      ],
+      "title": "Under the Lilacs- Publishing People Series",
+      "weight": "0.627",
+      "works": [
+        {
+          "key": "/works/OL30065W"
+        }
+      ],
+      "key": "/books/OL42371653M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T21:45:32.402923"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T15:25:20.987292"
+      }
+    }
+  ]
+}

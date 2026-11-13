@@ -1,0 +1,25 @@
+{
+  "title": "Congratulations on Your Baby Girl for All Ages",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T23:26:27.195622"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T23:26:27.195622"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL8860711W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL3043083A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

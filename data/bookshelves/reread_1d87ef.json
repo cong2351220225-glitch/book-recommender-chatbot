@@ -1,0 +1,16 @@
+{
+  "username": "reread_1d87ef",
+  "items": {
+    "book_005_reading_auto": {
+      "id": "book_005_reading_auto",
+      "book_id": "book_005",
+      "status": "reading",
+      "progress_page": 1,
+      "total_pages": 100,
+      "rating": 0,
+      "notes": "Tự động ghi nhận từ Trình đọc sách số",
+      "added_at": "2026-11-02T22:21:49.077836",
+      "updated_at": "2026-11-02T22:21:49.216533"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "lc_classifications": [
+    "MLCM 90/04059 (D)"
+  ],
+  "key": "/works/OL3650638W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T04:05:27.877669"
+  },
+  "title": "80 monuments insolites d'entre-Sambre-et-Meuse",
+  "first_publish_date": "1989",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-17T08:37:21.839320"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL625501A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 38826736,
+  "revision": 2
+}

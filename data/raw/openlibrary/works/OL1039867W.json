@@ -1,0 +1,32 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:11:46.187045"
+  },
+  "title": "Laws regulating environment in Bangladesh",
+  "id": 36219069,
+  "subject_places": [
+    "Bangladesh"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-01-16T22:38:34.089925"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL1039867W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL102167A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Environmental law"
+  ],
+  "revision": 2
+}

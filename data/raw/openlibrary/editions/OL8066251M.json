@@ -1,0 +1,76 @@
+{
+  "publishers": [
+    "Arco"
+  ],
+  "identifiers": {
+    "librarything": [
+      "1389198"
+    ]
+  },
+  "subtitle": "Math 1st edition (High Stakes Test Series)",
+  "weight": "15.7 ounces",
+  "covers": [
+    529194
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL8066251M",
+  "authors": [
+    {
+      "key": "/authors/OL2625871A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "first_sentence": "Have you checked out the shaded bands on the top of the pages in this book?",
+  "source_records": [
+    "amazon:0768910706:cv:4014051382:169812",
+    "bwb:9780768910704"
+  ],
+  "title": "High Stakes",
+  "number_of_pages": 240,
+  "edition_name": "1 edition",
+  "subjects": [
+    "Study & learning skills",
+    "Problems, exercises, etc",
+    "History & Philosophy",
+    "Study Aids",
+    "Test Prep",
+    "Study Aids / Tests",
+    "Examinations",
+    "Juvenile literature",
+    "Mathematics",
+    "Study Guides"
+  ],
+  "publish_date": "December 19, 2002",
+  "works": [
+    {
+      "key": "/works/OL268688W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "10.8 x 8.5 x 0.5 inches",
+  "isbn_10": [
+    "0768910706"
+  ],
+  "isbn_13": [
+    "9780768910704"
+  ],
+  "oclc_numbers": [
+    "51284144"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-02T11:00:24.619424"
+  }
+}

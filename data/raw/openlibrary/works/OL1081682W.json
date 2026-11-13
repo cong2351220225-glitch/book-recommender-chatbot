@@ -1,0 +1,39 @@
+{
+  "title": "Kāmarāj",
+  "subject_places": [
+    "India"
+  ],
+  "key": "/works/OL1081682W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL111895A"
+      }
+    }
+  ],
+  "subject_people": [
+    "K. Kamaraj (1903-1975)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Biography",
+    "Statesmen"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "On the life of K. Kamaraj, Indian statesman and former chief minister of Tamil Nadu."
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:27:25.905327"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-08T19:01:04.090498"
+  }
+}

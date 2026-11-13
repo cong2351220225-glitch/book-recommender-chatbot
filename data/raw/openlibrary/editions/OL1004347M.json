@@ -1,0 +1,90 @@
+{
+  "other_titles": [
+    "Ariana"
+  ],
+  "publishers": [
+    "Covenant Communications"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "442579"
+    ],
+    "librarything": [
+      "3538513"
+    ]
+  },
+  "subtitle": "A Novel",
+  "ia_box_id": [
+    "IA125417"
+  ],
+  "covers": [
+    3858730
+  ],
+  "ia_loaded_id": [
+    "arianamakingofqu00nune"
+  ],
+  "key": "/books/OL1004347M",
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "publish_places": [
+    "American Fork, Utah"
+  ],
+  "pagination": "182 p. ;",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part25.dat:201714634:729",
+    "ia:arianamakingofqu00nune",
+    "marc:marc_loc_2016/BooksAll.2016.part25.utf8:107709411:717",
+    "bwb:9781577340256"
+  ],
+  "title": "Ariana, The Making of a Queen",
+  "notes": "Sequel: Ariana, a gift most precious.",
+  "number_of_pages": 182,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Mormon women -- Fiction",
+    "Mormons -- Fiction"
+  ],
+  "publish_date": "1996",
+  "publish_country": "utu",
+  "by_statement": "Rachel Ann Nunes.",
+  "works": [
+    {
+      "key": "/works/OL30071W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "ocaid": "arianamakingofqu00nune",
+  "isbn_10": [
+    "1577340256"
+  ],
+  "lccn": [
+    "96044061"
+  ],
+  "classifications": {},
+  "dewey_decimal_class": [
+    "813/.54"
+  ],
+  "lc_classifications": [
+    "PS3564.U468 A89 1996",
+    "PS3564.U468A89 1996"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T08:27:24.412834"
+  }
+}

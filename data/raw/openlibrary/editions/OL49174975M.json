@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9798715217011"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "57",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798715217011"
+  ],
+  "title": "Mysterious Key",
+  "weight": "0.114",
+  "full_title": "Mysterious Key",
+  "works": [
+    {
+      "key": "/works/OL30040W"
+    }
+  ],
+  "key": "/books/OL49174975M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-07-18T13:06:29.594072"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T16:13:22.404099"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781681463483"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 124,
+  "publish_date": "2015",
+  "publishers": [
+    "Start Publishing LLC"
+  ],
+  "source_records": [
+    "bwb:9781681463483"
+  ],
+  "title": "Shawl-Straps",
+  "full_title": "Shawl-Straps",
+  "works": [
+    {
+      "key": "/works/OL30004W"
+    }
+  ],
+  "key": "/books/OL34074079M",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-09-30T02:08:37.985876"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-08T04:57:19.929543"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Muḥammad Qāsimʹzādah",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-11-14T08:21:55.738635"
+  },
+  "personal_name": "Muḥammad Qāsimʹzādah",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-11-14T08:21:55.738635"
+  },
+  "key": "/authors/OL6451462A",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 33000135,
+  "revision": 1
+}

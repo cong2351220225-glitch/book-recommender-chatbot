@@ -1,0 +1,71 @@
+{
+  "publishers": [
+    "Cambridge University Press"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "6657679"
+    ],
+    "librarything": [
+      "91210"
+    ]
+  },
+  "isbn_10": [
+    "0521093716"
+  ],
+  "edition_name": "2Rev Ed edition",
+  "physical_format": "Paperback",
+  "key": "/books/OL7731748M",
+  "authors": [
+    {
+      "key": "/authors/OL2624503A"
+    }
+  ],
+  "subjects": [
+    "Literary studies: general",
+    "Literary Criticism",
+    "British Isles",
+    "Literary Criticism & Collections / English, Irish, Scottish, Welsh",
+    "English, Irish, Scottish, Welsh"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "source_records": [
+    "marc:marc_marygrove/marygrovecollegelibrary.full.D20191108.T213022.internetarchive2nd_REPACK.mrc:23524777:3915",
+    "bwb:9780521093712"
+  ],
+  "title": "Studies in Words",
+  "number_of_pages": 350,
+  "isbn_13": [
+    "9780521093712"
+  ],
+  "local_id": [
+    "urn:mgc:31927000317468"
+  ],
+  "publish_date": "August 29, 1975",
+  "works": [
+    {
+      "key": "/works/OL71131W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "IN this chapter we shall have to consider Greek phusis, Latin natura (with its derivatives), and English kind."
+  },
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-04T01:35:22.037344"
+  }
+}

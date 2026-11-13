@@ -1,0 +1,59 @@
+{
+  "publishers": [
+    "Editorial Sudamericana"
+  ],
+  "lc_classifications": [
+    "PQ8097.R782 A15 1970"
+  ],
+  "key": "/books/OL4369807M",
+  "authors": [
+    {
+      "key": "/authors/OL120488A"
+    }
+  ],
+  "publish_places": [
+    "Buenos Aires"
+  ],
+  "pagination": "363 p.",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part11.utf8:168167010:618",
+    "marc:marc_columbia/Columbia-extract-20221130-002.mrc:580896031:827"
+  ],
+  "title": "Cuentos.",
+  "lccn": [
+    "78530681"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "\"Reúne los cuentos de tres libros ('Hombres del sur,' 1926; 'El  delincuente,' 1929; 'Travesia,' 1934) y algunos relatos posteriores.\""
+  },
+  "number_of_pages": 363,
+  "languages": [
+    {
+      "key": "/languages/por"
+    }
+  ],
+  "publish_date": "1970",
+  "publish_country": "ag ",
+  "oclc_numbers": [
+    "1180421"
+  ],
+  "works": [
+    {
+      "key": "/works/OL1193184W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-07-29T19:15:21.580072"
+  }
+}

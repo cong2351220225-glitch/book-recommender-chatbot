@@ -1,0 +1,52 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26320A"
+    }
+  ],
+  "isbn_13": [
+    "9780063274730"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "1248",
+  "publish_date": "2022",
+  "publishers": [
+    "HarperCollins Publishers",
+    "William Morrow"
+  ],
+  "source_records": [
+    "bwb:9780063274730",
+    "amazon:0063274736"
+  ],
+  "title": "Lord of the Rings",
+  "weight": "0.455",
+  "subtitle": "Special Edition",
+  "full_title": "Lord of the Rings Special Edition",
+  "works": [
+    {
+      "key": "/works/OL27448W"
+    }
+  ],
+  "key": "/books/OL38062258M",
+  "covers": [
+    13806118
+  ],
+  "number_of_pages": 1248,
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2022-05-26T10:11:00.086786"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-05-20T15:22:56.910944"
+  }
+}

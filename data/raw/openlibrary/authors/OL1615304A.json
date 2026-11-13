@@ -1,0 +1,21 @@
+{
+  "name": "Blanche Howard",
+  "personal_name": "Howard, Blanche.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "alternate_names": [
+    "Howard, Blanche"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2019-02-18T15:17:23.089887"
+  },
+  "latest_revision": 2,
+  "key": "/authors/OL1615304A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 2
+}

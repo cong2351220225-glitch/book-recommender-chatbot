@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781528714266"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 210,
+  "publish_date": "2019",
+  "publishers": [
+    "Read Books"
+  ],
+  "source_records": [
+    "bwb:9781528714266"
+  ],
+  "title": "Spinning-Wheel Stories",
+  "weight": "0.273",
+  "full_title": "Spinning-Wheel Stories",
+  "works": [
+    {
+      "key": "/works/OL30046W"
+    }
+  ],
+  "key": "/books/OL56772081M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-10-05T11:24:42.641669"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-20T20:41:28.796135"
+  }
+}

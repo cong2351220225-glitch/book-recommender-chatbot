@@ -1,0 +1,37 @@
+{
+  "subtitle": "being contributions to the history of the Spanish and Portuguese Congregation of London.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:37:13.764568"
+  },
+  "title": "Bevis Marks records",
+  "id": 36341028,
+  "subject_places": [
+    "England",
+    "London"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-03-11T18:39:41.196045"
+  },
+  "latest_revision": 3,
+  "key": "/works/OL1162464W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL117673A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Spanish and Portuguese Jews' Congregation (London, England)",
+    "Registers of births",
+    "Jews",
+    "Ketubah"
+  ],
+  "revision": 3
+}

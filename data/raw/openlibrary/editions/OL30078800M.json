@@ -1,0 +1,47 @@
+{
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798611923603"
+  ],
+  "title": "Comic Tragedies",
+  "number_of_pages": 119,
+  "isbn_13": [
+    "9798611923603"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "full_title": "Comic Tragedies",
+  "lc_classifications": [
+    ""
+  ],
+  "publish_date": "2020",
+  "key": "/books/OL30078800M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL30038W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-09-03T03:34:01.451675"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-08T04:57:19.929543"
+  }
+}

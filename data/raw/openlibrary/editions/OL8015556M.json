@@ -1,0 +1,67 @@
+{
+  "publishers": [
+    "Millbrook Press"
+  ],
+  "number_of_pages": 32,
+  "weight": "8 ounces",
+  "physical_format": "Paperback",
+  "key": "/books/OL8015556M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "subjects": [
+    "Mathematics - General",
+    "Juvenile Nonfiction / Mathematics / General",
+    "Juvenile Nonfiction",
+    "Children: Grades 1-2"
+  ],
+  "isbn_13": [
+    "9780761309383"
+  ],
+  "source_records": [
+    "amazon:0761309381:ct:2520003247:198426",
+    "promise:bwb_daily_pallets_2022-03-17"
+  ],
+  "title": "Big Numbers",
+  "identifiers": {
+    "goodreads": [
+      "835237"
+    ],
+    "librarything": [
+      "709030"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0761309381"
+  ],
+  "publish_date": "August 17, 2001",
+  "works": [
+    {
+      "key": "/works/OL30082W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "12.8 x 8.6 x 0.5 inches",
+  "local_id": [
+    "urn:bwbsku:O6-BLU-519"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-14T09:16:08.529029"
+  }
+}

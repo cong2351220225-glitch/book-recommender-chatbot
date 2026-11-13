@@ -1,0 +1,71 @@
+{
+  "title": "On Picket Duty and Other Tales",
+  "covers": [
+    1760459,
+    9505348,
+    9219092,
+    12031254,
+    9177620,
+    9184246,
+    11534736,
+    12038332
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "WHAT air you thinkin' of, Phil?"
+  },
+  "first_publish_date": "1864",
+  "key": "/works/OL30051W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "WHAT air you thinkin' of, Phil?"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "History",
+    "Social life and customs",
+    "Manners and customs",
+    "Children's fiction",
+    "Fiction, historical, general",
+    "United states, social life and customs, fiction",
+    "Fiction, short stories (single author)"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"So was I! Aint it odd how fellers fall to thinkin' of thar little women, when they get a quiet spell like this?\""
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "subject_times": [
+    "19th century"
+  ],
+  "location": "/works/OL20577414W",
+  "genres": [
+    "/tags/OL170T"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T20:12:39.542850"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL82563W",
+  "key": "/works/OL82592W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 125,
+  "revision": 125,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T07:07:29.461716"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-04-09T17:19:44.942158"
+  }
+}

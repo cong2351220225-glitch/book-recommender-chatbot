@@ -1,0 +1,34 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:27:57.446968"
+  },
+  "latest_revision": 7,
+  "description": {
+    "type": "/type/text",
+    "value": "Detective Inspector Thomas Lynley takes on the case of his career. When it comes to spellbinding suspense and page-turning excitement, New York Times bestselling author Elizabeth George always delivers. As the Wall Street Journal raves, \"Ms. George can do it all, with style to spare.\" In With No One as Witness, Elizabeth George has crafted an intricate, meticulously researched, and absorbing story sure to enthrall her readers. Detective Inspector Thomas Lynley is back, along with his longtime partner, the fiery Barbara Havers, and newly promoted Detective Sergeant Winston Nkata. They are on the hunt for a sinister killer."
+  },
+  "key": "/works/OL456488W",
+  "title": "With No One As Witness CD",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL6773701A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-03-02T03:16:28.632479"
+  },
+  "covers": [
+    29605
+  ],
+  "revision": 7
+}

@@ -1,0 +1,66 @@
+{
+  "links": {
+    "self": "/works/OL367732W/editions.json",
+    "work": "/works/OL367732W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Granthamandira"
+      ],
+      "lc_classifications": [
+        "PK2579.M55 E37 1992"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL1056272M",
+      "authors": [
+        {
+          "key": "/authors/OL10476A"
+        }
+      ],
+      "publish_places": [
+        "Kaṭaka"
+      ],
+      "pagination": "2, 190 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part24.dat:22349526:533",
+        "marc:marc_loc_2016/BooksAll.2016.part23.utf8:93456598:541"
+      ],
+      "title": "E jībana e sapana",
+      "lccn": [
+        "93900518"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Novel.\nIn Oriya."
+      },
+      "number_of_pages": 190,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/ori"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-18T02:18:58.143447"
+      },
+      "publish_date": "1992",
+      "publish_country": "ii ",
+      "by_statement": "Udaẏanātha Miśra.",
+      "works": [
+        {
+          "key": "/works/OL367732W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

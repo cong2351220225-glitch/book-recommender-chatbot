@@ -1,0 +1,270 @@
+{
+  "publishers": [
+    "University of Chicago Press"
+  ],
+  "identifiers": {
+    "librarything": [
+      "1482746"
+    ],
+    "goodreads": [
+      "3604150",
+      "712153"
+    ]
+  },
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "",
+      "title": "Machine generated contents note: List of Illustrations vii",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Acknowledgments xi",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Introduction: \"A Storehouse of the Finest Materials\" 3",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "BOOK",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "1 The Work and Its Author 13",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "2 From the Manufacture of Books to the Pedagogical Cabinet 42",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "IMAGE",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "3 Sources and Structure of the Picture Academy for the Young 65",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "4 Man and His Image in the Eighteenth Century 105",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "BOX",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "5 The Box and Collecting 135",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "6 The Box and Its Uses 163",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Conclusion: The World Boxed In, Then and Now 193",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Appendix: Bibliographic Record of the Picture Academy 197",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Bibliography 203",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Index 227.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    }
+  ],
+  "isbn_10": [
+    "0226322866",
+    "0226322874"
+  ],
+  "subject_place": [
+    "Germany",
+    "Germany."
+  ],
+  "covers": [
+    4343965,
+    141258
+  ],
+  "lc_classifications": [
+    "AG27.W433 H44 2002",
+    "AG27.W433H44 2002"
+  ],
+  "key": "/books/OL3954066M",
+  "authors": [
+    {
+      "key": "/authors/OL91114A"
+    }
+  ],
+  "subtitle": "the story of an eighteenth-century picture encyclopedia",
+  "publish_places": [
+    "Chicago"
+  ],
+  "lccn": [
+    "2001052763"
+  ],
+  "subject_time": [
+    "18th century."
+  ],
+  "pagination": "xii, 237 p. :",
+  "uri_descriptions": [
+    "Publisher description",
+    "Contributor biographical information",
+    "Book review (H-Net)",
+    "Table of contents"
+  ],
+  "source_records": [
+    "marc:marc_records_scriblio_net/part13.dat:144347083:2292",
+    "marc:marc_loc_updates/v37.i08.records.utf8:2248408:2255",
+    "bwb:9780226322865",
+    "bwb:9780226322872",
+    "marc:marc_loc_2016/BooksAll.2016.part28.utf8:229340479:2255",
+    "marc:marc_columbia/Columbia-extract-20221130-007.mrc:280019458:2106"
+  ],
+  "title": "The world in a box",
+  "url": [
+    "http://www.loc.gov/catdir/description/uchi051/2001052763.html",
+    "http://www.loc.gov/catdir/bios/uchi051/2001052763.html",
+    "http://www.h-net.org/review/hrev-a0d0u3-aa",
+    "http://www.loc.gov/catdir/toc/fy031/2001052763.html"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes bibliographical references (p. 203-226) and index."
+  },
+  "number_of_pages": 237,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "dewey_decimal_class": [
+    "033/.1"
+  ],
+  "subjects": [
+    "Weltkasten -- History",
+    "Children's encyclopedias and dictionaries, German -- History and criticism",
+    "Encyclopedias and dictionaries, German -- History and criticism",
+    "Picture dictionaries, German -- History",
+    "Material culture -- Germany -- History -- 18th century",
+    "Visual communication -- Germany -- History -- 18th century",
+    "Enlightenment -- Germany",
+    "Germany -- Intellectual life -- 18th century"
+  ],
+  "publish_date": "2002",
+  "publish_country": "ilu",
+  "by_statement": "Anke te Heesen ; translated by Ann M. Hentschel.",
+  "work_title": [
+    "Weltkasten."
+  ],
+  "works": [
+    {
+      "key": "/works/OL986708W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "uris": [
+    "http://www.loc.gov/catdir/description/uchi051/2001052763.html",
+    "http://www.loc.gov/catdir/bios/uchi051/2001052763.html",
+    "http://www.h-net.org/review/hrev-a0d0u3-aa",
+    "http://www.loc.gov/catdir/toc/fy031/2001052763.html"
+  ],
+  "oclc_numbers": [
+    "48508713"
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-11-15T03:13:27.287776"
+  }
+}

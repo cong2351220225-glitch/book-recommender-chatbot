@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-18T05:58:14.983856"
+  },
+  "title": "The nonverbal communication workbook",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-18T05:58:14.983856"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL118749W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL20635A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 34927920,
+  "revision": 1
+}

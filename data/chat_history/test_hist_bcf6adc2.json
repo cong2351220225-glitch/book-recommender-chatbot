@@ -1,0 +1,20 @@
+{
+  "id": "test_hist_bcf6adc2",
+  "title": "Tôi đang tìm hiểu về thư viện",
+  "timestamp": "2026-11-03 14:49:17",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi đang tìm hiểu về thư viện",
+      "timestamp": "14:49"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm thư viện ở khu vực, thành phố hoặc quận nào? (Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn)",
+      "timestamp": "14:49",
+      "sources": [],
+      "locations": [],
+      "intent": "location_library"
+    }
+  ]
+}

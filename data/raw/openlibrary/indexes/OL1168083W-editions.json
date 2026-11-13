@@ -1,0 +1,2396 @@
+{
+  "links": {
+    "self": "/works/OL1168083W/editions.json",
+    "work": "/works/OL1168083W",
+    "next": "/works/OL1168083W/editions.json?offset=50"
+  },
+  "size": 727,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "1984",
+      "publishers": [
+        "Gyldendal"
+      ],
+      "publish_date": "2019",
+      "key": "/books/OL62597712M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15258673
+      ],
+      "isbn_13": [
+        "9788702291872"
+      ],
+      "edition_name": "11. udgave",
+      "languages": [
+        {
+          "key": "/languages/dan"
+        }
+      ],
+      "translation_of": "Nineteen eighty-four",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "number_of_pages": 344,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-25T23:10:35.449653"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-25T23:13:31.713838"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL16029200A"
+        },
+        {
+          "key": "/authors/OL2938196A"
+        }
+      ],
+      "isbn_13": [
+        "9798892823333"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2026",
+      "publishers": [
+        "Ft. Raphael Publishing Company"
+      ],
+      "source_records": [
+        "bwb:9798892823333"
+      ],
+      "subjects": [
+        "Fiction, political",
+        "Fiction, dystopian"
+      ],
+      "title": "Nineteen Eighty-Four - Unabridged",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL62572892M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-17T03:43:12.013843"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1991",
+      "publish_country": "ch",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "title": "一九八四",
+      "other_titles": [
+        "yi jiu ba si",
+        "1984.",
+        "Nineteen eighty four."
+      ],
+      "by_statement": "[chu che George Orwell] ; Liu Shaoming yi",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL1272684A"
+        }
+      ],
+      "oclc_numbers": [
+        "62877724"
+      ],
+      "edition_name": "Chu ban.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: 1984."
+      },
+      "publishers": [
+        "Dong da tu shu gong si",
+        "zong jing xiao San min shu ju"
+      ],
+      "publish_places": [
+        "Taibei Shi"
+      ],
+      "isbn_10": [
+        "9571913103"
+      ],
+      "pagination": "4, 354 p.",
+      "number_of_pages": 354,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_045.bib.mrc:204558228:1451"
+      ],
+      "full_title": "一九八四",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL62433363M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-08-12T23:41:32.648664"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KW-461-936"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2026-02-05:KW-461-936"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL61722366M",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "publish_date": "2015",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0143425803"
+      ],
+      "isbn_13": [
+        "9780143425809"
+      ],
+      "ocaid": "19840000unse_w5q3",
+      "covers": [
+        15257423
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-04-30T04:51:18.251753"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "1984",
+      "publishers": [
+        "PandorgA"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL61439304M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9786555790627"
+      ],
+      "covers": [
+        15200523
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-03-23T13:35:11.988944"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "1984",
+      "authors": [
+        {
+          "key": "/authors/OL16230010A"
+        }
+      ],
+      "publish_date": "2020",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 262,
+      "publishers": [
+        "Books Worldwide"
+      ],
+      "source_records": [
+        "ia:isbn_9788194215813"
+      ],
+      "full_title": "1984",
+      "covers": [
+        15196195
+      ],
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL61427489M",
+      "ocaid": "isbn_9788194215813",
+      "isbn_10": [
+        "8194215811"
+      ],
+      "isbn_13": [
+        "9788194215813"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-03-21T23:10:20.023426"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL16029200A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781398856141"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 320,
+      "publish_date": "2025",
+      "publishers": [
+        "Arcturus Publishing"
+      ],
+      "source_records": [
+        "bwb:9781398856141"
+      ],
+      "title": "1984",
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL60856721M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-12T22:20:43.287935"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL16029200A"
+        },
+        {
+          "key": "/authors/OL16029201A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9780571394388"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 368,
+      "publish_date": "2025",
+      "publishers": [
+        "Faber & Faber, Limited"
+      ],
+      "source_records": [
+        "bwb:9780571394388"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.010",
+      "subtitle": "The Illustrated Edition",
+      "full_title": "Nineteen Eighty-Four The Illustrated Edition",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL60853298M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-12T22:03:01.622988"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KU-566-072"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-10-16:KU-566-072"
+      ],
+      "title": "1984-ieji",
+      "full_title": "1984-ieji",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL60406447M",
+      "isbn_10": [
+        "995513500X"
+      ],
+      "isbn_13": [
+        "9789955135005"
+      ],
+      "ocaid": "isbn_9789955135005",
+      "publishers": [
+        "Jotema"
+      ],
+      "publish_date": "2015",
+      "languages": [
+        {
+          "key": "/languages/lit"
+        }
+      ],
+      "covers": [
+        15257033
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-04T17:07:37.733383"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1984",
+      "publish_country": "su",
+      "languages": [
+        {
+          "key": "/languages/ara"
+        }
+      ],
+      "work_titles": [
+        "Nineteen eighty-four"
+      ],
+      "title": "al-ʻĀlam ʻām alf wa-tasʻmiʻah wa-arbaʻah wa-thamānīn",
+      "by_statement": "Jūrj Ūrwīl ; naqalahā lil-ʻArabīyah ʻAzīz Ḍiyāʾ",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL6693762A"
+        }
+      ],
+      "oclc_numbers": [
+        "122738286"
+      ],
+      "other_titles": [
+        "1984.",
+        "Nineteen eighty-four."
+      ],
+      "edition_name": "al-Ṭabʻah 1.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Nineteen eighty-four."
+      },
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publishers": [
+        "Tihāmah"
+      ],
+      "publish_places": [
+        "Jiddah, al-Mamlakah al-ʻArabīyah al-Saʻūdīyah"
+      ],
+      "pagination": "384 p.",
+      "number_of_pages": 384,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:188552136:1147"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL60284982M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-24T17:37:59.080654"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1990",
+      "publish_country": "is",
+      "languages": [
+        {
+          "key": "/languages/ara"
+        }
+      ],
+      "work_titles": [
+        "Nineteen eighty-four"
+      ],
+      "title": "Alf wa-tisʻamīyah wa-arbaʻah wa-thamānūn, 1984",
+      "by_statement": "bi-qalam Jūrj Ūrūyīl ; tarjamat Rashdah al-Miṣrī",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL15630228A"
+        }
+      ],
+      "oclc_numbers": [
+        "42435609"
+      ],
+      "other_titles": [
+        "1984"
+      ],
+      "edition_name": "al-Ṭabʻah 1.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Nineteen eighty-four."
+      },
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "English fiction",
+        "Translations into Arabic"
+      ],
+      "publishers": [
+        "al-Jamʻīyah al-Filasṭīnīyah al-Akādimīyah lil-Shuʾūn al-Dawlīyah"
+      ],
+      "publish_places": [
+        "al-Quds"
+      ],
+      "pagination": "309 p.",
+      "number_of_pages": 309,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_008.bib.mrc:227374739:1376"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL59518467M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-07-09T13:03:53.751058"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "1984",
+      "publishers": [
+        "Mirlo Ediciones"
+      ],
+      "publish_date": "2023",
+      "key": "/books/OL59156105M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15088440
+      ],
+      "isbn_13": [
+        "9786071440884"
+      ],
+      "publish_places": [
+        "Ciudad de México"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-21T19:56:46.630222"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Nineteen Eighty-Four",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1954",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 258,
+      "publishers": [
+        "Penguin Books"
+      ],
+      "source_records": [
+        "ia:nineteeneightyfo0000unse_r2r2"
+      ],
+      "full_title": "NINETEEN EIGHTY-FOUR (972)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58962733M",
+      "ocaid": "nineteeneightyfo0000unse_r2r2",
+      "covers": [
+        15256033
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T19:46:09.333151"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "1984",
+      "authors": [
+        {
+          "key": "/authors/OL15318546A"
+        }
+      ],
+      "publish_date": "1981",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 278,
+      "publishers": [
+        "Perma-Bound"
+      ],
+      "source_records": [
+        "ia:bwb_S0-AWJ-404"
+      ],
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58694663M",
+      "ocaid": "bwb_S0-AWJ-404",
+      "covers": [
+        15256123
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T16:12:15.324441"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Nineteen Eighty-Four",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1959",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 258,
+      "publishers": [
+        "Penguin Books"
+      ],
+      "ocaid": "bwb_KU-573-568",
+      "source_records": [
+        "ia:bwb_KU-573-568"
+      ],
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58637382M",
+      "covers": [
+        15256090
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T20:45:13.996392"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Nineteen eighty-four",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1949",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 326,
+      "publishers": [
+        "Harcourt, Brace & World"
+      ],
+      "source_records": [
+        "ia:bwb_S0-BYS-340"
+      ],
+      "full_title": "Nineteen eighty-four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58703977M",
+      "covers": [
+        15256129
+      ],
+      "ocaid": "bwb_S0-BYS-340",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T18:36:14.323001"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "Nineteen Eighty-Four",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "publish_date": "1959",
+      "key": "/books/OL62592152M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "bwb_KV-351-285",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15257353
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T12:34:47.382090"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Nineteen Eighty-Four",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1999",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 354,
+      "publishers": [
+        "Penguin Books"
+      ],
+      "source_records": [
+        "ia:bwb_KS-393-950",
+        "ia:bwb_P9-EEP-238",
+        "ia:bwb_S0-AKI-268"
+      ],
+      "full_title": "nineteen eighty-four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58626452M",
+      "covers": [
+        15256044
+      ],
+      "ocaid": "bwb_KS-393-950",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T17:44:21.119729"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "Nineteen Eighty-Four",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL62592138M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "nineteeneightyfo0000geor_t8a6",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15257340
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T12:06:32.353775"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "1984",
+      "authors": [
+        {
+          "key": "/authors/OL7833082A"
+        }
+      ],
+      "publish_date": "1963-07",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 274,
+      "publishers": [
+        "New American Library"
+      ],
+      "source_records": [
+        "ia:1984novelbygeorg0000eric"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58527242M",
+      "ocaid": "1984novelbygeorg0000eric",
+      "covers": [
+        15257469
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T00:31:35.902860"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "1984",
+      "authors": [
+        {
+          "key": "/authors/OL7833082A"
+        }
+      ],
+      "publish_date": "1961",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 274,
+      "publishers": [
+        "New American Library"
+      ],
+      "source_records": [
+        "ia:1984georgeorwell0000eric"
+      ],
+      "full_title": "1984 George Orwell",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58527191M",
+      "ocaid": "1984georgeorwell0000eric",
+      "covers": [
+        15257467
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T00:30:49.991036"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "1984",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "publish_date": "1961",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 274,
+      "publishers": [
+        "The New American Library"
+      ],
+      "source_records": [
+        "ia:19840000geor",
+        "ia:19840000geor_c4l6"
+      ],
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL58527122M",
+      "covers": [
+        14862408
+      ],
+      "ocaid": "19840000geor",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-24T00:29:43.954729"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1992",
+      "publish_country": "ctu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Nineteen eighty-four",
+      "by_statement": "George Orwell ; Introduction by James Gunn ; Artwork by Frank Kelly Freas",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "other_titles": [
+        "1984"
+      ],
+      "edition_name": "Collector's ed.",
+      "notes": "Collector's notes laid in.",
+      "contributions": [
+        "Easton Press"
+      ],
+      "subjects": [
+        "Totalitarianism",
+        "Fiction"
+      ],
+      "publishers": [
+        "Easton Press"
+      ],
+      "publish_places": [
+        "Norwalk, CT"
+      ],
+      "pagination": "xiii, 314 p.",
+      "number_of_pages": 314,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:559304946:699"
+      ],
+      "full_title": "Nineteen eighty-four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL57360519M",
+      "oclc_numbers": [
+        "36813769"
+      ],
+      "ocaid": "nineteeneightyfo0000geor_a4u8",
+      "covers": [
+        15257442
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-12-24T22:44:45.376448"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "19uu",
+      "publish_country": "cc",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "work_titles": [
+        "Nineteen eighty-four"
+      ],
+      "title": "一九八四年",
+      "other_titles": [
+        "Yi jiu ba si nian"
+      ],
+      "by_statement": "Wang Heyi yi",
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "oclc_numbers": [
+        "51989059"
+      ],
+      "series": [
+        "漢譯今世名著菁 -- 第52种"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: Nineteen eighty-four."
+      },
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "contributions": [
+        "Wang Heyi"
+      ],
+      "subjects": [
+        "Totalitarianism",
+        "Fiction"
+      ],
+      "publishers": [
+        "Hua guo chu ban she"
+      ],
+      "publish_places": [
+        "Xianggang?"
+      ],
+      "pagination": "74 p.",
+      "number_of_pages": 74,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:671761938:966"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL57259784M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-12-15T23:12:13.819887"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "title": "1984 by George Orwell",
+      "publishers": [
+        "Orwell"
+      ],
+      "publish_date": "1949",
+      "key": "/books/OL56933520M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        -1
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-08T18:05:54.033309"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9786073907163"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 400,
+      "publish_date": "2024",
+      "publishers": [
+        "Editorial Planeta Mexicana"
+      ],
+      "source_records": [
+        "bwb:9786073907163",
+        "promise:bwb_daily_pallets_2025-03-26:T5-CFT-601"
+      ],
+      "title": "1984",
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56904183M",
+      "local_id": [
+        "urn:bwbsku:T5-CFT-601"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-06T06:03:46.912328"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781979429047"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 468,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781979429047"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "1.323",
+      "subtitle": "Large Print",
+      "full_title": "Nineteen Eighty-Four Large Print",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56240236M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T05:13:27.155768"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781548880330"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 314,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781548880330"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.541",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56298555M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T15:08:35.671141"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781976587337"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 468,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781976587337"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.786",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56350194M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T22:30:40.704889"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781977552105"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 228,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781977552105"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.405",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56400581M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T05:23:22.531661"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781500143794"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 408,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781500143794"
+      ],
+      "title": "1984. Spanish Edition",
+      "weight": "0.605",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56223038M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T03:04:35.796127"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL9781252A"
+        }
+      ],
+      "isbn_13": [
+        "9781518719240"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 188,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781518719240"
+      ],
+      "title": "1984 (Spanish Edition)",
+      "weight": "0.345",
+      "full_title": "1984 (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55972580M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T14:23:33.861786"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781514630419"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 308,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781514630419"
+      ],
+      "title": "1984 (Spanish Edition)",
+      "weight": "0.532",
+      "full_title": "1984 (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL56103219M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T09:05:31.799796"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781542940221"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 368,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781542940221"
+      ],
+      "title": "1984 (Nineteen Eighty-Four)",
+      "weight": "0.550",
+      "full_title": "1984 (Nineteen Eighty-Four)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55803000M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-29T12:46:03.245740"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781973896630"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 286,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781973896630"
+      ],
+      "title": "1984 (Signet Classics)",
+      "weight": "0.500",
+      "full_title": "1984 (Signet Classics)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55631583M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T12:16:43.215026"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL14547803A"
+        }
+      ],
+      "isbn_13": [
+        "9781986508148"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 156,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781986508148"
+      ],
+      "title": "1984",
+      "weight": "0.295",
+      "full_title": "1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55440462M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T08:08:01.252311"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781497345348"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 230,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781497345348"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.409",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55279774M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T08:30:54.544893"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781719462358"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 254,
+      "publish_date": "2018",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781719462358"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.345",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55375847M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T22:39:04.972617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781547187492"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 158,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781547187492"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.295",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55690876M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T21:06:35.191457"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9781503122758"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 132,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781503122758"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "weight": "0.409",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55909427M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T04:24:49.548718"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL9601583A"
+        }
+      ],
+      "isbn_13": [
+        "9781500440268"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 112,
+      "publish_date": "2014",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781500440268"
+      ],
+      "title": "'Nineteen Eighty-Four'",
+      "weight": "0.223",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55190154M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T19:25:03.463541"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        },
+        {
+          "key": "/authors/OL7285842A"
+        }
+      ],
+      "isbn_13": [
+        "9781518719912"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 188,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781518719912"
+      ],
+      "title": "1984 (Spanish Edition)",
+      "weight": "0.345",
+      "full_title": "1984 (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL54782241M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-23T07:36:01.003627"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781537215884"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 190,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781537215884"
+      ],
+      "title": "1984 (Spanish Edition)",
+      "weight": "0.345",
+      "full_title": "1984 (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55323293M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T15:16:12.573200"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781544256122"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 276,
+      "publish_date": "2017",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781544256122"
+      ],
+      "title": "1984 (Spanish Edition)",
+      "weight": "0.482",
+      "full_title": "1984 (Spanish Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL55335602M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T16:49:22.497939"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KU-765-717"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-08-21:KU-765-717"
+      ],
+      "title": "Rok 1984",
+      "full_title": "Rok 1984",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL53452623M",
+      "isbn_10": [
+        "8374953985"
+      ],
+      "isbn_13": [
+        "9788374953986"
+      ],
+      "ocaid": "rok19840000unse",
+      "publishers": [
+        "Muza SA"
+      ],
+      "publish_date": "2009",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "covers": [
+        15256088
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-23T01:26:42.477059"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781840228823"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2024",
+      "publishers": [
+        "Wordsworth Editions, Limited"
+      ],
+      "source_records": [
+        "bwb:9781840228823"
+      ],
+      "title": "Nineteen Eighty-Four (Collector's Edition)",
+      "full_title": "Nineteen Eighty-Four (Collector's Edition)",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL53266438M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T12:07:47.733101"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781038770288"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 206,
+      "publish_date": "2024",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781038770288"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL52562109M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-07-17T09:45:02.534428"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_10": [
+        "0241969697"
+      ],
+      "isbn_13": [
+        "9780241969694"
+      ],
+      "local_id": [
+        "urn:bwbsku:KU-010-915"
+      ],
+      "publish_date": "2013-11-30",
+      "publishers": [
+        "Penguin"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-31:KU-010-915"
+      ],
+      "title": "Nineteen Eighty-four",
+      "full_title": "Nineteen Eighty-four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL52981797M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-02T01:13:13.584534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "823.912"
+      ],
+      "isbn_13": [
+        "9780436203855"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1998",
+      "publishers": [
+        "Hodder & Stoughton"
+      ],
+      "source_records": [
+        "bwb:9780436203855"
+      ],
+      "subjects": [
+        "British and irish fiction (fictional works by one author)",
+        "Fiction, science fiction, general",
+        "Fiction, political",
+        "London (england), fiction",
+        "Fiction, dystopian"
+      ],
+      "title": "Nineteen Eighty-Four",
+      "full_title": "Nineteen Eighty-Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL53237395M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T06:50:26.007107"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL118077A"
+        }
+      ],
+      "isbn_13": [
+        "9781533624833"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 412,
+      "publish_date": "2016",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781533624833"
+      ],
+      "title": "Nineteen Eighty Four",
+      "weight": "0.695",
+      "full_title": "Nineteen Eighty Four",
+      "works": [
+        {
+          "key": "/works/OL1168083W"
+        }
+      ],
+      "key": "/books/OL54650723M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T13:31:09.330296"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-22T17:34:18.758024"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-27T14:27:34.730047"
+  },
+  "title": "E jībana e sapana",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-27T14:27:34.730047"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL367732W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL10476A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 35279740,
+  "revision": 1
+}

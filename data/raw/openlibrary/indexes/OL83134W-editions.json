@@ -1,0 +1,126 @@
+{
+  "links": {
+    "self": "/works/OL83134W/editions.json",
+    "work": "/works/OL83134W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Hodder Wayland"
+      ],
+      "covers": [
+        2591269
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL10806097M",
+      "authors": [
+        {
+          "key": "/authors/OL21846A"
+        }
+      ],
+      "ocaid": "onlymatteroftime0000ross_f7q6",
+      "subjects": [
+        "War stories"
+      ],
+      "source_records": [
+        "amazon:0750233125",
+        "ia:onlymatteroftime0000ross_f7q6",
+        "promise:bwb_daily_pallets_2020-11-19"
+      ],
+      "title": "Only a Matter of Time (Survivors)",
+      "number_of_pages": 96,
+      "isbn_13": [
+        "9780750233125"
+      ],
+      "isbn_10": [
+        "0750233125"
+      ],
+      "publish_date": "May 17, 2001",
+      "oclc_numbers": [
+        "45405963"
+      ],
+      "works": [
+        {
+          "key": "/works/OL83134W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KO-244-697"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T12:54:24.293232"
+      }
+    },
+    {
+      "publishers": [
+        "Hodder Wayland"
+      ],
+      "number_of_pages": 96,
+      "weight": "5 ounces",
+      "covers": [
+        493078
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-06T20:33:29.692167"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL7970658M",
+      "authors": [
+        {
+          "key": "/authors/OL21846A"
+        }
+      ],
+      "subjects": [
+        "European history: postwar, from c 1945 -",
+        "War stories",
+        "Yugoslavia & former Yugoslavia",
+        "c 1990 to c 2000",
+        "Children: Grades 3-4"
+      ],
+      "edition_name": "New Ed edition",
+      "source_records": [
+        "amazon:0750237333:cr:2099444547:145824"
+      ],
+      "title": "Only a Matter of Time (Survivors)",
+      "identifiers": {
+        "librarything": [
+          "9079333"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "isbn_13": [
+        "9780750237338"
+      ],
+      "isbn_10": [
+        "0750237333"
+      ],
+      "publish_date": "November 15, 2001",
+      "works": [
+        {
+          "key": "/works/OL83134W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.4 x 5.3 x 0.5 inches",
+      "revision": 4
+    }
+  ]
+}

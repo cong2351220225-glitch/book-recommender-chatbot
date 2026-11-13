@@ -1,0 +1,68 @@
+{
+  "publishers": [
+    "Lerner Classroom",
+    "Lerner Publishing Group"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "954680"
+    ]
+  },
+  "subtitle": "Chief Justice (Gateway Biographies)",
+  "weight": "4 ounces",
+  "covers": [
+    2655319
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL11425565M",
+  "authors": [
+    {
+      "key": "/authors/OL26332A"
+    }
+  ],
+  "subjects": [
+    "Biography & Autobiography - General",
+    "Law & Crime",
+    "Children's Books/Ages 9-12 Biography"
+  ],
+  "isbn_13": [
+    "9780822564287"
+  ],
+  "source_records": [
+    "amazon:0822564289",
+    "bwb:9780822564287"
+  ],
+  "title": "John G. Roberts, Jr.",
+  "number_of_pages": 48,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0822564289"
+  ],
+  "publish_date": "October 2006",
+  "oclc_numbers": [
+    "62858046"
+  ],
+  "works": [
+    {
+      "key": "/works/OL27427W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.6 x 7 x 0.2 inches",
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-17T04:55:15.908045"
+  }
+}

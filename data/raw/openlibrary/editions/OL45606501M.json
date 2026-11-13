@@ -1,0 +1,57 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL117300A"
+    }
+  ],
+  "identifiers": {
+    "amazon": [
+      "B000NGQWX0"
+    ],
+    "better_world_books": [
+      "BWB3504871"
+    ]
+  },
+  "local_id": [
+    "urn:bwbsku:P8-BEW-158"
+  ],
+  "publish_date": "1940-01-01",
+  "publishers": [
+    "Kelly & Walsh, Ltd."
+  ],
+  "source_records": [
+    "promise:bwb_daily_pallets_2023-01-04",
+    "ia:japanclosingopen0000john"
+  ],
+  "title": "Japan closing the \"open door\" in China",
+  "full_title": "Japan closing the \"open door\" in China",
+  "works": [
+    {
+      "key": "/works/OL1156662W"
+    }
+  ],
+  "key": "/books/OL45606501M",
+  "covers": [
+    14992778
+  ],
+  "ocaid": "japanclosingopen0000john",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 154,
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-01-10T21:03:33.785697"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-04T12:24:43.460985"
+  }
+}

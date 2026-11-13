@@ -1,0 +1,604 @@
+{
+  "links": {
+    "self": "/works/OL30039W/editions.json",
+    "work": "/works/OL30039W"
+  },
+  "size": 8,
+  "entries": [
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "subtitle": "A Supplementary Reader for the Fourth Year of Scho",
+      "weight": "6.6 ounces",
+      "covers": [
+        2893853
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:03.049691"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11978865M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781434655615"
+      ],
+      "source_records": [
+        "amazon:143465561X"
+      ],
+      "title": "The Louisa Alcott Reader",
+      "number_of_pages": 122,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "143465561X"
+      ],
+      "publish_date": "September 15, 2007",
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5 x 0.3 inches",
+      "revision": 4
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1090115"
+        ]
+      },
+      "title": "The Louisa Alcott Reader (Large Print)",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "December 1, 2005",
+      "publishers": [
+        "Echo Library"
+      ],
+      "weight": "12 ounces",
+      "covers": [
+        2037156
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's Books/All Ages",
+        "Children: Young Adult (Gr. 7-9)",
+        "General",
+        "Juvenile Fiction / General",
+        "Short Stories"
+      ],
+      "edition_name": "Largeprint edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "isbn_13": [
+        "9781846370588"
+      ],
+      "isbn_10": [
+        "1846370582"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.9 x 0.6 inches",
+      "source_records": [
+        "amazon:1846370582"
+      ],
+      "key": "/books/OL8962774M",
+      "number_of_pages": 228,
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-13T15:57:33.534705"
+      }
+    },
+    {
+      "publishers": [
+        "Dodo Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "260672"
+        ]
+      },
+      "subtitle": "A Supplementary Reader for the Fourth Year of School",
+      "weight": "4.2 ounces",
+      "isbn_10": [
+        "1406505900"
+      ],
+      "covers": [
+        1754789
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-30T05:44:18.220476"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL9712199M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "source_records": [
+        "amazon:1406505900:2-bf:1379419840:160434"
+      ],
+      "title": "The Louisa Alcott Reader",
+      "number_of_pages": 124,
+      "isbn_13": [
+        "9781406505900"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "edition_name": "Illustrate edition",
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "publish_date": "April 30, 2006",
+      "oclc_numbers": [
+        "173856140"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.9 x 0.5 inches",
+      "revision": 7
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Also available in digital form on the Library of Congress Web site."
+      },
+      "identifiers": {
+        "librarything": [
+          "2919807"
+        ]
+      },
+      "title": "The Louisa Alcott reader",
+      "subtitle": "a supplementary reader for the fourth year of school",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1908",
+      "publishers": [
+        "Little, Brown"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "A Christmas dream"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "The candy country"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Naughty Jocko"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "The skipping shoes"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Cockyloo"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "Rosy's journey"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "How they ran away"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "The fairy box"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "A hole in the wall"
+        },
+        {
+          "level": 0,
+          "type": {
+            "key": "/type/toc_item"
+          },
+          "title": "The piggy girl."
+        }
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Lo"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "uri_descriptions": [
+        "PDF",
+        "Page view"
+      ],
+      "pagination": "222 p. incl. front. :",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:190182704:974",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:55902966:974",
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:202427146:1786"
+      ],
+      "lccn": [
+        "08000973"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "url": [
+        "http://hdl.loc.gov/loc.gdc/scd0001.20021028002la.1",
+        "http://hdl.loc.gov/loc.gdc/scd0001.20021028002la.2"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisia M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://hdl.loc.gov/loc.gdc/scd0001.20021028002la.1",
+        "http://hdl.loc.gov/loc.gdc/scd0001.20021028002la.2"
+      ],
+      "key": "/books/OL6992644M",
+      "number_of_pages": 222,
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-30T04:05:30.184010"
+      }
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "1355200"
+        ]
+      },
+      "weight": "11.4 ounces",
+      "covers": [
+        1749542
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:03.049691"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9882731M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Fiction",
+        "Fiction - General",
+        "General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "source_records": [
+        "amazon:1404384324:2-ay:3937206040:157057"
+      ],
+      "title": "The Louisa Alcott Reader",
+      "number_of_pages": 120,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781404384323"
+      ],
+      "isbn_10": [
+        "1404384324"
+      ],
+      "publish_date": "July 2003",
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.9 x 0.4 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "subtitle": "A Supplementary Reader for the Fourth Year of Scho",
+      "weight": "11.4 ounces",
+      "covers": [
+        2893854
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:03.049691"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11978866M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781434655622"
+      ],
+      "source_records": [
+        "amazon:1434655628"
+      ],
+      "title": "The Louisa Alcott Reader (Large Print Edition)",
+      "number_of_pages": 132,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1434655628"
+      ],
+      "publish_date": "September 15, 2007",
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.7 x 7.4 x 0.3 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "6.6 ounces",
+      "covers": [
+        1749543
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:03.049691"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9454616M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:1404384332:2-ah:4051012987:155500"
+      ],
+      "title": "The Louisa Alcott Reader",
+      "number_of_pages": 120,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781404384330"
+      ],
+      "isbn_10": [
+        "1404384332"
+      ],
+      "publish_date": "July 2003",
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "number_of_pages": 116,
+      "weight": "1.6 ounces",
+      "covers": [
+        1802972
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-27T13:58:42.710518"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL9598878M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Fiction - General",
+        "Fiction",
+        "General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "\"I'm so tired of Christmas I wish there never would be another one!\" exclaimed a discontented-looking little girl, as she sat idly watching her mother arrange a pile of gifts two days before they were to be given."
+      },
+      "source_records": [
+        "amazon:1419170880:2-bc:292755871:159215"
+      ],
+      "title": "The Louisa Alcott Reader",
+      "identifiers": {
+        "goodreads": [
+          "2267796"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781419170881"
+      ],
+      "isbn_10": [
+        "1419170880"
+      ],
+      "publish_date": "June 30, 2004",
+      "oclc_numbers": [
+        "173856011"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30039W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 7.3 x 0.1 inches",
+      "revision": 7
+    }
+  ]
+}

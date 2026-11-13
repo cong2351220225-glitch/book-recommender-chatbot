@@ -1,0 +1,30 @@
+{
+  "title": "The complete poetical and prose works of Robert Burns",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2015-02-26T00:33:17.235975"
+  },
+  "covers": [
+    7330353
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2015-02-26T00:33:17.235975"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL17088998W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL63008A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

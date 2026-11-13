@@ -1,0 +1,20 @@
+{
+  "id": "test_stream_3139bbc6",
+  "title": "Chào bạn, bạn là ai?",
+  "timestamp": "2026-11-03 03:14:16",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào bạn, bạn là ai?",
+      "timestamp": "03:14"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, mình đang gặp trục trặc khi trả lời. Bạn thử nhắn lại cho mình nhé.",
+      "timestamp": "03:14",
+      "sources": [],
+      "locations": [],
+      "intent": "small_talk"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Louisa May Alcott was twenty-one when she published this, her first book. A collection of fairy stories and poems she originally told to Ralph Waldo Emerson's daughter Ellen, Flower Fables is a charming and delightful achievement from the hand that would eventually craft the timeless classic Little Women. Flower Fables is presented here in large print for easier reading by children and adults of any age."
+  },
+  "title": "Flower Fables",
+  "covers": [
+    755980,
+    9219095,
+    10885645,
+    11070913,
+    8542697,
+    8915451,
+    11452443,
+    9177030,
+    12504178,
+    13491555
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "THE summer moon shone brightly down upon the sleeping earth, while far away from mortal eyes danced the Fairy folk."
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "1854",
+  "key": "/works/OL30056W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "THE summer moon shone brightly down upon the sleeping earth, while far away from mortal eyes danced the Fairy folk."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fairy tales",
+    "Fairies",
+    "Flowers",
+    "Literary collections",
+    "Poetry",
+    "Fiction",
+    "Children's stories, American",
+    "Short stories",
+    "Classic Literature",
+    "Conduct of life",
+    "Juvenile literature",
+    "Children's fiction",
+    "Flowers, fiction",
+    "JUVENILE FICTION / Fairy Tales & Folklore / General",
+    "American fiction (fictional works by one author)",
+    "Literature, collections"
+  ],
+  "location": "/works/OL19634824W",
+  "genres": [
+    "/tags/OL174T"
+  ],
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-28T12:13:29.572123"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "lc_classifications": [
+    "PZ90.H3 B283"
+  ],
+  "key": "/works/OL1578028W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T21:54:43.607572"
+  },
+  "title": "Givʻat ha-nemalim",
+  "first_publish_date": "1967",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-01-31T04:47:49.765150"
+  },
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL170221A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 36756400,
+  "revision": 2
+}

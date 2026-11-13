@@ -1,0 +1,182 @@
+{
+  "links": {
+    "self": "/works/OL30078W/editions.json",
+    "work": "/works/OL30078W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Cedarfort"
+      ],
+      "identifiers": {
+        "librarything": [
+          "754847"
+        ],
+        "goodreads": [
+          "442580"
+        ]
+      },
+      "isbn_10": [
+        "1555177832"
+      ],
+      "pagination": "346 p. :",
+      "covers": [
+        774182
+      ],
+      "lc_classifications": [
+        "PS3564.U468 T53 2004",
+        "PS3564.U468T53 2004"
+      ],
+      "key": "/books/OL3315953M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "Springville, Utah"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:35949504:655",
+        "marc:marc_loc_2016/BooksAll.2016.part31.utf8:203050176:655",
+        "bwb:9781555177836",
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:717013700:741",
+        "marc:harvard_bibliographic_metadata/20220215_016.bib.mrc:196183354:1353"
+      ],
+      "title": "Ties that bind",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 346,
+      "edition_name": "2nd ed.",
+      "lccn": [
+        "2004111691"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction"
+      ],
+      "publish_date": "2004",
+      "publish_country": "utu",
+      "by_statement": "by Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "60414700",
+        "56976465"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30078W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-02T07:37:23.325362"
+      }
+    },
+    {
+      "publishers": [
+        "Covenant Communications"
+      ],
+      "identifiers": {
+        "librarything": [
+          "754847"
+        ],
+        "goodreads": [
+          "1531821"
+        ]
+      },
+      "subtitle": "a novel",
+      "isbn_10": [
+        "1577349393"
+      ],
+      "pagination": "325 p. ;",
+      "covers": [
+        4345360
+      ],
+      "lc_classifications": [
+        "PS3564.U468 T53 2002",
+        "PS3564.U468T53 2002"
+      ],
+      "key": "/books/OL3956141M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "American Fork, UT"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part13.dat:146384806:647",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:234268207:647",
+        "ia:tiesthatbindnove0000nune",
+        "promise:bwb_daily_pallets_2022-03-17",
+        "bwb:9781577349396"
+      ],
+      "title": "Ties that bind",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 325,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2001058449"
+      ],
+      "subjects": [
+        "Mormon women -- Fiction"
+      ],
+      "publish_date": "2002",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "48871045"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30078W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "tiesthatbindnove0000nune",
+      "local_id": [
+        "urn:bwbsku:W3-BBC-288"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-10-17T07:36:31.904396"
+      }
+    }
+  ]
+}

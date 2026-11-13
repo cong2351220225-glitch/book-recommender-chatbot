@@ -1,0 +1,61 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Robert Louis Stevenson (1850-1894) traveled to California in 1879 in pursuit of Fanny Van de Grift Osbourne, the Oakland woman with whom he had fallen in love in France. The two were married in the spring of 1880 and honeymooned in a cabin at Silverado, a mining ghost town on Mt. St. Helena. In the next fourteen years, Mrs. Stevenson nursed her husband while he produced the verses, stories, and books of travel and adventure that made him famous. Silverado (1888) tells the story of the newlywed Stevensons' trip to Silverado. Stevenson writes of their journey from San Francisco up the Napa Valley to Calistoga and then up the mountain to their goal. He describes their neighbors, and recounts tales of the town in its glory days as a silver mining camp."
+  },
+  "title": "The Silverado Squatters",
+  "covers": [
+    594985,
+    8942950,
+    8243220
+  ],
+  "subject_places": [
+    "California",
+    "Napa Valley (Calif.)",
+    "Calistoga (Calif.)"
+  ],
+  "first_publish_date": "1883",
+  "subject_people": [
+    "Robert Louis Stevenson (1850-1894)"
+  ],
+  "key": "/works/OL24143W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL25963A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Description and travel",
+    "Zamorano 80",
+    "Mines and mineral resources",
+    "Travel",
+    "Ethnic groups",
+    "Private presses",
+    "Fine press specimens",
+    "Fine books",
+    "Grabhorn Press",
+    "Specimens",
+    "Printing",
+    "Stevenson, robert louis, 1850-1894",
+    "California, description and travel",
+    "Voyages and travels"
+  ],
+  "latest_revision": 27,
+  "revision": 27,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T22:45:44.848463"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T05:38:02.587572"
+  }
+}

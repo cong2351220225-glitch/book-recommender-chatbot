@@ -1,0 +1,46 @@
+{
+  "links": {
+    "self": "/works/OL16854124W/editions.json",
+    "work": "/works/OL16854124W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "source_records": [
+        "ia:observationsetm34pari"
+      ],
+      "title": "Observations et Mémoires sur la Physique, sur l'Histoire Naturelle et sur les Arts et Métiers, etc",
+      "notes": {
+        "type": "/type/text",
+        "value": "Formerly: Introduction aux Observations sur la Physique, sur l'Histoire Naturelle et sur les Arts\n\nContinued as: Journal de Physique, de Chimie et d'Histoire Naturelle"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2014-07-24T21:38:06.214624"
+      },
+      "covers": [
+        9711705
+      ],
+      "full_title": "Observations et Mémoires sur la Physique, sur l'Histoire Naturelle et sur les Arts et Métiers, etc",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-18T19:24:11.890511"
+      },
+      "latest_revision": 2,
+      "key": "/books/OL25478727M",
+      "ocaid": "observationsetm34pari",
+      "publish_places": [
+        "Paris"
+      ],
+      "works": [
+        {
+          "key": "/works/OL16854124W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2
+    }
+  ]
+}

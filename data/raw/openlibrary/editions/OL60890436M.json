@@ -1,0 +1,53 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL23919A"
+    },
+    {
+      "key": "/authors/OL7896175A"
+    },
+    {
+      "key": "/authors/OL16035741A"
+    }
+  ],
+  "isbn_13": [
+    "9781546154419"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 608,
+  "publish_date": "2025",
+  "publishers": [
+    "Scholastic, Incorporated"
+  ],
+  "source_records": [
+    "bwb:9781546154419"
+  ],
+  "title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (Interactive Illustrated Edition)",
+  "full_title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (Interactive Illustrated Edition)",
+  "works": [
+    {
+      "key": "/works/OL82560W"
+    }
+  ],
+  "key": "/books/OL60890436M",
+  "covers": [
+    15227222
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2025-12-13T01:32:27.777072"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-04T04:15:31.732953"
+  }
+}

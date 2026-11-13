@@ -1,0 +1,222 @@
+{
+  "links": {
+    "self": "/works/OL26320W/editions.json",
+    "work": "/works/OL26320W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "publishers": [
+        "Methuen"
+      ],
+      "subtitle": "poetry and prose.  Edited with an introd. by B. Ifor Evans.",
+      "series": [
+        "Methuen's English classics"
+      ],
+      "lc_classifications": [
+        "PR5853 E8"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL20927089M",
+      "authors": [
+        {
+          "key": "/authors/OL26159A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Evans, B. Ifor 1899-"
+      ],
+      "pagination": "217p.",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:2230068312:571"
+      ],
+      "title": "Selections",
+      "number_of_pages": 217,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-30T16:19:39.668686"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-11-09T04:23:45.985128"
+      },
+      "publish_date": "1935",
+      "works": [
+        {
+          "key": "/works/OL26320W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Macmillan"
+      ],
+      "subtitle": "Edited with introd. and notes by W.T. Webb.",
+      "covers": [
+        5571418
+      ],
+      "lc_classifications": [
+        "PR5853 W4"
+      ],
+      "key": "/books/OL7043188M",
+      "authors": [
+        {
+          "key": "/authors/OL26159A"
+        }
+      ],
+      "ocaid": "selectionsedited00worduoft",
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Webb, William Trego, 1847-"
+      ],
+      "pagination": "215p.",
+      "source_records": [
+        "ia:selectionsedited00worduoft"
+      ],
+      "title": "Selections.",
+      "publish_date": "1897",
+      "publish_country": "|||",
+      "works": [
+        {
+          "key": "/works/OL26320W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 215,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-12T01:55:12.191266"
+      }
+    },
+    {
+      "publishers": [
+        "Routledge"
+      ],
+      "number_of_pages": 222,
+      "source_records": [
+        "bwb:9780423743609",
+        "ia:selectionsfromwo0000word",
+        "promise:bwb_daily_pallets_2020-10-23"
+      ],
+      "title": "Selections (English Classics)",
+      "contributions": [
+        "Sir Ifor Evans (Editor)"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "813053"
+        ],
+        "librarything": [
+          "2038032"
+        ]
+      },
+      "isbn_13": [
+        "9780423743609"
+      ],
+      "isbn_10": [
+        "0423743600"
+      ],
+      "publish_date": "December 1966",
+      "key": "/books/OL7500314M",
+      "authors": [
+        {
+          "key": "/authors/OL26159A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL26320W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        11711516
+      ],
+      "ocaid": "selectionsfromwo0000word",
+      "lc_classifications": [
+        "PR5852 .E9 1975"
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-595-808"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T18:06:54.942608"
+      }
+    },
+    {
+      "title": "Selections",
+      "authors": [
+        {
+          "key": "/authors/OL26159A"
+        }
+      ],
+      "publish_date": "1885",
+      "covers": [
+        6026215
+      ],
+      "ocaid": "selections00wordgoog",
+      "oclc_numbers": [
+        "68863131"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "ia:selections00wordgoog"
+      ],
+      "key": "/books/OL20470833M",
+      "number_of_pages": 337,
+      "works": [
+        {
+          "key": "/works/OL26320W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T04:02:32.574930"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-11T12:24:34.481997"
+      }
+    }
+  ]
+}

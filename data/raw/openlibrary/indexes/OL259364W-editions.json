@@ -1,0 +1,303 @@
+{
+  "links": {
+    "self": "/works/OL259364W/editions.json",
+    "work": "/works/OL259364W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "publishers": [
+        "DK Print World"
+      ],
+      "number_of_pages": 717,
+      "weight": "2.6 pounds",
+      "covers": [
+        2267662
+      ],
+      "edition_name": "1 edition",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T12:17:20.754774"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9782167M",
+      "authors": [
+        {
+          "key": "/authors/OL2622226A"
+        }
+      ],
+      "subjects": [
+        "India",
+        "Asian / Middle Eastern history",
+        "Cultural studies",
+        "Encyclopaedias & Reference Works",
+        "Hinduism",
+        "Nonfiction / General"
+      ],
+      "isbn_13": [
+        "9788124601280"
+      ],
+      "source_records": [
+        "amazon:8124601283:2-at:2533417420:174619"
+      ],
+      "title": "Classical Dictionary of India",
+      "identifiers": {
+        "librarything": [
+          "8483656"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "8124601283"
+      ],
+      "publish_date": "January 1, 1999",
+      "works": [
+        {
+          "key": "/works/OL259364W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.7 x 2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "South Asia Books"
+      ],
+      "physical_format": "Paperback",
+      "weight": "1.8 pounds",
+      "source_records": [
+        "amazon:8171671896:2-ak:3702481464:209290"
+      ],
+      "title": "A Classical Dictionary of India",
+      "number_of_pages": 698,
+      "isbn_13": [
+        "9788171671892"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL2622226A"
+        }
+      ],
+      "isbn_10": [
+        "8171671896"
+      ],
+      "publish_date": "March 5, 2001",
+      "key": "/books/OL9510057M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-24T03:49:47.566612"
+      },
+      "latest_revision": 2,
+      "subjects": [
+        "Reference"
+      ],
+      "works": [
+        {
+          "key": "/works/OL259364W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 12805311,
+      "physical_dimensions": "8.9 x 5.8 x 1.5 inches",
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "South Asia Books"
+      ],
+      "weight": "2.2 pounds",
+      "covers": [
+        4977682
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T06:53:47.250245"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9455929M",
+      "authors": [
+        {
+          "key": "/authors/OL2622226A"
+        }
+      ],
+      "subjects": [
+        "Reference"
+      ],
+      "isbn_13": [
+        "9788170690092"
+      ],
+      "source_records": [
+        "amazon:8170690099:2-ah:4365911378:173791"
+      ],
+      "title": "A Classical Dictionary of India",
+      "identifiers": {
+        "librarything": [
+          "4904758"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "8170690099"
+      ],
+      "publish_date": "December 1986",
+      "works": [
+        {
+          "key": "/works/OL259364W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 5.9 x 1.7 inches",
+      "revision": 4
+    },
+    {
+      "title": "A classical dictionary of India.",
+      "authors": [
+        {
+          "key": "/authors/OL2622226A"
+        }
+      ],
+      "publish_date": "1994",
+      "publishers": [
+        "Rupa",
+        "South Asia Books"
+      ],
+      "pagination": "698p.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:785580820:407",
+        "promise:bwb_daily_pallets_2023-01-31:P8-AQX-556"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "8171671896"
+      ],
+      "publish_country": "ii ",
+      "publish_places": [
+        "New Delhi"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P8-AQX-556"
+      ],
+      "ocaid": "classicaldiction0000garr_l2s0",
+      "key": "/books/OL21909494M",
+      "number_of_pages": 698,
+      "works": [
+        {
+          "key": "/works/OL259364W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-04T17:30:15.611559"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-20T01:47:50.763763"
+      }
+    },
+    {
+      "publishers": [
+        "South Asia Books"
+      ],
+      "weight": "2.2 pounds",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-26T02:36:20.877472"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL13178384M",
+      "authors": [
+        {
+          "key": "/authors/OL2622226A"
+        }
+      ],
+      "subjects": [
+        "Cultural studies",
+        "Myths & mythology",
+        "Oriental & Indian philosophy",
+        "Reference works",
+        "India",
+        "Hinduism",
+        "Indian Philosophy",
+        "Reference"
+      ],
+      "isbn_13": [
+        "9788186142462"
+      ],
+      "source_records": [
+        "amazon:8186142460"
+      ],
+      "title": "A Classical Dictionary of India",
+      "number_of_pages": 975,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "8186142460"
+      ],
+      "publish_date": "October 1994",
+      "oclc_numbers": [
+        "41094426"
+      ],
+      "works": [
+        {
+          "key": "/works/OL259364W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.9 x 1.6 inches",
+      "revision": 3
+    }
+  ]
+}

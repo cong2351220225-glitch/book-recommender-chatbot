@@ -1,0 +1,2412 @@
+{
+  "links": {
+    "self": "/works/OL257943W/editions.json",
+    "work": "/works/OL257943W",
+    "next": "/works/OL257943W/editions.json?offset=50"
+  },
+  "size": 136,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Random House Worlds"
+      ],
+      "publish_date": "2025",
+      "key": "/books/OL62287051M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15237705
+      ],
+      "isbn_13": [
+        "9780553381689"
+      ],
+      "physical_dimensions": "9.25 x 6.1 x 1.25 inches",
+      "weight": "2.31 pounds",
+      "publish_places": [
+        "New York, New York, USA"
+      ],
+      "copyright_date": "1996",
+      "notes": {
+        "type": "/type/text",
+        "value": "2025 Bantam Books Trade Paperback Edition"
+      },
+      "physical_format": "Paperback",
+      "number_of_pages": 704,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-07-12T09:04:46.171459"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-12T09:10:55.783563"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "Joc de Trons",
+      "publishers": [
+        "Debutxaca"
+      ],
+      "publish_date": "13/04/2022",
+      "key": "/books/OL60751857M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15149225
+      ],
+      "isbn_13": [
+        "9788418196508"
+      ],
+      "physical_dimensions": "19 x 12.6 x 2.9 centimeters",
+      "weight": "596 grams",
+      "series": [
+        "Canço de gel i foc 1"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Mercè Santaularia Campillo"
+        },
+        {
+          "role": "Translator",
+          "name": "Esther Roig Giménez"
+        },
+        {
+          "role": "Translator",
+          "name": "Anna Llisterri i Boix"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/cat"
+        }
+      ],
+      "translation_of": "A game of thrones",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Els estius s'allarguen durant dècades. L'hivern pot durar tota la vida. I la lluita pel Tron de Ferro ha començat. S'estén des del sud, on la calor engendra conspiracions, luxúria i intrigues, al vast i gèlid nord, on un mur de gel de set-cents peus d'alçada protegeix el regne de les forces de la foscor que es troben més enllà.\r\n\r\nEl Joc de Trons.\r\nGuanyaràs o moriràs."
+      },
+      "physical_format": "Paperback",
+      "number_of_pages": 824,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-03T15:55:21.524039"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-03T15:59:13.971387"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Storm of Swords",
+      "publishers": [
+        "Voyaer"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL60616966M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15141362
+      ],
+      "isbn_13": [
+        "9780006479901"
+      ],
+      "subtitle": "1: Steel and Snow",
+      "publish_places": [
+        "Great Britain"
+      ],
+      "copyright_date": "2000",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "BOOK THREE, PART ONE OF A SONG OF ICE AND FIRE \r\n\r\n'Characters so venomous they could eat the Borgias' GUARDIAN \r\n\r\nBlood runs truer than oaths \r\n\r\nThe Seven Kingdoms are divided by revolt and blood feud as winter approaches like an angry beast. In the northern wastes a horde of hungry, savage people steeped in the dark magic of the wilderness is poised to invade the Kingdom of the North where Robb Stark wears his new-forged crown. And Robb's defences are ranged against the South, the land of the cunning and cruel Lannisters, who have his young sisters in their power. Throughout Westeros the war for the Iron Throne rages more fiercely than ever, but if the Wall is breached, no king will live to claim it. \r\n\r\n'Colossal, staggering... Martin captures all the intoxicating complexity of the Wars of the Roses or Imperial Rome in his imaginary world... This looks set to become one of the greats of fantasy literature.' SFX"
+      },
+      "physical_format": "Paperback",
+      "number_of_pages": 672,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-11-10T21:01:04.614621"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-10T21:05:25.656529"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Voyaer"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL60616965M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780006479901"
+      ],
+      "covers": [
+        15141359
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-11-10T20:54:59.727541"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-10T20:59:47.826264"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Guerra dos Tronos",
+      "publishers": [
+        "Suma"
+      ],
+      "publish_date": "2019",
+      "key": "/books/OL60598935M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15139462
+      ],
+      "subtitle": "As Crônicas de Gelo e Fogo, Volume 1",
+      "publish_places": [
+        "Brazil"
+      ],
+      "series": [
+        "A Game of Thrones"
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "A Game of Thrones",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "A guerra dos tronos é o primeiro livro da série best-seller internacional As Crônicas de Gelo e Fogo, que deu origem à adaptação de sucesso da HBO, Game of Thrones.\r\nO verão pode durar décadas. O inverno, toda uma vida. E a guerra dos tronos começou. Como Guardião do Norte, lorde Eddard Stark não fica feliz quando o rei Robert o proclama a nova Mão do Rei. Sua honra o obriga a aceitar o cargo e deixar seu posto em Winterfell para rumar para a corte, onde os homens fazem o que lhes convém, não o que devem... e onde um inimigo morto é algo a ser admirado.\r\n\r\nLonge de casa e com a família dividida, Eddard se vê cada vez mais enredado nas intrigas mortais de Porto Real, sem saber que perigos ainda maiores espreitam a distância.\r\n\r\nNas florestas ao norte de Winterfell, forças sobrenaturais se espalham por trás da Muralha que protege a região. E, nas Cidades Livres, o jovem Rei Dragão exilado na Rebelião de Robert planeja sua vingança e deseja recuperar sua herança de família: o Trono de Ferro de Westeros.",
+      "physical_format": "paperback",
+      "number_of_pages": 592,
+      "isbn_10": [
+        "8556510787"
+      ],
+      "isbn_13": [
+        "9788556510785"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-11-06T15:21:05.714786"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-11-06T15:23:34.153866"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Taht Oyunları",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Oct 17, 2019",
+      "source_records": [
+        "amazon:6051735755"
+      ],
+      "number_of_pages": 832,
+      "publishers": [
+        "Epsilon Yayınevi"
+      ],
+      "isbn_10": [
+        "6051735755"
+      ],
+      "isbn_13": [
+        "9786051735757"
+      ],
+      "physical_format": "hardcover",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Taht Oyunları (Resimli Özel Baskı)"
+      },
+      "covers": [
+        12115212
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35304190M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-19T04:21:26.990748"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:54:50.047308"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Le Trône de fer - L'Intégrale",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Nov 17, 2012",
+      "source_records": [
+        "amazon:2756408522"
+      ],
+      "number_of_pages": 1184,
+      "publishers": [
+        "PYGMALION"
+      ],
+      "isbn_10": [
+        "2756408522"
+      ],
+      "isbn_13": [
+        "9782756408521"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Le Trône de fer - L'Intégrale : La Bataille des rois - L'Ombre maléfique - L'Invincible Forteresse",
+      "subtitle": "La Bataille des rois - L'Ombre maléfique - L'Invincible Forteresse",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Le Trône de fer - L'Intégrale: La Bataille des rois - L'Ombre maléfique - L'Invincible Forteresse (2)"
+      },
+      "covers": [
+        13871375
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL47323528M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-09T09:55:00.465383"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:10:31.178410"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Le trône de fer",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        },
+        {
+          "key": "/authors/OL3113904A"
+        }
+      ],
+      "publish_date": "Apr 08, 2015",
+      "source_records": [
+        "amazon:2290107093"
+      ],
+      "number_of_pages": 1200,
+      "publishers": [
+        "J'AI LU"
+      ],
+      "isbn_10": [
+        "2290107093"
+      ],
+      "isbn_13": [
+        "9782290107096"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Le trône de fer L'intégrale",
+      "subtitle": "L'intégrale",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Le trône de fer: L'intégrale (5)"
+      },
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL40223116M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-29T14:46:24.997344"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:10:31.178410"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "Juego de Tronos",
+      "publishers": [
+        "PLAZA & JANES"
+      ],
+      "publish_date": "1996",
+      "key": "/books/OL60304663M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "series": [
+        "Cancion de Hielo y Fuego"
+      ],
+      "physical_format": "Tapa dura",
+      "number_of_pages": 800,
+      "covers": [
+        15127390
+      ],
+      "isbn_13": [
+        "9788401032424"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "En un mundo diferente al nuestro, en el que los veranos y los inviernos duran generaciones, un gran conflicto está a punto de estallar. Robert Baratheon ocupa el Trono de Hierro en el cálido y opulento sur de Poniente. Se lo arrebató tras una sangrienta guerra al último rey loco de la dinastía Targaryen, señores de dragones.\r\n\r\nSin embargo, ahora su poder se ve amenazado: en el norte, el Muro erigido para proteger el reino de las bestias y de los extraños se tambalea. Hace siglos que nadie ve a los caminantes blancos, pero ¿quiénes son entonces esos seres de ojos azules y fríos que se ocultan en las sombras de los bosques y que les arrebatan la vida y la mente a aquellos desafortunados que se cruzan en su camino? El final del verano está próximo, se acerca el invierno y solo un milagro podrá disipar las tinieblas."
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-29T12:17:30.713961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        },
+        {
+          "key": "/authors/OL14414716A"
+        },
+        {
+          "key": "/authors/OL14414717A"
+        }
+      ],
+      "isbn_13": [
+        "9781514256220"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 378,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781514256220"
+      ],
+      "title": "Juego de Tronos",
+      "weight": "0.641",
+      "subtitle": "George R. R. Martin",
+      "full_title": "Juego de Tronos George R. R. Martin",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL55390851M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-27T00:41:43.309001"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Juego de tronos",
+      "source_records": [
+        "amazon:6073107749"
+      ],
+      "publishers": [
+        "Gigamesh ."
+      ],
+      "isbn_10": [
+        "6073107749"
+      ],
+      "isbn_13": [
+        "9786073107747"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Juego de tronos",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL44834337M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T16:27:50.099610"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Juego de tronos",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        },
+        {
+          "key": "/authors/OL8312223A"
+        },
+        {
+          "key": "/authors/OL8282494A"
+        }
+      ],
+      "publish_date": "Jul 29, 2011",
+      "source_records": [
+        "amazon:8496208915"
+      ],
+      "number_of_pages": 832,
+      "publishers": [
+        "Ediciones Gigamesh"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Juego de tronos Canción de hielo y fuego/1",
+      "subtitle": "Canción de hielo y fuego 1",
+      "notes": "Source title: Juego de tronos (bolsillo): Canción de hielo y fuego/1 (Gigamesh Bolsillo) (Spanish Edition)",
+      "covers": [
+        12338481
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35631511M",
+      "identifiers": {},
+      "isbn_10": [
+        "8496208915"
+      ],
+      "isbn_13": [
+        "9788496208919"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-05T23:50:19.414069"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "JUEGO DE TRONOS",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Nov 03, 2013",
+      "source_records": [
+        "amazon:9506442274"
+      ],
+      "number_of_pages": 800,
+      "publishers": [
+        "PLAZA & JANES"
+      ],
+      "isbn_10": [
+        "9506442274"
+      ],
+      "isbn_13": [
+        "9789506442279"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: JUEGO DE TRONOS (Spanish Edition)"
+      },
+      "full_title": "JUEGO DE TRONOS",
+      "covers": [
+        12340614
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35633662M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-06T00:50:36.951105"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "JUEGO DE TRONOS 3A ED",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Nov 02, 2016",
+      "source_records": [
+        "amazon:6073150474"
+      ],
+      "publishers": [
+        "Plaza & Janés"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: JUEGO DE TRONOS 3A ED (TD)",
+      "covers": [
+        12329609
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35622485M",
+      "identifiers": {},
+      "isbn_10": [
+        "6073150474"
+      ],
+      "isbn_13": [
+        "9786073150477"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-05T19:09:01.555308"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-28T05:13:23.811460"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "JUEGO DE TRONOS - CANCION DE HIELO Y FUEGO",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Jun 13, 2013",
+      "source_records": [
+        "amazon:9588886430"
+      ],
+      "publishers": [
+        "Debolsillo"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        11261391
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL32627112M",
+      "identifiers": {},
+      "isbn_10": [
+        "9588886430"
+      ],
+      "isbn_13": [
+        "9789588886435"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-06-13T14:23:13.881899"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-26T11:16:31.348895"
+      }
+    },
+    {
+      "title": "Juego de tronos",
+      "publish_date": "2011",
+      "publishers": [
+        "Gigamesh"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        10584235
+      ],
+      "isbn_13": [
+        "9788496208490"
+      ],
+      "key": "/books/OL31899941M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "source_records": [
+        "amazon:8496208494"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-28T13:43:18.124529"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        },
+        {
+          "key": "/authors/OL8312223A"
+        },
+        {
+          "key": "/authors/OL8099938A"
+        }
+      ],
+      "full_title": "Juego de tronos Canción de hielo y fuego/1",
+      "isbn_10": [
+        "8496208567"
+      ],
+      "isbn_13": [
+        "9788496208568"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Juego de tronos (bolsillo): Canción de hielo y fuego/1"
+      },
+      "number_of_pages": 832,
+      "physical_format": "paperback",
+      "publish_date": "Dec 18, 2009",
+      "publishers": [
+        "Ediciones Gigamesh"
+      ],
+      "source_records": [
+        "amazon:8496208567"
+      ],
+      "subtitle": "Canción de hielo y fuego/1",
+      "title": "Juego de tronos",
+      "covers": [
+        14637745
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL52099068M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-20T12:13:12.913087"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T17:01:05.451606"
+      }
+    },
+    {
+      "publishers": [
+        "Luitingh Fantasy"
+      ],
+      "source_records": [
+        "amazon:9024558859"
+      ],
+      "title": "Het spel der tronen",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Het spel der tronen (Het lied van ijs en vuur, #1)"
+      },
+      "identifiers": {
+        "amazon": [
+          "9024558859"
+        ]
+      },
+      "isbn_13": [
+        "9789024558858"
+      ],
+      "covers": [
+        9059878
+      ],
+      "physical_format": "paperback",
+      "isbn_10": [
+        "9024558859"
+      ],
+      "key": "/books/OL27610187M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-11-02T09:04:05.689596"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T08:40:36.427185"
+      }
+    },
+    {
+      "publishers": [
+        "Luitingh Fantasy"
+      ],
+      "number_of_pages": 767,
+      "source_records": [
+        "amazon:9024556430"
+      ],
+      "title": "Het Spel Der Tronen (Het Lied van IJs en Vuur, No. 1)",
+      "identifiers": {
+        "amazon": [
+          "9024556430"
+        ]
+      },
+      "isbn_13": [
+        "9789024556434"
+      ],
+      "covers": [
+        8782363
+      ],
+      "physical_format": "hardcover",
+      "isbn_10": [
+        "9024556430"
+      ],
+      "publish_date": "Sep 15, 2006",
+      "key": "/books/OL27310799M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-09-15T09:21:38.960617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-05T08:40:36.427185"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "A Game of Thrones",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "2000",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 710,
+      "publishers": [
+        "BCA"
+      ],
+      "source_records": [
+        "ia:bwb_KU-426-196"
+      ],
+      "full_title": "A Game of Thrones",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL58636603M",
+      "identifiers": {},
+      "ocaid": "bwb_KU-426-196",
+      "covers": [
+        15128814
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T20:28:29.190317"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-25T23:09:27.357457"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W9-BID-299"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-08-14:W9-BID-299"
+      ],
+      "title": "A Game of Thrones",
+      "full_title": "Game of Thrones (Special leather edition) by George R.R. Martin Book One of A Song of Ice and Fire",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL53214041M",
+      "identifiers": {},
+      "isbn_10": [
+        "0593158202"
+      ],
+      "isbn_13": [
+        "9780593158203"
+      ],
+      "ocaid": "gameofthronesspe0000unse",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2019",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15126169
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-16T01:07:01.117508"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2005",
+      "key": "/books/OL48571889M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15115383
+      ],
+      "subtitle": "Book One of A Song of Ice and Fire",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_places": [
+        "New York, USA"
+      ],
+      "copyright_date": "2005",
+      "physical_format": "Paperback",
+      "number_of_pages": 856,
+      "first_sentence": "“We should start back,” Gared urged as the woods began to grow dark around them.",
+      "ocaid": "gameofthrones00mart_0",
+      "isbn_13": [
+        "9780553573404"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-22T15:52:20.747710"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Book in Ukrainian. Hra prestoliv. A Game of Thrones. Pisnya lʹodu y polum'ya. A Song of Ice and Fire. Book 1",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Mar 24, 2017",
+      "source_records": [
+        "amazon:6175381785"
+      ],
+      "number_of_pages": 800,
+      "publishers": [
+        "КМ-БУКС"
+      ],
+      "isbn_10": [
+        "6175381785"
+      ],
+      "isbn_13": [
+        "9786175381786"
+      ],
+      "physical_format": "hardcover",
+      "covers": [
+        13769298
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL47304804M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-24T03:08:47.152782"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "Гра Престолів",
+      "publishers": [
+        "КМ-БУКС"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL47304835M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        13769326
+      ],
+      "classifications": {},
+      "description": "Оновлене та виправлене перевидання.",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Тверда",
+      "publish_places": [
+        "Україна"
+      ],
+      "translation_of": "A Game of Thrones",
+      "languages": [
+        {
+          "key": "/languages/ukr"
+        }
+      ],
+      "number_of_pages": 800,
+      "isbn_13": [
+        "9789669482716"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-24T03:22:39.496025"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780002246576"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1996",
+      "publishers": [
+        "HarperCollins Publishers Limited",
+        "Bantam"
+      ],
+      "source_records": [
+        "bwb:9780002246576",
+        "amazon:0002246570"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction"
+      ],
+      "title": "Game of Thrones",
+      "full_title": "Game of Thrones",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL44111760M",
+      "covers": [
+        14148124
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T05:12:59.169502"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780007876440"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2010",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780007876440"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction"
+      ],
+      "title": "Game of Thrones",
+      "full_title": "Game of Thrones",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL44127435M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T06:45:03.222362"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780008147785"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2015",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780008147785"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Game of Thrones",
+      "weight": "0.270",
+      "subtitle": "Your Way into the Books",
+      "full_title": "Game of Thrones Your Way into the Books",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL44160112M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T08:56:15.160615"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "title": "Le Trône de fer",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O7-CPU-374"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "key": "/books/OL43033560M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "275640215X"
+      ],
+      "isbn_13": [
+        "9782756402154"
+      ],
+      "ocaid": "letronedeferlint0000mart_p9k2",
+      "publishers": [
+        "Pygmalion"
+      ],
+      "publish_date": "2008",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "covers": [
+        15218791,
+        15123760,
+        15133456
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T01:49:13.375360"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-07T04:36:31.276440"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B0027DM4KC"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "title": "A Game of Thrones (Song of Ice and Fire)",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KP-788-678"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "full_title": "A Game of Thrones (Song of Ice and Fire)",
+      "key": "/books/OL43007492M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-06T23:14:19.297778"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "title": "Le trône de fer : l'intégrale 1",
+      "publish_date": "2019",
+      "publishers": [
+        "J'ai lu"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12681341
+      ],
+      "isbn_13": [
+        "9782290208878"
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "translation_of": "A Game of Thrones",
+      "source_records": [
+        "amazon:2290208876"
+      ],
+      "key": "/books/OL37772492M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-03-21T11:47:03.379850"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780008226343"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2016",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780008226343"
+      ],
+      "title": "Game of Thrones (Enhanced Edition)",
+      "full_title": "Game of Thrones (Enhanced Edition)",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL37269511M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-27T16:53:53.445390"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780007445714"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2012",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780007445714"
+      ],
+      "title": "Game of Thrones Enhanced Edition",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL37267852M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-27T16:20:48.971520"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780007491575"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "PS3563.A7239"
+      ],
+      "pagination": "864",
+      "publish_date": "2013",
+      "publishers": [
+        "HarperCollins Publishers",
+        "HarperVoyager"
+      ],
+      "source_records": [
+        "bwb:9780007491575",
+        "amazon:0007491573"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction"
+      ],
+      "title": "Game of Thrones",
+      "weight": "1.110",
+      "full_title": "Game of Thrones",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL37157277M",
+      "covers": [
+        13734880
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-26T12:39:40.004111"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "isbn_13": [
+        "9780008220587"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2016",
+      "publishers": [
+        "HarperCollins Publishers"
+      ],
+      "source_records": [
+        "bwb:9780008220587"
+      ],
+      "subjects": [
+        "Fiction, fantasy, epic",
+        "Seven kingdoms (imaginary place), fiction"
+      ],
+      "title": "Game of Thrones",
+      "full_title": "Game of Thrones",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL37267671M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-02-27T16:16:54.490911"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Juego de tronos / A Game of Thrones",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "May 17, 2022",
+      "source_records": [
+        "amazon:1644736136",
+        "bwb:9781644736135"
+      ],
+      "number_of_pages": 800,
+      "publishers": [
+        "Vintage Espanol"
+      ],
+      "isbn_10": [
+        "1644736136"
+      ],
+      "isbn_13": [
+        "9781644736135"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Juego de tronos / A Game of Thrones (Spanish Edition)"
+      },
+      "covers": [
+        12569451
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL36687272M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-24T21:50:27.309244"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "notes": "Source title: Buz ve Atesin Sarkisi 1. Kitap - Taht Oyunlari (Tek Kitap) (Turkish Edition)",
+      "title": "Taht Oyunlari",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "2013",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:9944824356",
+        "promise:bwb_daily_pallets_2023-06-27:W8-BAX-120"
+      ],
+      "publishers": [
+        "Epsilon Yayınları"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        15125422
+      ],
+      "local_id": [
+        "urn:bwbsku:W8-BAX-120"
+      ],
+      "key": "/books/OL35651104M",
+      "number_of_pages": 850,
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "identifiers": {},
+      "ocaid": "buzveatesinsarki0000geor",
+      "isbn_10": [
+        "9944824356"
+      ],
+      "isbn_13": [
+        "9789944824354"
+      ],
+      "languages": [
+        {
+          "key": "/languages/tur"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-07T15:39:30.568662"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Juego de tronos",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "2015",
+      "source_records": [
+        "amazon:6073128835",
+        "promise:bwb_daily_pallets_2024-09-05:W9-CIX-689"
+      ],
+      "publishers": [
+        "Debolsillo"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        15126196
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35618079M",
+      "local_id": [
+        "urn:bwbsku:W9-CIX-689"
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "6073128835"
+      ],
+      "isbn_13": [
+        "9786073128834"
+      ],
+      "ocaid": "canciondehieloyf0001geor",
+      "subtitle": "canción de hielo y fuego I",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-05T17:35:48.203619"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:51.651607"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "A Game of Thrones",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Oct 29, 2014",
+      "source_records": [
+        "amazon:6055069075"
+      ],
+      "number_of_pages": 224,
+      "publishers": [
+        "Akil Çelen Kitaplar"
+      ],
+      "isbn_10": [
+        "6055069075"
+      ],
+      "isbn_13": [
+        "9786055069070"
+      ],
+      "physical_format": "paperback",
+      "full_title": "A Game of Thrones Taht Oyunlari 3. Cilt",
+      "subtitle": "Taht Oyunlari 3. Cilt",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: A Game of Thrones: Taht Oyunlari 3. Cilt"
+      },
+      "covers": [
+        12233621
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35391026M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-29T18:23:10.211202"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "A Game Of Thrones",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_date": "Oct 31, 2013",
+      "source_records": [
+        "amazon:6055381591"
+      ],
+      "publishers": [
+        "Akilcelen Kitaplar"
+      ],
+      "isbn_10": [
+        "6055381591"
+      ],
+      "isbn_13": [
+        "9786055381592"
+      ],
+      "physical_format": "paperback",
+      "full_title": "A Game Of Thrones Taht Oyunlari 1. Cilt",
+      "subtitle": "Taht Oyunlari 1. Cilt",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: A Game Of Thrones: Taht Oyunlari 1. Cilt"
+      },
+      "covers": [
+        12260278
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "key": "/books/OL35418469M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-31T09:27:18.827037"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "title": "A game of thrones",
+      "publish_date": "1996",
+      "publishers": [
+        "Bantam books"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9780553573404"
+      ],
+      "source_records": [
+        "bwb:9780553573404"
+      ],
+      "key": "/books/OL32779104M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "covers": [
+        14818012
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-11T06:22:47.356633"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "source_records": [
+        "amazon:8804478020",
+        "promise:bwb_daily_pallets_2024-07-30:ku-222-632"
+      ],
+      "title": "Il Grande Inverno",
+      "identifiers": {
+        "amazon": [
+          "8804478020"
+        ]
+      },
+      "covers": [
+        15127373
+      ],
+      "physical_format": "paperback",
+      "key": "/books/OL27279987M",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KU-222-632"
+      ],
+      "isbn_10": [
+        "8804478020"
+      ],
+      "isbn_13": [
+        "9788804478027"
+      ],
+      "ocaid": "ilgrandeinverno0000unse",
+      "publishers": [
+        "Mondadori"
+      ],
+      "publish_date": "2000",
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-24T10:50:46.555080"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "publishers": [
+        "Wydawnictwo Zysk i S-ka"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Seria: Pieśń Lodu i Ognia, T. 3.1: Stal i śnieg"
+      },
+      "title": "Nawałnica mieczy",
+      "isbn_13": [
+        "9788377852101"
+      ],
+      "covers": [
+        8289845
+      ],
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "publish_date": "2013",
+      "key": "/books/OL26605834M",
+      "publish_places": [
+        "Poland"
+      ],
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-AVE-145"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-09-13:W8-AVE-145"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2018-12-07T09:57:37.730601"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "publishers": [
+        "Voyager"
+      ],
+      "number_of_pages": 688,
+      "weight": "12.2 ounces",
+      "covers": [
+        4855
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9213874M",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "subjects": [
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "edition_name": "New Ed edition",
+      "source_records": [
+        "amazon:0006479901:o-0:1516140241:169515",
+        "amazon:0006479901:1:1218028997:172343"
+      ],
+      "title": "A Storm of Swords (A Song of Ice & Fire)",
+      "identifiers": {
+        "goodreads": [
+          "768889"
+        ],
+        "librarything": [
+          "4950052"
+        ]
+      },
+      "isbn_13": [
+        "9780006479901"
+      ],
+      "isbn_10": [
+        "0006479901"
+      ],
+      "publish_date": "October 5, 2000",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7 x 4.4 x 1.6 inches",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T15:57:08.928727"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Books"
+      ],
+      "number_of_pages": 835,
+      "series": [
+        "A Song of ice and fire -- bk. 1."
+      ],
+      "key": "/books/OL20507908M",
+      "authors": [
+        {
+          "key": "/authors/OL234664A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "835 p. :",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:1413772554:948",
+        "marc:marc_ithaca_college/ic_marc.mrc:207563422:600"
+      ],
+      "title": "A game of thrones",
+      "identifiers": {
+        "goodreads": [
+          "409207"
+        ],
+        "librarything": [
+          "8366"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1997",
+      "publish_country": "nyu",
+      "by_statement": "George R. R. Martin.",
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "0553573403"
+      ],
+      "oclc_numbers": [
+        "37587753"
+      ],
+      "ocaid": "isbn_0553573403",
+      "covers": [
+        15123740,
+        -1
+      ],
+      "latest_revision": 75,
+      "revision": 75,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T05:38:31.679357"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-12T14:14:14.326550"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL60304555M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "ocaid": "bwb_C0-CEK-605",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15127384
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-29T11:50:10.144579"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-29T11:50:29.846818"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL60288606M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780553573404"
+      ],
+      "ocaid": "gameofthronesboo0000unse",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15126257
+      ],
+      "lc_classifications": [
+        "PS3563.A7239 G36 1997"
+      ],
+      "oclc_numbers": [
+        "37587753"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_044.bib.mrc:225889585:2587"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "A tale of court intrigues in the land of Seven Kingdoms, a country \"blessed by golden summers that go on for years, and cursed by cruel winters that can last a generation.\" The cold is returning to Winterfell, where summers can last decades and winters a lifetime. A time of conflict has arisen in the Stark family, as they are pulled from the safety of their home into a whirlpool of tradedy, betrayal, assassination plots and counterplots. Each decision and action carries with it the potential for conflict as several prominent families, comprised of lords, ladies, soldiers, sorcerers, assassins and bastards, are pulled together in the most deadly game of all, the game of thrones."
+      },
+      "number_of_pages": 835,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-25T15:07:28.461408"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-04T03:39:32.099694"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL60147723M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780553573404"
+      ],
+      "ocaid": "isbn_9780553573404_b8s3",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15123758
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T11:02:29.146774"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T11:03:43.793327"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "Le Trône de fer",
+      "publishers": [
+        "J'ai Lu"
+      ],
+      "publish_date": "2010",
+      "key": "/books/OL60147669M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9782290019436"
+      ],
+      "ocaid": "letrnedeferlintg0000mart",
+      "subtitle": "L'intégrale 1",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "covers": [
+        15123749
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T10:33:17.155258"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T10:34:10.699723"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL60147665M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0553573403"
+      ],
+      "ocaid": "isbn_0553573403_i1p5",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15123748
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T10:28:27.574265"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-17T10:29:30.175113"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL257943W"
+        }
+      ],
+      "title": "A Game of Thrones",
+      "publishers": [
+        "Bantam Books"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL60127406M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780553573404"
+      ],
+      "ocaid": "isbn_9780553573404_r7m9",
+      "subtitle": "Book One of A Song of Ice and Fire",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15123259
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-15T17:01:25.607510"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-15T17:02:06.963486"
+      }
+    }
+  ]
+}

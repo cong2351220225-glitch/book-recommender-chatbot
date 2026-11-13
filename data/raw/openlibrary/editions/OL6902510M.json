@@ -1,0 +1,59 @@
+{
+  "lc_classifications": [
+    "PN6321 .J4"
+  ],
+  "latest_revision": 2,
+  "contributions": [
+    "Woodward, Alice B., illus."
+  ],
+  "id": 9397060,
+  "source_records": [
+    "marc:marc_records_scriblio_net/part01.dat:117462347:585"
+  ],
+  "title": "Bon-mots of the nineteenth century",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_country": "xx ",
+  "by_statement": "with grotesques by Alice B. Woodward.",
+  "oclc_numbers": [
+    "3463136"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 2,
+  "publishers": [
+    "J.M. Dent & co."
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T18:12:47.816354"
+  },
+  "key": "/books/OL6902510M",
+  "authors": [
+    {
+      "key": "/authors/OL18303A"
+    }
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "pagination": "189 p.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "lccn": [
+    "01001303"
+  ],
+  "number_of_pages": 189,
+  "publish_date": "1897",
+  "works": [
+    {
+      "key": "/works/OL45763W"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "United States War Department",
+  "alternate_names": [
+    "United States. War Department.",
+    "United States of America. War Department."
+  ],
+  "key": "/authors/OL7215741A",
+  "type": {
+    "key": "/type/author"
+  },
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2014-07-30T22:24:12.715870"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-02-02T17:17:13.809529"
+  }
+}

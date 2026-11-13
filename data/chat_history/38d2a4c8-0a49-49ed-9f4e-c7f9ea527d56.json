@@ -1,0 +1,18 @@
+{
+  "id": "38d2a4c8-0a49-49ed-9f4e-c7f9ea527d56",
+  "title": "Hi",
+  "timestamp": "2026-11-02 13:22:24",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi",
+      "timestamp": "13:22"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào! Rất vui được hỗ trợ bạn. \n\nHôm nay mình có thể giúp gì cho bạn? Bạn muốn tìm hiểu kiến thức, hỗ trợ học tập, viết lách, hay trò chuyện về chủ đề gì nào?",
+      "timestamp": "13:22",
+      "sources": []
+    }
+  ]
+}

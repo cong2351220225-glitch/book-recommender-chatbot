@@ -1,0 +1,1504 @@
+{
+  "links": {
+    "self": "/works/OL30047W/editions.json",
+    "work": "/works/OL30047W"
+  },
+  "size": 19,
+  "entries": [
+    {
+      "other_titles": [
+        "Hospital sketches",
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subtitle": "and, Camp and fireside stories",
+      "full_title": "Hospital sketches and, Camp and fireside stories",
+      "key": "/books/OL31086136M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Hospital sketches",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The King of Clubs and the Queen of Hearts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mrs. Podgers' teapot",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My contraband",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Love and loyalty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A modern Cinderella",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Blue and the Gray",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A hospital Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "An hour.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Roberts Brothers (Boston, Mass.)"
+      ],
+      "publish_date": "1869",
+      "pagination": "[4], ii, [1], 4-379, [1] p., [4] leaves of plates",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part40.utf8:168388592:1771"
+      ],
+      "title": "Hospital sketches",
+      "notes": {
+        "type": "/type/text",
+        "value": "BAL 161\r\n\r\nUllom, J.C.  Alcott, 6"
+      },
+      "number_of_pages": 379,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subject_places": [
+        "United States",
+        "Washington (D.C.)"
+      ],
+      "subjects": [
+        "Career in nursing",
+        "History",
+        "Medical care",
+        "Hospitals",
+        "Women",
+        "Personal narratives",
+        "Military nursing",
+        "Nurses",
+        "Biography",
+        "Military hospitals"
+      ],
+      "subject_people": [
+        "Louisa May Alcott (1832-1888)"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ; with illustrations",
+      "subject_times": [
+        "Civil War, 1861-1865",
+        "19th century"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "lccn": [
+        "2012657112"
+      ],
+      "lc_classifications": [
+        "E621 .A34 1869"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T12:29:10.344094"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T10:19:57.451016"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1922",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Hospital sketches and camp and fireside stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "16300340"
+      ],
+      "publishers": [
+        "Little, Brown & Co."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "379 p.",
+      "number_of_pages": 379,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:334203770:455"
+      ],
+      "full_title": "Hospital sketches and camp and fireside stories",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "key": "/books/OL54381498M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-20T21:20:04.161848"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T10:17:42.744194"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1909",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "title": "Hospital sketches ; and, Camp and fireside stories",
+      "by_statement": "by Louisa M. Alcott",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "4991633"
+      ],
+      "lc_classifications": [
+        "PS1017.H7 F9"
+      ],
+      "other_titles": [
+        "Hospital sketches.",
+        "Camp and fireside stories."
+      ],
+      "subjects": [
+        "History",
+        "Hospitals"
+      ],
+      "subject_times": [
+        "Civil War, 1861-1865"
+      ],
+      "subject_places": [
+        "United States"
+      ],
+      "publishers": [
+        "Little, Brown, c 1909, c1897."
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "ii, 379 p., [4] leaves of plates",
+      "number_of_pages": 379,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:24013544:680"
+      ],
+      "full_title": "Hospital sketches ; and, Camp and fireside stories",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "key": "/books/OL57158027M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-12-11T18:18:57.213811"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T10:17:42.744194"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781019409404"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "390",
+      "publish_date": "2023",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781019409404"
+      ],
+      "title": "Hospital Sketches and Camp and Fireside Stories",
+      "weight": "0.723",
+      "full_title": "Hospital Sketches and Camp and Fireside Stories",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "key": "/books/OL50897848M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-31T22:40:16.459385"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T10:17:42.744194"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts"
+      ],
+      "covers": [
+        7433079
+      ],
+      "full_title": "Hospital sketches and camp and fireside stories",
+      "key": "/books/OL25933092M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "ii, 379 pages :",
+      "source_records": [
+        "ia:b24861856"
+      ],
+      "title": "Hospital sketches and camp and fireside stories",
+      "number_of_pages": 379,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subject_places": [
+        "United States"
+      ],
+      "subjects": [
+        "American Civil War, 1861-1865",
+        "Military Hospitals",
+        "History"
+      ],
+      "publish_date": "1884",
+      "publish_country": "us ",
+      "by_statement": "[Louisa May Alcott]",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Hospital Sketches",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Obtaining supplies",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A forward movement",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A night",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Off duty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A postscript",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Camp and Fireside Stories",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The King of Clubs and the Queen of Hearts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Mrs. Podgers' teapot",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "My contraband",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "Love and loyalty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A modern Cinderella",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "The Blue and the Gray",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "A hospital Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 1,
+          "label": "",
+          "title": "An hour",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "A Roberts reissue of Louisa May Alcott’s Civil War collection, this volume pairs *Hospital Sketches*, her semi-autobiographical account of nursing wounded Union soldiers at Georgetown’s Union Hotel Hospital during the winter of 1862–63, with twelve short stories set during and after the war. Combining humor, pathos, social criticism, and firsthand observation, Alcott examines military hospital life, abolition, loyalty, bereavement, romance, and the war’s lasting effects on soldiers and civilians alike."
+      },
+      "ocaid": "b24861856",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-07-14T04:47:04.335921"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-22T23:10:00.814449"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "100243"
+        ]
+      },
+      "title": "Hospital sketches",
+      "subtitle": "and, Camp and fireside stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1869",
+      "other_titles": [
+        "Hospital sketches ; and, Camp and fireside stories.",
+        "Camp and fireside stories."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Obtaining supplies",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A forward movement",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A night",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Off duty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A postscript",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The King of Clubs and the Queen of Hearts",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mrs. Podgers' teapot",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My contraband",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Love and loyalty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A modern Cinderella",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Blue and the Gray",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A hospital Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "An hour.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "pagination": "379 p., [4] leaves of plates :",
+      "covers": [
+        6514418
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Alcott, Louisa May, 1832-1888.",
+        "Wilmer, Richard Hooker, 1918-, former owner."
+      ],
+      "genres": [
+        "Personal narratives."
+      ],
+      "source_records": [
+        "ia:hospitalsketche00alco",
+        "marc:marc_columbia/Columbia-extract-20221130-014.mrc:160225807:2485"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Alcott, Louisa May, 1832-1888",
+        "United States -- History -- Civil War, 1861-1865 -- Personal narratives",
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL23305390M",
+      "number_of_pages": 379,
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "ocaid": "hospitalsketche00alco",
+      "lccn": [
+        "04015057"
+      ],
+      "oclc_numbers": [
+        "506809363"
+      ],
+      "lc_classifications": [
+        "PZ3.A355 H5",
+        "PS1017 H5",
+        "E621 .A34 1891a"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-31T19:31:33.570541"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-16T10:15:55.344176"
+      }
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "physical_format": "Microform",
+      "key": "/books/OL17795406M",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Alcott, Louisa May, 1832-1888."
+      ],
+      "pagination": "379 p., [3] leaves of plates",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:1097110689:1162",
+        "marc:harvard_bibliographic_metadata/ab.bib.10.20150123.full.mrc:271485456:774"
+      ],
+      "title": "Hospital sketches ; and Camp and fireside stories",
+      "notes": {
+        "type": "/type/text",
+        "value": "Film includes multiple images of some pages.\n\nMicrofilm. Woodbridge, Conn. : Research Publications, 1970-1978. 1 microfilm reel ; 35 mm. (Wright American fiction ; v. 2 (1851-1875), reel A-5, no. 31).\n\ns 1970 ctu n."
+      },
+      "number_of_pages": 379,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1869",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "9583467"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-01T05:07:12.045600"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-07T19:38:28.567695"
+      }
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "379 p., [3] leaves of plates :",
+      "lc_classifications": [
+        "PZ7.A335 H1886x"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL13441917M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "genres": [
+        "Juvenile fiction."
+      ],
+      "revision": 3,
+      "source_records": [
+        "marc:bpl_marc/bpl113.mrc:33339876:825"
+      ],
+      "title": "Hospital sketches and Camp and fireside stories",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-05-29T16:45:07.422544"
+      },
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals -- Juvenile fiction"
+      ],
+      "publish_date": "1886",
+      "location": [
+        "BPL1SP"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:19.715217"
+      },
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "mau"
+    },
+    {
+      "other_titles": [
+        "Hospital sketches",
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "covers": [
+        5577410
+      ],
+      "lc_classifications": [
+        "E621 .A34 1872"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL7050412M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "hospitalsketch00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Alcott, Louisa May, 1832-1888."
+      ],
+      "pagination": "2 p. ℓ., ii, 3-379 p.",
+      "source_records": [
+        "ia:hospitalsketch00alcorich",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:65909900:660"
+      ],
+      "title": "Hospital sketches, and Camp and fireside stories",
+      "lccn": [
+        "09002693"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals, charities, etc"
+      ],
+      "publish_date": "1880",
+      "publish_country": "mau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-11T07:52:14.143360"
+      },
+      "by_statement": "by Louisa M. Alcott",
+      "oclc_numbers": [
+        "7896719"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "key": "/books/OL17806028M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "ii, 379 p. :",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:1181496289:780",
+        "ia:hospitalsketches00alco_0"
+      ],
+      "title": "Hospital sketches ; and, Camp and fireside stories",
+      "number_of_pages": 379,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals, charities, etc"
+      ],
+      "publish_date": "1871",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "8659707"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        11881389
+      ],
+      "ocaid": "hospitalsketches00alco_0",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-01T06:46:38.432539"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-02T02:23:02.931732"
+      }
+    },
+    {
+      "publishers": [
+        "Little"
+      ],
+      "pagination": "379 p.",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/osu_bibs.mrc:193187418:629"
+      ],
+      "title": "Hospital sketches and camp and fireside stories.",
+      "number_of_pages": 379,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-11T09:38:06.730802"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:19.715217"
+      },
+      "publish_date": "1909",
+      "publish_country": "mau",
+      "key": "/books/OL14185000M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "by_statement": "By Louisa M. Alcott.",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "subject_place": [
+        "United States"
+      ],
+      "lc_classifications": [
+        "E621 .A34 1872"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL7004606M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "subject_time": [
+        "Civil War, 1861-1865"
+      ],
+      "pagination": "2 p. l., ii, 3-379 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:199545339:676",
+        "marc:marc_loc_updates/v37.i23.records.utf8:272738:660"
+      ],
+      "title": "Hospital sketches, and Camp and fireside stories",
+      "lccn": [
+        "09002693"
+      ],
+      "number_of_pages": 379,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals, charities, etc"
+      ],
+      "publish_date": "1872",
+      "publish_country": "mau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:19.715217"
+      },
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "7896719"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "379 p., [3] leaves of plates :",
+      "covers": [
+        6514431
+      ],
+      "lc_classifications": [
+        "PZ7.A335 H1886x"
+      ],
+      "key": "/books/OL23305391M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "hospitalsketches00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "genres": [
+        "Juvenile fiction."
+      ],
+      "source_records": [
+        "ia:hospitalsketches00alco"
+      ],
+      "title": "Hospital sketches and Camp and fireside stories",
+      "number_of_pages": 379,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals -- Juvenile fiction"
+      ],
+      "publish_date": "1886",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "11177881"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-31T19:31:38.640879"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-03T18:58:57.162029"
+      }
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "covers": [
+        5674337
+      ],
+      "lc_classifications": [
+        "E621 A5"
+      ],
+      "key": "/books/OL7198550M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "hospitalsketches00alcouoft",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "379p.",
+      "source_records": [
+        "ia:hospitalsketches00alcouoft"
+      ],
+      "title": "Hospital sketches and Camp and fireside stories.",
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals"
+      ],
+      "publish_date": "1885",
+      "publish_country": "|||",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 379,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-03T18:59:23.718817"
+      }
+    },
+    {
+      "title": "Hospital Sketches and Camp and Fireside Stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "February 8, 2007",
+      "publishers": [
+        "Book Jungle"
+      ],
+      "weight": "1.5 pounds",
+      "covers": [
+        1990861
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "American history",
+        "History",
+        "History - U.S.",
+        "History: American",
+        "USA",
+        "United States - General",
+        "History / United States / General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781594624094"
+      ],
+      "isbn_10": [
+        "1594624097"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 7.5 x 0.8 inches",
+      "source_records": [
+        "amazon:1594624097"
+      ],
+      "key": "/books/OL8877804M",
+      "number_of_pages": 396,
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-07T19:24:47.062415"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:19.715217"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL17954345M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "oclc_number": [
+        "18144518"
+      ],
+      "pagination": "379 p. :",
+      "revision": 3,
+      "source_records": [
+        "marc:bcl_marc/bcl_open.03.mrc:297991975:750"
+      ],
+      "title": "Hospital sketches and camp and fireside stories",
+      "notes": {
+        "type": "/type/text",
+        "value": "In manuscript on front free endpaper: Dorothea Langlitz - Xmas 89."
+      },
+      "number_of_pages": 379,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-08T16:17:05.517091"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1890",
+      "location": [
+        "MChB"
+      ],
+      "by_statement": "By Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "mau"
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories"
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:19.715217"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL14602032M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "ii, 379 p.",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0030.out:4878303:835"
+      ],
+      "title": "Hospital sketches and Camp and fireside stories.",
+      "number_of_pages": 379,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-13T09:53:13.912844"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals"
+      ],
+      "publish_date": "1869",
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott",
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "other_titles": [
+        "Camp and fireside stories."
+      ],
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "covers": [
+        5551994
+      ],
+      "key": "/books/OL7233363M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "hospitalsketches00alcoiala",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "ii, 379 p., [4] leaves of plates :",
+      "source_records": [
+        "ia:hospitalsketches00alcoiala",
+        "marc:marc_columbia/Columbia-extract-20221130-002.mrc:5822986:956"
+      ],
+      "title": "Hospital sketches, and Camp and fireside stories",
+      "subjects": [
+        "United States -- History -- Civil War, 1861-1865 -- Hospitals"
+      ],
+      "publish_date": "1885",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "oclc_numbers": [
+        "11642094"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "09002693"
+      ],
+      "number_of_pages": 379,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-20T09:04:14.573829"
+      }
+    },
+    {
+      "title": "Hospital Sketches and Camp and Fireside Stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1892",
+      "publishers": [
+        "Roberts brothers"
+      ],
+      "covers": [
+        9630060
+      ],
+      "ocaid": "hospitalsketche00alcogoog",
+      "oclc_numbers": [
+        "1729839"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "ia:hospitalsketche00alcogoog"
+      ],
+      "key": "/books/OL20530116M",
+      "number_of_pages": 400,
+      "works": [
+        {
+          "key": "/works/OL30047W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-27T07:15:09.800317"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-01T20:30:15.125270"
+      }
+    }
+  ]
+}

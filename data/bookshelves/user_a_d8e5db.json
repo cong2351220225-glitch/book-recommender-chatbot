@@ -1,0 +1,16 @@
+{
+  "username": "user_a_d8e5db",
+  "items": {
+    "book_205_reading_8e5b60": {
+      "id": "book_205_reading_8e5b60",
+      "book_id": "book_205",
+      "status": "completed",
+      "progress_page": 200,
+      "total_pages": 200,
+      "rating": 5,
+      "notes": "",
+      "added_at": "2026-11-02T16:03:11.453029",
+      "updated_at": "2026-11-02T16:03:11.512885"
+    }
+  }
+}

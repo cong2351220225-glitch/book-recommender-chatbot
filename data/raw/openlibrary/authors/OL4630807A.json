@@ -1,0 +1,36 @@
+{
+  "name": "Marie Charlotte Carmichael Stopes",
+  "alternate_names": [
+    "Marie Carmichael Stopes",
+    "Marie Charlotte Carmichael Stopes",
+    "Marie Stopes",
+    "Marie Charlotte Carlmichael Stopes"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "death_date": "2 October 1958",
+  "personal_name": "Marie Charlotte Carmichael Stopes",
+  "birth_date": "15 October 1880",
+  "remote_ids": {
+    "viaf": "56678410",
+    "wikidata": "Q442231",
+    "isni": "0000000107752465",
+    "lc_naf": "n50047340",
+    "librivox": "2115",
+    "project_gutenberg": "42511",
+    "opac_sbn": "CUBV150339",
+    "goodreads": "153736"
+  },
+  "key": "/authors/OL4630807A",
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-13T07:58:20.176355"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-30T21:18:16.123538"
+  }
+}

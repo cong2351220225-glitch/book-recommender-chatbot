@@ -1,0 +1,53 @@
+{
+  "publishers": [
+    "BiblioBazaar"
+  ],
+  "subtitle": "A Supplementary Reader for the Fourth Year of Scho",
+  "weight": "6.6 ounces",
+  "covers": [
+    2893853
+  ],
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T20:43:03.049691"
+  },
+  "latest_revision": 4,
+  "key": "/books/OL11978865M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781434655615"
+  ],
+  "source_records": [
+    "amazon:143465561X"
+  ],
+  "title": "The Louisa Alcott Reader",
+  "number_of_pages": 122,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "143465561X"
+  ],
+  "publish_date": "September 15, 2007",
+  "works": [
+    {
+      "key": "/works/OL30039W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8 x 5 x 0.3 inches",
+  "revision": 4
+}

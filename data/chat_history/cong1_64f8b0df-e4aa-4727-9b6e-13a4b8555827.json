@@ -1,0 +1,82 @@
+{
+  "id": "64f8b0df-e4aa-4727-9b6e-13a4b8555827",
+  "title": "Kiểm tra Thị giác Máy tính (Mu...",
+  "timestamp": "2026-10-11 02:24:44",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Kiểm tra Thị giác Máy tính (Multi-modal Vision)"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! **Thị giác máy tính đa thức (Multi-modal Vision)** là một nhánh phát triển mạnh mẽ trong Trí tuệ Nhân tạo (AI), nơi mô hình không chỉ xử lý hình ảnh/video đơn lẻ mà còn kết hợp và hiểu đồng thời nhiều dạng dữ liệu khác nhau như **văn bản, âm thanh, dữ liệu độ sâu (depth), hoặc tín hiệu cảm biến**.\n\nVí dụ điển hình: Các mô hình như **CLIP, LLaVA, GPT-4V** có thể nhìn một bức ảnh và trả lời câu hỏi về bức ảnh đó bằng văn bản tự nhiên.\n\nNếu bạn đang muốn **kiểm tra, đánh giá (testing/evaluation)** một mô hình hoặc hệ thống Multi-modal Vision, dưới đây là các phương pháp và khía cạnh chính thường được thực hiện:\n\n---\n\n### 1. Các dạng bài kiểm tra phổ biến (Benchmark Tasks)\n* **Visual Question Answering (VQA):** Cho mô hình xem ảnh và đặt câu hỏi (VD: *\"Có bao nhiêu người trong hình?\", \"Người đàn ông đang làm gì?\"*).\n* **Image Captioning:** Kiểm tra khả năng tự mô tả chi tiết nội dung bức ảnh bằng văn bản.\n* **Text-to-Image / Image-to-Text Retrieval:** Kiểm tra khả năng tìm kiếm ảnh khớp với câu mô tả hoặc ngược lại.\n* **Visual Grounding:** Kiểm tra xem mô hình có xác định đúng vị trí (bounding box) của đối tượng được nhắc đến trong văn bản hay không.\n\n### 2. Bộ chỉ số đánh giá (Evaluation Metrics)\nTùy vào tác vụ, người ta sử dụng các chỉ số đo lường khác nhau:\n* **Bài viết mô tả / Trả lời tự do:** Dùng các chỉ số xử lý ngôn ngữ tự nhiên như **BLEU, ROUGE, METEOR, CIDEr, SPICE**.\n* **Bài phân loại / Nhận diện:** Dùng **Accuracy, Precision, Recall, F1-Score, IoU (Intersection over Union)**.\n* **Đánh giá bằng LLM mạnh hơn (LLM-as-a-Judge):** Dùng các mô hình lớn như GPT-4 để chấm điểm câu trả lời của mô hình Multi-modal dựa trên ngữ cảnh thực tế.\n\n### 3. Kiểm tra độ bền vững và an toàn (Robustness & Safety)\n* **Hallucination Check:** Kiểm tra xem mô hình có \"bịa\" ra các chi tiết không hề có trong ảnh hay không.\n* **Adversarial Testing:** Kiểm tra phản ứng của mô hình khi ảnh bị thêm nhiễu nhẹ, bị xoay, mờ, hoặc khi văn bản đầu vào mang tính đánh đố/gài bẫy.\n* **Bias & Safety:** Kiểm tra xem mô hình có thiên vị, phân biệt đối xử hoặc tạo ra nội dung không phù hợp dựa trên hình ảnh hay không.\n\n---\n\nBạn đang muốn tìm hiểu thêm về khía cạnh nào (lý thuyết cơ bản, bộ dữ liệu thử nghiệm, cách cài đặt mã nguồn để test, hay tài liệu học tập)? Sẵn sàng hỗ trợ bạn nhé!",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "Hãy tìm cho tôi cuốn sách có tên: NHÀ GIẢ KIM"
+    },
+    {
+      "role": "assistant",
+      "content": "Dưới đây là thông tin về cuốn sách bạn đang tìm kiếm có trong thư viện:\n\n* **Tên sách:** Nhà giả kim\n* **Tác giả:** Paulo Coelho\n* **Năm xuất bản:** 1988\n* **Thể loại:** Văn học\n* **Lý do phù hợp / Mô tả:** Đây là một tiểu thuyết nhẹ nhàng và truyền cảm hứng, kể về hành trình theo đuổi ước mơ cũng như khám phá ý nghĩa cá nhân của cuộc sống. Tác phẩm rất phù hợp cho những độc giả yêu thích văn học và đang muốn tìm kiếm động lực.",
+      "books": [
+        {
+          "document": "Title: Nhà giả kim\nAuthor: Paulo Coelho\nGenre: Văn học\nPublication year: 1988\nTags: ước mơ, hành trình, cảm hứng\nTarget audience: Độc giả yêu văn học\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một hành trình nhẹ nhàng về ước mơ.\nDescription: Tiểu thuyết truyền cảm hứng kể về hành trình theo đuổi ước mơ và khám phá ý nghĩa cá nhân của cuộc sống.",
+          "metadata": {
+            "difficulty": "Dễ đọc",
+            "featured": true,
+            "book_id": "book_005",
+            "tags": "ước mơ, hành trình, cảm hứng",
+            "target_audience": "Độc giả yêu văn học",
+            "genre": "Văn học",
+            "title": "Nhà giả kim",
+            "mood": "Muốn có động lực",
+            "author_id": "paulo-coelho",
+            "rating": 4.6,
+            "author": "Paulo Coelho",
+            "year": 1988
+          },
+          "distance": 0.2259564995765686
+        },
+        {
+          "document": "Title: Đi tìm lẽ sống\nAuthor: Viktor Frankl\nGenre: Tâm lý\nPublication year: 1946\nTags: ý nghĩa, nghị lực, tâm lý\nTarget audience: Người cần động lực\nMood: Muốn có động lực\nDifficulty: Dễ đọc\nSummary: Một gợi mở về ý nghĩa và nghị lực.\nDescription: Dữ liệu mô tả demo về hành trình tìm ý nghĩa và sức mạnh nội tâm trong những hoàn cảnh khó khăn.",
+          "metadata": {
+            "target_audience": "Người cần động lực",
+            "featured": true,
+            "tags": "ý nghĩa, nghị lực, tâm lý",
+            "author": "Viktor Frankl",
+            "year": 1946,
+            "book_id": "book_017",
+            "author_id": "viktor-frankl",
+            "title": "Đi tìm lẽ sống",
+            "difficulty": "Dễ đọc",
+            "mood": "Muốn có động lực",
+            "rating": 4.5,
+            "genre": "Tâm lý"
+          },
+          "distance": 0.37510478496551514
+        },
+        {
+          "document": "Title: The Mysterious Key And What It Opened\nAuthor: Louisa May Alcott\nGenre: Khoa học viễn tưởng\nPublication year: 2004\nTags: Fiction, Mystery, Fiction, thrillers, general, Fiction, mystery & detective, general, Fiction, romance, historical, general, American literature, Fiction, general\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: An early romantic mystery story by the author of LITTLE WOMEN and LITTLE MEN.",
+          "metadata": {
+            "difficulty": "nan",
+            "mood": "nan",
+            "author_id": "ol26680a",
+            "rating": 0.0,
+            "tags": "Fiction, Mystery, Fiction, thrillers, general, Fiction, mystery & detective, general, Fiction, romance, historical, general, American literature, Fiction, general",
+            "author": "Louisa May Alcott",
+            "genre": "Khoa học viễn tưởng",
+            "title": "The Mysterious Key And What It Opened",
+            "year": 2004,
+            "book_id": "book_110",
+            "featured": false,
+            "target_audience": "nan"
+          },
+          "distance": 0.37584352493286133
+        }
+      ],
+      "location": null
+    }
+  ]
+}

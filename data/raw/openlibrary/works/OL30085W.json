@@ -1,0 +1,40 @@
+{
+  "title": "Day with the Dinosaurs",
+  "first_publish_date": "January 1988",
+  "key": "/works/OL30085W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26684A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    12691193,
+    8469561,
+    10192188,
+    -1
+  ],
+  "subjects": [
+    "Plot-your-own stories",
+    "Dinosaurs",
+    "Fiction",
+    "collectionID:CYOAyouth"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-03-29T20:00:10.401608"
+  }
+}

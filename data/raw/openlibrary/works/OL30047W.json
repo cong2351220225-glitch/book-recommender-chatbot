@@ -1,0 +1,52 @@
+{
+  "title": "Hospital sketches and Camp and fireside stories",
+  "covers": [
+    5577410,
+    7433079
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "first_publish_date": "1869",
+  "key": "/works/OL30047W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "Civil War, 1861-1865"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "History",
+    "Hospitals",
+    "Hospitals, charities",
+    "Juvenile fiction",
+    "United States Civil War, 1861-1865",
+    "Medicine",
+    "Military nursing",
+    "Fiction",
+    "American Civil War, 1861-1865",
+    "Military Hospitals",
+    "Personal narratives",
+    "collection:American_Civil_War_Firsthand_Accounts"
+  ],
+  "latest_revision": 15,
+  "revision": 15,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-03T14:42:50.168023"
+  }
+}

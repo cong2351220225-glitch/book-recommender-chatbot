@@ -1,0 +1,147 @@
+{
+  "id": "1d781648-0961-470c-b7be-01a29b9615db",
+  "title": "Kiểm tra Trí nhớ Hội thoại (Co...",
+  "timestamp": "2026-10-11 01:54:02",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Kiểm tra Trí nhớ Hội thoại (Conversational Memory)"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Tôi đã sẵn sàng.\n\nHiện tại, phiên trò chuyện của chúng ta vừa mới bắt đầu nên chưa có thông tin hay ngữ cảnh nào từ trước đó. \n\nTrong suốt phiên làm việc này, tôi có thể ghi nhớ các chi tiết, thông tin và yêu cầu bạn cung cấp để trao đổi một cách liền mạch. \n\nBạn có thể thử chia sẻ một vài thông tin hoặc đưa ra yêu cầu cụ thể để kiểm tra tính năng ghi nhớ nhé!",
+      "books": [],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "Tìm cho tôi một cuốn sách hay về khoa học vũ trụ."
+    },
+    {
+      "role": "assistant",
+      "content": "Thư viện xin gợi ý cho bạn cuốn sách phù hợp về khoa học vũ trụ:\n\n* **Tên sách:** Vũ trụ\n* **Tác giả:** Carl Sagan\n* **Năm xuất bản:** 1980\n* **Thể loại:** Khoa học\n* **Lý do phù hợp:** Cuốn sách là một chuyến du hành phổ biến khoa học, đưa người đọc khám phá nguồn gốc vũ trụ, không gian, sự sống và vị trí của con người trong không gian. Sách dễ đọc, rất thích hợp cho độc giả ham khám phá và muốn thư giãn.",
+      "books": [
+        {
+          "document": "Title: Vũ trụ\nAuthor: Carl Sagan\nGenre: Khoa học\nPublication year: 1980\nTags: vũ trụ, không gian, khoa học\nTarget audience: Độc giả ham khám phá\nMood: Muốn thư giãn\nDifficulty: Dễ đọc\nSummary: Một chuyến du hành qua vũ trụ và khoa học.\nDescription: Cuốn sách phổ biến khoa học đưa người đọc khám phá nguồn gốc vũ trụ, sự sống và vị trí của con người trong không gian.",
+          "metadata": {
+            "featured": true,
+            "year": 1980,
+            "author_id": "carl-sagan",
+            "tags": "vũ trụ, không gian, khoa học",
+            "rating": 4.8,
+            "target_audience": "Độc giả ham khám phá",
+            "difficulty": "Dễ đọc",
+            "author": "Carl Sagan",
+            "mood": "Muốn thư giãn",
+            "book_id": "book_014",
+            "genre": "Khoa học",
+            "title": "Vũ trụ"
+          },
+          "distance": 0.23824971914291382
+        },
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "genre": "Lịch sử",
+            "author": "Yuval Noah Harari",
+            "rating": 4.7,
+            "target_audience": "Độc giả ham khám phá",
+            "book_id": "book_004",
+            "mood": "Muốn học hỏi",
+            "tags": "lịch sử, xã hội, nhân loại",
+            "title": "Sapiens: Lược sử loài người",
+            "featured": true,
+            "difficulty": "Chuyên sâu",
+            "author_id": "yuval-noah-harari",
+            "year": 2011
+          },
+          "distance": 0.33130478858947754
+        },
+        {
+          "document": "Title: Trí tuệ nhân tạo: Một cách tiếp cận hiện đại\nAuthor: Stuart Russell và Peter Norvig\nGenre: AI\nPublication year: 2020\nTags: AI, máy học, tác tử\nTarget audience: Sinh viên công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toàn diện về trí tuệ nhân tạo.\nDescription: Giáo trình nền tảng về trí tuệ nhân tạo, bao quát tác tử thông minh, tìm kiếm, học máy, xác suất và xử lý ngôn ngữ.",
+          "metadata": {
+            "author": "Stuart Russell và Peter Norvig",
+            "featured": true,
+            "book_id": "book_012",
+            "mood": "Muốn học hỏi",
+            "genre": "AI",
+            "rating": 4.6,
+            "author_id": "russell-norvig",
+            "year": 2020,
+            "target_audience": "Sinh viên công nghệ",
+            "tags": "AI, máy học, tác tử",
+            "difficulty": "Chuyên sâu",
+            "title": "Trí tuệ nhân tạo: Một cách tiếp cận hiện đại"
+          },
+          "distance": 0.3494148850440979
+        }
+      ],
+      "location": null
+    },
+    {
+      "role": "user",
+      "content": "Cuốn đó xuất bản năm nào? Tác giả là ai?"
+    },
+    {
+      "role": "assistant",
+      "content": "Cuốn sách **Vũ trụ** mà bạn đang hỏi có thông tin chi tiết như sau:\n\n* **Tác giả:** Carl Sagan\n* **Năm xuất bản:** 1980",
+      "books": [
+        {
+          "document": "Title: Vũ trụ\nAuthor: Carl Sagan\nGenre: Khoa học\nPublication year: 1980\nTags: vũ trụ, không gian, khoa học\nTarget audience: Độc giả ham khám phá\nMood: Muốn thư giãn\nDifficulty: Dễ đọc\nSummary: Một chuyến du hành qua vũ trụ và khoa học.\nDescription: Cuốn sách phổ biến khoa học đưa người đọc khám phá nguồn gốc vũ trụ, sự sống và vị trí của con người trong không gian.",
+          "metadata": {
+            "featured": true,
+            "title": "Vũ trụ",
+            "author_id": "carl-sagan",
+            "year": 1980,
+            "book_id": "book_014",
+            "rating": 4.8,
+            "genre": "Khoa học",
+            "author": "Carl Sagan",
+            "tags": "vũ trụ, không gian, khoa học",
+            "target_audience": "Độc giả ham khám phá",
+            "difficulty": "Dễ đọc",
+            "mood": "Muốn thư giãn"
+          },
+          "distance": 0.21380877494812012
+        },
+        {
+          "document": "Title: Thế giới phẳng\nAuthor: Thomas L. Friedman\nGenre: Kinh tế\nPublication year: 2005\nTags: toàn cầu hóa, công nghệ, kinh tế\nTarget audience: Độc giả quan tâm xã hội\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Góc nhìn về thế giới kết nối.\nDescription: Dữ liệu mô tả demo về toàn cầu hóa, công nghệ và sự thay đổi của công việc.",
+          "metadata": {
+            "rating": 4.0,
+            "featured": false,
+            "author": "Thomas L. Friedman",
+            "year": 2005,
+            "book_id": "book_022",
+            "tags": "toàn cầu hóa, công nghệ, kinh tế",
+            "difficulty": "Chuyên sâu",
+            "mood": "Muốn học hỏi",
+            "author_id": "thomas-friedman",
+            "genre": "Kinh tế",
+            "title": "Thế giới phẳng",
+            "target_audience": "Độc giả quan tâm xã hội"
+          },
+          "distance": 0.3005727529525757
+        },
+        {
+          "document": "Title: Sapiens: Lược sử loài người\nAuthor: Yuval Noah Harari\nGenre: Lịch sử\nPublication year: 2011\nTags: lịch sử, xã hội, nhân loại\nTarget audience: Độc giả ham khám phá\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Bức tranh lớn về hành trình loài người.\nDescription: Một cái nhìn bao quát về lịch sử nhân loại, từ cuộc Cách mạng Nhận thức đến những biến đổi khoa học, xã hội và công nghệ hiện đại.",
+          "metadata": {
+            "difficulty": "Chuyên sâu",
+            "author_id": "yuval-noah-harari",
+            "tags": "lịch sử, xã hội, nhân loại",
+            "mood": "Muốn học hỏi",
+            "target_audience": "Độc giả ham khám phá",
+            "book_id": "book_004",
+            "featured": true,
+            "year": 2011,
+            "genre": "Lịch sử",
+            "author": "Yuval Noah Harari",
+            "rating": 4.7,
+            "title": "Sapiens: Lược sử loài người"
+          },
+          "distance": 0.30317336320877075
+        }
+      ],
+      "location": null
+    }
+  ]
+}

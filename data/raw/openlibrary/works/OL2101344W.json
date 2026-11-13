@@ -1,0 +1,42 @@
+{
+  "lc_classifications": [
+    "B4218.S474 U83 1997"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-03T05:40:26.150360"
+  },
+  "title": "Hryhoriĭ Skovoroda i antychna kulʹtura",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:54:08.564475"
+  },
+  "subject_places": [
+    "Ukraine"
+  ],
+  "first_publish_date": "1997",
+  "latest_revision": 2,
+  "key": "/works/OL2101344W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL259745A"
+      }
+    }
+  ],
+  "subject_people": [
+    "Hryhoriĭ Savych Skovoroda (1722-1794)"
+  ],
+  "subject_times": [
+    "18th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Philosophers",
+    "Philosophy"
+  ],
+  "revision": 2
+}

@@ -1,0 +1,34 @@
+{
+  "key": "/works/OL30006W",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "title": "A sprig of andromeda",
+  "first_publish_date": "1962",
+  "latest_revision": 2,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-02-12T00:07:47.395831"
+  },
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "subject_people": [
+    "Henry David Thoreau (1817-1862)"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Death and burial"
+  ],
+  "revision": 2
+}

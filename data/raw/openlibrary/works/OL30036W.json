@@ -1,0 +1,32 @@
+{
+  "subtitle": "and Independence: a centennial love story",
+  "covers": [
+    5612009
+  ],
+  "first_publish_date": "1876",
+  "latest_revision": 6,
+  "key": "/works/OL30036W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "title": "Silver pitchers",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-13T03:16:40.914162"
+  },
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 6
+}

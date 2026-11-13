@@ -1,0 +1,61 @@
+{
+  "first_publish_date": "June 30, 2004",
+  "title": "A Modern Cinderella or The Little Old Shoe And Other Stories",
+  "covers": [
+    1817169,
+    2762148,
+    1754791,
+    9060842,
+    11338407,
+    9177600,
+    13164521,
+    12093713
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Among green New England hills stood an ancient house, many-gabled, mossy-roofed, and quaintly built, but picturesque and pleasant to the eye; for a brook ran babbling through the orchard that encompassed it about, a garden-plot stretched upward to the whispering birches on the slope, and patriarchal elms stood sentinel upon the lawn, as they had stood almost a century ago, when the Revolution rolled that way and found them young."
+  },
+  "key": "/works/OL30028W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "Among green New England hills stood an ancient house, many-gabled, mossy-roofed, and quaintly built, but picturesque and pleasant to the eye; for a brook ran babbling through the orchard that encompassed it about, a garden-plot stretched upward to the whispering birches on the slope, and patriarchal elms stood sentinel upon the lawn, as they had stood almost a century ago, when the Revolution rolled that way and found them young."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Classic Literature",
+    "Fiction",
+    "Fiction, family life, general",
+    "Sisters, fiction",
+    "Fiction, historical, general",
+    "Children's fiction"
+  ],
+  "description": "Louisa May Alcott's expansion and new interpretation of the timeless fairy tale.",
+  "location": "/works/OL20394163W",
+  "genres": [
+    "/tags/OL174T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-07T21:59:02.781202"
+  }
+}

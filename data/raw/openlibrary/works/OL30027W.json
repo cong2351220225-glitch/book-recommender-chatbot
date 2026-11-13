@@ -1,0 +1,51 @@
+{
+  "covers": [
+    5689600,
+    2515058,
+    8940181,
+    9184245,
+    12020274,
+    12027424
+  ],
+  "first_publish_date": "1899",
+  "key": "/works/OL30027W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "title": "May flowers",
+  "lc_classifications": [
+    "PZ7.A335 Ma"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "location": "/works/OL20282218W",
+  "subjects": [
+    "Young women",
+    "Juvenile fiction",
+    "Conduct of life",
+    "Girls",
+    "Societies and clubs",
+    "Girl volunteers",
+    "Charity",
+    "Working poor",
+    "Child labor"
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-12T02:48:47.492810"
+  }
+}

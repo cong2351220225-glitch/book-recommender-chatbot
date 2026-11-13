@@ -1,0 +1,55 @@
+{
+  "oclc_number": [
+    "19948732"
+  ],
+  "pagination": "v.",
+  "key": "/books/OL22663115M",
+  "source_records": [
+    "marc:marc_loc_updates/v36.i43.records.utf8:12621016:601"
+  ],
+  "title": "Sāhityakāra Premānanda.",
+  "lccn": [
+    "68000066"
+  ],
+  "contributions": [
+    "Premānanda, 1636-1734."
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "In Gujarati.\n\nBibliographical footnotes."
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-12-11T14:36:14.337093"
+  },
+  "languages": [
+    {
+      "key": "/languages/guj"
+    }
+  ],
+  "lc_classifications": [
+    "PK1859.M325 S3"
+  ],
+  "publish_date": "1967",
+  "publish_country": "ii ",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T09:26:15.752757"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL10158A"
+    }
+  ],
+  "latest_revision": 2,
+  "works": [
+    {
+      "key": "/works/OL43236W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "id": 33256368,
+  "revision": 2
+}

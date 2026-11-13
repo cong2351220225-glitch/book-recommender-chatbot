@@ -1,0 +1,2962 @@
+{
+  "links": {
+    "self": "/works/OL30045W/editions.json",
+    "work": "/works/OL30045W",
+    "next": "/works/OL30045W/editions.json?offset=50"
+  },
+  "size": 93,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798566748672"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "146",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798566748672"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.277",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48447053M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T22:41:20.278451"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681395287"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "368",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681395287"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.627",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48330647M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T15:54:53.424920"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798709189232"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "157",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798709189232"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.295",
+      "subtitle": "Complete",
+      "full_title": "Proverb Stories Complete",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL46814191M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T19:44:11.511695"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1909",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "2364066"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A country Christmas.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The baron's gloves.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My red cap.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the bells saw and said.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "title": "Proverb stories",
+      "by_statement": "by Louisa M. Alcott",
+      "publishers": [
+        "Little, Brown"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "285 p.",
+      "number_of_pages": 285,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131382100:639"
+      ],
+      "full_title": "Proverb stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL45014010M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:05:54.181106"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1868",
+      "copyright_date": "1868",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "series": [
+        "Nineteenth Century Collections Online: Children's Literature and Childhood",
+        "Nineteenth Century Collections Online: Children's Literature and Childhood"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Reproduction of the original from the Baldwin Library of Historical Children's Literature, George A. Smathers Libraries, University of Florida."
+      },
+      "links": [
+        {
+          "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio15654888",
+          "title": "Gale, Nineteenth Century Collections Online"
+        }
+      ],
+      "contributions": [
+        "Hoppin, Augustus, 1828-1896, illustrator"
+      ],
+      "subjects": [
+        "Young women",
+        "Juvenile fiction",
+        "Brothers and sisters",
+        "Young men",
+        "Wealth",
+        "Artists",
+        "Proverbs",
+        "Children",
+        "Conduct of life",
+        "Early works to 1800",
+        "Children's stories"
+      ],
+      "title": "Three proverb stories",
+      "subtitle": "Kitty's classday, Aunt Kipp, Psyche's art",
+      "by_statement": "by Louisa M. Alcott, Author of \"Moods,\" \"Little women,\" \"An old-fashioned girl\" ; illustrated by Augustus Hoppin",
+      "publishers": [
+        "Loring"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "1 online resource (148 pages, 4 unnumbered page of plates)",
+      "number_of_pages": 148,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:70581451:1799"
+      ],
+      "full_title": "Three proverb stories Kitty's classday, Aunt Kipp, Psyche's art",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL43828622M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-12T03:59:13.324646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1868",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "213892478"
+      ],
+      "lc_classifications": [
+        "PS1017 .T48 1868"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Collection originally published in 1868 under the title Louisa M. Alcott's Proverb stories (Boston : Loring)."
+      },
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class-day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "contributions": [
+        "Hoppin, Augustus, 1828-1896"
+      ],
+      "title": "Three proverb stories",
+      "by_statement": "By Louisa M. Alcott ... Illustrated by Augustus Hoppin",
+      "publishers": [
+        "Loring"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "148 pages, [4] leaves of plates",
+      "number_of_pages": 148,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-027.mrc:30581450:1088"
+      ],
+      "full_title": "Three proverb stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL44179660M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T10:08:45.407534"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798774018062"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "246",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798774018062"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.432",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42669093M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T06:41:04.312310"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781090894694"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "159",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781090894694"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.295",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41356367M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T03:36:05.216688"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695106017"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "190",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695106017"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.345",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41564736M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T12:54:47.363557"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781377469041"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "296",
+      "publish_date": "2018",
+      "publishers": [
+        "Creative Media Partners, LLC"
+      ],
+      "source_records": [
+        "bwb:9781377469041"
+      ],
+      "title": "Proverb Stories",
+      "weight": "0.418",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL39107125M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-07-21T08:37:50.131083"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "covers": [
+        6092523
+      ],
+      "key": "/books/OL23327868M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories96alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "285 p.",
+      "source_records": [
+        "ia:proverbstories96alco"
+      ],
+      "title": "Proverb stories.",
+      "number_of_pages": 285,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1896",
+      "publish_country": "mau",
+      "oclc_numbers": [
+        "541366"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T07:58:20.990451"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "285 p. ",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0106.out:11276048:705"
+      ],
+      "title": "Proverb stories",
+      "notes": {
+        "type": "/type/text",
+        "value": "Bound in red decorated cloth, stamped in black\n\nKing Collection copy with bookplate of Western College and Seminary"
+      },
+      "number_of_pages": 285,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1896",
+      "publish_country": "mau",
+      "key": "/books/OL15015196M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-17T05:52:22.196569"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Bros."
+      ],
+      "pagination": "285 p.",
+      "source_records": [
+        "ia:proverbstories00alco2"
+      ],
+      "title": "Proverb stories.",
+      "covers": [
+        5900980
+      ],
+      "subjects": [
+        "Children's stories, American"
+      ],
+      "publish_date": "1887",
+      "publish_country": "mau",
+      "key": "/books/OL7044713M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories00alco2",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "by_statement": "By Louisa M. Alcott ...",
+      "oclc_numbers": [
+        "37008217"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 285,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T17:23:55.854708"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Notable American Authors Series - Part I"
+      },
+      "title": "Proverb Stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "January 1882",
+      "publishers": [
+        "Reprint Services Corp"
+      ],
+      "weight": "1.6 pounds",
+      "physical_format": "Library Binding",
+      "subjects": [
+        "Literature"
+      ],
+      "isbn_13": [
+        "9780781216395"
+      ],
+      "isbn_10": [
+        "0781216397"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 6.1 x 1.2 inches",
+      "source_records": [
+        "amazon:0781216397"
+      ],
+      "key": "/books/OL9635477M",
+      "number_of_pages": 334,
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-11T01:38:51.386822"
+      }
+    },
+    {
+      "title": "Proverb stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1882",
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "[ii], 285 p. ;",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A country Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Baron's gloves",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My red cap",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the bells saw and said.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "source_records": [
+        "marc:bpl_marc/bpl113.mrc:31542183:806"
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Pr 1888x"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ...",
+      "publish_places": [
+        "Boston"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "location": [
+        "BPL1SP"
+      ],
+      "key": "/books/OL13441853M",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-05-29T16:44:59.466225"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T02:54:36.215672"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "pagination": "[3]  ., [5]-285 p.",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A country Christmas.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The baron's gloves.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My red cap.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the bells saw and said.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "source_records": [
+        "ia:proverbstories00alco"
+      ],
+      "title": "Proverb stories.",
+      "covers": [
+        5918550
+      ],
+      "publish_date": "1882",
+      "publish_country": "mau",
+      "key": "/books/OL7182268M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 285,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T17:23:53.114949"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A country Christmas",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The Baron's gloves",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My red cap",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the bells saw and said.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6092522
+      ],
+      "lc_classifications": [
+        "PZ7.A335 Pr 1888x",
+        "PZ7.A335 Pr 1882"
+      ],
+      "key": "/books/OL23327867M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories82alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "[ii], 285 p. ;",
+      "source_records": [
+        "ia:proverbstories82alco",
+        "marc:marc_loc_2016/BooksAll.2016.part40.utf8:170627382:1200"
+      ],
+      "title": "Proverb stories",
+      "lccn": [
+        "2012658819"
+      ],
+      "number_of_pages": 285,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1882",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ...",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "8181438"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-02T07:58:15.649807"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T17:24:02.691361"
+      }
+    },
+    {
+      "publishers": [
+        "Roberts Brothers"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "Kitty's class day.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Aunt Kipp.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Psyche's art.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A country Christmas.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "On picket duty.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The baron's gloves.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "My red cap.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "What the bells saw and said.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        5733778
+      ],
+      "key": "/books/OL7036311M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "[3] L., [5]-285 p.",
+      "source_records": [
+        "ia:proverbstories00alcorich",
+        "ia:proverbstories00alcogoog"
+      ],
+      "title": "Proverb stories.",
+      "subjects": [
+        "Children's stories"
+      ],
+      "publish_date": "1882",
+      "publish_country": "mau",
+      "oclc_numbers": [
+        "11581566"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 285,
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T17:24:00.145263"
+      }
+    },
+    {
+      "title": "Three proverb stories.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1868",
+      "publishers": [
+        "Loring"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class-day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        6569732
+      ],
+      "ocaid": "threeproverbstor00alcorich",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Hoppin, Augustus, 1828-1896."
+      ],
+      "pagination": "148 p., [4] leaves of plates :",
+      "source_records": [
+        "ia:threeproverbstor00alcorich"
+      ],
+      "publish_country": "mau",
+      "by_statement": "By Louisa M. Alcott ... Illustrated by Augustus Hoppin.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7147982M",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "oclc_numbers": [
+        "17286339"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 148,
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-13T22:48:08.378058"
+      }
+    },
+    {
+      "title": "Three proverb stories",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1871",
+      "other_titles": [
+        "Proverb stories."
+      ],
+      "publishers": [
+        "Loring, Publisher, 205 Washington Street"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class-day",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "pagination": "148 p., [4] leaves of plates :",
+      "covers": [
+        5630363
+      ],
+      "ocaid": "threeproverbstor00alcoiala",
+      "publish_places": [
+        "Boston"
+      ],
+      "contributions": [
+        "Andrew, John, 1815-1875.",
+        "Hoppin, Augustus, 1828-1896."
+      ],
+      "genres": [
+        "Juvenile literature."
+      ],
+      "source_records": [
+        "ia:threeproverbstor00alcoiala"
+      ],
+      "subjects": [
+        "Conduct of life -- Juvenile literature",
+        "Family -- Juvenile literature"
+      ],
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ...; illustrated by Augustus Hoppin.",
+      "oclc_numbers": [
+        "17286339"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL7113856M",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 148,
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-13T22:48:06.205754"
+      }
+    },
+    {
+      "publishers": [
+        "Little, Brown, and Company"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kitty's class day.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Aunt Kipp.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Psyche's art.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "A country Christmas.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The baron's gloves.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "My red cap.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "What the bells saw and said.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        7970312
+      ],
+      "full_title": "Proverb stories",
+      "lc_classifications": [
+        "PZ7.A335 Pr4"
+      ],
+      "key": "/books/OL26298656M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "proverbstories00alco_0",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "5 p. 3/4., 334 p., 1 3/4.",
+      "source_records": [
+        "ia:proverbstories00alco_0"
+      ],
+      "title": "Proverb stories",
+      "lccn": [
+        "08025994"
+      ],
+      "number_of_pages": 334,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1908",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ... illustrated by Ethel Pennewill Brown",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2017-05-04T16:24:19.689893"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781636009926"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Loki's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781636009926"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Proverb Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL34319613M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:43:40.909684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781636009919"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Loki's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781636009919"
+      ],
+      "subjects": [
+        "Fiction, general"
+      ],
+      "title": "Proverb Stories",
+      "full_title": "Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL34319610M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:43:38.911005"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "publishers": [
+        "Bibliotech Press"
+      ],
+      "source_records": [
+        "bwb:9781647995195"
+      ],
+      "title": "Proverb Stories",
+      "number_of_pages": 178,
+      "isbn_13": [
+        "9781647995195"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Proverb Stories",
+      "lc_classifications": [
+        ""
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL30307889M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-17T17:46:06.505152"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "publishers": [
+        "Bibliotech Press"
+      ],
+      "source_records": [
+        "bwb:9781647995188"
+      ],
+      "title": "Proverb Stories",
+      "number_of_pages": 176,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Proverb Stories",
+      "publish_date": "2020",
+      "key": "/books/OL30307888M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9781647995188"
+      ],
+      "classifications": {},
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-17T17:46:05.897386"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T17:08:01.873169"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1868",
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "oclc_numbers": [
+        "7799580"
+      ],
+      "other_titles": [
+        "Aunt Kipp.",
+        "Psyche's art."
+      ],
+      "series": [
+        "Loring's tales of the day"
+      ],
+      "title": "Kitty's class day",
+      "subtitle": "Aunt Kipp ; Psyche's art",
+      "by_statement": "by Louisa M. Alcott ; six illustrations by Augustus Hoppin",
+      "publishers": [
+        "Loring"
+      ],
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "148 p.",
+      "number_of_pages": 148,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-013.mrc:131337362:673"
+      ],
+      "full_title": "Kitty's class day Aunt Kipp ; Psyche's art",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL45013972M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-28T22:04:51.420137"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:46:45.016587"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798683755195"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "211",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798683755195"
+      ],
+      "title": "Kitty's Class Day and Other StoriesKitty's Class Day and Other Stories",
+      "weight": "0.377",
+      "full_title": "Kitty's Class Day and Other StoriesKitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48957538M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T23:34:59.677582"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842424838"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "228",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842424838"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.227",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48636609M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T06:08:44.720757"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721532474"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "185",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721532474"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.300",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48408073M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T20:42:35.948661"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721532467"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721532467"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.423",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48429462M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T21:48:09.225721"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746176936"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "172",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746176936"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.395",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL48435749M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T22:05:30.900440"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000OFHP6S"
+        ],
+        "better_world_books": [
+          "BWB24619372"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P8-AYB-449"
+      ],
+      "publish_date": "1908-01-01",
+      "publishers": [
+        "Grosset & Dunlap"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-03-10:P8-AYB-449"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL47739912M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-04T05:37:50.930616"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798619013870"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "200",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798619013870"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.359",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL46704287M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-17T12:43:26.415683"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781427028037"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "320",
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781427028037"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL44148192M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T08:04:45.078567"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944145"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944145"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Short stories",
+        "Family life, fiction"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL44228127M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T16:36:27.389717"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B005LE5A28"
+        ],
+        "better_world_books": [
+          "BWB39969624"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:202-AAY-344"
+      ],
+      "publish_date": "1939-01-01",
+      "publishers": [
+        "Grosset & Dunlap"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17"
+      ],
+      "title": "kitty's class day",
+      "full_title": "kitty's class day",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL43000389M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-06T22:33:45.413204"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798746176943"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "178",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798746176943"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.255",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42428792M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-02T03:29:03.271890"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798634925547"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "181",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798634925547"
+      ],
+      "title": "Kitty's Class Day",
+      "weight": "0.259",
+      "subtitle": "And Other Stories",
+      "full_title": "Kitty's Class Day And Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42294935M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-01T08:45:04.358272"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798632165297"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "179",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798632165297"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.536",
+      "subtitle": "Large Print",
+      "full_title": "Kitty's Class Day and Other Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42177348M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T13:47:05.051277"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798613986668"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "205",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798613986668"
+      ],
+      "title": "Kitty's Class Day and Other Proverb Stories",
+      "weight": "0.368",
+      "full_title": "Kitty's Class Day and Other Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42084523M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T21:57:39.489032"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798611937747"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "205",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611937747"
+      ],
+      "title": "Kitty's Class Day and Other Proverb Stories",
+      "weight": "0.368",
+      "full_title": "Kitty's Class Day and Other Proverb Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL42031138M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:56:06.411788"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781670656490"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781670656490"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.432",
+      "subtitle": "Large Print",
+      "full_title": "Kitty's Class Day and Other Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41942904M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T23:27:04.224590"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781670656681"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "180",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781670656681"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.200",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41967632M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T03:13:41.059927"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607427092"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "245",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607427092"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.432",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41898693M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T16:23:32.908811"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781702830157"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "236",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781702830157"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.350",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41722852M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T13:15:48.914918"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781087131740"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "754",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781087131740"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.809",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41574703M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T14:25:29.854280"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781686216145"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "226",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781686216145"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.536",
+      "subtitle": "Large Print",
+      "full_title": "Kitty's Class Day and Other Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41604152M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T19:11:33.332449"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781695441668"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "228",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781695441668"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.541",
+      "subtitle": "Large Print",
+      "full_title": "Kitty's Class Day and Other Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41513197M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T04:56:50.307671"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781692529192"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "476",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781692529192"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.695",
+      "full_title": "Kitty's Class Day and Other Stories",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41536744M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T08:34:00.867208"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781087131733"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "228",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781087131733"
+      ],
+      "title": "Kitty's Class Day and Other Stories",
+      "weight": "0.541",
+      "subtitle": "Large Print",
+      "full_title": "Kitty's Class Day and Other Stories Large Print",
+      "works": [
+        {
+          "key": "/works/OL30045W"
+        }
+      ],
+      "key": "/books/OL41548755M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T10:22:45.965906"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:05:16.798760"
+      }
+    }
+  ]
+}

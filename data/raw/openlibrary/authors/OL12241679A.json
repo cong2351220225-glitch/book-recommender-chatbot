@@ -1,0 +1,20 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Shields, Carol, Howard, Blanche",
+  "key": "/authors/OL12241679A",
+  "source_records": [
+    "promise:bwb_daily_pallets_2021-07-13"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-01-14T17:29:46.203834"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-14T17:29:46.203834"
+  }
+}

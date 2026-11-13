@@ -1,0 +1,69 @@
+{
+  "subtitle": "a collaboration",
+  "covers": [
+    6270878
+  ],
+  "latest_revision": 4,
+  "ocaid": "cu31924050108715",
+  "contributions": [
+    "Dennison, Henry S. 1877-1952",
+    "Gay, Edwin F. 1867-1946",
+    "Heilman, Ralph Emerson, 1886-",
+    "Kendall, Henry Plimpton, 1878-"
+  ],
+  "id": 19924283,
+  "source_records": [
+    "marc:marc_miami_univ_ohio/allbibs0049.out:2743289:1060",
+    "ia:cu31924050108715"
+  ],
+  "title": "Profit sharing, its principles and practice",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Profit-sharing"
+  ],
+  "publish_country": "nyu",
+  "by_statement": "by Arthur W. Burritt ... Henry S. Dennison ... Edwin F. Gay ... Ralph E. Heilman ... Henry P. Kendall",
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4,
+  "publishers": [
+    "Harper & brothers"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-13T10:31:19.280464"
+  },
+  "key": "/books/OL14638407M",
+  "authors": [
+    {
+      "key": "/authors/OL2558554A"
+    }
+  ],
+  "publish_places": [
+    "New York and London"
+  ],
+  "pagination": "x, 328 p.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-13T18:09:04.541560"
+  },
+  "lccn": [
+    "35023622"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Bibliography:  p. 317-318"
+  },
+  "number_of_pages": 328,
+  "publish_date": "1920",
+  "works": [
+    {
+      "key": "/works/OL245974W"
+    }
+  ]
+}

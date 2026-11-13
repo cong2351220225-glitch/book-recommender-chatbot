@@ -1,0 +1,49 @@
+{
+  "first_publish_date": "June 30, 2004",
+  "title": "Pauline's Passion And Punishment",
+  "covers": [
+    1760612,
+    11508387
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "To and fro, like a wild creature in its cage, paced that handsome woman, with bent head, locked hands, and restless steps."
+  },
+  "key": "/works/OL30029W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "To and fro, like a wild creature in its cage, paced that handsome woman, with bent head, locked hands, and restless steps."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction, general"
+  ],
+  "location": "/works/OL30029W",
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-02T20:16:16.487262"
+  }
+}

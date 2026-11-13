@@ -1,0 +1,21 @@
+{
+  "type": {
+    "key": "/type/author"
+  },
+  "name": "Yingqi Xia",
+  "personal_name": "Yingqi Xia",
+  "key": "/authors/OL9076101A",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part36.utf8:279062172:1239"
+  ],
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-12-23T21:41:14.809450"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-12-23T21:41:14.809450"
+  }
+}

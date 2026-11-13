@@ -1,0 +1,163 @@
+{
+  "links": {
+    "self": "/works/OL27349W/editions.json",
+    "work": "/works/OL27349W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Knopf",
+        "Distributed by Random House"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1238743"
+        ],
+        "goodreads": [
+          "2261073"
+        ]
+      },
+      "subtitle": "poems",
+      "covers": [
+        225965
+      ],
+      "lc_classifications": [
+        "PS3566.A575 C46 2000"
+      ],
+      "url": [
+        "http://www.loc.gov/catdir/bios/random059/99031088.html",
+        "http://www.loc.gov/catdir/samples/random051/99031088.html",
+        "http://www.loc.gov/catdir/description/random0415/99031088.html"
+      ],
+      "key": "/books/OL40458M",
+      "authors": [
+        {
+          "key": "/authors/OL26309A"
+        }
+      ],
+      "ocaid": "cenotaphpoems00pank",
+      "publish_places": [
+        "New York"
+      ],
+      "uri_descriptions": [
+        "Contributor biographical information",
+        "Sample text",
+        "Publisher description"
+      ],
+      "edition_name": "1st ed.",
+      "pagination": "xii, 85 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:9211468:823",
+        "ia:cenotaphpoems00pank",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:707738:823",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:569472906:2797"
+      ],
+      "title": "Cenotaph",
+      "lccn": [
+        "99031088"
+      ],
+      "number_of_pages": 85,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "811/.54"
+      ],
+      "isbn_10": [
+        "0375407642"
+      ],
+      "publish_date": "2000",
+      "publish_country": "nyu",
+      "by_statement": "by Eric Pankey.",
+      "works": [
+        {
+          "key": "/works/OL27349W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/bios/random059/99031088.html",
+        "http://www.loc.gov/catdir/samples/random051/99031088.html",
+        "http://www.loc.gov/catdir/description/random0415/99031088.html"
+      ],
+      "oclc_numbers": [
+        "41273252"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-20T06:44:46.182472"
+      }
+    },
+    {
+      "publishers": [
+        "Knopf"
+      ],
+      "number_of_pages": 104,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-29T12:57:35.908788"
+      },
+      "source_records": [
+        "amazon:0375709746:19:763220801:152727"
+      ],
+      "title": "Cenotaph",
+      "identifiers": {
+        "librarything": [
+          "1238743"
+        ],
+        "goodreads": [
+          "1315249"
+        ]
+      },
+      "isbn_13": [
+        "9780375709746"
+      ],
+      "covers": [
+        228968
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0375709746"
+      ],
+      "publish_date": "September 25, 2001",
+      "key": "/books/OL7426520M",
+      "authors": [
+        {
+          "key": "/authors/OL26309A"
+        }
+      ],
+      "latest_revision": 7,
+      "oclc_numbers": [
+        "48188245"
+      ],
+      "works": [
+        {
+          "key": "/works/OL27349W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 7
+    }
+  ]
+}

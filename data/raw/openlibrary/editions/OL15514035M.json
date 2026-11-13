@@ -1,0 +1,57 @@
+{
+  "latest_revision": 2,
+  "contributions": [
+    "Downs, Joseph"
+  ],
+  "id": 22000844,
+  "source_records": [
+    "marc:marc_university_of_toronto/uoft.marc:634938268:568"
+  ],
+  "title": "The American wing.",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Architecture, Domestic",
+    "Architecture -- United States"
+  ],
+  "publish_country": "nyu",
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 2,
+  "publishers": [
+    "[Museum Press]"
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T20:31:15.160508"
+  },
+  "key": "/books/OL15514035M",
+  "authors": [
+    {
+      "key": "/authors/OL24127A"
+    }
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "pagination": "[6] p.  20 pl.",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-20T07:54:25.706806"
+  },
+  "notes": {
+    "type": "/type/text",
+    "value": "Text signed by Joseph Downs."
+  },
+  "number_of_pages": 20,
+  "publish_date": "1938",
+  "works": [
+    {
+      "key": "/works/OL103005W"
+    }
+  ]
+}

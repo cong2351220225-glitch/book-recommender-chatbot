@@ -1,0 +1,60 @@
+{
+  "publishers": [
+    "King Publishing, Laurence"
+  ],
+  "subtitle": "An A-Z of Artists",
+  "source_records": [
+    "bwb:9781786272843",
+    "marc:marc_columbia/Columbia-extract-20221130-028.mrc:74135598:1509"
+  ],
+  "title": "Looking at Art",
+  "number_of_pages": 208,
+  "isbn_13": [
+    "9781786272843"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "full_title": "Looking at Art An A-Z of Artists",
+  "lc_classifications": [
+    "N5300",
+    "N7477 .K38 2018"
+  ],
+  "publish_date": "2018",
+  "key": "/books/OL28687705M",
+  "authors": [
+    {
+      "key": "/authors/OL5249261A"
+    },
+    {
+      "key": "/authors/OL6805801A"
+    }
+  ],
+  "works": [
+    {
+      "key": "/works/OL21183307W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "subjects": [
+    "Art, history",
+    "Art criticism"
+  ],
+  "oclc_numbers": [
+    "1043484648"
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2020-08-13T04:41:52.082064"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-17T19:24:12.195912"
+  }
+}

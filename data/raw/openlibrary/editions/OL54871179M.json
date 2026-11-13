@@ -1,0 +1,52 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL9325500A"
+    }
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 132,
+  "publish_date": "Jul 11, 2016",
+  "publishers": [
+    "CreateSpace Independent Publishing Platform"
+  ],
+  "source_records": [
+    "bwb:9781535185554"
+  ],
+  "title": "Hitchhiker's Guide to the Galaxy",
+  "weight": "0.255 ",
+  "full_title": "Hitchhiker's Guide to the Galaxy",
+  "works": [
+    {
+      "key": "/works/OL2163649W"
+    }
+  ],
+  "key": "/books/OL54871179M",
+  "identifiers": {},
+  "covers": [
+    14848870
+  ],
+  "isbn_13": [
+    "9781535185554"
+  ],
+  "dewey_decimal_class": [
+    "823.92"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-09-23T21:26:47.330523"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-03-03T18:40:09.359151"
+  }
+}

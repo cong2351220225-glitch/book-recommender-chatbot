@@ -1,0 +1,85 @@
+{
+  "other_titles": [
+    "Life goals."
+  ],
+  "publishers": [
+    "Hay House"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "5870218"
+    ],
+    "librarything": [
+      "9790131"
+    ]
+  },
+  "subtitle": "setting & achieving goals to chart the course of your life",
+  "isbn_10": [
+    "0937611905"
+  ],
+  "lc_classifications": [
+    "BF503 .D42 1991"
+  ],
+  "key": "/books/OL1895376M",
+  "authors": [
+    {
+      "key": "/authors/OL33867A"
+    }
+  ],
+  "publish_places": [
+    "Santa Monica, CA"
+  ],
+  "pagination": "xviii, 284 p. ;",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part20.utf8:72362965:735",
+    "ia:lifegoalssetting0000dean",
+    "promise:bwb_daily_pallets_2020-10-08"
+  ],
+  "title": "LifeGoals",
+  "dewey_decimal_class": [
+    "158"
+  ],
+  "number_of_pages": 284,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "lccn": [
+    "90080051"
+  ],
+  "subjects": [
+    "Goal (Psychology)",
+    "Conduct of life.",
+    "Self-realization.",
+    "Success -- Psychological aspects."
+  ],
+  "publish_date": "1991",
+  "publish_country": "cau",
+  "by_statement": "by Amy E. Dean.",
+  "works": [
+    {
+      "key": "/works/OL510255W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    11670995
+  ],
+  "ocaid": "lifegoalssetting0000dean",
+  "local_id": [
+    "urn:bwbsku:P6-AYC-313"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-09T20:47:02.392531"
+  }
+}

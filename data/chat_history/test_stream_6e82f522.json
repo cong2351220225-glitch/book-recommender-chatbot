@@ -1,0 +1,18 @@
+{
+  "id": "test_stream_6e82f522",
+  "title": "Chào bạn, bạn là ai?",
+  "timestamp": "2026-11-02 20:16:35",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Chào bạn, bạn là ai?",
+      "timestamp": "20:16"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi, mình đang gặp trục trặc khi trả lời. Bạn thử nhắn lại cho mình nhé.",
+      "timestamp": "20:16",
+      "sources": []
+    }
+  ]
+}

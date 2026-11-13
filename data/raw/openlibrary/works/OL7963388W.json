@@ -1,0 +1,25 @@
+{
+  "title": "Sm Marketing Supplements Sampler",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:15:30.563591"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T22:15:30.563591"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL7963388W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL2656598A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

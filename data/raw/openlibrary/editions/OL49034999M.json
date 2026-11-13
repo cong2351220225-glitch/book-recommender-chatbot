@@ -1,0 +1,45 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9798686870925"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "226",
+  "publish_date": "2021",
+  "publishers": [
+    "Independently Published"
+  ],
+  "source_records": [
+    "bwb:9798686870925"
+  ],
+  "title": "Moods",
+  "weight": "0.400",
+  "full_title": "Moods",
+  "works": [
+    {
+      "key": "/works/OL30052W"
+    }
+  ],
+  "key": "/books/OL49034999M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-07-18T04:28:13.803657"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T15:57:05.971271"
+  }
+}

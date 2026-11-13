@@ -1,0 +1,153 @@
+{
+  "links": {
+    "self": "/works/OL57591W/editions.json",
+    "work": "/works/OL57591W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "weight": "5.9 ounces",
+      "covers": [
+        1321364
+      ],
+      "latest_revision": 5,
+      "id": 13103630,
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "First thing in the morning on the second day of school Helen Curragh placed five heavy textbooks, her binder, and the rest of her belongings on the shelf of locker number 1123."
+      },
+      "source_records": [
+        "amazon:061333700X:2-as:2337300796:227471"
+      ],
+      "title": "Hannah's Winter of Hope (Pioneer Daughters)",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Historical - United States - Colonial",
+        "Family - General",
+        "Historical - Africa",
+        "Juvenile Fiction",
+        "Children's Books/Ages 9-12 Fiction",
+        "Children: Grades 3-4"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.7 x 5.1 x 0.5 inches",
+      "revision": 5,
+      "publishers": [
+        "Tandem Library"
+      ],
+      "physical_format": "School & Library Binding",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-04-24T17:48:06.130077"
+      },
+      "key": "/books/OL9762528M",
+      "authors": [
+        {
+          "key": "/authors/OL21432A"
+        }
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "identifiers": {
+        "goodreads": [
+          "6851398"
+        ]
+      },
+      "isbn_13": [
+        "9780613337007"
+      ],
+      "isbn_10": [
+        "061333700X"
+      ],
+      "publish_date": "October 2001",
+      "works": [
+        {
+          "key": "/works/OL57591W"
+        }
+      ]
+    },
+    {
+      "number_of_pages": 89,
+      "weight": "5.8 ounces",
+      "covers": [
+        1314818
+      ],
+      "contributions": [
+        "J. Bonnell (Editor)",
+        "Donna Diamond (Illustrator)"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "First thing in the morning on the second day of school Helen Curragh placed five heavy textbooks, her binder, and the rest of her belongings on the shelf of locker number 1123."
+      },
+      "source_records": [
+        "amazon:0606217800:2-ax:3521107305:210781",
+        "promise:bwb_daily_pallets_2024-08-23:W9-ARR-783"
+      ],
+      "title": "Hannah's Winter of Hope (Pioneer Daughters)",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Family - General",
+        "Historical - United States - Colonial",
+        "Historical - Africa",
+        "Children's 9-12 - Fiction - Historical"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.7 x 5.4 x 0.4 inches",
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "physical_format": "Unknown Binding",
+      "key": "/books/OL9861978M",
+      "authors": [
+        {
+          "key": "/authors/OL21432A"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "7046074"
+        ]
+      },
+      "isbn_13": [
+        "9780606217804"
+      ],
+      "isbn_10": [
+        "0606217800"
+      ],
+      "publish_date": "January 2001",
+      "works": [
+        {
+          "key": "/works/OL57591W"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:W9-ARR-783"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-25T01:37:52.168585"
+      }
+    }
+  ]
+}

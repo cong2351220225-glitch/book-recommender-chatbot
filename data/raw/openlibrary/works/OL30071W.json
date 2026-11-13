@@ -1,0 +1,47 @@
+{
+  "subtitle": "A Novel",
+  "title": "Ariana, the Making of a Queen",
+  "covers": [
+    3858730
+  ],
+  "first_publish_date": "1996",
+  "key": "/works/OL30071W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26682A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Mormons",
+    "Mormon women",
+    "Latter-Day Saints (Mormons)",
+    "Mormons, fiction",
+    "Fiction, religious"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "On a rainy Parisian evening, Ariana de Cotte considers her life. It is her wedding night, but Jacques has gone drinking with his friends, and she is left alone with her thoughts and memories . . . memories of a beloved twin brother, lost to her in a terrible accident; of her estranged parents, who had shut her out when Antoine died; of the loneliness and anger that consume her. She is nineteen, and her life seems beyond hope or repair.\r\n\r\nThus begins the story of an extraordinary young woman who, as her life spirals downward, struggles to find meaning and hope in the face of unimaginable suffering. Her bitter refusal to listen to the Latter-day Saint missionaries doesn't help matters as she blames God for her troubles. Until one dark night, when her life hits rock-bottom and the Spirit begins its whisperings to her heart.\r\n\r\nAs you come to know Ariana, you will weep for her tragedy, smile at her small triumphs, rejoice as she embraces the faith that will sustain her, and feel the love of a good man who has the power to change her life forever."
+  },
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T08:27:24.412834"
+  }
+}

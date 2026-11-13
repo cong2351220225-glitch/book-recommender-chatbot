@@ -1,0 +1,35 @@
+{
+  "title": "The scorpion and the tarantula",
+  "subjects": [
+    "Nuclear disarmament",
+    "Nuclear weapons (International law)"
+  ],
+  "key": "/works/OL53113W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34350A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "SCOTT (copy 1): from the John Holmes Library collection."
+  },
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T17:17:53.713360"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-20T19:36:52.608661"
+  }
+}

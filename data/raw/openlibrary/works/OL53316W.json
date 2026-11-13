@@ -1,0 +1,54 @@
+{
+  "title": "They called them angels",
+  "covers": [
+    155063
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "subjects": [
+    "Nurses",
+    "20th century",
+    "United States",
+    "World War, 1939-1945",
+    "Medical care",
+    "History",
+    "World war, 1939-1945, medical care",
+    "Nursing, history",
+    "History of Nursing",
+    "Military Medicine",
+    "World War II",
+    "Military Nursing"
+  ],
+  "key": "/works/OL53316W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL34418A"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": {
+    "type": "/type/text",
+    "value": "\"With the insight and intimacy of firsthand accounts from some of the thousands of army and navy nurses who served both stateside and overseas during World War II, this book tells the stories of the brave women who used any and all resources to save as many lives as possible. Although military nurses could have made more money as civilians, thousands chose to leave the security of home to care for the young men who went off to war. They were not saints but vibrant women whose performance changed both military and civilian nursing. Kathi Jackson's account follows army and navy nurses from the time they joined the military, through their active service, to their lives today\"--Publisher website (February 2008)."
+  },
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T17:17:53.713360"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-04T18:10:22.108970"
+  }
+}

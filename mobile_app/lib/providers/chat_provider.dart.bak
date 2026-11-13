@@ -1,0 +1,194 @@
+import 'package:flutter/material.dart';
+import 'package:dio/dio.dart';
+import '../models/chat_message_model.dart';
+import '../models/location_item_model.dart';
+import '../repositories/chat_repository.dart';
+
+class ChatProvider extends ChangeNotifier {
+  final ChatRepository _chatRepository;
+
+  final List<ChatMessageModel> _messages = [];
+  String? _sessionId;
+  bool _isStreaming = false;
+  bool _isThinking = false;
+  String? _errorMessage;
+  CancelToken? _cancelToken;
+
+  Map<String, dynamic> _readerProfile = {};
+
+  final List<String> _suggestedPrompts = [
+    'Tôi muốn tìm nhà sách gần đây',
+    'Tìm nhà sách ở Đà Nẵng',
+    'Có thư viện nào gần quận Liên Chiểu không?',
+    'Thư viện hiện có bao nhiêu cuốn sách?',
+    'Gợi ý sách lập trình phần mềm kinh điển?',
+    'Sách The Pragmatic Programmer nói về điều gì?',
+    'Tìm sách phát triển bản thân và tư duy tích cực?',
+  ];
+
+  ChatProvider({ChatRepository? chatRepository})
+      : _chatRepository = chatRepository ?? ChatRepository();
+
+  List<ChatMessageModel> get messages => _messages;
+  String? get sessionId => _sessionId;
+  bool get isStreaming => _isStreaming;
+  bool get isThinking => _isThinking;
+  String? get errorMessage => _errorMessage;
+  List<String> get suggestedPrompts => _suggestedPrompts;
+  Map<String, dynamic> get readerProfile => _readerProfile;
+
+  void startNewSession() {
+    stopResponse();
+    _sessionId = 'session_${DateTime.now().millisecondsSinceEpoch}';
+    _messages.clear();
+    _readerProfile = {};
+    _errorMessage = null;
+    notifyListeners();
+  }
+
+  void stopResponse() {
+    if (_isStreaming && _cancelToken != null && !_cancelToken!.isCancelled) {
+      _cancelToken!.cancel('Người dùng dừng tạo phản hồi');
+    }
+    _isStreaming = false;
+    _isThinking = false;
+    if (_messages.isNotEmpty && _messages.last.isStreaming) {
+      _messages.last.isStreaming = false;
+    }
+    notifyListeners();
+  }
+
+  Future<void> sendMessage(String text) async {
+    final query = text.trim();
+    if (query.isEmpty || _isStreaming) return;
+
+    _sessionId ??= 'session_${DateTime.now().millisecondsSinceEpoch}';
+    _errorMessage = null;
+
+    final now = DateTime.now();
+    final timeStr = '${now.hour.toString().padLeft(2, '0')}:${now.minute.toString().padLeft(2, '0')}';
+
+    // 1. Add User Message
+    final userMsg = ChatMessageModel(
+      id: 'msg_user_${now.millisecondsSinceEpoch}',
+      role: 'user',
+      content: query,
+      timestamp: timeStr,
+    );
+    _messages.add(userMsg);
+
+    // 2. Add Assistant Streaming Placeholder
+    final assistantMsgId = 'msg_ai_${now.millisecondsSinceEpoch}';
+    final assistantMsg = ChatMessageModel(
+      id: assistantMsgId,
+      role: 'assistant',
+      content: '',
+      timestamp: timeStr,
+      isStreaming: true,
+    );
+    _messages.add(assistantMsg);
+
+    _isStreaming = true;
+    _isThinking = true;
+    _cancelToken = CancelToken();
+    notifyListeners();
+
+    try {
+      await _chatRepository.streamMessage(
+        message: query,
+        sessionId: _sessionId,
+        topK: 3,
+        readerProfile: _readerProfile,
+        cancelToken: _cancelToken,
+        onChunk: (chunk) {
+          if (_isThinking) {
+            _isThinking = false;
+          }
+          assistantMsg.content += chunk;
+          notifyListeners();
+        },
+        onDone: (fullAnswer, sources, locations, intent, newSessionId) {
+          _isStreaming = false;
+          _isThinking = false;
+          assistantMsg.isStreaming = false;
+          if (fullAnswer.isNotEmpty) {
+            assistantMsg.content = fullAnswer;
+          }
+          assistantMsg.sources = List<ChatSourceBook>.from(sources);
+          assistantMsg.locations = List<LocationItemModel>.from(locations);
+          if (newSessionId.isNotEmpty) {
+            _sessionId = newSessionId;
+          }
+          _errorMessage = null;
+          notifyListeners();
+        },
+        onError: (err) async {
+          // If streaming failed and assistant message has no content yet, try non-streaming fallback
+          if (assistantMsg.content.isEmpty && !(_cancelToken?.isCancelled ?? false)) {
+            try {
+              final fallbackRes = await _chatRepository.sendMessage(
+                message: query,
+                sessionId: _sessionId,
+                topK: 3,
+                readerProfile: _readerProfile,
+              );
+              _isStreaming = false;
+              _isThinking = false;
+              assistantMsg.isStreaming = false;
+              assistantMsg.content = fallbackRes['answer']?.toString() ?? '';
+
+              final rawBooks = fallbackRes['books'] as List<dynamic>? ?? [];
+              assistantMsg.sources = rawBooks
+                  .map((b) => ChatSourceBook.fromMap(b as Map<String, dynamic>))
+                  .toList();
+
+              final rawLocations = fallbackRes['locations'] as List<dynamic>? ?? [];
+              assistantMsg.locations = rawLocations
+                  .map((l) => LocationItemModel.fromJson(l as Map<String, dynamic>))
+                  .toList();
+
+              final newSId = fallbackRes['session_id']?.toString();
+              if (newSId != null && newSId.isNotEmpty) {
+                _sessionId = newSId;
+              }
+              _errorMessage = null;
+              notifyListeners();
+              return;
+            } catch (_) {}
+          }
+
+          _isStreaming = false;
+          _isThinking = false;
+          assistantMsg.isStreaming = false;
+          if (assistantMsg.content.isEmpty) {
+            assistantMsg.content = err;
+            assistantMsg.hasError = true;
+          }
+          _errorMessage = err;
+          notifyListeners();
+        },
+      );
+    } catch (e) {
+      _isStreaming = false;
+      _isThinking = false;
+      assistantMsg.isStreaming = false;
+      if (assistantMsg.content.isEmpty) {
+        assistantMsg.content = 'Đã xảy ra lỗi kết nối: ${e.toString()}';
+        assistantMsg.hasError = true;
+      }
+      _errorMessage = e.toString();
+      notifyListeners();
+    }
+  }
+
+  void clearError() {
+    _errorMessage = null;
+    notifyListeners();
+  }
+
+  @override
+  void dispose() {
+    stopResponse();
+    super.dispose();
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Narciso Díaz de Escovar",
+  "personal_name": "Narciso Díaz de Escovar",
+  "death_date": "1935",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "photos": [
+    9260113
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-30T15:10:29.520769"
+  },
+  "latest_revision": 7,
+  "key": "/authors/OL512510A",
+  "birth_date": "1860",
+  "revision": 7,
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "14854058",
+    "wikidata": "Q2837607",
+    "isni": "0000000080939261"
+  }
+}

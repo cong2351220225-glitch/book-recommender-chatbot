@@ -1,0 +1,246 @@
+{
+  "links": {
+    "self": "/works/OL109506W/editions.json",
+    "work": "/works/OL109506W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "identifiers": {
+        "goodreads": [
+          "979574"
+        ],
+        "librarything": [
+          "2601315"
+        ]
+      },
+      "title": "Die Technologiefalle",
+      "authors": [
+        {
+          "key": "/authors/OL29655A"
+        }
+      ],
+      "publish_date": "June 1, 2002",
+      "publishers": [
+        "Suhrkamp"
+      ],
+      "weight": "6.9 ounces",
+      "covers": [
+        2212724
+      ],
+      "physical_format": "Paperback",
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7 x 4.4 x 0.8 inches",
+      "isbn_10": [
+        "3518398857"
+      ],
+      "isbn_13": [
+        "9783518398852"
+      ],
+      "translated_from": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "translation_of": "Tajemnica chińskiego pokoju",
+      "source_records": [
+        "amazon:3518398857"
+      ],
+      "key": "/books/OL9051273M",
+      "number_of_pages": 318,
+      "works": [
+        {
+          "key": "/works/OL109506W"
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T08:06:21.566219"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3256386"
+        ]
+      },
+      "title": "Die Technologiefalle",
+      "authors": [
+        {
+          "key": "/authors/OL29655A"
+        }
+      ],
+      "publish_date": "October 1, 2000",
+      "publishers": [
+        "Insel, Frankfurt"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "covers": [
+        2206696
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "3458170391"
+      ],
+      "isbn_13": [
+        "9783458170396"
+      ],
+      "source_records": [
+        "amazon:3458170391"
+      ],
+      "key": "/books/OL9594236M",
+      "number_of_pages": 320,
+      "works": [
+        {
+          "key": "/works/OL109506W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-01T04:22:44.183302"
+      }
+    },
+    {
+      "publishers": [
+        "Taiwpn Universitas"
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1666469189:405",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:236572075:1041"
+      ],
+      "title": "Tajemnica chińskiego pokoju.",
+      "identifiers": {
+        "librarything": [
+          "2601315"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "isbn_10": [
+        "8370529879"
+      ],
+      "publish_date": "1996",
+      "publish_country": "pl ",
+      "key": "/books/OL17956580M",
+      "authors": [
+        {
+          "key": "/authors/OL29655A"
+        }
+      ],
+      "publish_places": [
+        "Kraków"
+      ],
+      "works": [
+        {
+          "key": "/works/OL109506W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "CB478 .L46 1996"
+      ],
+      "oclc_numbers": [
+        "264967776"
+      ],
+      "number_of_pages": 283,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-08T16:48:20.127896"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-14T03:35:34.874218"
+      }
+    },
+    {
+      "publishers": [
+        "TAiWPN UNIVERSITAS"
+      ],
+      "lc_classifications": [
+        "CB478 .L46 1996"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL18205503M",
+      "authors": [
+        {
+          "key": "/authors/OL29655A"
+        }
+      ],
+      "publish_places": [
+        "Kraków"
+      ],
+      "subjects": [
+        "Technology -- Philosophy",
+        "Technology -- Social aspects",
+        "Technology and civilization"
+      ],
+      "pagination": "277 p. ;",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1740947978:702"
+      ],
+      "title": "Tajemnica chińskiego pokoju",
+      "number_of_pages": 277,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-11T22:58:57.384538"
+      },
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "isbn_10": [
+        "837052348X"
+      ],
+      "publish_date": "1996",
+      "publish_country": "pl ",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-17T21:04:12.956021"
+      },
+      "by_statement": "Stanisław Lem.",
+      "works": [
+        {
+          "key": "/works/OL109506W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

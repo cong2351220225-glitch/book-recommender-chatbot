@@ -1,0 +1,15 @@
+{
+  "name": "Doug Banister",
+  "personal_name": "Doug Banister",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-11 18:03:05.98272"
+  },
+  "key": "/authors/OL26333A",
+  "birth_date": "1961",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 66916,
+  "revision": 2
+}

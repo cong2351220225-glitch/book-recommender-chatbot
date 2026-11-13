@@ -1,0 +1,82 @@
+{
+  "publishers": [
+    "Genealogical Pub. Co."
+  ],
+  "identifiers": {
+    "goodreads": [
+      "3453147"
+    ]
+  },
+  "isbn_10": [
+    "0806311541"
+  ],
+  "subject_place": [
+    "Great Britain"
+  ],
+  "covers": [
+    8481441
+  ],
+  "lc_classifications": [
+    "Z5313.G69 G533 1986",
+    "CS414 G533 1986"
+  ],
+  "key": "/books/OL2747714M",
+  "authors": [
+    {
+      "key": "/authors/OL29970A"
+    }
+  ],
+  "publish_places": [
+    "Baltimore"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "41 p. ;",
+  "source_records": [
+    "amazon:0806311541",
+    "marc:marc_loc_2016/BooksAll.2016.part17.utf8:72442685:882",
+    "promise:bwb_daily_pallets_2023-08-07:O9-BNJ-075"
+  ],
+  "title": "A simplified guide to marriage, census, and other indexes in Great Britain",
+  "dewey_decimal_class": [
+    "016.929/1/072041"
+  ],
+  "number_of_pages": 41,
+  "edition_name": "2nd ed.",
+  "lccn": [
+    "86080614"
+  ],
+  "subjects": [
+    "Marriage records -- Great Britain -- Indexes -- Bibliography.",
+    "Registers of births, etc. -- Great Britain -- Indexes -- Bibliography.",
+    "Great Britain -- Genealogy -- Indexes -- Bibliography.",
+    "Great Britain -- Census -- Indexes -- Bibliography."
+  ],
+  "publish_date": "1986",
+  "publish_country": "mdu",
+  "by_statement": "compiled by J.S.W. Gibson.",
+  "works": [
+    {
+      "key": "/works/OL478249W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "local_id": [
+    "urn:bwbsku:O9-BNJ-075"
+  ],
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-08-09T01:03:59.814728"
+  }
+}

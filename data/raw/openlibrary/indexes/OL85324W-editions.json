@@ -1,0 +1,135 @@
+{
+  "links": {
+    "self": "/works/OL85324W/editions.json",
+    "work": "/works/OL85324W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Prentice Hall"
+      ],
+      "number_of_pages": 575,
+      "weight": "2 pounds",
+      "covers": [
+        81747
+      ],
+      "edition_name": "Stg edition",
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T03:40:25.183945"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9285150M",
+      "authors": [
+        {
+          "key": "/authors/OL29129A"
+        }
+      ],
+      "subjects": [
+        "Science",
+        "Supplementals & Ancillaries",
+        "Science/Mathematics",
+        "PHYSICS"
+      ],
+      "isbn_13": [
+        "9780130214751"
+      ],
+      "source_records": [
+        "amazon:0130214752:8:2774747259:206872",
+        "amazon:0130214752:o-7:3150954750:209040"
+      ],
+      "title": "Physics for Scientists and Engineers (Study Guide and Student Solutions Manual)",
+      "identifiers": {
+        "goodreads": [
+          "241362"
+        ],
+        "librarything": [
+          "5994718"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0130214752"
+      ],
+      "publish_date": "March 2000",
+      "works": [
+        {
+          "key": "/works/OL85324W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.6 x 8.1 x 1.2 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Prentice Hall"
+      ],
+      "number_of_pages": 575,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-05T00:13:46.068385"
+      },
+      "source_records": [
+        "amazon:0130214752:8:2774747259:206872",
+        "amazon:0130214752:o-7:3150954750:209040"
+      ],
+      "title": "Physics for Scientists and Engineers (Study Guide and Student Solutions Manual)",
+      "identifiers": {
+        "goodreads": [
+          "241362"
+        ],
+        "librarything": [
+          "5994718"
+        ]
+      },
+      "isbn_13": [
+        "9780130214751"
+      ],
+      "covers": [
+        81748
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0130214752"
+      ],
+      "publish_date": "March 2000",
+      "key": "/books/OL7330502M",
+      "authors": [
+        {
+          "key": "/authors/OL29129A"
+        }
+      ],
+      "latest_revision": 6,
+      "works": [
+        {
+          "key": "/works/OL85324W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    }
+  ]
+}

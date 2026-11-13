@@ -1,0 +1,75 @@
+{
+  "title": "Sefer ha-Dor ṿeha-teḳufah",
+  "subtitle": "ḳovets reshimot me-hanhagotehem shel maranan ... ha-Ḥazon Ish .. ha-Geriz mi-Brisḳ ... be-ʻinyene halakhah, agadah ṿe-hashḳafah : ṿe-leḳeṭ zikhronot me-admor mo. ha-r. Y. Ts. Dushinsḳi ... u-m. ha-gaʼon ... Zelig Reʼuven Bengis ...",
+  "authors": [
+    {
+      "key": "/authors/OL5906577A"
+    }
+  ],
+  "publish_date": "2001",
+  "other_titles": [
+    "Dor ṿeha-teḳufah",
+    "Reshimot, hanhagot ṿe-zikhronot"
+  ],
+  "publishers": [
+    "Talmide Yeshivat ha-Ramah"
+  ],
+  "full_title": "Sefer ha-Dor ṿeha-teḳufah ḳovets reshimot me-hanhagotehem shel maranan ... ha-Ḥazon Ish .. ha-Geriz mi-Brisḳ ... be-ʻinyene halakhah, agadah ṿe-hashḳafah : ṿe-leḳeṭ zikhronot me-admor mo. ha-r. Y. Ts. Dushinsḳi ... u-m. ha-gaʼon ... Zelig Reʼuven Bengis ...",
+  "lc_classifications": [
+    "BM750 .S3958 2001"
+  ],
+  "publish_places": [
+    "London"
+  ],
+  "edition_name": "Mahad. 2. ʻim hosafot, hagahot ṿe-tiḳunim",
+  "pagination": "73 p. ;",
+  "source_records": [
+    "marc:marc_loc_updates/v39.i46.records.utf8:2050215:2269"
+  ],
+  "work_titles": [
+    "Dor ṿeha-teḳufah (Reshimot)"
+  ],
+  "languages": [
+    {
+      "key": "/languages/heb"
+    }
+  ],
+  "lccn": [
+    "2005447253"
+  ],
+  "subject_places": [
+    "Jerusalem"
+  ],
+  "subjects": [
+    "Rabbis",
+    "Anecdotes"
+  ],
+  "subject_people": [
+    "Isaac Zeʼev Soloveichik ha-Levi (1886-1959)",
+    "Selig Reuben Bengis (1864-1953)",
+    "Avraham Yeshayahu Ḳarelitz (1878-1953)",
+    "Joseph Ẓevi ben Israel Duschinsky (1868-1948)"
+  ],
+  "publish_country": "enk",
+  "by_statement": "me-reshimot Elyaḳim Shlezinger",
+  "type": {
+    "key": "/type/edition"
+  },
+  "key": "/books/OL25100074M",
+  "number_of_pages": 73,
+  "works": [
+    {
+      "key": "/works/OL16281208W"
+    }
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2011-11-16T07:49:53.548889"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-04-27T05:48:10.131808"
+  }
+}

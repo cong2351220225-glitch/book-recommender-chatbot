@@ -1,0 +1,27 @@
+{
+  "subtitle": "Éd. critique par Françaoise Lambert.",
+  "title": "La légende des siècles (fragments) [par] Victor Hugo",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T20:20:25.168304"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-19T21:10:02.299876"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL1063536W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL107571A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 36242719,
+  "revision": 2
+}

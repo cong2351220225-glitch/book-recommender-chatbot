@@ -1,0 +1,44 @@
+{
+  "publishers": [
+    "Dewan Bahasa dan Pustaka, Malaysia"
+  ],
+  "number_of_pages": 17,
+  "classifications": {},
+  "title": "Siri Alam Sekitar : Pencemaran Satu Pengajaran",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "isbn_13": [
+    "9789834613624"
+  ],
+  "covers": [
+    7447390
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:04:50.578255"
+  },
+  "languages": [
+    {
+      "key": "/languages/may"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:05:34.489581"
+  },
+  "publish_date": "2016",
+  "key": "/books/OL25948271M",
+  "latest_revision": 3,
+  "publish_places": [
+    "Malaysia"
+  ],
+  "works": [
+    {
+      "key": "/works/OL17369324W"
+    }
+  ],
+  "physical_format": "Paperback",
+  "revision": 3
+}

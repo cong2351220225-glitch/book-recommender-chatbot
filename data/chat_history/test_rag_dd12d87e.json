@@ -1,0 +1,18 @@
+{
+  "id": "test_rag_dd12d87e",
+  "title": "Sách The Pragmatic Programmer có những t",
+  "timestamp": "2026-11-02 22:18:48",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Sách The Pragmatic Programmer có những tác giả nào và nội dung chính là gì?",
+      "timestamp": "22:18"
+    },
+    {
+      "role": "assistant",
+      "content": "Thư viện hiện có sách của các tác giả: Adrienne Geoghegan, Albert Moll, Alexandre Herculano, Alfred Thayer Mahan, Alice Moore Dunbar-Nelson, Andy Hunt, Dave Thomas, Antero de Quental, Antoine de Saint-Exupéry, Apple Education, Arnold Bennett, Arthur Christopher Benson, Arthur Conan Doyle, Arthur Schnitzler, Barry Jones, Bart D. Ehrman; Bart D. Ehrman; Matthew Kugler, Benjamin Franklin, Cal Newport, Carl Sagan, Carol Shields; Carol Shields; Blanche Howard; Shields, Carol, Howard, Blanche, Carveth Read, Chambers, Catherine, Charles Waddell Chesnutt, Christina Georgina Rossetti, Dale Carnegie, Dan Gutman, Daniel Defoe, Daniel Kahneman, David Ames Wells & E.V., David Clark Taylor, Don Norman, Doris Lessing; PUNTO DE LECTURA / SUMA DE LETRAS, Douglas Adams, Edgar Wallace, Edward Bellamy, Edward Bulwer-Lytton, Edward Packard, Edward Stratemeyer, Elizabeth Cleghorn Gaskell, Elizabeth George, Ellen Key, Ellis Parker Butler, Eric Carle, Eric Matthes, Eric Ries, Eva Annie Madden, Frances Hodgson Burnett, Francie Alexander, Francisco Marques Sousa Viterbo, Frederick Winslow Taylor, Georg Ebers, George Alfred Henty, George Orwell, George R. R. Martin, Gilbert Parker, Gustave Le Bon, Hans Gustav Adolf Gross, Harold Cox, Harold Frederic, Haruki Murakami, Havelock Ellis, Henri-Louis Duhamel du Monceau, Henry Adams, Henry Charles Carey, Henry James, Hugo Münsterberg, Ian Goodfellow; Yoshua Bengio; Aaron Courville, J. K. Rowling, J.R.R. Tolkien, Jack London, James Clear, James Elroy Flecker, James Mark Baldwin, James Parton, James Sully, James William Foley, Jan Pfloog, Jim Collins, John Grisham, John Haslam, John Holt, John Steinbeck, John Stuart Mill & J. Laurence Laughlin, John Thomson, Jonathan Swift, Joseph I. Lieberman, João Marques de Carvalho, Kathi Jackson, Klaus Schwab, Lady Gregory, Lisa Tucker McElroy, Louisa May Alcott, Louisa May Alcott; Amy Puetz; Harriet Roosevelt Richards; Jane Dyer, Louisa May Alcott; Haleigh DeRocher, Louisa May Alcott; Harriet Roosevelt Richards, Louisa May Alcott; Holly Johnson, Luise Mühlbach, Mabel Quiller-Couch, Martin Farquhar Tupper, Martin Fowler, Maturin Murray Ballou, Mungo Park, Nākūr Rūmi., Neville Wright Poulsom, Newell Dwight Hillis, Nimmala ʼA rhaṅʻ., Orison Swett Marden, Oscar Wilde, Otto Hermann Kahn, Page McBrier, Paulo Coelho, Phineas Taylor Barnum, Pierre Loti, Pierre-Joseph Proudhon, Rachel Ann Nunes, Ray Bradbury, Ray Vaughn Pierce, Richard Krafft-Ebing, Robert Burns, Robert C. Martin, Robert Louis Stevenson, Robert M. Pirsig, Robert Michael Ballantyne, Robert Talbot Kelly, Robin Sharma, Rosa Luxemburg, Rosemary Wells; Johanna Hurley, Samuel Johnson, Samuel Smiles, Sigmund Freud, Stephen King, Stephen R. Covey, Stephen Roos, Steve Jobs, Steven D. Levitt và Stephen J. Dubner, Stuart Russell và Peter Norvig, Susan Warner, Suzanne Collins, Taylor, William, The Steve Jobs Archive, Thomas Henry Huxley, Thomas L. Friedman, Thomas Robert Malthus, Thomas William Lawson, Thorstein Veblen, Vajīburraḥmān., Viktor Frankl, Walter Bagehot, William James, William Shakespeare, Yuval Noah Harari, 刘邵. 📚",
+      "timestamp": "22:18",
+      "sources": []
+    }
+  ]
+}

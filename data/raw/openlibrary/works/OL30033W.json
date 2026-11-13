@@ -1,0 +1,120 @@
+{
+  "title": "Jack and Jill",
+  "first_publish_date": "1880",
+  "key": "/works/OL30033W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL6851831A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL6061552A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    },
+    {
+      "author": {
+        "key": "/authors/OL36233A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "description": "When friends Jack and Jill are injured in a sledding accident, their family and friends rally around them to help in their recovery.",
+  "covers": [
+    5922002,
+    8229277,
+    2807855,
+    6519072,
+    763120,
+    2981595,
+    2981302,
+    7341062,
+    9008313,
+    10209419,
+    11704444,
+    11990763,
+    12809034,
+    13491575,
+    13491593,
+    13255326
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "\"Clear the lulla!\" was the general cry on a bright December afternoon, when all the boys and girls of Harmony Village were out enjoying the first good snow of the season."
+  },
+  "subject_places": [
+    "New England"
+  ],
+  "excerpts": [
+    {
+      "excerpt": "\"Clear the lulla!\" was the general cry on a bright December afternoon, when all the boys and girls of Harmony Village were out enjoying the first good snow of the season."
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "Winter",
+    "Family life",
+    "Friendship",
+    "Children",
+    "Classic Literature",
+    "Juvenile Fiction",
+    "Youth",
+    "Families",
+    "Sledding",
+    "Fiction, general",
+    "Library extension",
+    "Public libraries",
+    "Libraries",
+    "Bibliothèques",
+    "Extension",
+    "Bibliothèques régionales",
+    "Children's fiction",
+    "New england, fiction",
+    "Friendship, fiction",
+    "Family life, fiction",
+    "Winter, fiction",
+    "Fiction, historical, general",
+    "Accidents",
+    "Romans, nouvelles, etc. pour la jeunesse",
+    "Amitié"
+  ],
+  "dewey_number": [
+    "[Fic]"
+  ],
+  "location": "/works/OL25855099W",
+  "subtitle": "a village story",
+  "genres": [
+    "/tags/OL174T",
+    "/tags/OL170T"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-30T01:52:55.597446"
+  }
+}

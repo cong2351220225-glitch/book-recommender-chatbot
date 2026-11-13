@@ -1,0 +1,68 @@
+{
+  "publishers": [
+    "William Morrow & Co"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "735364"
+    ],
+    "librarything": [
+      "451728"
+    ]
+  },
+  "subtitle": "Struggle and Triumph in the Jungles of Belize",
+  "physical_format": "Hardcover",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-09T20:53:00.238512"
+  },
+  "latest_revision": 7,
+  "key": "/books/OL8114499M",
+  "authors": [
+    {
+      "key": "/authors/OL39424A"
+    }
+  ],
+  "subjects": [
+    "Wildlife",
+    "Jaguars",
+    "Biography",
+    "Animals",
+    "Jaguar",
+    "Zoologists",
+    "United States",
+    "General",
+    "Rabinowitz, Alan",
+    "Belize"
+  ],
+  "isbn_13": [
+    "9780877958253"
+  ],
+  "source_records": [
+    "amazon:0877958254:eb:2781601271:167738"
+  ],
+  "title": "Jaguar",
+  "number_of_pages": 368,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0877958254"
+  ],
+  "publish_date": "November 1986",
+  "works": [
+    {
+      "key": "/works/OL77413W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 7
+}

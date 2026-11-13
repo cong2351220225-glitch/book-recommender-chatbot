@@ -1,0 +1,15 @@
+{
+  "name": "André Lépine",
+  "personal_name": "André Lépine",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-08-28 19:22:42.320667"
+  },
+  "key": "/authors/OL625501A",
+  "birth_date": "1935",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 1824672,
+  "revision": 2
+}

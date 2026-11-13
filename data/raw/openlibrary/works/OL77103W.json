@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL77083W",
+  "key": "/works/OL77103W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T10:23:53.515424"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-04-24T16:36:24.793508"
+  }
+}

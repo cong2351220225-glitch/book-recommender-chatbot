@@ -1,0 +1,2773 @@
+{
+  "links": {
+    "self": "/works/OL5735363W/editions.json",
+    "work": "/works/OL5735363W",
+    "next": "/works/OL5735363W/editions.json?offset=50"
+  },
+  "size": 143,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "Bada Spēles",
+      "publishers": [
+        "Zvaigzne ABC"
+      ],
+      "publish_date": "2024",
+      "key": "/books/OL62454015M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9789934327070"
+      ],
+      "covers": [
+        15247137
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-08-20T08:48:52.469879"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-20T08:49:38.891550"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        },
+        {
+          "key": "/authors/OL15049480A"
+        }
+      ],
+      "number_of_pages": 260,
+      "physical_format": "paperback",
+      "publish_date": "Oct 20, 2009",
+      "publishers": [
+        "Editorial Presença"
+      ],
+      "source_records": [
+        "amazon:9722342398"
+      ],
+      "title": "O Jogos Da Fome. Livro I",
+      "covers": [
+        14844157
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL57727932M",
+      "identifiers": {
+        "amazon": [
+          "9722342398"
+        ],
+        "goodreads": [
+          "7062423"
+        ]
+      },
+      "isbn_10": [
+        "9722342398"
+      ],
+      "isbn_13": [
+        "9789722342391"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Jaime Araújo"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Num futuro pós-apocalíptico, surge das cinzas do que foi a América do Norte Panem, uma nova nação governada por um regime totalitário que a partir da megalópole, Capitol, governa os doze Distritos com mão de ferro. Todos os Distritos estão obrigados a enviar anualmente dois adolescentes para participar nos Jogos da Fome - um espectáculo sangrento de combates mortais cujo lema é «matar ou morrer». No final, apenas um destes jovens escapará com vida… Katniss Everdeen é uma adolescente de dezasseis anos que se oferece para substituir a irmã mais nova nos Jogos, um acto de extrema coragem… Conseguirá Katniss conservar a sua vida e a sua humanidade? Um enredo surpreendente e personagens inesquecíveis elevam este romance de estreia da trilogia Os Jogos da Fome às mais altas esferas da ficção científica."
+      },
+      "other_titles": [
+        "O Jogos Da Fome. Livro I"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-15T22:18:20.368512"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 400,
+      "publish_date": "2025",
+      "publishers": [
+        "Penguin Random House Grupo Editorial"
+      ],
+      "source_records": [
+        "bwb:9788427248465"
+      ],
+      "title": "Los Juegos Del Hambre (Edición Especial) / the Hunger Games (Special Edition)",
+      "weight": "0.568 ",
+      "full_title": "Los Juegos Del Hambre (Edición Especial) / the Hunger Games (Special Edition)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL57588895M",
+      "identifiers": {},
+      "isbn_13": [
+        "9788427248465"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-01-25T02:44:30.267356"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 368,
+      "publish_date": "2025",
+      "publishers": [
+        "Molino"
+      ],
+      "source_records": [
+        "bwb:9788427246003"
+      ],
+      "title": "Los juegos del hambre",
+      "weight": "1.170 ",
+      "full_title": "Los Juegos Del Hambre (Edición Ilustrada) / the Hunger Games (Illustrated Editio N)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL57568965M",
+      "identifiers": {
+        "amazon": [
+          "8427246005"
+        ],
+        "goodreads": [
+          "216146511"
+        ]
+      },
+      "isbn_13": [
+        "9788427246003"
+      ],
+      "isbn_10": [
+        "8427246005"
+      ],
+      "edition_name": "Edición ilustrada",
+      "series": [
+        "Los juegos del hambre, 1"
+      ],
+      "contributors": [
+        {
+          "role": "Illustrator",
+          "name": "Nico Delort"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "other_titles": [
+        "Los Juegos Del Hambre (Edición Ilustrada) / the Hunger Games (Illustrated Editio N)"
+      ],
+      "physical_format": "Hardcover",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-01-25T00:46:07.125782"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2025",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9780702342387"
+      ],
+      "title": "The Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL57558534M",
+      "identifiers": {
+        "amazon": [
+          "0702342386"
+        ],
+        "goodreads": [
+          "234667346"
+        ]
+      },
+      "isbn_13": [
+        "9780702342387"
+      ],
+      "isbn_10": [
+        "0702342386"
+      ],
+      "other_titles": [
+        "Hunger Games Deluxe (PB)"
+      ],
+      "physical_format": "Paperback",
+      "number_of_pages": 384,
+      "covers": [
+        15229595
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-01-24T23:45:52.402138"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "isbn_13": [
+        "9798212979986"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "478",
+      "publish_date": "2023",
+      "publishers": [
+        "Blackstone Audio, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9798212979986"
+      ],
+      "title": "Hunger Games (Large Print)",
+      "full_title": "Hunger Games (Large Print)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL52188867M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-21T11:20:09.560787"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "478",
+      "publish_date": "2023",
+      "publishers": [
+        "Blackstone Audio, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9798212982115"
+      ],
+      "title": "Hunger Games (Large Print)",
+      "full_title": "Hunger Games (Large Print)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL52195331M",
+      "identifiers": {},
+      "isbn_13": [
+        "9798212982115"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-21T12:52:56.775324"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "isbn_13": [
+        "9780702333026"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2023",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9780702333026"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL49265200M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T03:32:06.485570"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "isbn_13": [
+        "9780702332982"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "448",
+      "publish_date": "2023",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9780702332982"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL49269153M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-17T03:45:05.896934"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "813.6"
+      ],
+      "isbn_13": [
+        "9781466185999"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2011",
+      "publishers": [
+        "Smashwords"
+      ],
+      "source_records": [
+        "bwb:9781466185999"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL54091326M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-18T16:13:21.968973"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855026139"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 374,
+      "publish_date": "2008",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855026139"
+      ],
+      "title": "Hunger Games",
+      "weight": "0.455",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL53337919M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T22:49:46.425530"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "813.6"
+      ],
+      "isbn_13": [
+        "9781477409572"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 222,
+      "publish_date": "2012",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781477409572"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "weight": "0.395",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL54574205M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-22T02:45:20.200892"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "813.6"
+      ],
+      "isbn_13": [
+        "9781481903219"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 514,
+      "publish_date": "2013",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781481903219"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "weight": "1.450",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL56764339M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-05T10:28:16.521486"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "813.6"
+      ],
+      "isbn_13": [
+        "9781519480026"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 368,
+      "publish_date": "2015",
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781519480026"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "weight": "0.627",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL55622654M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T11:05:21.664457"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        },
+        {
+          "key": "/authors/OL8330313A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "368",
+      "publish_date": "2024",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9781339030609"
+      ],
+      "title": "Hunger Games",
+      "subtitle": "Illustrated Edition",
+      "full_title": "Hunger Games Illustrated Edition",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL51058687M",
+      "covers": [
+        14819483
+      ],
+      "identifiers": {},
+      "isbn_13": [
+        "9781339030609"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-02-17T08:15:42.793209"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T08:11:30.195370"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12737091A"
+        }
+      ],
+      "number_of_pages": 312,
+      "physical_format": "paperback",
+      "publish_date": "Sep 17, 2019",
+      "publishers": [
+        "Nemira"
+      ],
+      "source_records": [
+        "amazon:6064306165"
+      ],
+      "title": "Jocurile Foamei. Trilogia Jocurile Foamei, Vol.1",
+      "covers": [
+        14846995
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL57901563M",
+      "identifiers": {},
+      "isbn_10": [
+        "6064306165"
+      ],
+      "isbn_13": [
+        "9786064306166"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-02-26T16:49:27.056449"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-13T21:55:47.817687"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "大塊文化出版股份有限公司"
+      ],
+      "publish_date": "2012",
+      "key": "/books/OL61277346M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9789862131367"
+      ],
+      "ocaid": "jieyouxi0000coll",
+      "subtitle": "飢餓遊戲",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15168492
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T12:57:32.504600"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T12:58:16.452194"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "publish_date": "10/01/2008",
+      "key": "/books/OL61276815M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15256819,
+        15256818,
+        15168460
+      ],
+      "ocaid": "isbn_9781590272558",
+      "isbn_13": [
+        "9780439023481"
+      ],
+      "series": [
+        "Hunger Games Series"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "The first novel in the worldwide bestselling series by Suzanne Collins!\r\n\r\nWinning means fame and fortune. Losing means certain death. The Hunger Games have begun. . . .\r\n\r\nIn the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\r\n\r\nSixteen-year-old Katniss Everdeen regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before-and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love."
+      },
+      "number_of_pages": 384,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T11:16:59.471780"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-20T23:00:26.040675"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P9-BJE-443"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-10-21:P9-BJE-443"
+      ],
+      "title": "Αγώνες πείνας",
+      "full_title": "agones peinas / αγώνες πείνας",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL60398890M",
+      "identifiers": {},
+      "isbn_10": [
+        "9606665801"
+      ],
+      "isbn_13": [
+        "9789606665806"
+      ],
+      "ocaid": "isbn_9789606665806",
+      "publishers": [
+        "Platypus"
+      ],
+      "publish_date": "2009",
+      "languages": [
+        {
+          "key": "/languages/gre"
+        }
+      ],
+      "covers": [
+        15168030
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-04T11:18:57.221518"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T10:24:12.681311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "618012275X"
+      ],
+      "isbn_13": [
+        "9786180122756"
+      ],
+      "local_id": [
+        "urn:bwbsku:P8-CNP-856"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-06-26:P8-CNP-856"
+      ],
+      "title": "Agones peinas / Αγώνες πείνας",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL48579350M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-28T01:10:51.972183"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T10:24:12.681311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P9-BGE-832"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-12-20:P9-BGE-832"
+      ],
+      "title": "饥饿游戏",
+      "full_title": "The Hunger Games (3 Volumes) (Chinese Edition)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL50516304M",
+      "identifiers": {},
+      "isbn_10": [
+        "750636851X"
+      ],
+      "isbn_13": [
+        "9787506368513"
+      ],
+      "ocaid": "hungergames3volu0000unse",
+      "publishers": [
+        "作家出版社"
+      ],
+      "publish_places": [
+        "2013"
+      ],
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "covers": [
+        15168023
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-12-22T01:02:30.471313"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T09:41:08.911012"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BFN-984"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-08-01:W8-BFN-984"
+      ],
+      "title": "The Hunger Games",
+      "full_title": "The Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL49225525M",
+      "identifiers": {},
+      "publishers": [
+        "Gyldendal"
+      ],
+      "publish_date": "2014",
+      "languages": [
+        {
+          "key": "/languages/dan"
+        }
+      ],
+      "covers": [
+        15168022
+      ],
+      "ocaid": "hungergames0000unse_o0u1",
+      "isbn_10": [
+        "8702094193"
+      ],
+      "isbn_13": [
+        "9788702094190"
+      ],
+      "copyright_date": "2010",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-08-04T01:14:33.277864"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T09:36:42.958463"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL61260120M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0439023521"
+      ],
+      "ocaid": "hungergames0000coll_v3w2",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15168021
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T09:24:34.178716"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T09:26:01.457003"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "Precious Pages Corporation"
+      ],
+      "publish_date": "2012",
+      "key": "/books/OL61253640M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/tgl"
+        }
+      ],
+      "covers": [
+        15167828
+      ],
+      "ocaid": "hungergames0000coll_u4y6",
+      "isbn_13": [
+        "9789710254545"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T10:34:30.261636"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T10:41:11.654136"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B00HSQ6R0G"
+        ]
+      },
+      "title": "Ðâu trương sinh tư",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O8-BZG-842"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-08-30"
+      ],
+      "key": "/books/OL42909353M",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "ocaid": "isbn_8935235200814",
+      "publishers": [
+        "Văn Học : Nhã Nam"
+      ],
+      "publish_date": "2010",
+      "languages": [
+        {
+          "key": "/languages/vie"
+        }
+      ],
+      "covers": [
+        15167826
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T15:06:57.384214"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T10:32:17.209129"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "Scholastic Press"
+      ],
+      "publish_date": "2008",
+      "key": "/books/OL61249009M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9780439023481"
+      ],
+      "ocaid": "hungergames00coll_0",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15167646
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-05T18:14:24.464620"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-05T18:15:39.490957"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "Jogos Vorazes",
+      "publishers": [
+        "Rocco"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL60492730M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15167336
+      ],
+      "physical_dimensions": "21 x 14 x 3 centimeters",
+      "publish_places": [
+        "Rio de Janeiro"
+      ],
+      "copyright_date": "2008",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Alexandre D'Elia"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 400,
+      "isbn_13": [
+        "9786555321449"
+      ],
+      "physical_format": "Paperback",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-18T01:20:54.023020"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-04T23:23:37.141396"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "De Hongerspelen",
+      "publishers": [
+        "van Goor"
+      ],
+      "publish_date": "March 4, 2025",
+      "key": "/books/OL60075974M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15120650
+      ],
+      "isbn_13": [
+        "9789000399284"
+      ],
+      "isbn_10": [
+        "9000399289"
+      ],
+      "series": [
+        "The Hunger Games"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Maria Postema"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/dut"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Welkom bij de jaarlijkse Hongerspelen!\r\n\r\nKatniss Everdeen woont in het 12e en armste district van Panem, het land dat ooit bekendstond als Noord-Amerika. Met haar moeder en haar zusje Prim leidt ze een armoedig leven, getekend door het keiharde regime van het welvarende Capitool. Jaarlijks worden de Hongerspelen uitgevaardigd: 24 door loting aangewezen tributen, een jongen en een meisje uit elk district, gaan een strijd op leven en dood met elkaar aan. En dit jaar wordt Prim uitgeloot...\r\n\r\nKatniss weet dat de Hongerspelen een doodvonnis voor haar jonge zusje betekenen en besluit haar plek in te nemen. Onder het oog van de hele bevolking van Panem, die de strijd als bron van vermaak volgt, begeeft ze zich in de arena. Gevangen in een meedogenloos web van bruut geweld, gemanipuleerde tv-beelden en corrupte politici komt Katniss voor de keus staan: hoe ver zal ze gaan om te overleven?"
+      },
+      "physical_format": "Hardcover",
+      "number_of_pages": 344,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-09-07T10:12:25.608870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-07T10:13:58.431859"
+      }
+    },
+    {
+      "title": "Los juegos del hambre",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2014",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8427208391",
+        "promise:bwb_daily_pallets_2023-07-18:W8-BCA-024"
+      ],
+      "publishers": [
+        "RBA"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Los Juegos del Hambre",
+      "covers": [
+        15168582
+      ],
+      "local_id": [
+        "urn:bwbsku:W8-BCA-024"
+      ],
+      "key": "/books/OL47350734M",
+      "number_of_pages": 400,
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "23362134"
+        ],
+        "amazon": [
+          "8427208391"
+        ]
+      },
+      "edition_name": "Edición de lujo",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Pilar Ramírez Tello"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "Un pasado de guerras ha dejado los 12 distritos que dividen Panem bajo el poder tiránico del “Capitolio”. Sin libertad y en la pobreza, nadie puede salir de los límites de su distrito.\r\nSólo una chica de 16 años, Katniss Everdeen, osa desafiar las normas para conseguir comida. Sus principios se pondrán a prueba con “Los juegos del hambre”, espectáculo televisado que el Capitolio organiza para humillar a la población. Cada año, 2 representantes de cada distrito serán obligados a subsistir en un medio hostil y luchar a muerte entre ellos hasta que quede un solo superviviente. Cuando su hermana pequeña es elegida para participar, Katniss no duda en ocupar su lugar, decidida a demostrar con su actitud firme y decidida, que aún en las situaciones más desesperadas hay lugar para el amor y el respeto.",
+      "ocaid": "losjuegosdelhamb0000suza_w6g2",
+      "isbn_10": [
+        "8427208391"
+      ],
+      "isbn_13": [
+        "9788427208391"
+      ],
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T15:36:35.391129"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T16:18:23.145209"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Los Juegos del Hambre",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2022-05-24",
+      "source_records": [
+        "amazon:841314485X"
+      ],
+      "number_of_pages": 400,
+      "publishers": [
+        "B de Bolsillo"
+      ],
+      "physical_format": "mass market paperback",
+      "covers": [
+        13766461
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47301842M",
+      "identifiers": {
+        "goodreads": [
+          "60727051"
+        ],
+        "amazon": [
+          "841314485X"
+        ]
+      },
+      "isbn_10": [
+        "841314485X"
+      ],
+      "isbn_13": [
+        "9788413144856"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "El mundo está observando. Ganar significa fama y riqueza. Perder significa una muerte segura.\r\n\r\n¡Que empiecen los septuagésimo cuartos juegos del hambre!\r\n\r\nLA SAGA CON MÁS DE 100 MILLONES DE LIBROS VENDIDOS EN TODO EL MUNDO.\r\n\r\nEn una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los Juegos del Hambre. Solo hay una regla: matar o morir.\r\n\r\nCuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo, Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza."
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-22T15:54:31.091523"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Los Juegos del Hambre",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2016-11-17",
+      "source_records": [
+        "amazon:8492966807"
+      ],
+      "number_of_pages": 400,
+      "publishers": [
+        "RBA Bolsillo"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Los Juegos del Hambre 1 - Los Juegos del Hambre",
+      "covers": [
+        13941003
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47350660M",
+      "identifiers": {
+        "goodreads": [
+          "33837027"
+        ],
+        "amazon": [
+          "8492966807"
+        ]
+      },
+      "isbn_10": [
+        "8492966807"
+      ],
+      "isbn_13": [
+        "9788492966806"
+      ],
+      "series": [
+        "Los Juegos del Hambre 1"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "En una oscura versión del futuro próximo, unos chicos se ven obligados a participar en un reality show llamado Los Juegos del Hambre. Solo hay una regla: matar o morir. Katniss Everdeen, se presenta voluntaria para ocupar el lugar de su hermana en los juegos. Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza."
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T15:32:14.413142"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Els jocs de la fam",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        },
+        {
+          "key": "/authors/OL7940584A"
+        }
+      ],
+      "publish_date": "2011-09-06",
+      "source_records": [
+        "amazon:8499303323"
+      ],
+      "number_of_pages": 400,
+      "publishers": [
+        "labutxaca"
+      ],
+      "physical_format": "mass market paperback",
+      "full_title": "Els jocs de la fam I",
+      "covers": [
+        13526322
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47132492M",
+      "identifiers": {
+        "goodreads": [
+          "13397995"
+        ],
+        "amazon": [
+          "8499303323"
+        ]
+      },
+      "isbn_10": [
+        "8499303323"
+      ],
+      "isbn_13": [
+        "9788499303321"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Armand Carabén van der Meer"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/cat"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Podries sobreviure tot sol, en un món salvatge, on tothom farà el possible perquè no tornis a veure la llum del dia?\r\n\r\nVint-i-quatre adolescents forçats a jugar. Només un guanyador. Els Jocs de la Fam han començat....\r\n\r\n\r\n«Estava tan obsessionada amb el llibre que me l’havia d’emportar quan sortia a sopar i amagar-lo sota la taula per no parar de llegir. La història em va mantenir desperta unes quantes nits seguides, perquè fins i tot després d’haver-lo acabat, em quedava estirada al llit donant-li voltes. L’he recomanat a tots els que llegeixen el meu web. Els Jocs de la Fam és un llibre meravellós.» Stephenie Meyer"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-16T20:03:13.670237"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "title": "The Hunger Games",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2012",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:KS-099-865"
+      ],
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-02-08:KS-099-865"
+      ],
+      "key": "/books/OL46874697M",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "identifiers": {
+        "goodreads": [
+          "41059825"
+        ],
+        "amazon": [
+          "1407135392"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "notes": "source title: Hunger Games Samsung",
+      "physical_format": "paperback",
+      "number_of_pages": 458,
+      "covers": [
+        15255535,
+        15236101,
+        15139410,
+        15111704,
+        15111703,
+        14855544
+      ],
+      "ocaid": "hungergamessamsu0000suza",
+      "isbn_10": [
+        "1407135392"
+      ],
+      "isbn_13": [
+        "9781407135397"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-27T21:41:24.281049"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-16T23:51:53.048207"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "De hongerspelen",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2013-11-06",
+      "source_records": [
+        "amazon:9000331951"
+      ],
+      "publishers": [
+        "Unieboek | Het Spectrum",
+        "Van Goor"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: De hongerspelen (De Hongerspelen, 1)",
+      "full_title": "De hongerspelen",
+      "covers": [
+        13188964
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL46531110M",
+      "identifiers": {
+        "goodreads": [
+          "20445993"
+        ],
+        "amazon": [
+          "9000331951"
+        ],
+        "storygraph": [
+          "a53510e4-945f-48b0-8870-5cd3c0969505"
+        ]
+      },
+      "isbn_10": [
+        "9000331951"
+      ],
+      "isbn_13": [
+        "9789000331956"
+      ],
+      "languages": [
+        {
+          "key": "/languages/dut"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Katniss Everdeen woont met haar moeder en haar zusje in het 12e en armste district van Panem. Daar heerst het keiharde regime van het welvarende, brute Capitool. Bij de jaarlijkse Hongerspelen moeten twaalf jongens en twaalf meisjes in een gemanipuleerde arena de strijd aan gaan op leven en dood. Zo begeeft ook Katniss zich onder het oog van de hele bevolking in de gemanipuleerde arena. Gevangen in een meedogenloos web van geweld, gemanipuleerde tv-beelden en corrupte politici staat ze voor de vraag: hoe ver ga je om te overleven?\r\n\r\nDe Hongerspelen is het eerste deel in de succesvolle trilogie van Suzanne Collins."
+      },
+      "number_of_pages": 336,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-02-01T09:07:23.126845"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2010",
+      "publish_country": "is",
+      "languages": [
+        {
+          "key": "/languages/heb"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "work_titles": [
+        "Hunger games"
+      ],
+      "contributions": [
+        "Akhmon, Yaʻel"
+      ],
+      "subjects": [
+        "Survival skills",
+        "Juvenile fiction",
+        "Television programs",
+        "Interpersonal relations",
+        "Contests"
+      ],
+      "title": "משחקי הרעב",
+      "publishers": [
+        "כנרת"
+      ],
+      "publish_places": [
+        "אור יהודה"
+      ],
+      "number_of_pages": 334,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:362861744:928",
+        "marc:harvard_bibliographic_metadata/20220215_033.bib.mrc:246730958:1699"
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL45279990M",
+      "covers": [
+        14855537
+      ],
+      "identifiers": {
+        "goodreads": [
+          "16136188"
+        ],
+        "amazon": [
+          "9655177181"
+        ]
+      },
+      "isbn_13": [
+        "9789655177183"
+      ],
+      "oclc_numbers": [
+        "635863013"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "יעל אכמון"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "קטניס בת השש־עשרה אוהבת לבלות את ימי האביב ביער האסור שמחוץ למחוז שתים־עשרה ולצפות בטבע המתעורר לחיים. אבל במדינת פּאנֶם האביב מסמל גם מוות. זאת העונה שבה נערכים משחקי הרעב - קרב הישרדות בין עשרים וארבעה נערים ונערות המועבר ברחבי המדינה בשידור חי.\r\n\r\nכשקטניס הופכת לנציגת המחוז שלה ונשלחת לזירה, היא יודעת שבמשחק הזה יש רק מנצח אחד, והוא היחיד שיישאר בחיים. האם זו תהיה היא, הציידת המנוסה שעושה הכול כדי להישאר אנושית בעולם לא אנושי? ואולי יהיה זה פִּטֵה, חברה למחוז, שחייה של קטניס חשובים לו לפחות כמו חייו שלו?"
+      },
+      "other_titles": [
+        "Miśḥaḳe ha-raʻav"
+      ],
+      "physical_format": "paperback",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-02T22:01:39.837714"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-28T03:06:08.364760"
+      }
+    },
+    {
+      "title": "De Hongerspelen",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2012",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:P7-DHS-628"
+      ],
+      "publishers": [
+        "Van Goor"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-03-17",
+        "ia:dehongerspelende0000suza"
+      ],
+      "full_title": "De Hongerspelen (De Hongerspelen, #1)",
+      "key": "/books/OL43211732M",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "covers": [
+        15168586
+      ],
+      "number_of_pages": 346,
+      "identifiers": {
+        "goodreads": [
+          "10857048"
+        ],
+        "storygraph": [
+          "f705e770-10f5-473d-8fa5-3328c3d2cfeb"
+        ]
+      },
+      "series": [
+        "De Hongerspelen, #1"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Maria Postema"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/dut"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "Katniss Everdeen woont in het 12e en armste district van Panem, het land dat ooit bekendstond als Noord-Amerika. Met haar moeder en haar zusje Prim leidt ze een armoedig leven, getekend door het keiharde regime van het welvarende Capitool. Jaarlijks worden de Hongerspelen uitgevaardigd: 24 door loting aangewezen tributen, een jongen en een meisje uit elk district, gaan een strijd op leven en dood met elkaar aan. En dit jaar wordt Prim uitgeloot... Katniss weet dat de Hongerspelen een doodvonnis voor haar jonge zusje betekenen en besluit haar plek in te nemen. Onder het oog van de hele bevolking van Panem, die de strijd als bron van vermaak volgt, begeeft ze zich in de gemanipuleerde arena.\r\n\r\nGevangen in een meedogenloos web van bruut geweld, gemanipuleerde tv-beelden en corrupte politici komt Katniss voor de keus staan: hoe ver zal ze gaan om te overleven?",
+      "physical_format": "paperback",
+      "ocaid": "dehongerspelende0000suza",
+      "isbn_10": [
+        "9047515978"
+      ],
+      "isbn_13": [
+        "9789047515975"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T20:21:20.965626"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T16:31:54.555846"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Hungerspelen",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2012-11-25",
+      "source_records": [
+        "amazon:9175030349"
+      ],
+      "number_of_pages": 304,
+      "publishers": [
+        "Månpocket"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Hungerspelen (av Suzanne Collins) [Imported] [Paperback] (Swedish)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL41432901M",
+      "covers": [
+        14855536,
+        -1
+      ],
+      "identifiers": {
+        "amazon": [
+          "9175030349"
+        ],
+        "goodreads": [
+          "13616052"
+        ]
+      },
+      "isbn_10": [
+        "9175030349"
+      ],
+      "isbn_13": [
+        "9789175030340"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Lena Jonsson"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/swe"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "24 deltagare. Bara en överlever. Varje år direktsänds Hungerspelen som en av de största mediala händelserna. Från varje distrikt väljs två ungdomar mellan tolv och arton ut att delta. De lottas fram, och skickas omedelbart till huvudstaden där de ska stajlas, tränas och visas upp i direktsända intervjuer. De måste se till att vinna folkets gunst för att få sponsorer. Varje år konstrueras en ny spelplats där ungdomarna släpps ut. Men bara den som överlever får åka hem! Katniss Everdeen är fjorton år. Hon älskar sin lillasyster Prim över allt annat, och försöker skydda henne från allt hemskt i distrikt tolv, men mot Hungerspelen har hon inget skydd. Det namn som dras i lottningen i distrikt tolv är Primrose Everdeen, och Katniss ser ingen annan utväg än att själv ta Prims plats i spelen... Suzanne Collins har skrivit en gastkramande framtidsroman om liv och död. men det är lika mycket en roman om vår tids television - som är grym, rå, falsk och egentligen bara handlar om en sak - tittarsiffror."
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T16:31:47.630615"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Die Tribute von Panem",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "2020-05-19",
+      "source_records": [
+        "amazon:3789121274",
+        "promise:bwb_daily_pallets_2023-06-26:P8-COW-945"
+      ],
+      "publishers": [
+        "Oetinger"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "Die Tribute von Panem 1. Tödliche Spiele",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL39811649M",
+      "local_id": [
+        "urn:bwbsku:P8-COW-945"
+      ],
+      "covers": [
+        14564960
+      ],
+      "identifiers": {
+        "goodreads": [
+          "52726287"
+        ],
+        "amazon": [
+          "3789121274"
+        ]
+      },
+      "series": [
+        "The Hunger Games #1"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "description": "Als Katniss erfährt, dass das Los auf ihre kleine Schwester Prim gefallen ist, zögert sie keinen Moment. Um Prim zu schützen, meldet sie sich an ihrer Stelle für die alljährlich stattfindenden Spiele von Panem – in dem sicheren Wissen, damit ihr eigenes Todesurteil unterschrieben zu haben. Denn von den 24 Kandidaten darf nur ein Einziger überleben! Zusammen mit Peeta, einem Jungen aus ihrem Distrikt, wird Katniss in die Arena geschickt, um sich dem Kampf zu stellen. Sie beide wissen, dass es nur einen Sieger geben kann. Allerdings scheint das Peeta nicht zu kümmern, denn er rettet Katniss das Leben. Sind seine Gefühle ihr gegenüber vielleicht doch nicht nur gespielt, um das Publikum vor den Bildschirmen für sich einzunehmen? Katniss weiß nicht mehr, was sie glauben darf – und vor allem nicht, was sie selbst empfindet….",
+      "number_of_pages": 416,
+      "isbn_10": [
+        "3789121274"
+      ],
+      "isbn_13": [
+        "9783789121272"
+      ],
+      "subtitle": "Tödliche Spiele",
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-04T12:51:15.310625"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-29T07:03:16.489541"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "title": "The Hunger Games",
+      "publishers": [
+        "Pocket"
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL51747483M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9782298079715"
+      ],
+      "classifications": {},
+      "copyright_date": "2008",
+      "series": [
+        "Hunger Games"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Guillaume Fournier"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "translation_of": "The Hunger Games",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        14635829
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-14T07:11:33.536966"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-06-14T07:13:44.291868"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Hunger Games",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "publish_date": "Feb 04, 2013",
+      "source_records": [
+        "amazon:3125781531"
+      ],
+      "publishers": [
+        "Klett Sprachen GmbH"
+      ],
+      "isbn_10": [
+        "3125781531"
+      ],
+      "isbn_13": [
+        "9783125781535"
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Hunger Games Englische Lektüre für das 3., 4. und 5. Lernjahr",
+      "subtitle": "Englische Lektüre für das 3., 4. und 5. Lernjahr",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Hunger Games: Englische Lektüre für das 3., 4. und 5. Lernjahr"
+      },
+      "covers": [
+        13944877
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47353556M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T18:39:10.660821"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:10:22.167916"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Gose jokoak",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        },
+        {
+          "key": "/authors/OL1087803A"
+        }
+      ],
+      "publish_date": "May 10, 2009",
+      "source_records": [
+        "amazon:8498680611"
+      ],
+      "number_of_pages": 408,
+      "publishers": [
+        "Alberdania"
+      ],
+      "isbn_10": [
+        "8498680611"
+      ],
+      "isbn_13": [
+        "9788498680614"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        14131022
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47516306M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-18T12:41:14.086376"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:08:35.880639"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Gose jokoak",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        },
+        {
+          "key": "/authors/OL1087803A"
+        }
+      ],
+      "publish_date": "May 10, 2009",
+      "source_records": [
+        "amazon:8498680611"
+      ],
+      "number_of_pages": 408,
+      "publishers": [
+        "Alberdania"
+      ],
+      "isbn_10": [
+        "8498680611"
+      ],
+      "isbn_13": [
+        "9788498680614"
+      ],
+      "physical_format": "paperback",
+      "covers": [
+        14131021
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47516305M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-18T12:41:13.927229"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:08:35.880639"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_10": [
+        "0545114071"
+      ],
+      "isbn_13": [
+        "9780545114073"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Hunger Games by Suzanne Collins (unabridged MP3 - CD)"
+      },
+      "physical_format": "mp3 cd",
+      "publish_date": "Mar 17, 2008",
+      "publishers": [
+        "scholastic audiobooks"
+      ],
+      "source_records": [
+        "amazon:0545114071"
+      ],
+      "title": "The Hunger Games by Suzanne Collins",
+      "full_title": "The Hunger Games by Suzanne Collins",
+      "covers": [
+        13575602,
+        13570772
+      ],
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL47161362M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-03-17T17:40:09.846500"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:08:35.880639"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Hunger Games",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        },
+        {
+          "key": "/authors/OL2748721A"
+        }
+      ],
+      "publish_date": "2014",
+      "source_records": [
+        "amazon:8804632232",
+        "promise:bwb_daily_pallets_2024-10-15:W9-DJF-666"
+      ],
+      "number_of_pages": 370,
+      "publishers": [
+        "Oscar Mondadori"
+      ],
+      "physical_format": "paperback",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL40225664M",
+      "local_id": [
+        "urn:bwbsku:W9-DJF-666"
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "8804632232"
+      ],
+      "isbn_13": [
+        "9788804632238"
+      ],
+      "ocaid": "hungergamesitali0000suza",
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "covers": [
+        15168028
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-31T02:18:18.321532"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-07T10:13:23.825277"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Jogos Vorazes - Portuguese edition of Hunger Games volume 1",
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        },
+        {
+          "key": "/authors/OL3141432A"
+        }
+      ],
+      "publish_date": "May 05, 2010",
+      "source_records": [
+        "amazon:8579800242"
+      ],
+      "number_of_pages": 400,
+      "publishers": [
+        "Rocco Jovens Leitores",
+        "French and European Publications Inc"
+      ],
+      "isbn_10": [
+        "8579800242"
+      ],
+      "isbn_13": [
+        "9788579800245"
+      ],
+      "physical_format": "paperback",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL40222897M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-10-29T11:35:20.688942"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:08:35.880639"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_13": [
+        "9781536425512"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "396",
+      "publish_date": "2012",
+      "publishers": [
+        "Lectorum Publications, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781536425512"
+      ],
+      "title": "Los Juegos Del Hambre (Hunger Games)",
+      "full_title": "Los Juegos Del Hambre (Hunger Games)",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL39650457M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-18T13:53:49.340147"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-19T08:08:35.880639"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_13": [
+        "9780545471046"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "384",
+      "publish_date": "2012",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9780545471046"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL44243092M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T17:59:37.048656"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-20T22:13:57.267642"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL2964716A"
+        },
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_13": [
+        "9781411471047"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "80",
+      "publish_date": "2014",
+      "publishers": [
+        "Sterling Publishing Co., Inc."
+      ],
+      "source_records": [
+        "bwb:9781411471047"
+      ],
+      "subjects": [
+        "American literature, study and teaching"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL40478860M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-19T03:55:49.130629"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-10T23:24:41.191862"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_13": [
+        "9781407129044"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "464",
+      "publish_date": "2011",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9781407129044"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL44130122M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T06:55:11.932356"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-20T22:13:57.267642"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL1394359A"
+        }
+      ],
+      "isbn_13": [
+        "9781407133171"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "464",
+      "publish_date": "2011",
+      "publishers": [
+        "Scholastic"
+      ],
+      "source_records": [
+        "bwb:9781407133171"
+      ],
+      "subjects": [
+        "Children's fiction",
+        "Interpersonal relations, fiction",
+        "Contests, fiction",
+        "Science fiction",
+        "Television, fiction",
+        "Survival, fiction"
+      ],
+      "title": "Hunger Games",
+      "weight": "0.280",
+      "full_title": "Hunger Games",
+      "works": [
+        {
+          "key": "/works/OL5735363W"
+        }
+      ],
+      "key": "/books/OL44146236M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T07:57:39.665130"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-03-20T22:13:57.267642"
+      }
+    }
+  ]
+}

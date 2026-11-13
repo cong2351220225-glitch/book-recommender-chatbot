@@ -1,0 +1,75 @@
+{
+  "id": "test_vn_802e5785",
+  "title": "Tôi muốn tìm một cuốn sách giúp rèn luyệ",
+  "timestamp": "2026-11-03 12:40:42",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi muốn tìm một cuốn sách giúp rèn luyện tư duy logic, sự kiên nhẫn và kỹ năng giải quyết vấn đề.",
+      "timestamp": "12:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'None' (None, None)\n- 'None' (None, None)\n- 'None' (None, None)\n\nThông tin chi tiết: ",
+      "timestamp": "12:40",
+      "sources": [
+        {
+          "document": "Title: Tư duy nhanh và chậm\nAuthor: Daniel Kahneman\nGenre: Tâm lý\nPublication year: 2011\nTags: tư duy, nhận thức, quyết định\nTarget audience: Người thích đào sâu\nMood: Muốn suy ngẫm\nDifficulty: Chuyên sâu\nSummary: Cách các thiên kiến định hình lựa chọn.\nDescription: Giải thích hai hệ thống tư duy nhanh và chậm, cùng những thiên kiến nhận thức ảnh hưởng đến phán đoán và quyết định của con người.",
+          "metadata": {
+            "featured": true,
+            "title": "Tư duy nhanh và chậm",
+            "author_id": "daniel-kahneman",
+            "author": "Daniel Kahneman",
+            "mood": "Muốn suy ngẫm",
+            "book_id": "book_003",
+            "genre": "Tâm lý",
+            "difficulty": "Chuyên sâu",
+            "target_audience": "Người thích đào sâu",
+            "year": 2011,
+            "rating": 4.4,
+            "tags": "tư duy, nhận thức, quyết định"
+          },
+          "distance": 0.31817448139190674
+        },
+        {
+          "document": "Title: Thiền và nghệ thuật bảo dưỡng xe máy\nAuthor: Robert M. Pirsig\nGenre: Triết học\nPublication year: 1974\nTags: triết học, hành trình, chất lượng\nTarget audience: Độc giả thích suy ngẫm\nMood: Muốn thư giãn\nDifficulty: Chuyên sâu\nSummary: Một hành trình triết học giữa đời sống thường ngày.\nDescription: Dữ liệu mô tả demo về hành trình nội tâm, chất lượng và mối quan hệ giữa kỹ thuật với đời sống.",
+          "metadata": {
+            "target_audience": "Độc giả thích suy ngẫm",
+            "mood": "Muốn thư giãn",
+            "year": 1974,
+            "featured": false,
+            "author_id": "robert-pirsig",
+            "tags": "triết học, hành trình, chất lượng",
+            "rating": 4.3,
+            "genre": "Triết học",
+            "author": "Robert M. Pirsig",
+            "book_id": "book_023",
+            "difficulty": "Chuyên sâu",
+            "title": "Thiền và nghệ thuật bảo dưỡng xe máy"
+          },
+          "distance": 0.32921040058135986
+        },
+        {
+          "document": "Title: Atomic Habits\nAuthor: James Clear\nGenre: Kỹ năng sống\nPublication year: 2018\nTags: thói quen, năng suất, thay đổi\nTarget audience: Người muốn bắt đầu thay đổi\nMood: Mất động lực\nDifficulty: Dễ đọc\nSummary: Hệ thống nhỏ tạo nên thay đổi bền vững.\nDescription: Cuốn sách trình bày phương pháp xây dựng thói quen tốt và loại bỏ thói quen xấu bằng những thay đổi nhỏ, đều đặn trong hệ thống hành vi hằng ngày.",
+          "metadata": {
+            "mood": "Mất động lực",
+            "genre": "Kỹ năng sống",
+            "author": "James Clear",
+            "year": 2018,
+            "author_id": "james-clear",
+            "rating": 4.8,
+            "featured": true,
+            "book_id": "book_001",
+            "title": "Atomic Habits",
+            "difficulty": "Dễ đọc",
+            "target_audience": "Người muốn bắt đầu thay đổi",
+            "tags": "thói quen, năng suất, thay đổi"
+          },
+          "distance": 0.3293112516403198
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}

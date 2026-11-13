@@ -1,0 +1,100 @@
+{
+  "links": {
+    "self": "/works/OL1039867W/editions.json",
+    "work": "/works/OL1039867W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Bangladesh Environmental Lawyers Association",
+        "Ford Foundation"
+      ],
+      "number_of_pages": 761,
+      "isbn_10": [
+        "9848173048"
+      ],
+      "subject_place": [
+        "Bangladesh."
+      ],
+      "lc_classifications": [
+        "KNG1507 .A28 1996",
+        "KNG1507 .A28 2014"
+      ],
+      "key": "/books/OL503283M",
+      "authors": [
+        {
+          "key": "/authors/OL102167A"
+        }
+      ],
+      "publish_places": [
+        "[Dhaka]"
+      ],
+      "contributions": [
+        "Phārūka, Mohiuddina.",
+        "Hasan, S. Rizwana.",
+        "Bāṃlādeśa Paribeśa Āinabida Samiti."
+      ],
+      "pagination": "xxi, 761 p. ;",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:190265110:895",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:348378989:1338",
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:106137743:2413",
+        "marc:harvard_bibliographic_metadata/20220215_033.bib.mrc:307638454:1629"
+      ],
+      "title": "Laws regulating environment in Bangladesh",
+      "dewey_decimal_class": [
+        "344.5492/046/02632"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bengali and English."
+      },
+      "identifiers": {
+        "goodreads": [
+          "4028115"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        },
+        {
+          "key": "/languages/ben"
+        }
+      ],
+      "lccn": [
+        "98900362",
+        "2017351524"
+      ],
+      "subjects": [
+        "Environmental law -- Bangladesh."
+      ],
+      "publish_date": "1996",
+      "publish_country": "bg ",
+      "by_statement": "Mohiuddin Farooque, S. Rizwana Hasan.",
+      "oclc_numbers": [
+        "38602685",
+        "1031408144"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1039867W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-30T05:07:05.966708"
+      }
+    }
+  ]
+}

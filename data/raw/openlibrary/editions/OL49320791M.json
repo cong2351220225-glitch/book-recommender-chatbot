@@ -1,0 +1,48 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781628342383"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "2023",
+  "publishers": [
+    "Full Well Ventures"
+  ],
+  "source_records": [
+    "bwb:9781628342383"
+  ],
+  "subjects": [
+    "Fiction, historical, general",
+    "Fiction, psychological"
+  ],
+  "title": "Work",
+  "subtitle": "or, A Story of Experience",
+  "full_title": "Work or, A Story of Experience",
+  "works": [
+    {
+      "key": "/works/OL30021W"
+    }
+  ],
+  "key": "/books/OL49320791M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-08-17T09:51:22.399187"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T15:34:52.971433"
+  }
+}

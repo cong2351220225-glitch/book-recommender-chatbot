@@ -1,0 +1,695 @@
+{
+  "links": {
+    "self": "/works/OL18330W/editions.json",
+    "work": "/works/OL18330W"
+  },
+  "size": 10,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL12241679A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B014T9Z0F2"
+        ],
+        "better_world_books": [
+          "BWB33330124"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P1-BTT-114"
+      ],
+      "publish_date": "1705-01-01",
+      "publishers": [
+        "Penguin Books"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-07-13"
+      ],
+      "title": "A Celibate Season by Shields, Carol, Howard, Blanche(May 1, 1999) Paperback",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "key": "/books/OL45796470M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T17:29:46.203834"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-23T17:32:12.147357"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9464028A"
+        },
+        {
+          "key": "/authors/OL1615304A"
+        }
+      ],
+      "isbn_13": [
+        "9780007404681"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "240",
+      "publish_date": "2010",
+      "publishers": [
+        "HarperCollins Publishers Limited"
+      ],
+      "source_records": [
+        "bwb:9780007404681"
+      ],
+      "title": "Celibate Season",
+      "full_title": "Celibate Season",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "key": "/books/OL36699982M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-27T01:15:28.419441"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-23T17:32:12.147357"
+      }
+    },
+    {
+      "publishers": [
+        "Penguin Books"
+      ],
+      "ia_box_id": [
+        "IA116919"
+      ],
+      "isbn_10": [
+        "0140275118"
+      ],
+      "covers": [
+        6793925
+      ],
+      "full_title": "A celibate season",
+      "lc_classifications": [
+        "PR9199.3.S514 C45 1999",
+        "PR9199.3.S514C45"
+      ],
+      "key": "/books/OL24740229M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "ocaid": "celibateseason00shie",
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Howard, Blanche"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "A husband and wife exchange vows of celibacy when she has to move to the other side of the country for a job. Over a period of a year they exchange letters, telling each other how they are doing. The setting is Canada."
+      },
+      "isbn_13": [
+        "9780140275117"
+      ],
+      "pagination": "266, 7 p. ;",
+      "source_records": [
+        "ia:celibateseason00shie",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:231084875:769",
+        "bwb:9780140275117",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:401749914:1844"
+      ],
+      "title": "A celibate season",
+      "lccn": [
+        "99022368"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"Readers guide inside\"--Cover."
+      },
+      "number_of_pages": 266,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "subjects": [
+        "Epistolary fiction",
+        "Spouses",
+        "Fiction"
+      ],
+      "publish_date": "1999",
+      "publish_country": "nyu",
+      "by_statement": "Carol Shields, Blanche Howard",
+      "oclc_numbers": [
+        "40862228"
+      ],
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-07-07T04:24:32.651085"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-16T16:03:26.391940"
+      }
+    },
+    {
+      "publishers": [
+        "PENGUIN BOOKS"
+      ],
+      "classifications": {},
+      "source_records": [
+        "amazon:0965004546",
+        "promise:bwb_daily_pallets_2022-10-25"
+      ],
+      "title": "Celibate Season",
+      "identifiers": {},
+      "isbn_13": [
+        "9780965004541"
+      ],
+      "full_title": "Celibate Season",
+      "isbn_10": [
+        "0965004546"
+      ],
+      "publish_date": "Jan 01, 2000",
+      "key": "/books/OL26688081M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:T2-DNX-714"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-02-06T10:10:23.958728"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-12T00:02:38.180029"
+      }
+    },
+    {
+      "publishers": [
+        "Fides",
+        "FIDES"
+      ],
+      "number_of_pages": 252,
+      "weight": "10.4 ounces",
+      "covers": [
+        10526528
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL12606099M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        },
+        {
+          "key": "/authors/OL1961248A"
+        },
+        {
+          "key": "/authors/OL50666A"
+        }
+      ],
+      "ocaid": "unesaisondecelib0000shie",
+      "classifications": {},
+      "source_records": [
+        "ia:unesaisondecelib0000shie",
+        "amazon:2762123313"
+      ],
+      "title": "Une saison de célibat",
+      "identifiers": {
+        "goodreads": [
+          "496331"
+        ]
+      },
+      "isbn_13": [
+        "9782762123319"
+      ],
+      "isbn_10": [
+        "2762123313"
+      ],
+      "publish_date": "May 31, 2002",
+      "oclc_numbers": [
+        "48643168"
+      ],
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.4 x 5.4 x 0.8 inches",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-24T07:04:28.771272"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "anglais\r\n\r\nTraduction de:A Celibate Season,Ed.Coteau Books, 1991."
+      },
+      "identifiers": {
+        "goodreads": [
+          "496331"
+        ]
+      },
+      "title": "Une saison de célibat",
+      "subtitle": "Roman",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "publishers": [
+        "Fides"
+      ],
+      "series": [
+        "0"
+      ],
+      "publish_places": [
+        "Montreal"
+      ],
+      "pagination": "256",
+      "dewey_decimal_class": [
+        "C813'.54"
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "isbn_10": [
+        "2762123313"
+      ],
+      "by_statement": "Shields, Carol; Howard, Blanche",
+      "oclc_numbers": [
+        "48643168"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:4473020105:610"
+      ],
+      "key": "/books/OL22508127M",
+      "number_of_pages": 256,
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-15T14:36:45.873997"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-18T12:06:35.210862"
+      }
+    },
+    {
+      "publishers": [
+        "Penguin Books"
+      ],
+      "number_of_pages": 266,
+      "ia_box_id": [
+        "IA116919"
+      ],
+      "isbn_10": [
+        "0140275118"
+      ],
+      "pagination": "266, 7 p. ;",
+      "covers": [
+        8373401
+      ],
+      "lc_classifications": [
+        "PR9199.3.S514 C45 1999"
+      ],
+      "latest_revision": 9,
+      "key": "/books/OL36503M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "ocaid": "celibateseason00shie",
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Howard, Blanche."
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:5598229:653",
+        "ia:celibateseason00shie"
+      ],
+      "title": "A celibate season",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"Readers guide inside\"--Cover."
+      },
+      "identifiers": {
+        "goodreads": [
+          "831355"
+        ],
+        "librarything": [
+          "179923"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99022368"
+      ],
+      "subjects": [
+        "Spouses -- Fiction"
+      ],
+      "publish_date": "1999",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-02-18T15:01:22.665858"
+      },
+      "by_statement": "Carol Shields, Blanche Howard.",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 9
+    },
+    {
+      "publishers": [
+        "Vintage Canada",
+        "Random House of Canada"
+      ],
+      "number_of_pages": 231,
+      "key": "/books/OL18300882M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "publish_places": [
+        "[Toronto]"
+      ],
+      "contributions": [
+        "Howard, Blanche."
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "[5], 231 p. ;",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1804091499:1048",
+        "ia:celibateseason0000shie",
+        "promise:bwb_daily_pallets_2020-12-22",
+        "bwb:9780679308881",
+        "marc:harvard_bibliographic_metadata/20220215_016.bib.mrc:9871305:1733"
+      ],
+      "title": "A celibate season",
+      "notes": "RBSC copy: In original illustrated wrappers.",
+      "identifiers": {
+        "goodreads": [
+          "1907631"
+        ],
+        "librarything": [
+          "179923"
+        ]
+      },
+      "edition_name": "1st Vintage Canada ed.",
+      "publish_date": "1998",
+      "publish_country": "onc",
+      "by_statement": "Carol Shields, Blanche Howard.",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "0679308881"
+      ],
+      "ocaid": "celibateseason0000shie",
+      "classifications": {},
+      "dewey_decimal_class": [
+        "C813/.54"
+      ],
+      "covers": [
+        10976333
+      ],
+      "lc_classifications": [
+        "PS8587.H46 C4 1998"
+      ],
+      "local_id": [
+        "urn:bwbsku:O6-ESC-309"
+      ],
+      "lccn": [
+        "97932286"
+      ],
+      "oclc_numbers": [
+        "37983252"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "A husband and wife exchange vows of celibacy when she has to move to the other side of the country for a job. Over a period of a year they exchange letters, telling each other how they are doing."
+      },
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-15T17:38:56.689562"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-26T06:53:54.103594"
+      }
+    },
+    {
+      "publishers": [
+        "Fourth Estate"
+      ],
+      "number_of_pages": 231,
+      "key": "/books/OL20285718M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Howard, Blanche"
+      ],
+      "pagination": "231 p.",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:4321379576:488",
+        "bwb:9781857028126"
+      ],
+      "title": "A celibate season",
+      "identifiers": {
+        "goodreads": [
+          "563131"
+        ],
+        "librarything": [
+          "179923"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1857028120"
+      ],
+      "publish_date": "2000",
+      "publish_country": "enk",
+      "by_statement": "Carol Shields, Blanche Howard.",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T11:21:32.235074"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-29T00:35:37.714566"
+      }
+    },
+    {
+      "publishers": [
+        "Coteau Books"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "4913580",
+          "382346"
+        ],
+        "librarything": [
+          "179923"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "isbn_10": [
+        "1550500252",
+        "1550500244"
+      ],
+      "subject_place": [
+        "Canada"
+      ],
+      "lc_classifications": [
+        "PR9199.3.S514 C45 1991"
+      ],
+      "key": "/books/OL1282783M",
+      "authors": [
+        {
+          "key": "/authors/OL23425A"
+        }
+      ],
+      "publish_places": [
+        "Regina, Saskatchewan"
+      ],
+      "contributions": [
+        "Howard, Blanche."
+      ],
+      "pagination": "191 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part23.dat:1932108:616",
+        "marc:marc_loc_2016/BooksAll.2016.part22.utf8:31615983:616",
+        "promise:bwb_daily_pallets_2020-04-30"
+      ],
+      "title": "A celibate season",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 191,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "92140466"
+      ],
+      "subjects": [
+        "Women -- Canada -- Fiction"
+      ],
+      "publish_date": "1991",
+      "publish_country": "snc",
+      "by_statement": "Carol Shields & Blanche Howard.",
+      "works": [
+        {
+          "key": "/works/OL18330W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O6-BDN-846"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T09:54:31.182355"
+      }
+    }
+  ]
+}

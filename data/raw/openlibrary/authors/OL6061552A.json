@@ -1,0 +1,17 @@
+{
+  "name": "Harriet Roosevelt Richards",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-10-27T08:19:20.217298"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-10-27T08:19:20.217298"
+  },
+  "key": "/authors/OL6061552A",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 30692752,
+  "revision": 1
+}

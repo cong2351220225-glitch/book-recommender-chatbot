@@ -1,0 +1,268 @@
+{
+  "links": {
+    "self": "/works/OL30009W/editions.json",
+    "work": "/works/OL30009W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "number_of_pages": 48,
+      "weight": "2.4 ounces",
+      "covers": [
+        762920
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-25T15:21:27.631044"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL8469869M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "Fiction - General",
+        "Fiction",
+        "General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "As we rolled along, I scanned my companion covertly, and saw much to interest a girl of seventeen."
+      },
+      "source_records": [
+        "amazon:1419104187:ff:3707436449:159706"
+      ],
+      "title": "A Whisper In The Dark",
+      "identifiers": {
+        "librarything": [
+          "258064"
+        ],
+        "goodreads": [
+          "615201"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "isbn_13": [
+        "9781419104183"
+      ],
+      "isbn_10": [
+        "1419104187"
+      ],
+      "publish_date": "June 30, 2004",
+      "oclc_numbers": [
+        "85791751"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30009W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 7.4 x 0.2 inches",
+      "revision": 7
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "258064"
+        ],
+        "goodreads": [
+          "615200",
+          "1355185"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "title": "A whisper in the dark",
+      "subtitle": "twelve thrilling tales",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1996",
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "A modern Mephistopheles",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Marion Earle, or, Only an actress!",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "La Jeune, or, Actress and woman",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A pair of eyes, or, Modern magic",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The abbot's ghost, or, Maurice Treherne's temptation",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Perilous play",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Love and self-love",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Ariel : a legend of the lighthouse",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A whisper in the dark",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "V.V., or, Plots and counterplots",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Enigmas",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A laugh and a look.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "covers": [
+        8275670
+      ],
+      "lc_classifications": [
+        "PS1016 .D95 1996",
+        "PS1016.D95 1996"
+      ],
+      "ocaid": "whisperindarktwe00alco",
+      "contributions": [
+        "Dziemianowicz, Stefan R."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part28.dat:31234022:1208",
+        "ia:whisperindarktwe00alco",
+        "ia:whisperindarktwe00alco",
+        "ia:whisperindarktwe00alco_0",
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:49738980:1208",
+        "bwb:9780760701850",
+        "promise:bwb_daily_pallets_2020-04-09",
+        "marc:marc_columbia/Columbia-extract-20221130-011.mrc:25244166:1553"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Detective and mystery stories, American",
+        "Horror tales, American"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by Louisa May Alcott ; edited by Stefan Dziemianowicz ; introduction by Susie Mee.",
+      "oclc_numbers": [
+        "35642100"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publishers": [
+        "Barnes & Noble Books"
+      ],
+      "ia_box_id": [
+        "IA132123"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "xii, 496 p. ;",
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "lccn": [
+        "99162314"
+      ],
+      "isbn_10": [
+        "0760701857",
+        "0760708843"
+      ],
+      "local_id": [
+        "urn:bwbsku:O6-BPI-253"
+      ],
+      "key": "/books/OL64913M",
+      "number_of_pages": 496,
+      "works": [
+        {
+          "key": "/works/OL30009W"
+        }
+      ],
+      "latest_revision": 30,
+      "revision": 30,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T02:57:07.743407"
+      }
+    }
+  ]
+}

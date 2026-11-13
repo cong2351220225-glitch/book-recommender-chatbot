@@ -1,0 +1,63 @@
+{
+  "identifiers": {
+    "librarything": [
+      "770953"
+    ],
+    "goodreads": [
+      "4698198"
+    ]
+  },
+  "title": "The Buddhism of Tibet or Lamaism",
+  "authors": [
+    {
+      "key": "/authors/OL12061A"
+    }
+  ],
+  "publish_date": "June 1, 2007",
+  "publishers": [
+    "Cosimo Classics"
+  ],
+  "weight": "1.7 pounds",
+  "covers": [
+    2977986
+  ],
+  "physical_format": "Paperback",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9781602061378"
+  ],
+  "isbn_10": [
+    "1602061378"
+  ],
+  "oclc_numbers": [
+    "427903710"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.5 x 5.5 x 1.4 inches",
+  "source_records": [
+    "amazon:1602061378"
+  ],
+  "key": "/books/OL12553960M",
+  "number_of_pages": 624,
+  "works": [
+    {
+      "key": "/works/OL44335W"
+    }
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-06-14T23:34:08.514222"
+  }
+}

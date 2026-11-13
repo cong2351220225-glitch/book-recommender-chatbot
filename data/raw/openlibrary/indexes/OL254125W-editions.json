@@ -1,0 +1,127 @@
+{
+  "links": {
+    "self": "/works/OL254125W/editions.json",
+    "work": "/works/OL254125W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "s.n.]"
+      ],
+      "pagination": "32 p.",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:954344841:581"
+      ],
+      "title": "Typical key to the Apocalypse",
+      "by_statement": "by William Bell.",
+      "notes": {
+        "type": "/type/text",
+        "value": "VUAR copy also available on microfiche: Micro fiche B444. USE MICROFICHE ONLY."
+      },
+      "number_of_pages": 32,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-23T22:06:51.528028"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T02:33:25.693444"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Bible. -- N.T. -- Revelation -- Prophecies"
+      ],
+      "latest_revision": 2,
+      "publish_country": "onc",
+      "key": "/books/OL16790557M",
+      "authors": [
+        {
+          "key": "/authors/OL2602844A"
+        }
+      ],
+      "publish_date": "1869",
+      "publish_places": [
+        "London, [Ont.?"
+      ],
+      "works": [
+        {
+          "key": "/works/OL254125W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 24723942,
+      "revision": 2
+    },
+    {
+      "publishers": [
+        "s.n.]"
+      ],
+      "isbn_10": [
+        "0665890478"
+      ],
+      "series": [
+        "CIHM/ICMH Microfiche series = CIHM/ICMH collection de microfiches -- no. 89047"
+      ],
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-04T19:40:09.152660"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL17463452M",
+      "authors": [
+        {
+          "key": "/authors/OL2602844A"
+        }
+      ],
+      "publish_places": [
+        "London [Ont"
+      ],
+      "pagination": "1 microfiche (25 fr.)",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:1464134170:1151"
+      ],
+      "title": "Typical key to the Apocalypse",
+      "dewey_decimal_class": [
+        "228/.06"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "'\"Search the Scriptures, for in them ye think ye have eternal Life, and they are they which testify of Men--Jesus.'\n\nFilmed from a copy of the original publication held by the United Church of Canada and Victoria University Archives, Toronto. Ottawa : Canadian Institute for Historical Microreproductions, 1994.\n\n32 p. ; 18 cm."
+      },
+      "number_of_pages": 25,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-28T22:04:18.107698"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Bible. -- N.T. -- Revelation -- Criticism, interpretation, etc",
+        "Apocalyptic literature"
+      ],
+      "publish_date": "1994",
+      "publish_country": "onc",
+      "by_statement": "by William Bell.",
+      "works": [
+        {
+          "key": "/works/OL254125W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "links": {
+    "self": "/works/OL71810W/editions.json",
+    "work": "/works/OL71810W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "other_titles": [
+        "300 biografías de personajes fascinantes",
+        "Trescientas biografías de personajes fascinantes"
+      ],
+      "publishers": [
+        "Ediciones Universal"
+      ],
+      "subtitle": "300 biografías de personajes fascinantes",
+      "isbn_10": [
+        "1593880529"
+      ],
+      "series": [
+        "Colección Polymita"
+      ],
+      "lc_classifications": [
+        "CT184 .M37 2006"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL22726037M",
+      "authors": [
+        {
+          "key": "/authors/OL35322A"
+        }
+      ],
+      "publish_places": [
+        "Miami, Fla"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "350 p. :",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:5263027926:766",
+        "marc:marc_loc_updates/v36.i06.records.utf8:6236479:689"
+      ],
+      "title": "Inspiradores",
+      "number_of_pages": 350,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-12-19T15:47:05.284128"
+      },
+      "edition_name": "1. ed.",
+      "subjects": [
+        "Biography"
+      ],
+      "publish_date": "2006",
+      "publish_country": "flu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-06-08T08:46:43.760339"
+      },
+      "by_statement": "Luis Mario.",
+      "oclc_numbers": [
+        "64386059"
+      ],
+      "works": [
+        {
+          "key": "/works/OL71810W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Ediciones Universal"
+      ],
+      "physical_format": "Paperback",
+      "weight": "1 pounds",
+      "source_records": [
+        "amazon:1593880529",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:82754862:689",
+        "marc:harvard_bibliographic_metadata/ab.bib.11.20150123.full.mrc:714021767:709",
+        "bwb:9781593880521",
+        "marc:harvard_bibliographic_metadata/20220215_045.bib.mrc:17247928:1344"
+      ],
+      "title": "Inspiradores",
+      "isbn_13": [
+        "9781593880521"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL35322A"
+        }
+      ],
+      "isbn_10": [
+        "1593880529"
+      ],
+      "publish_date": "January 30, 2006",
+      "key": "/books/OL12432478M",
+      "subjects": [
+        "Historical - General",
+        "Biography & Autobiography",
+        "Spanish: Adult Nonfiction"
+      ],
+      "works": [
+        {
+          "key": "/works/OL71810W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.9 x 0.6 inches",
+      "lccn": [
+        "2005926494"
+      ],
+      "lc_classifications": [
+        "CT184 .M37 2006"
+      ],
+      "oclc_numbers": [
+        "64386059"
+      ],
+      "number_of_pages": 350,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-23T22:10:11.858477"
+      }
+    }
+  ]
+}

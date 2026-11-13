@@ -1,0 +1,72 @@
+{
+  "first_publish_date": "2003",
+  "description": {
+    "type": "/type/text",
+    "value": "A biography of Sandra Day O'Connor who, in 1981, became the first woman appointed as Supreme Court justice."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-14T04:03:15.776025"
+  },
+  "title": "Sandra Day O'Connor",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T02:46:28.838662"
+  },
+  "covers": [
+    1424276
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "With tears in her eyes, Sandra Day O'Connor spoke this oath before a courtroom packed with people, and then put on her black robes."
+  },
+  "subject_places": [
+    "United States"
+  ],
+  "lc_classifications": [
+    "KF8745.O25 M386 2003"
+  ],
+  "subject_people": [
+    "Sandra Day O'Connor (1930-)"
+  ],
+  "key": "/works/OL27429W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26332A"
+      }
+    }
+  ],
+  "latest_revision": 8,
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "With tears in her eyes, Sandra Day O'Connor spoke this oath before a courtroom packed with people, and then put on her black robes."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "subjects": [
+    "Judges",
+    "United States. Supreme Court",
+    "United States",
+    "Juvenile literature",
+    "Biography",
+    "Women",
+    "O'connor, sandra day, 1930-",
+    "United states, supreme court, juvenile literature",
+    "United states, supreme court"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "347.73/2634",
+    "B"
+  ],
+  "revision": 8
+}

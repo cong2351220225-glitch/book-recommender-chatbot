@@ -1,0 +1,31 @@
+{
+  "type": {
+    "key": "/type/work"
+  },
+  "title": "Beatty Papers : Selections from the Private and Official Correspondence of Admiral of the Fleet Earl Beatty : V. 1",
+  "subjects": [
+    "Admirals",
+    "Great britain, history"
+  ],
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9736227A"
+      }
+    }
+  ],
+  "key": "/works/OL25752945W",
+  "latest_revision": 1,
+  "revision": 1,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-06T22:06:52.988612"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-10-06T22:06:52.988612"
+  }
+}

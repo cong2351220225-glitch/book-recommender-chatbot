@@ -1,0 +1,47 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:48:36.911709"
+  },
+  "subjects": [
+    "International relations",
+    "Political Science",
+    "Politics / Current Events",
+    "Textbooks",
+    "Politics/International Relations",
+    "International Relations - General",
+    "Political Science / General"
+  ],
+  "latest_revision": 4,
+  "key": "/works/OL47228W",
+  "title": "Cases in international relations",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL28306A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2454149A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2019-07-30T21:04:44.096308"
+  },
+  "covers": [
+    1146732
+  ],
+  "revision": 4
+}

@@ -1,0 +1,146 @@
+{
+  "links": {
+    "self": "/works/OL1156662W/editions.json",
+    "work": "/works/OL1156662W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL117300A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B000NGQWX0"
+        ],
+        "better_world_books": [
+          "BWB3504871"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P8-BEW-158"
+      ],
+      "publish_date": "1940-01-01",
+      "publishers": [
+        "Kelly & Walsh, Ltd."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-01-04",
+        "ia:japanclosingopen0000john"
+      ],
+      "title": "Japan closing the \"open door\" in China",
+      "full_title": "Japan closing the \"open door\" in China",
+      "works": [
+        {
+          "key": "/works/OL1156662W"
+        }
+      ],
+      "key": "/books/OL45606501M",
+      "covers": [
+        14992778
+      ],
+      "ocaid": "japanclosingopen0000john",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 154,
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-10T21:03:33.785697"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-04T12:24:43.460985"
+      }
+    },
+    {
+      "publishers": [
+        "Kelly & Walsh, Ltd."
+      ],
+      "subject_place": [
+        "China",
+        "Japan"
+      ],
+      "local_id": [
+        "urn:sfpl:31223006771530"
+      ],
+      "lc_classifications": [
+        "HF3776 .A7 1940"
+      ],
+      "key": "/books/OL6403324M",
+      "authors": [
+        {
+          "key": "/authors/OL117300A"
+        }
+      ],
+      "publish_places": [
+        "Shanghai, Hong Kong [etc.]"
+      ],
+      "pagination": "viii p., 1 l., 140 p.",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:13355846:1539",
+        "marc:marc_loc_2016/BooksAll.2016.part03.utf8:186353992:916",
+        "marc:marc_columbia/Columbia-extract-20221130-005.mrc:267803043:1476",
+        "marc:marc_columbia/Columbia-extract-20221130-010.mrc:259994356:1462",
+        "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:312961397:1707"
+      ],
+      "title": "Japan closing the \"open door\" in China",
+      "lccn": [
+        "40013179"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Title in Chinese at head of t.-p."
+      },
+      "number_of_pages": 140,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Eastern question (Far East)",
+        "China -- Communism.",
+        "China -- Foreign relations -- Japan.",
+        "Japan -- Foreign relations -- China."
+      ],
+      "publish_date": "1940",
+      "publish_country": "xx ",
+      "series": [
+        "[Council of international affairs]  Political and economics studies,",
+        "no. 8"
+      ],
+      "by_statement": "by John Ahlers ... Prepared under the auspices of the Council of International Affairs, Chungking.",
+      "oclc_numbers": [
+        "1090386"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1156662W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-05T21:44:27.599326"
+      }
+    }
+  ]
+}

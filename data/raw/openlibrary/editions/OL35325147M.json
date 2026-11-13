@@ -1,0 +1,82 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "publish_date": "2014",
+  "publish_country": "utu",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL26682A"
+    }
+  ],
+  "oclc_numbers": [
+    "895192881"
+  ],
+  "series": [
+    "Ariana series -- 2"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Broken promises, broken dreams, broken hearts ... Ariana Perrault has seen them all in her short lifetime, but now they seem only distant memories. Having climbed the long pathway from sinner to Latter-day Saint, she has felt the arms of a loving Heavenly Father around her, guiding her to a wonderful life with Jean-Marc and their three beautiful children. Her best friend, Paulette, has also repented, embraced the gospel, and started an eternal family of her own. But who could know that one of life's deepest, darkest tragedies is just around the corner?"
+  },
+  "subjects": [
+    "Mormon women",
+    "Fiction",
+    "Foreign Students",
+    "Mothers and daughters",
+    "French"
+  ],
+  "subject_places": [
+    "United States"
+  ],
+  "title": "Ariana",
+  "subtitle": "a gift most precious",
+  "by_statement": "by Rachel Ann Nunes",
+  "publishers": [
+    "White Star Press"
+  ],
+  "publish_places": [
+    "American Fork, Utah"
+  ],
+  "isbn_13": [
+    "9781939203427"
+  ],
+  "isbn_10": [
+    "1939203422"
+  ],
+  "pagination": "253 pages",
+  "number_of_pages": 253,
+  "ocaid": "arianagiftmostpr0000nune_g1x0",
+  "source_records": [
+    "ia:arianagiftmostpr0000nune_g1x0",
+    "promise:bwb_daily_pallets_2021-05-14"
+  ],
+  "full_title": "Ariana a gift most precious",
+  "covers": [
+    12140559
+  ],
+  "works": [
+    {
+      "key": "/works/OL30080W"
+    }
+  ],
+  "key": "/books/OL35325147M",
+  "local_id": [
+    "urn:bwbsku:O7-DII-944"
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-10-20T10:44:01.303563"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-08T12:00:13.593753"
+  }
+}

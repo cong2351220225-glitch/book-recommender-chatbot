@@ -1,0 +1,177 @@
+{
+  "links": {
+    "self": "/works/OL30075W/editions.json",
+    "work": "/works/OL30075W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Deseret Book"
+      ],
+      "number_of_pages": 260,
+      "subtitle": "a novel",
+      "isbn_10": [
+        "1590387090"
+      ],
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "pagination": "260 p. ;",
+      "covers": [
+        10362081
+      ],
+      "lc_classifications": [
+        "PS3564.U468 I54 2007"
+      ],
+      "key": "/books/OL17844229M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "ocaid": "independenceclub0000nune",
+      "publish_places": [
+        "Salt Lake City, Utah"
+      ],
+      "oclc_number": [
+        "71810048"
+      ],
+      "uri_descriptions": [
+        "Table of contents only"
+      ],
+      "isbn_13": [
+        "9781590387092",
+        "9781590387092"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_loc_updates/v35.i13.records.utf8:8264282:834",
+        "ia:independenceclub0000nune",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:131324497:834",
+        "promise:bwb_daily_pallets_2021-05-19"
+      ],
+      "title": "The Independence Club",
+      "url": [
+        "http://www.loc.gov/catdir/toc/ecip071/2006031832.html"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "442577"
+        ],
+        "librarything": [
+          "2556839"
+        ],
+        "amazon": [
+          ""
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2006031832"
+      ],
+      "subjects": [
+        "Women -- Fiction",
+        "Friendship -- Fiction"
+      ],
+      "publish_date": "2007",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "works": [
+        {
+          "key": "/works/OL30075W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/toc/ecip071/2006031832.html"
+      ],
+      "local_id": [
+        "urn:bwbsku:P4-BHQ-724"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-06T11:57:08.439316"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T11:12:29.029183"
+      }
+    },
+    {
+      "publishers": [
+        "Deseret Book"
+      ],
+      "weight": "12 ounces",
+      "covers": [
+        1970287
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-06-08T09:51:54.020260"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL8846996M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Literature & Fiction"
+      ],
+      "isbn_13": [
+        "9781590387092"
+      ],
+      "source_records": [
+        "amazon:1590387090:ft:1167363948:167022"
+      ],
+      "title": "The Independence Club",
+      "identifiers": {
+        "librarything": [
+          "2556839"
+        ],
+        "goodreads": [
+          "442577"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1590387090"
+      ],
+      "publish_date": "February 1, 2007",
+      "oclc_numbers": [
+        "71810048"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30075W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 5.9 x 0.8 inches",
+      "revision": 7
+    }
+  ]
+}

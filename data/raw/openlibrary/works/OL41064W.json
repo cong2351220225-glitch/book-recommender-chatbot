@@ -1,0 +1,33 @@
+{
+  "title": "Prose Works - Selections",
+  "key": "/works/OL41064W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL28127A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "covers": [
+    965799
+  ],
+  "subjects": [
+    "Translations into French"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T08:15:47.909262"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-12-09T13:16:00.201909"
+  }
+}

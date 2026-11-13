@@ -1,0 +1,62 @@
+{
+  "publishers": [
+    "Oxford University Press, USA"
+  ],
+  "number_of_pages": 320,
+  "subtitle": "The Battles for Scripture and the Faiths We Never Knew",
+  "covers": [
+    125294
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-05T22:38:24.027863"
+  },
+  "latest_revision": 6,
+  "key": "/books/OL7389510M",
+  "authors": [
+    {
+      "key": "/authors/OL23421A"
+    }
+  ],
+  "isbn_13": [
+    "9780195141832"
+  ],
+  "source_records": [
+    "amazon:0195141830:13:3594732840:286500"
+  ],
+  "title": "The Lost Christianities",
+  "identifiers": {
+    "goodreads": [
+      "1104723"
+    ],
+    "librarything": [
+      "57070"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0195141830"
+  ],
+  "publish_date": "August 18, 2003",
+  "works": [
+    {
+      "key": "/works/OL18311W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Ancient Christians knew of far more Gospels than the four that eventually came to be included in the New Testament."
+  },
+  "revision": 6
+}

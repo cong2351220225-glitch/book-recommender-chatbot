@@ -1,0 +1,97 @@
+{
+  "publishers": [
+    "Dutton",
+    "Dial Books"
+  ],
+  "identifiers": {
+    "librarything": [
+      "1451693"
+    ],
+    "goodreads": [
+      "1112016"
+    ]
+  },
+  "key": "/books/OL2209802M",
+  "authors": [
+    {
+      "key": "/authors/OL27452A"
+    }
+  ],
+  "publish_places": [
+    "New York"
+  ],
+  "contributions": [
+    "Hurley, Johanna."
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "pagination": "[62] p. :",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part20.dat:152831704:670",
+    "marc:marc_loc_updates/v38.i34.records.utf8:5292629:670",
+    "marc:marc_loc_2016/BooksAll.2016.part19.utf8:110763286:670",
+    "ia:cookingfornitwit0000well",
+    "promise:bwb_daily_pallets_2022-08-30",
+    "bwb:9780525485032",
+    "marc:harvard_bibliographic_metadata/ab.bib.01.20150123.full.mrc:729042536:733",
+    "marc:harvard_bibliographic_metadata/20220215_008.bib.mrc:88680808:1959"
+  ],
+  "title": "Cooking for nitwits",
+  "number_of_pages": 62,
+  "edition_name": "1st ed.",
+  "subjects": [
+    "Cookery -- Humor"
+  ],
+  "publish_date": "1989",
+  "publish_country": "nyu",
+  "by_statement": "Rosemary Wells and Johanna Hurley ; photographs by Barbara Olcott and featuring Lee Bryant.",
+  "works": [
+    {
+      "key": "/works/OL32578W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "covers": [
+    12717150
+  ],
+  "isbn_10": [
+    "0525485031"
+  ],
+  "lccn": [
+    "89032255"
+  ],
+  "oclc_numbers": [
+    "19590217"
+  ],
+  "classifications": {},
+  "dewey_decimal_class": [
+    "818/.5402"
+  ],
+  "lc_classifications": [
+    "PN6231.C624 W45 1989",
+    "PN6231.C624W45 1989"
+  ],
+  "ocaid": "cookingfornitwit0000well",
+  "local_id": [
+    "urn:bwbsku:W7-CFU-813"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "A spoof about cookbooks and home entertaining with recipes and instructions that are written in jest and not to be followed."
+  },
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-07-04T21:20:14.246929"
+  }
+}

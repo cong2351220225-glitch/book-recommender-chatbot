@@ -1,0 +1,30 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-12-04T07:16:41.243622"
+  },
+  "title": "Inspiradores",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T07:05:59.463429"
+  },
+  "subjects": [
+    "Biography"
+  ],
+  "latest_revision": 2,
+  "key": "/works/OL71810W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL35322A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

@@ -1,0 +1,271 @@
+{
+  "links": {
+    "self": "/works/OL236894W/editions.json",
+    "work": "/works/OL236894W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1884",
+      "publish_country": "nyu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL2521421A"
+        }
+      ],
+      "oclc_numbers": [
+        "722115431"
+      ],
+      "series": [
+        "Bermingham's medical library",
+        "Bermingham's medical library"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index.\n\nDigital version available with no restrictions Unrestricted online access\n\nElectronic reproduction. New York, N.Y.: Columbia University Libraries, 2010. Digitized by the Internet Archive.\n\nBenchmark for Faithful Digital Reproductions of Monographs and Serials. Version 1. December 2002. Digital version conforms to: http://purl.oclc.org/DLF/benchrepro0212\n\nDigitized. 2010 Columbia University Libraries committed to preserve"
+      },
+      "links": [
+        {
+          "url": "http://www.columbia.edu/cgi-bin/cul/resolve?clio10863702",
+          "title": "External source"
+        }
+      ],
+      "subjects": [
+        "Heart Diseases"
+      ],
+      "title": "Lectures on diseases of the heart",
+      "subtitle": "delivered at the College of Physicians and Surgeons, New York",
+      "by_statement": "by Alonzo Clark",
+      "physical_format": "[electronic resource] :",
+      "publishers": [
+        "Bermingham"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "251 p.",
+      "number_of_pages": 251,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-022.mrc:194268792:1505"
+      ],
+      "full_title": "Lectures on diseases of the heart delivered at the College of Physicians and Surgeons, New York",
+      "works": [
+        {
+          "key": "/works/OL236894W"
+        }
+      ],
+      "key": "/books/OL44748523M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T00:12:42.421701"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T00:12:42.421701"
+      }
+    },
+    {
+      "publishers": [
+        "Bermingham & company"
+      ],
+      "subtitle": "delivered at the College of physicians and surgeons, New York",
+      "series": [
+        "Berminghamʼs medical library"
+      ],
+      "covers": [
+        6522471
+      ],
+      "lc_classifications": [
+        "RC681 .C58",
+        "Microfilm 15541 RC"
+      ],
+      "key": "/books/OL6990870M",
+      "authors": [
+        {
+          "key": "/authors/OL2521421A"
+        }
+      ],
+      "ocaid": "lecturesondiseas00clar",
+      "publish_places": [
+        "New York",
+        "London"
+      ],
+      "pagination": "1 p. l., [5]-251 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:188813490:715",
+        "ia:lecturesondiseas00clar",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:54456967:716",
+        "marc:marc_columbia/Columbia-extract-20221130-009.mrc:17779269:1120",
+        "marc:harvard_bibliographic_metadata/20220215_039.bib.mrc:316041760:2538"
+      ],
+      "title": "Lectures on diseases of the heart",
+      "lccn": [
+        "07037794"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Replace; LC copy replaced by preservation microfilm"
+      },
+      "number_of_pages": 251,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Heart -- Diseases"
+      ],
+      "publish_date": "1884",
+      "publish_country": "nyu",
+      "by_statement": "by Alonzo Clark ...",
+      "works": [
+        {
+          "key": "/works/OL236894W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "50228902"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-27T22:16:02.703422"
+      }
+    },
+    {
+      "publishers": [
+        "Bermingham"
+      ],
+      "subtitle": "delivered at the College of physicians and surgeons, New York, by Alonzo Clark ...",
+      "series": [
+        "Bermingham's medical library"
+      ],
+      "covers": [
+        5586711
+      ],
+      "key": "/books/OL7061707M",
+      "authors": [
+        {
+          "key": "/authors/OL2521421A"
+        }
+      ],
+      "ocaid": "lecturesondisea00claruoft",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "1 p. l., [5]-251 p.",
+      "source_records": [
+        "ia:lecturesondisea00claruoft"
+      ],
+      "title": "Lectures on diseases of the heart",
+      "subjects": [
+        "Heart -- Diseases"
+      ],
+      "publish_date": "1884",
+      "publish_country": "nyu",
+      "works": [
+        {
+          "key": "/works/OL236894W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 251,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-05T23:11:52.375397"
+      }
+    },
+    {
+      "subtitle": "delivered at the College of Physicians and Surgeons, New York",
+      "series": [
+        "Bermingham's medical library"
+      ],
+      "latest_revision": 2,
+      "contributions": [
+        "Sheldon, Charles S."
+      ],
+      "id": 27279866,
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/ohsu_ncnm_wscc_bibs.mrc:25257142:913"
+      ],
+      "title": "Lectures on diseases of the heart",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Heart Diseases"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by Alonzo Clark.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "Bermingham"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-23T09:25:53.997048"
+      },
+      "key": "/books/OL17839959M",
+      "authors": [
+        {
+          "key": "/authors/OL2521421A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "251 p. ;",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-01T10:38:18.945383"
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references and index.\n\nSignature: Charles S. Sheldon, M.D., [Greenville?], Mich., May 1st, 1884."
+      },
+      "number_of_pages": 251,
+      "publish_date": "1884",
+      "works": [
+        {
+          "key": "/works/OL236894W"
+        }
+      ]
+    }
+  ]
+}

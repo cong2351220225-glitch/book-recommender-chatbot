@@ -1,0 +1,55 @@
+{
+  "other_titles": [
+    "Quatre-vingts monuments insolites d'entre-Sambre-et-Meuse."
+  ],
+  "publishers": [
+    "A la Biche faonée"
+  ],
+  "lc_classifications": [
+    "MLCM 90/04059 (D)"
+  ],
+  "latest_revision": 3,
+  "key": "/books/OL1941242M",
+  "authors": [
+    {
+      "key": "/authors/OL625501A"
+    }
+  ],
+  "publish_places": [
+    "Cerfontaine [Belgium]"
+  ],
+  "pagination": "88 p. :",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part20.utf8:122658638:547"
+  ],
+  "title": "80 monuments insolites d'entre-Sambre-et-Meuse",
+  "lccn": [
+    "90162539"
+  ],
+  "number_of_pages": 88,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/fre"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-12T05:07:25.105405"
+  },
+  "publish_date": "1989",
+  "publish_country": "be ",
+  "by_statement": "André Lépine.",
+  "works": [
+    {
+      "key": "/works/OL3650638W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

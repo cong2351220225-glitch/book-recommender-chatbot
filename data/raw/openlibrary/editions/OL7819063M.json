@@ -1,0 +1,68 @@
+{
+  "publishers": [
+    "Yearling"
+  ],
+  "identifiers": {
+    "librarything": [
+      "381089"
+    ],
+    "goodreads": [
+      "2433502"
+    ]
+  },
+  "physical_format": "Paperback",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-29T05:40:25.075359"
+  },
+  "latest_revision": 6,
+  "key": "/books/OL7819063M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "subjects": [
+    "General",
+    "Non-Classifiable",
+    "Fiction",
+    "Monsters",
+    "Plot-your-own stories",
+    "Children's 9-12 - Fiction - General",
+    "Juvenile Fiction"
+  ],
+  "edition_name": "Reissue edition",
+  "source_records": [
+    "amazon:0553153080:bx:1204590752:168070"
+  ],
+  "title": "Gorga,/space Monster",
+  "number_of_pages": 128,
+  "isbn_13": [
+    "9780553153088"
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0553153080"
+  ],
+  "publish_date": "January 1, 1983",
+  "oclc_numbers": [
+    "12470219"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30090W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 6
+}

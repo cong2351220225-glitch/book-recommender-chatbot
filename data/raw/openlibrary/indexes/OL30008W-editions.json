@@ -1,0 +1,143 @@
+{
+  "links": {
+    "self": "/works/OL30008W/editions.json",
+    "work": "/works/OL30008W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Thomas Todd Co."
+      ],
+      "lc_classifications": [
+        "PS1016 .T5 1919"
+      ],
+      "key": "/books/OL6617705M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_places": [
+        "[Boston"
+      ],
+      "contributions": [
+        "Sears, Clara Endicott, 1863-"
+      ],
+      "pagination": "13 p., 1 l.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part02.dat:73111498:672",
+        "marc:marc_loc_2016/BooksAll.2016.part02.utf8:161207956:672",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:686189214:882",
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:322904589:1976"
+      ],
+      "title": "Three unpublished poems",
+      "lccn": [
+        "19011806"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Signed:  Clara Endicott Sears."
+      },
+      "number_of_pages": 13,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Alcott, Amos Bronson, 1799-1888"
+      ],
+      "publish_date": "1919",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott ... Fruitlands collection.",
+      "oclc_numbers": [
+        "11542470"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30008W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Commentary discusses the Alcotts at Fruitlands; poems by Louisa concern A. Bronson Alcott."
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-30T01:00:56.906757"
+      }
+    },
+    {
+      "publishers": [
+        "Thomas Todd"
+      ],
+      "covers": [
+        5886121
+      ],
+      "lc_classifications": [
+        "PS1017 .T57 1919"
+      ],
+      "key": "/books/OL7021105M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "threeunpublished00alcouoft",
+      "publish_places": [
+        "[Boston"
+      ],
+      "contributions": [
+        "Sears, Clara Endicott, 1863-"
+      ],
+      "pagination": "13 p. :",
+      "source_records": [
+        "ia:threeunpublished00alcouoft"
+      ],
+      "title": "Three unpublished poems",
+      "lccn": [
+        "19011806"
+      ],
+      "subjects": [
+        "Alcott, Amos Bronson, 1799-1888"
+      ],
+      "publish_date": "1919",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30008W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 13,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-13T22:52:17.638265"
+      }
+    }
+  ]
+}

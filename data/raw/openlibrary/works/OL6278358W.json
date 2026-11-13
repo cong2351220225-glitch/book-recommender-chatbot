@@ -1,0 +1,45 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "This book is an important source of information about the Arctic and Polar Medals which were awarded by Great Britain in the period 1818 to 1961. It gives brief accounts of the expeditions themselves and lists the names of the recipients of the medals.  The medals are described and illustrated by black-and-white photographs."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-11-26T17:26:45.257428"
+  },
+  "title": "The White Ribbon",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T18:53:57.743575"
+  },
+  "covers": [
+    7243992
+  ],
+  "subject_places": [
+    "Great Britain",
+    "Polar Regions"
+  ],
+  "subjects": [
+    "Medals",
+    "Arctic and Antarctic Expeditions"
+  ],
+  "latest_revision": 5,
+  "key": "/works/OL6278358W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL1637821A"
+      }
+    }
+  ],
+  "subject_times": [
+    "1818 - 1961"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 5
+}

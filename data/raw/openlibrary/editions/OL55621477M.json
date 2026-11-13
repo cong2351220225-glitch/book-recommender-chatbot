@@ -1,0 +1,57 @@
+{
+  "title": "White Fang",
+  "authors": [
+    {
+      "key": "/authors/OL8336888A"
+    }
+  ],
+  "publish_date": "2015",
+  "type": {
+    "key": "/type/edition"
+  },
+  "dewey_decimal_class": [
+    "813/.52"
+  ],
+  "isbn_13": [
+    "9781516998753"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publishers": [
+    "CreateSpace Independent Publishing Platform"
+  ],
+  "source_records": [
+    "bwb:9781516998753"
+  ],
+  "subjects": [
+    "American fiction (fictional works by one author)"
+  ],
+  "weight": "0.295",
+  "full_title": "White Fang",
+  "contributors": [
+    {
+      "role": "Translator",
+      "name": "Raul Bracho"
+    }
+  ],
+  "key": "/books/OL55621477M",
+  "number_of_pages": 156,
+  "works": [
+    {
+      "key": "/works/OL74504W"
+    }
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-09-28T10:56:47.953831"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-08-21T13:18:22.014610"
+  }
+}

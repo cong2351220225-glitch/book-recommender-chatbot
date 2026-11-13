@@ -1,0 +1,70 @@
+{
+  "dewey_number": [
+    "y813"
+  ],
+  "title": "Aunt Jo's scrap-bag",
+  "covers": [
+    10708698,
+    5898554,
+    5610177,
+    365574,
+    8675400,
+    10701304,
+    10701302,
+    12041093,
+    11457297
+  ],
+  "first_publish_date": "1871",
+  "key": "/works/OL30067W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "subject_times": [
+    "19th century",
+    "Siglo XIX"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Children's stories, American",
+    "Juvenile fiction",
+    "Children's stories",
+    "Conduct of life",
+    "Voyages and travels",
+    "Pets",
+    "Short stories",
+    "Children",
+    "Novela estadounidense",
+    "American fiction",
+    "Translations into Spanish",
+    "Traducciones al español",
+    "American Short stories",
+    "Description and travel",
+    "Fiction, short stories (single author)",
+    "Fiction, general",
+    "Children's literature"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "Preface\r\n\r\nAs grandmothers rummage their piece-bags and bundles in search of gay odds and ends to make gifts with which to fill the little stockings that hand all in a row on Christmas Eve, so I have gathers together some stories, old and new, to amuse the large family that has to rapidly and beautifully grown up about me.\r\nI hope that when they pomenade in nightcaps and gowns to rifle the plump stockings, the little dears will utten an 'Oh!' of pleasure, and give a prance of satisfaction, as they pull out this small gift from Aunt Jo's Scrap Bag.\r\n\r\nChristmas Holidays,\r\n1871-72"
+  },
+  "location": "/works/OL24230401W",
+  "latest_revision": 22,
+  "revision": 22,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-27T03:54:42.357209"
+  }
+}

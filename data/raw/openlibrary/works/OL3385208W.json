@@ -1,0 +1,46 @@
+{
+  "key": "/works/OL3385208W",
+  "title": "Formes contemporaines du christianisme en Afrique noire",
+  "subject_places": [
+    "Africa",
+    "Afrique"
+  ],
+  "first_publish_date": "1998",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL553128A"
+      }
+    }
+  ],
+  "subject_times": [
+    "20th century",
+    "20e siècle"
+  ],
+  "subjects": [
+    "Bibliographie",
+    "Christianisme",
+    "Bibliography",
+    "Christianity",
+    "Church history"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "200"
+  ],
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:26:18.117644"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-17T10:06:03.458868"
+  }
+}

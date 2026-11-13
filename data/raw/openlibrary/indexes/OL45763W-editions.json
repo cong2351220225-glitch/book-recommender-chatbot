@@ -1,0 +1,130 @@
+{
+  "links": {
+    "self": "/works/OL45763W/editions.json",
+    "work": "/works/OL45763W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "lc_classifications": [
+        "PN6321 .J4"
+      ],
+      "latest_revision": 2,
+      "contributions": [
+        "Woodward, Alice B., illus."
+      ],
+      "id": 9397060,
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:117462347:585"
+      ],
+      "title": "Bon-mots of the nineteenth century",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xx ",
+      "by_statement": "with grotesques by Alice B. Woodward.",
+      "oclc_numbers": [
+        "3463136"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "J.M. Dent & co."
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-15T18:12:47.816354"
+      },
+      "key": "/books/OL6902510M",
+      "authors": [
+        {
+          "key": "/authors/OL18303A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "189 p.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "lccn": [
+        "01001303"
+      ],
+      "number_of_pages": 189,
+      "publish_date": "1897",
+      "works": [
+        {
+          "key": "/works/OL45763W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "J.M. Dent & co."
+      ],
+      "covers": [
+        6482682
+      ],
+      "key": "/books/OL23282066M",
+      "authors": [
+        {
+          "key": "/authors/OL18303A"
+        }
+      ],
+      "ocaid": "bonmotsofninetee00jerr",
+      "publish_places": [
+        "London"
+      ],
+      "contributions": [
+        "Woodward, Alice B., ill."
+      ],
+      "pagination": "189 p.",
+      "source_records": [
+        "ia:bonmotsofninetee00jerr",
+        "ia:bonmotsnineteen00woodgoog",
+        "marc:marc_loc_2016/BooksAll.2016.part01.utf8:219235855:585",
+        "marc:harvard_bibliographic_metadata/20220215_028.bib.mrc:313665185:1337"
+      ],
+      "title": "Bon-mots of the nineteenth century",
+      "lccn": [
+        "01001303"
+      ],
+      "number_of_pages": 189,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1897",
+      "publish_country": "xx ",
+      "by_statement": "with grotesques by Alice B. Woodward.",
+      "oclc_numbers": [
+        "3463136"
+      ],
+      "works": [
+        {
+          "key": "/works/OL45763W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-30T01:12:33.959467"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T06:31:18.820015"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "publishers": [
+    "Ministério da Educação e Cultura, Instituto Joaquim Nabuco de Pesquisas Sociais"
+  ],
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "",
+      "title": "Diègues Júnior, M. O movimento regionalista de 1926.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Freyre, G. O movimento regionalista, tradicionalista e, a seu modo, modernista do Recife.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Reunião do Conselho Federal de Cultura.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Prefácio do autor à 6a edição, incorporando o escrito para a 4a.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Manifesto.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    }
+  ],
+  "subject_place": [
+    "Brazil",
+    "Recife (Brazil)",
+    "Brazil."
+  ],
+  "lc_classifications": [
+    "F2510 .F7538 1976"
+  ],
+  "key": "/books/OL4669999M",
+  "authors": [
+    {
+      "key": "/authors/OL119550A"
+    }
+  ],
+  "publish_places": [
+    "Recife"
+  ],
+  "languages": [
+    {
+      "key": "/languages/por"
+    }
+  ],
+  "pagination": "80 p. :",
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part11.utf8:10070428:1246",
+    "marc:marc_columbia/Columbia-extract-20221130-001.mrc:8158032:1673"
+  ],
+  "title": "Manifesto regionalista",
+  "lccn": [
+    "77560725"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "On cover: Movimento regionalista, 1926-1976."
+  },
+  "number_of_pages": 80,
+  "edition_name": "6. ed.",
+  "subjects": [
+    "Regionalism -- Brazil.",
+    "Brazil -- Civilization.",
+    "Recife (Brazil) -- Civilization."
+  ],
+  "publish_date": "1976",
+  "publish_country": "bl ",
+  "series": [
+    "Série Documentos - Instituto Joaquim Nabuco de Pesquisas Sociais ; 6",
+    "Série Documentos (Instituto Joaquim Nabuco de Pesquisas Sociais) ;",
+    "6."
+  ],
+  "by_statement": "Gilberto Freyre ; introd. de Manuel Diègues Júnior.",
+  "works": [
+    {
+      "key": "/works/OL1183183W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "oclc_numbers": [
+    "3230347"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-07T06:14:59.143115"
+  }
+}

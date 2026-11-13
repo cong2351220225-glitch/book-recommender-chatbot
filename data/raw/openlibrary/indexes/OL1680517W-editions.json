@@ -1,0 +1,85 @@
+{
+  "links": {
+    "self": "/works/OL1680517W/editions.json",
+    "work": "/works/OL1680517W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Boxwood Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "776189"
+        ]
+      },
+      "isbn_10": [
+        "0940168308"
+      ],
+      "pagination": "xiv, 218 p. :",
+      "covers": [
+        3743924
+      ],
+      "lc_classifications": [
+        "MT682.8 .A"
+      ],
+      "latest_revision": 10,
+      "key": "/books/OL407102M",
+      "authors": [
+        {
+          "key": "/authors/OL189819A"
+        }
+      ],
+      "publish_places": [
+        "Pacific Grove, Calif"
+      ],
+      "genres": [
+        "Methods",
+        "Self-instruction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part27.dat:114667328:543",
+        "marc:marc_ithaca_college/ic_marc.mrc:166033094:611",
+        "marc:marc_loc_updates/v38.i19.records.utf8:3814043:543",
+        "marc:marc_loc_2016/BooksAll.2016.part27.utf8:62061163:543"
+      ],
+      "title": "The miniature harmonica",
+      "lccn": [
+        "98107741"
+      ],
+      "number_of_pages": 218,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Harmonica -- Methods -- Self-instruction"
+      ],
+      "publish_date": "1995",
+      "publish_country": "cau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-29T00:58:19.660159"
+      },
+      "by_statement": "Zach M. Arnold.",
+      "oclc_numbers": [
+        "38286754"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1680517W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 10
+    }
+  ]
+}

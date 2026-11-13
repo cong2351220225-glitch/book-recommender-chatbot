@@ -1,0 +1,349 @@
+{
+  "links": {
+    "self": "/works/OL1183183W/editions.json",
+    "work": "/works/OL1183183W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "publishers": [
+        "Ministério da Educação e Cultura, Instituto Joaquim Nabuco de Pesquisas Sociais"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Diègues Júnior, M. O movimento regionalista de 1926.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Freyre, G. O movimento regionalista, tradicionalista e, a seu modo, modernista do Recife.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Reunião do Conselho Federal de Cultura.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Prefácio do autor à 6a edição, incorporando o escrito para a 4a.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Manifesto.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "subject_place": [
+        "Brazil",
+        "Recife (Brazil)",
+        "Brazil."
+      ],
+      "lc_classifications": [
+        "F2510 .F7538 1976"
+      ],
+      "key": "/books/OL4669999M",
+      "authors": [
+        {
+          "key": "/authors/OL119550A"
+        }
+      ],
+      "publish_places": [
+        "Recife"
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "pagination": "80 p. :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part11.utf8:10070428:1246",
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:8158032:1673"
+      ],
+      "title": "Manifesto regionalista",
+      "lccn": [
+        "77560725"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "On cover: Movimento regionalista, 1926-1976."
+      },
+      "number_of_pages": 80,
+      "edition_name": "6. ed.",
+      "subjects": [
+        "Regionalism -- Brazil.",
+        "Brazil -- Civilization.",
+        "Recife (Brazil) -- Civilization."
+      ],
+      "publish_date": "1976",
+      "publish_country": "bl ",
+      "series": [
+        "Série Documentos - Instituto Joaquim Nabuco de Pesquisas Sociais ; 6",
+        "Série Documentos (Instituto Joaquim Nabuco de Pesquisas Sociais) ;",
+        "6."
+      ],
+      "by_statement": "Gilberto Freyre ; introd. de Manuel Diègues Júnior.",
+      "works": [
+        {
+          "key": "/works/OL1183183W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "3230347"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-07T06:14:59.143115"
+      }
+    },
+    {
+      "publishers": [
+        "Instituto Joaquim Nabuco de Pesquisas Sociais"
+      ],
+      "subject_place": [
+        "Brazil",
+        "Brazil."
+      ],
+      "lc_classifications": [
+        "F2510 .F7538 1967"
+      ],
+      "key": "/books/OL5659201M",
+      "authors": [
+        {
+          "key": "/authors/OL119550A"
+        }
+      ],
+      "publish_places": [
+        "Recife"
+      ],
+      "edition_name": "4. ed.",
+      "pagination": " xiii, 75 p.",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part06.utf8:181091962:658",
+        "marc:marc_columbia/Columbia-extract-20221130-002.mrc:561267800:1021",
+        "marc:harvard_bibliographic_metadata/20220215_008.bib.mrc:103933789:1127"
+      ],
+      "title": "Manifesto regionalista.",
+      "dewey_decimal_class": [
+        "918.1/03"
+      ],
+      "number_of_pages": 75,
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "lccn": [
+        "68105104"
+      ],
+      "subjects": [
+        "Regionalism -- Brazil.",
+        "Cookery, Brazilian.",
+        "Brazil -- Civilization."
+      ],
+      "publish_date": "1967",
+      "publish_country": "xx ",
+      "oclc_numbers": [
+        "1560235"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1183183W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-05T09:10:45.903655"
+      }
+    },
+    {
+      "title": "Manifesto regionalista.",
+      "authors": [
+        {
+          "key": "/authors/OL119550A"
+        }
+      ],
+      "publish_date": "1970",
+      "publishers": [
+        "Instituto Joaquim Nabuco de Pesquisas Sociais"
+      ],
+      "series": [
+        "Serie cultura geral"
+      ],
+      "publish_places": [
+        "Recife"
+      ],
+      "subjects": [
+        "Regionalism -- Brazil",
+        "Cookery, Brazilian",
+        "Brazil -- Civilization."
+      ],
+      "edition_name": "[4. ed.]",
+      "pagination": "[25 leaves]",
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "lc_classifications": [
+        "F2510 F7538 1970"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:2044019417:655"
+      ],
+      "key": "/books/OL18577927M",
+      "number_of_pages": 25,
+      "works": [
+        {
+          "key": "/works/OL1183183W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-18T07:35:28.278227"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-05T14:51:17.977839"
+      }
+    },
+    {
+      "publishers": [
+        "Fundação Joaquim Nabuco, Editora Massangana"
+      ],
+      "number_of_pages": 259,
+      "isbn_10": [
+        "8570193009"
+      ],
+      "subject_place": [
+        "Brazil",
+        "Recife (Brazil)",
+        "Brazil."
+      ],
+      "lc_classifications": [
+        "F2510 .F7358 1996",
+        "F2510 .F7538 1996"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL318589M",
+      "authors": [
+        {
+          "key": "/authors/OL119550A"
+        }
+      ],
+      "publish_places": [
+        "Recife"
+      ],
+      "contributions": [
+        "Quintas, Fátima."
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "pagination": "259 p. :",
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part26.utf8:211223392:1166"
+      ],
+      "title": "Manifesto regionalista",
+      "dewey_decimal_class": [
+        "981"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references.\nSome articles previously published between 1926 and 1994."
+      },
+      "identifiers": {
+        "goodreads": [
+          "3116941"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "7a ed. rev. e aumentada.",
+      "lccn": [
+        "97832138"
+      ],
+      "subjects": [
+        "Freyre, Gilberto, 1900- ",
+        "Regionalism -- Brazil.",
+        "Brazil -- Civilization.",
+        "Recife (Brazil) -- Civilization."
+      ],
+      "publish_date": "1996",
+      "publish_country": "bl ",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-27T07:43:58.940964"
+      },
+      "series": [
+        "Série Documentos ;",
+        "44",
+        "Série Documentos (Fundação Joaquim Nabuco) ;",
+        "44."
+      ],
+      "by_statement": "Gilberto Freyre ; organização e apresentação de Fátima Quintas ; prefácio de Antônio Dimas.",
+      "oclc_numbers": [
+        "36754825"
+      ],
+      "works": [
+        {
+          "key": "/works/OL1183183W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    }
+  ]
+}

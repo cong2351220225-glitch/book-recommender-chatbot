@@ -1,0 +1,57 @@
+{
+  "publishers": [
+    "Sāzmān-i Chāp va Intishārāt Vizārat-i Farhang va Irshād va Islāmī :Markaz-i Taḥqīqāt-i ʻIlmī-i Kishvar, Vizārat-i Farhang va Āmuzish-i ʻĀlī"
+  ],
+  "subtitle": "shaykh al-muvarrikhīn Abū Jaʻfar Muḥammad ibn Jarīr Ṭabarī ...",
+  "lc_classifications": [
+    "MLCMN 96/1843 (DS)"
+  ],
+  "latest_revision": 4,
+  "key": "/books/OL1383105M",
+  "publish_places": [
+    "Tihrān"
+  ],
+  "contributions": [
+    "Qāsimʹzādah, Muḥammad."
+  ],
+  "languages": [
+    {
+      "key": "/languages/per"
+    }
+  ],
+  "pagination": "753 p.",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part23.dat:86125088:735",
+    "marc:marc_loc_updates/v37.i26.records.utf8:18393665:786",
+    "marc:marc_loc_2016/BooksAll.2016.part22.utf8:138194925:786"
+  ],
+  "title": "Yādnāmah-ʼi Ṭabarī",
+  "lccn": [
+    "92933088"
+  ],
+  "number_of_pages": 753,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "edition_name": "Chāp-i 1.",
+  "subjects": [
+    "Ṭabarī, 838?-923"
+  ],
+  "publish_date": "1991",
+  "publish_country": "ir ",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-16T16:55:51.988524"
+  },
+  "by_statement": "[vīrāstār, Muḥammad Qāsimʹzādah].",
+  "works": [
+    {
+      "key": "/works/OL18318182W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

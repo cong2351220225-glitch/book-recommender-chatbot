@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "Tandem Library"
+  ],
+  "number_of_pages": 149,
+  "weight": "8 ounces",
+  "physical_format": "School & Library Binding",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T20:42:14.809496"
+  },
+  "latest_revision": 5,
+  "key": "/books/OL9822686M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "subjects": [
+    "Classic fiction",
+    "Juvenile Fiction",
+    "Children's 12-Up - Literature - Classics",
+    "Children: Young Adult (Gr. 10-12)",
+    "Classics",
+    "Fairy Tales & Folklore - General",
+    "England",
+    "Fiction",
+    "Love stories",
+    "Orphans"
+  ],
+  "isbn_13": [
+    "9780613642927"
+  ],
+  "source_records": [
+    "amazon:0613642929:2-av:3178914374:230790"
+  ],
+  "title": "Inheritance",
+  "identifiers": {
+    "goodreads": [
+      "6634096"
+    ]
+  },
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0613642929"
+  ],
+  "publish_date": "July 2003",
+  "works": [
+    {
+      "key": "/works/OL30023W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7.5 x 4.7 x 0.9 inches",
+  "revision": 5
+}

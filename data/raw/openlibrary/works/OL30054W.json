@@ -1,0 +1,17 @@
+{
+  "location": "/works/OL16894032W",
+  "key": "/works/OL30054W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "latest_revision": 20,
+  "revision": 20,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-02T16:32:27.822910"
+  }
+}

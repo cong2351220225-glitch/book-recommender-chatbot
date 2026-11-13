@@ -1,0 +1,162 @@
+{
+  "links": {
+    "self": "/works/OL30072W/editions.json",
+    "work": "/works/OL30072W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "publishers": [
+        "Shadow Mountain"
+      ],
+      "identifiers": {
+        "librarything": [
+          "4969578"
+        ],
+        "goodreads": [
+          "2181523"
+        ]
+      },
+      "lc_classifications": [
+        "PS3564.U468 F54 2008"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL20008411M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "publish_places": [
+        "Salt Lake City, Utah"
+      ],
+      "isbn_13": [
+        "9781590388525"
+      ],
+      "pagination": "304 p. ;",
+      "source_records": [
+        "marc:marc_loc_updates/v36.i30.records.utf8:7206061:582"
+      ],
+      "title": "Fields of home",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "number_of_pages": 304,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-25T05:31:01.349713"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2007044252"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-30T16:12:23.832146"
+      },
+      "publish_date": "2008",
+      "publish_country": "utu",
+      "by_statement": "Rachel Ann Nunes.",
+      "oclc_numbers": [
+        "177825167"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30072W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Shadow Mountain"
+      ],
+      "identifiers": {
+        "librarything": [
+          "4969578"
+        ],
+        "goodreads": [
+          "2181523"
+        ]
+      },
+      "covers": [
+        2951111
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL12368990M",
+      "authors": [
+        {
+          "key": "/authors/OL26682A"
+        }
+      ],
+      "subjects": [
+        "Family Life",
+        "General",
+        "Literature & Fiction",
+        "Fiction",
+        "Christian fiction",
+        "Love stories"
+      ],
+      "isbn_13": [
+        "9781590388525"
+      ],
+      "source_records": [
+        "amazon:1590388526",
+        "marc:marc_loc_2016/BooksAll.2016.part34.utf8:156639431:582",
+        "ia:fieldsofhome0000nune",
+        "bwb:9781590388525",
+        "promise:bwb_daily_pallets_2020-10-07"
+      ],
+      "title": "Fields of Home",
+      "number_of_pages": 320,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1590388526"
+      ],
+      "publish_date": "February 29, 2008",
+      "oclc_numbers": [
+        "177825167"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30072W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "2007044252"
+      ],
+      "lc_classifications": [
+        "PS3564.U468 F54 2008",
+        "PS3564.U468F54 2008"
+      ],
+      "ocaid": "fieldsofhome0000nune",
+      "local_id": [
+        "urn:bwbsku:O5-SAI-317"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T15:34:40.450386"
+      }
+    }
+  ]
+}

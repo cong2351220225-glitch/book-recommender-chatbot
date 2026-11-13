@@ -1,0 +1,88 @@
+{
+  "subtitle": "une étude bibliographique",
+  "series": [
+    "Bibliographies du CEAN -- no 9",
+    "Bibliographies du Centre d'étude d'Afrique noire -- no 9."
+  ],
+  "contributions": [
+    "Dorier-Apprill, Elisabeth.",
+    "Mayrargue, Cédric.",
+    "Kouvouama, Abel."
+  ],
+  "genres": [
+    "Bibliography.",
+    "Bibliographie."
+  ],
+  "title": "Formes contemporaines du christianisme en Afrique noire",
+  "languages": [
+    {
+      "key": "/languages/fre"
+    }
+  ],
+  "subjects": [
+    "Christianity -- Africa -- 20th century -- Bibliography.",
+    "Christianisme -- Afrique -- 20e siècle -- Bibliographie."
+  ],
+  "publish_country": "fr ",
+  "by_statement": "Jean-Claude Barbier, Elisabeth Dorier-Apprill, Cédric Mayrargue ; préface d'Abel Kouvouama.",
+  "type": {
+    "key": "/type/edition"
+  },
+  "publishers": [
+    "Centre d'étude d'Afrique noire"
+  ],
+  "key": "/books/OL16643685M",
+  "authors": [
+    {
+      "key": "/authors/OL553128A"
+    }
+  ],
+  "publish_places": [
+    "Talence"
+  ],
+  "oclc_number": [
+    "42821167"
+  ],
+  "pagination": "65 p. ;",
+  "dewey_decimal_class": [
+    "200"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Includes index."
+  },
+  "number_of_pages": 65,
+  "isbn_10": [
+    "2908065452"
+  ],
+  "publish_date": "1998",
+  "works": [
+    {
+      "key": "/works/OL3385208W"
+    }
+  ],
+  "lccn": [
+    "2003615710"
+  ],
+  "lc_classifications": [
+    "Z7757.A2 B37 1998",
+    "BR1430 B37 1998"
+  ],
+  "source_records": [
+    "marc:marc_loc_2016/BooksAll.2016.part31.utf8:129320043:1064",
+    "marc:harvard_bibliographic_metadata/20220215_005.bib.mrc:119650619:2792"
+  ],
+  "oclc_numbers": [
+    "42821167"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-25T09:58:33.403739"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-06-17T10:06:03.458868"
+  }
+}

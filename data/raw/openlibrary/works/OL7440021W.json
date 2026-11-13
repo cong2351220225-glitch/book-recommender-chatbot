@@ -1,0 +1,25 @@
+{
+  "title": "Dear guest and ghost",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T21:09:39.358144"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T21:09:39.358144"
+  },
+  "latest_revision": 1,
+  "key": "/works/OL7440021W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL2248574A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 1
+}

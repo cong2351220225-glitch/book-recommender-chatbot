@@ -1,0 +1,64 @@
+{
+  "identifiers": {
+    "librarything": [
+      "885114"
+    ]
+  },
+  "title": "Pauline's Passion and Punishment",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_date": "November 13, 2006",
+  "publishers": [
+    "IndyPublish"
+  ],
+  "weight": "3.4 ounces",
+  "covers": [
+    2846308
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "General & Literary Fiction",
+    "General",
+    "Fiction / General",
+    "Fiction",
+    "Fiction - General"
+  ],
+  "isbn_13": [
+    "9781428043817"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "1428043810"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9 x 6 x 0.1 inches",
+  "source_records": [
+    "amazon:1428043810"
+  ],
+  "key": "/books/OL11884984M",
+  "number_of_pages": 56,
+  "works": [
+    {
+      "key": "/works/OL30029W"
+    }
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T20:50:18.033121"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-04-15T16:43:27.651707"
+  }
+}

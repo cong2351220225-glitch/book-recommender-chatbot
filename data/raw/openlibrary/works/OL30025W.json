@@ -1,0 +1,42 @@
+{
+  "location": "/works/OL17761452W",
+  "key": "/works/OL30025W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "subjects": [
+    "Children's fiction",
+    "Schools, fiction",
+    "Family life, fiction",
+    "New england, fiction",
+    "Boarding schools, fiction",
+    "Orphans, fiction",
+    "March family (fictitious characters), fiction",
+    "Fiction, short stories (single author)",
+    "Children's stories, American",
+    "Schools",
+    "Fiction"
+  ],
+  "covers": [
+    6643286
+  ],
+  "description": "Follows the adventures of Jo March and her husband Professor Bhaer as they try to make their school for boys a happy, comfortable, and stimulating place.",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": "/authors/OL9965322A"
+    }
+  ],
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-05-07T00:36:25.850645"
+  }
+}

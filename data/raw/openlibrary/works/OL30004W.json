@@ -1,0 +1,45 @@
+{
+  "first_publish_date": "1895",
+  "subtitle": "A Second Series of Aunt Jo's Scrap-Bag",
+  "title": "Shawl-straps",
+  "covers": [
+    5700819,
+    6166427,
+    11284729,
+    11046865
+  ],
+  "lc_classifications": [
+    "PS1017 S5"
+  ],
+  "key": "/works/OL30004W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "location": "/works/OL24615379W",
+  "subjects": [
+    "Fiction, short stories (single author)",
+    "Fiction, general",
+    "Children's fiction",
+    "Description and travel"
+  ],
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-04-25T09:24:07.165759"
+  }
+}

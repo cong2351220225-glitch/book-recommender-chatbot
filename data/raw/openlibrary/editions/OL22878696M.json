@@ -1,0 +1,58 @@
+{
+  "publishers": [
+    "Clarendon Press"
+  ],
+  "subtitle": "First published in the year 1732; again in 1736; now republished at the Clarendon press, Oxford, 1790.",
+  "covers": [
+    6034050
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2012-08-04T05:51:06.599179"
+  },
+  "latest_revision": 4,
+  "key": "/books/OL22878696M",
+  "authors": [
+    {
+      "key": "/authors/OL190497A"
+    }
+  ],
+  "ocaid": "disputeadjusteda00gibs",
+  "publish_places": [
+    "[Oxford"
+  ],
+  "pagination": "16 p.",
+  "source_records": [
+    "ia:disputeadjusteda00gibs"
+  ],
+  "title": "The dispute adjusted, about the proper time of applying for a repeal of the Corporation and Test acts: by showing, that no time is proper.",
+  "number_of_pages": 16,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-01-30T02:57:02.912340"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "Great Britain.",
+    "England and Wales.",
+    "Dissenters -- England."
+  ],
+  "publish_date": "1790",
+  "publish_country": "enk",
+  "oclc_numbers": [
+    "14050047"
+  ],
+  "works": [
+    {
+      "key": "/works/OL1684534W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

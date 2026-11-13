@@ -1,0 +1,2486 @@
+{
+  "links": {
+    "self": "/works/OL82563W/editions.json",
+    "work": "/works/OL82563W",
+    "next": "/works/OL82563W/editions.json?offset=50"
+  },
+  "size": 400,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "ہیری پوٹر",
+      "publishers": [
+        "Ummat Group of Publications"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL62514708M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_places": [
+        "Karachi"
+      ],
+      "edition_name": "First edition",
+      "series": [
+        "Harry Potter"
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "number_of_pages": 200,
+      "first_sentence": "مسٹر ڈرسلے اور بیگم ڈرسلے کو اس بات کا خاصا غرور تھا کہ وہ مکمل طور پر نارمل انسان ہیں اور کسی قسم کی خامی یا عیب سے پاک ہیں۔",
+      "covers": [
+        15251294
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Ibn e aas Muhammad"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/urd"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-09-03T16:46:15.836016"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-04T04:15:34.279309"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publishers": [
+        "Raincoast Books"
+      ],
+      "publish_date": "2004/10/4",
+      "key": "/books/OL62439119M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9781551927282"
+      ],
+      "publish_places": [
+        "Canada"
+      ],
+      "physical_format": "Hardcover",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-08-14T15:23:00.624501"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-14T15:29:07.409074"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Pottermore Publishing",
+        "Audible Studios"
+      ],
+      "publish_date": "2025",
+      "key": "/books/OL61716306M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15216547,
+        15216549,
+        -1
+      ],
+      "identifiers": {
+        "amazon": [
+          "B0F14PDX2Z"
+        ]
+      },
+      "edition_name": "Full-Cast Edition",
+      "contributors": [
+        {
+          "role": "Narrator/Reader",
+          "name": "Hugh Laurie"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Matthew MacFadyen"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Riz Ahmed"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Michelle Gomez"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Cush Jumbo"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Frankie Treadaway"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Max Lester"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Arabella Stanton"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Mark Addy"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Indira Varma"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Sacha Dhawan"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Nina Wadia"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Joel Fry"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Adeel Akhtar"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Tracy Ann Oberman"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": "Immerse yourself in the stories like never before; wear headphones for the best experience.\r\n\r\nThe beloved stories as you’ve never experienced them. Get ready to be transported to the world of Harry Potter in a captivating production that features hundreds of unique voices and immersive sound design that brings the wizarding world vividly to life in Dolby Atmos. You’ll hear footsteps echoing through the corridors of Hogwarts and the heart-racing whoosh of the Golden Snitch as it darts past your ears in the heat of a Quidditch match. Also featuring an electrifying new musical score, The Full-Cast Audio Editions present J.K. Rowling’s iconic series as a truly spellbinding listening event for the whole family.\r\n\r\nTurning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H.’\r\n\r\nHarry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!\r\n\r\nHaving become classics of our time, the Harry Potter stories never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new listeners.\r\n\r\nStarring Frankie Treadaway as Harry Potter, Max Lester as Ron Weasley, Arabella Stanton as Hermione Granger, Hugh Laurie as Albus Dumbledore, Riz Ahmed as Professor Snape, Michelle Gomez as Professor McGonagall, Matthew Macfadyen as Lord Voldemort, Cush Jumbo as Narrator, and a full cast.",
+      "notes": "Listening length: 8 hours and 41 minutes.",
+      "physical_format": "Audiobook",
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-04-29T23:34:35.126119"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-29T23:44:17.440994"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter y la piedra filosofal",
+      "publishers": [
+        "Salamandra"
+      ],
+      "publish_date": "2019",
+      "key": "/books/OL61362155M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15172427
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-23T13:51:51.991737"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-14T07:45:20.014823"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter e a Pedra Filosofal",
+      "publishers": [
+        "Rocco"
+      ],
+      "publish_date": "2025-04-30",
+      "key": "/books/OL61281195M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "6555325372"
+        ],
+        "goodreads": [
+          "https://www.goodreads.com/book/show/231288024-harry-potter-e-a-pedra-filosofal"
+        ]
+      },
+      "covers": [
+        15168707
+      ],
+      "isbn_13": [
+        "9786586733501"
+      ],
+      "isbn_10": [
+        "6555325372"
+      ],
+      "physical_dimensions": "21 x 14 x 2.5 centimeters",
+      "weight": "420 grams",
+      "publish_places": [
+        "Brasil"
+      ],
+      "edition_name": "Edição Comemorativa de 25 Anos",
+      "series": [
+        "Harry Potter"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Lia Wyler"
+        },
+        {
+          "role": "Illustrator",
+          "name": "Thomas Taylor"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "hardcover",
+      "number_of_pages": 336,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-10T02:13:01.419182"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-10T02:16:48.670850"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter e a Pedra Filosofal",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "2023-10-02",
+      "key": "/books/OL61274876M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "1781103232"
+        ],
+        "goodreads": [
+          "https://www.goodreads.com/book/show/63118549-harry-potter-e-a-pedra-filosofal"
+        ]
+      },
+      "covers": [
+        15168421
+      ],
+      "isbn_13": [
+        "9781781103234"
+      ],
+      "isbn_10": [
+        "1781103232"
+      ],
+      "publish_places": [
+        "Brasil"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Lia Wyler"
+        },
+        {
+          "role": "Narrator/Reader",
+          "name": "Ícaro Silva"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "audiobook",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T05:29:27.363026"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T05:32:35.855340"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter e a Pedra Filosofal",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "2015-12-08",
+      "key": "/books/OL61274798M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15168420
+      ],
+      "isbn_13": [
+        "9781781103685"
+      ],
+      "publish_places": [
+        "Brasil"
+      ],
+      "series": [
+        "Harry Potter"
+      ],
+      "physical_format": "eBook Kindle",
+      "number_of_pages": 190,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T05:19:27.288270"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-09T05:23:26.811588"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter ve felsefe taşı",
+      "publishers": [
+        "YKY"
+      ],
+      "publish_date": "2002",
+      "key": "/books/OL61162613M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "9750802942"
+      ],
+      "ocaid": "harrypottervefel0000rowl",
+      "languages": [
+        {
+          "key": "/languages/tur"
+        }
+      ],
+      "covers": [
+        15163706
+      ],
+      "oclc_numbers": [
+        "48734040"
+      ],
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_032.bib.mrc:62897704:2471"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Wizards and Witches."
+      },
+      "number_of_pages": 351,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-22T13:34:27.832206"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-13T11:53:10.265448"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:S0-CEI-493"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2025-03-31:S0-CEI-493"
+      ],
+      "title": "Harry Potter og De vises stein",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL60413146M",
+      "identifiers": {},
+      "isbn_10": [
+        "8204086601"
+      ],
+      "isbn_13": [
+        "9788204086600"
+      ],
+      "ocaid": "isbn_9788204086600",
+      "publishers": [
+        "Cappelen Damm"
+      ],
+      "publish_date": "2011",
+      "languages": [
+        {
+          "key": "/languages/nor"
+        }
+      ],
+      "covers": [
+        15160588
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-04T23:20:04.990918"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_10": [
+        "8983925329"
+      ],
+      "isbn_13": [
+        "9788983925329"
+      ],
+      "local_id": [
+        "urn:bwbsku:W9-DHY-878"
+      ],
+      "publish_date": "2014-12-18",
+      "publishers": [
+        "Mun-hag Sucheob Publishing Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-11-05:W9-DHY-878"
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "full_title": "Harry Potter and the Sorcerer's Stone",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL60375367M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-03T20:06:24.193678"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:47:31.050115"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_10": [
+        "0807281182"
+      ],
+      "isbn_13": [
+        "9780807281185"
+      ],
+      "local_id": [
+        "urn:bwbsku:S0-AJY-460"
+      ],
+      "publish_date": "1999",
+      "publishers": [
+        "Random House"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-11-25:S0-AJY-460"
+      ],
+      "title": "Harry Potter and the Sorcerers Stone",
+      "full_title": "Harry Potter and the Sorcerers Stone",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL60346015M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-02T18:11:27.985254"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:47:59.934443"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00OHX65I2"
+        ],
+        "better_world_books": [
+          " "
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:Y0-CAG-195"
+      ],
+      "publish_date": "1999",
+      "publishers": [
+        "Scholastic Paperbacks,1999."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-12-10:Y0-CAG-195"
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potters) by Rowling, J.K. (1999) Paperback",
+      "full_title": "Harry Potter and the Sorcerer's Stone (Harry Potters) by Rowling, J.K. (1999) Paperback",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL60331364M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-02T00:10:39.067351"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:47:59.934443"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2020",
+      "publish_country": "sw",
+      "languages": [
+        {
+          "key": "/languages/yid"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the Philosopher's Stone"
+      ],
+      "title": "Harry Potter un der filosofisher shteyn",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL15582001A"
+        }
+      ],
+      "oclc_numbers": [
+        "1141791239"
+      ],
+      "subject_people": [
+        "Harry Potter (Fictitious character)"
+      ],
+      "subjects": [
+        "Wizards",
+        "Juvenile fiction"
+      ],
+      "publishers": [
+        "Olniansky Tekst"
+      ],
+      "publish_places": [
+        "Lund, Sweden"
+      ],
+      "pagination": "396 pages",
+      "number_of_pages": 396,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/20220215_005.bib.mrc:333812715:1760"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL59391421M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-06-25T16:29:29.800559"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T17:47:31.050115"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2014-09-01",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 332,
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "source_records": [
+        "ia:rbanms.24646.harrypotterphilo000jkro_e4c6"
+      ],
+      "full_title": "Harry Potter And The Philosopher's Stone 1",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL59004869M",
+      "identifiers": {
+        "storygraph": [
+          "9385ef1b-abff-4408-8ea0-b7da4967c280"
+        ],
+        "amazon": [
+          "1408855658"
+        ],
+        "goodreads": [
+          "22841994"
+        ]
+      },
+      "covers": [
+        15159585
+      ],
+      "series": [
+        "Harry Potter, 1"
+      ],
+      "physical_format": "Paperback",
+      "ocaid": "rbanms.24646.harrypotterphilo000jkro_e4c6",
+      "isbn_10": [
+        "1408855658"
+      ],
+      "isbn_13": [
+        "9781408855652"
+      ],
+      "oclc_numbers": [
+        "1608435439"
+      ],
+      "dewey_decimal_class": [
+        "823.92"
+      ],
+      "lc_classifications": [
+        "PJ5124"
+      ],
+      "publish_places": [
+        "London, England, UK"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-05-10T23:19:26.677527"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-18T18:56:19.932143"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "1998",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 326,
+      "source_records": [
+        "ia:bwb_W9-DHS-647"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL58730299M",
+      "identifiers": {},
+      "publishers": [
+        "Arthur A. Levine Books"
+      ],
+      "covers": [
+        15235364,
+        15160019
+      ],
+      "ocaid": "bwb_W9-DHS-647",
+      "isbn_10": [
+        "0590353403"
+      ],
+      "series": [
+        "Harry Potter: Book One"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-28T03:45:54.468131"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-07-03T15:38:45.574448"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2009",
+      "publish_country": "np",
+      "languages": [
+        {
+          "key": "/languages/nep"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the philosopher's stone"
+      ],
+      "title": "Hyārī Poṭara ra pārasamaṇi",
+      "subtitle": "Harry Potter and the philosopher's stone",
+      "by_statement": "[Je. Ke. Roliṅ ; anuvāda, Śleshā Thapaliyā ra Vijaya Adhikārī ; sampādana, Kedāra Śarmā, Vijaya Adhikārī ra Aditi Adhikārī",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "oclc_numbers": [
+        "741926926"
+      ],
+      "lc_classifications": [
+        "PR6068.O93 .H37 2009"
+      ],
+      "dewey_decimal_class": [
+        "823.914"
+      ],
+      "other_titles": [
+        "Harry Potter and the philosopher's stone"
+      ],
+      "edition_name": "Prakāśita Nepālī saṃskaraṇa.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Novel.\n\nTranslated from English.\n\nIn Nepali."
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Novel based on the adventurous life of Harry Potter, a fictitious character."
+      },
+      "contributions": [
+        "Thapaliyā, Śleshā",
+        "Adhikārī, Vijaya",
+        "Śarmā, Kedāra",
+        "Adhikārī, Aditi"
+      ],
+      "subjects": [
+        "Harry Potter (Fictitious character)",
+        "Juvenile fiction"
+      ],
+      "publishers": [
+        "Sanabarḍa Pablisiṅa Hāusa"
+      ],
+      "publish_places": [
+        "Kāṭhamāḍauṃ"
+      ],
+      "isbn_10": [
+        "9937813700"
+      ],
+      "isbn_13": [
+        "9789937813709"
+      ],
+      "pagination": "245 p.",
+      "number_of_pages": 245,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.12.20150123.full.mrc:832969627:1395",
+        "marc:harvard_bibliographic_metadata/20220215_017.bib.mrc:200293746:2171"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL53497028M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-27T11:17:45.055617"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115574"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 246,
+      "publish_date": "2015",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115574"
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone (il. Ed. )",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Sorcerer's Stone (il. Ed. )",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL53345945M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T23:34:19.713031"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        },
+        {
+          "key": "/authors/OL2703953A"
+        }
+      ],
+      "isbn_13": [
+        "9781546148500"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 320,
+      "publish_date": "2024",
+      "publishers": [
+        "Scholastic, Incorporated"
+      ],
+      "source_records": [
+        "bwb:9781546148500"
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone (Stenciled Edges) (Harry Potter, Book 1)",
+      "full_title": "Harry Potter and the Sorcerer's Stone (Stenciled Edges) (Harry Potter, Book 1)",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL53326469M",
+      "covers": [
+        14744999
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T21:41:41.062917"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "title": "Harry Potter und der Stein der Weisen",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2013",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-205"
+      ],
+      "publishers": [
+        "Carlsen"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-205",
+        "ia:harrypotter01har0000joan"
+      ],
+      "key": "/books/OL47682314M",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "covers": [
+        15157474
+      ],
+      "number_of_pages": 338,
+      "identifiers": {},
+      "ocaid": "harrypotter01har0000joan",
+      "isbn_10": [
+        "3551313113"
+      ],
+      "isbn_13": [
+        "9783551313119"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:34.309610"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-215"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-215"
+      ],
+      "title": "Harry Potter och de vises sten",
+      "full_title": "Harry Potter Och De Vises Sten",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL47682303M",
+      "identifiers": {},
+      "publishers": [
+        "Rabén & Sjögren"
+      ],
+      "publish_date": "2015",
+      "languages": [
+        {
+          "key": "/languages/swe"
+        }
+      ],
+      "covers": [
+        15157544
+      ],
+      "ocaid": "harrypotterochde0000unse",
+      "isbn_10": [
+        "9129675359"
+      ],
+      "isbn_13": [
+        "9789129675351"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:31.928646"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-BSR-213"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-04-27:W8-BSR-213",
+        "amazon:9934112248"
+      ],
+      "title": "Harijs Poters un Filozofu akmens",
+      "full_title": "Harijs Poters un Filozofu akmens (Harry Potter and the Philosopher's Stone Latvian Translation)",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL47682279M",
+      "covers": [
+        15157560
+      ],
+      "languages": [
+        {
+          "key": "/languages/lav"
+        }
+      ],
+      "number_of_pages": 300,
+      "publishers": [
+        "Jumava"
+      ],
+      "publish_date": "2012",
+      "identifiers": {},
+      "isbn_10": [
+        "9934112248"
+      ],
+      "isbn_13": [
+        "9789934112249"
+      ],
+      "ocaid": "harijspotersunfi0000unse",
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-05-03T17:47:28.362573"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "identifiers": {
+        "amazon": [
+          "B0087TJ5FW"
+        ]
+      },
+      "title": "哈利. 波特与魔法石",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "2005",
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "cc",
+      "languages": [
+        {
+          "key": "/languages/chi"
+        }
+      ],
+      "other_titles": [
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the chamber of secrets",
+        "Harry Potter and the prisoner of Azkaban",
+        "Harry Potter and the goblet of fire",
+        "Harry Potter and the order of the phoenix",
+        "Harry Potter and the half-blood prince",
+        "Hali Bote yu mo fa shi",
+        "Hali Bote yu mi shi",
+        "Hali Bote yu Azikaban de qiu tu",
+        "Hali Bote yu huo yan bei",
+        "Hali Bote yu feng huang she",
+        "Hali Bote yu hun xie wang zi"
+      ],
+      "edition_name": "Di 1 ban",
+      "contributions": [
+        "Ma, Aixin"
+      ],
+      "subjects": [
+        "Magic",
+        "Juvenile fiction",
+        "English fiction",
+        "Translations into Chinese"
+      ],
+      "by_statement": "(Ying)J.K. Luolin zhu ; Ma Aixin deng yi",
+      "publishers": [
+        "Ren min wen xue chu ban she"
+      ],
+      "publish_places": [
+        "Beijing"
+      ],
+      "source_records": [
+        "ia:halibote0000rowl",
+        "promise:bwb_daily_pallets_2022-05-25"
+      ],
+      "full_title": "Hali Bote",
+      "covers": [
+        15212346,
+        15177757,
+        12870284
+      ],
+      "local_id": [
+        "urn:bwbsku:W7-BGO-630"
+      ],
+      "key": "/books/OL39471692M",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "ocaid": "halibote0000rowl",
+      "isbn_10": [
+        "7020052932"
+      ],
+      "isbn_13": [
+        "9787020052936"
+      ],
+      "oclc_numbers": [
+        "70789299"
+      ],
+      "dewey_decimal_class": [
+        "823"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-23T04:46:35.547616"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-18T16:15:20.912674"
+      }
+    },
+    {
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "title": "Harry Potter i kamień filozoficzny",
+      "series": [
+        "Harry Potter, Part I"
+      ],
+      "covers": [
+        8477955
+      ],
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "isbn_10": [
+        "8372780005"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL26818282M",
+      "publish_places": [
+        "Poznań"
+      ],
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W9-BAS-015"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-30:W9-BAS-015"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-03-28T13:07:51.380125"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Harry Potter i kamień filozoficzny",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "publish_date": "Apr 13, 2020",
+      "source_records": [
+        "amazon:8380087593"
+      ],
+      "number_of_pages": 352,
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "isbn_10": [
+        "8380087593"
+      ],
+      "isbn_13": [
+        "9788380087590"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Harry Potter i kamień filozoficzny (Gryffindor)"
+      },
+      "full_title": "Harry Potter i kamień filozoficzny",
+      "covers": [
+        13952106
+      ],
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL47359726M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T23:47:18.949139"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter i Kamień Filozoficzny",
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "publish_date": "2023",
+      "key": "/books/OL49371344M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788382655636"
+      ],
+      "classifications": {},
+      "covers": [
+        14420592
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-09-11T09:10:57.915899"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter i kamień filozoficzny",
+      "publishers": [
+        "Media Rodzina"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61068165M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "8372780005"
+      ],
+      "ocaid": "harrypotterikami0000unse",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15159968
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-09T16:11:13.380619"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:58:04.583949"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter und der Stein der Weisen",
+      "publishers": [
+        "Carlsen"
+      ],
+      "publish_date": "2018",
+      "key": "/books/OL61090737M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9783551317254"
+      ],
+      "ocaid": "isbn_9783551317254",
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "covers": [
+        15160730
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:28:40.043731"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T15:29:02.100703"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter a kámen mudrců",
+      "publishers": [
+        "Albatros"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61088926M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9788000007885"
+      ],
+      "ocaid": "isbn_9788000007885",
+      "languages": [
+        {
+          "key": "/languages/cze"
+        }
+      ],
+      "covers": [
+        15160587
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T09:17:30.132352"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T09:17:59.597678"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Scholastic Inc."
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61088892M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15160586
+      ],
+      "ocaid": "isbn_6780180353427",
+      "isbn_10": [
+        "059035342X"
+      ],
+      "physical_format": "paperback",
+      "number_of_pages": 309,
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-12T09:13:48.654389"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-12T05:03:19.179982"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter büyülü taş",
+      "publishers": [
+        "D"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61057835M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_13": [
+        "9757501956008"
+      ],
+      "ocaid": "isbn_9757501956008",
+      "languages": [
+        {
+          "key": "/languages/tur"
+        }
+      ],
+      "covers": [
+        15158675
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T15:22:55.586309"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-06T15:36:06.625175"
+      }
+    },
+    {
+      "publishers": [
+        "Carlsen"
+      ],
+      "weight": "4.4 pounds",
+      "covers": [
+        15158575
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9064566M",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "subjects": [
+        "Fairy tales, folk tales, fables, magical tales & traditional stories",
+        "Children: Grades 2-3"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "title": "Harry Potter und der Stein der Weisen",
+      "identifiers": {
+        "librarything": [
+          "865245"
+        ],
+        "goodreads": [
+          "1210870"
+        ],
+        "bookbrainz": [
+          "47864406-5428-4aeb-b5f0-23954565aa63"
+        ]
+      },
+      "publish_date": "2002",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.1 x 5.1 inches",
+      "local_id": [
+        "urn:bwbsku:P9-ADU-262"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-11-17:P9-ADU-262"
+      ],
+      "copyright_date": "1998; 1999, 2002",
+      "series": [
+        "Buch 1 aus \"Harryz Zauberbox\""
+      ],
+      "ocaid": "harryzzauberboxb0000jkro",
+      "isbn_10": [
+        "3551553009"
+      ],
+      "isbn_13": [
+        "9783551553003"
+      ],
+      "edition_name": "Limitierte Sonderausgabe",
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-30T14:05:56.627370"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Midwest Tape"
+      ],
+      "publish_date": "2008",
+      "key": "/books/OL61041706M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156818
+      ],
+      "isbn_13": [
+        "9780807281956"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T16:51:39.555287"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T16:51:59.737504"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61041705M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156816
+      ],
+      "isbn_10": [
+        "0807281956"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T16:46:10.137111"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T16:46:26.346193"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041678M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156773
+      ],
+      "isbn_13": [
+        "9781524721251"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T13:01:34.704649"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T13:01:53.646993"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "2000",
+      "key": "/books/OL61041672M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156766
+      ],
+      "isbn_13": [
+        "9780807286005"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:44:39.658870"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:45:13.786940"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041671M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15156764
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:42:00.676637"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:42:22.392707"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61041669M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        15156761
+      ],
+      "isbn_13": [
+        "9780807281956"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:35:27.931420"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-01T12:35:51.002016"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "publishers": [
+        "Listening Library"
+      ],
+      "publish_date": "1999",
+      "key": "/books/OL61038029M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        15156301
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:18:36.620426"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T10:19:06.599034"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter a l'ecole des sorciers",
+      "publishers": [
+        "Gallimard Jeuness"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL61027605M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15155844
+      ],
+      "ocaid": "harrypottertome10000jkro",
+      "isbn_13": [
+        "9782070584628"
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:38:37.785882"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-09-10T01:44:53.018450"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter y la piedra filosofal",
+      "publishers": [
+        "Letras de Bolsillo"
+      ],
+      "publish_date": "2018",
+      "key": "/books/OL61027604M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "8498384389"
+      ],
+      "ocaid": "harrypotterylapi0000unse",
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "covers": [
+        15155841
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:33:03.863887"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:34:44.585846"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "1997",
+      "key": "/books/OL61027603M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0747532745"
+      ],
+      "ocaid": "snj.harrypotterphilo0000jkro_t6f3",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15155835
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:21:54.509282"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:23:32.134707"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "1997",
+      "key": "/books/OL61027602M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0747532745"
+      ],
+      "ocaid": "snj.harrypotterphilo0001jkro",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15155834
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:19:53.368992"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:20:59.092540"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter and the Philosopher's Stone",
+      "publishers": [
+        "Bloomsbury"
+      ],
+      "publish_date": "1997",
+      "key": "/books/OL61027601M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "0747532745"
+      ],
+      "ocaid": "snj.harrypotterphilo0000jkro_s9g6",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        15155833
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:18:28.840297"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-29T13:19:06.799643"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter y la piedra filosofal",
+      "publishers": [
+        "Pottermore Publishing"
+      ],
+      "publish_date": "08/08/2015",
+      "key": "/books/OL59922337M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "publish_places": [
+        "España"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Alicia Dellepian"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "Harry Potter and the Philosopher's Stone",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "eBook",
+      "number_of_pages": 278,
+      "covers": [
+        15116676
+      ],
+      "isbn_13": [
+        "9781781101315"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T08:58:22.433948"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-08-25T09:10:06.642407"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2003",
+      "publish_country": "xr",
+      "languages": [
+        {
+          "key": "/languages/cze"
+        }
+      ],
+      "work_titles": [
+        "Harry Potter and the philosopher's stone"
+      ],
+      "title": "Harry Potter a Kámen mudrců",
+      "by_statement": "Joanne K. Rowlingová ; [přeložil Vladimír Medek ; ilustrovala Mary GrandPré]",
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "oclc_numbers": [
+        "234351546"
+      ],
+      "edition_name": "5. vyd. (1. v této úpravě)",
+      "contributions": [
+        "Medek, Vladimír",
+        "GrandPré, Mary"
+      ],
+      "publishers": [
+        "Albatros"
+      ],
+      "publish_places": [
+        "Praha"
+      ],
+      "isbn_10": [
+        "8000011085"
+      ],
+      "pagination": "282 p.",
+      "number_of_pages": 282,
+      "source_records": [
+        "marc:harvard_bibliographic_metadata/ab.bib.09.20150123.full.mrc:356226407:655",
+        "marc:harvard_bibliographic_metadata/20220215_038.bib.mrc:83673797:1204"
+      ],
+      "full_title": "Harry Potter a Kámen mudrců",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL56375531M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-03T02:26:42.101818"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-05-01T12:07:15.886468"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "isbn_13": [
+        "9798855115550"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 309,
+      "publish_date": "1998",
+      "publishers": [
+        "Bound to Stay Bound Books"
+      ],
+      "source_records": [
+        "bwb:9798855115550"
+      ],
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "weight": "0.455",
+      "full_title": "Harry Potter and the Sorcerer's Stone",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL53332934M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T22:20:03.857224"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:41:32.421417"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:W9-BQG-366"
+      ],
+      "publish_date": "2011-04-21",
+      "publishers": [
+        "French and European Publishing, Inc."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2024-07-11:W9-BQG-366",
+        "amazon:8862561687"
+      ],
+      "title": "Harry Potter e la pietra filosofale",
+      "full_title": "Harry Potter e la pietra filosofale (Italian Edition)",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL52369838M",
+      "covers": [
+        15091534
+      ],
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "number_of_pages": 302,
+      "identifiers": {},
+      "isbn_10": [
+        "8862561687"
+      ],
+      "isbn_13": [
+        "9788862561686"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-07-13T01:25:27.421567"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T17:34:48.174472"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9798890981882"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "288",
+      "publish_date": "2024",
+      "publishers": [
+        "Publicaciones y Ediciones Salamandra, S.A."
+      ],
+      "source_records": [
+        "bwb:9798890981882"
+      ],
+      "title": "Harry Potter y la Piedra Filosofal / Harry Potter and the Sorcerer's Stone",
+      "weight": "0.369",
+      "full_title": "Harry Potter y la Piedra Filosofal / Harry Potter and the Sorcerer's Stone",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL52227733M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-06-21T21:40:52.987360"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T13:24:53.254633"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL23919A"
+        }
+      ],
+      "isbn_13": [
+        "9781536489378"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "number_of_pages": 288,
+      "publish_date": "2024",
+      "publishers": [
+        "Publicaciones y Ediciones Salamandra, S.A."
+      ],
+      "source_records": [
+        "bwb:9781536489378"
+      ],
+      "title": "Harry Potter y la Piedra Filosofal (Harry Potter and the Sorcerer's Stone)",
+      "full_title": "Harry Potter y la Piedra Filosofal (Harry Potter and the Sorcerer's Stone)",
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "key": "/books/OL53327594M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-08-17T21:48:08.557818"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-06-03T13:24:53.254633"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL82563W"
+        }
+      ],
+      "title": "Harry Potter y la piedra filosofal ( Harry Potter 1 )",
+      "publishers": [
+        "Salamandra",
+        "Salamandra Bolsillo"
+      ],
+      "publish_date": "08/12/2020",
+      "key": "/books/OL50528577M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9786073800280"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-01-04T12:27:55.771076"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-14T07:50:19.141630"
+      }
+    }
+  ]
+}

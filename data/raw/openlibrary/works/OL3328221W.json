@@ -1,0 +1,30 @@
+{
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T08:31:58.667237"
+  },
+  "title": "The 2007 Import and Export Market for Dried Mushrooms and Truffles in United States",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-10T03:18:24.115622"
+  },
+  "covers": [
+    2465680
+  ],
+  "first_publish_date": "October 24, 2006",
+  "latest_revision": 3,
+  "key": "/works/OL3328221W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL539875A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 38504655,
+  "revision": 3
+}

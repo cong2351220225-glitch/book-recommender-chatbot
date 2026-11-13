@@ -1,0 +1,90 @@
+{
+  "id": "c022ee2d-baaf-46df-8e06-750cb8549009",
+  "title": "Tìm nhà sách ở Đà Nẵng",
+  "timestamp": "2026-11-03 04:24:55",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tìm nhà sách ở Đà Nẵng",
+      "timestamp": "04:24"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **3** nhà sách gần khu vực **Đà Nẵng** dành cho bạn:",
+      "timestamp": "04:24",
+      "sources": [],
+      "locations": [
+        {
+          "title": "Nhà Sách FAHASA Đà Nẵng",
+          "name": "Nhà Sách FAHASA Đà Nẵng",
+          "address": "300 Lê Duẩn, Thanh Khê, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.4,
+          "reviews": 2679,
+          "type": "Hiệu sách",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+          "hours": "Đã đóng cửa · Mở cửa lúc 8:00",
+          "phone": "+84 236 3647 707",
+          "website": "http://fahasasg.com.vn/",
+          "description": "",
+          "latitude": 16.0696862,
+          "longitude": 108.21040889999999,
+          "place_id": "ChIJVQoJz0sYQjERz40FhQkJR9w",
+          "data_id": "0x3142184bcf090a55:0xdc47090985058dcf",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgEmPayb7E2mM9TUQKGxhwhUZMX_OzozLKq4NzvKhYobaiprCoDxaYyDff0aePztVY9G3kTWxwf7UD6yaRngEEg8IBaRsFTFuTj99R9gN0HOXBFSdoLJp_9Fwm4kbsbujBFFn0wg=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        },
+        {
+          "title": "Nhà Sách Đà Nẵng",
+          "name": "Nhà Sách Đà Nẵng",
+          "address": "78 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.1,
+          "reviews": 926,
+          "type": "Hiệu sách",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đã đóng cửa · Mở cửa lúc 8:00",
+          "hours": "Đã đóng cửa · Mở cửa lúc 8:00",
+          "phone": "+84 236 3849 707",
+          "website": "http://www.danangbook.com/",
+          "description": "Hiệu sách nhà nước bán sách giáo khoa. Hiệu sách nhà nước chuyên cung cấp các đầu sách cho giáo viên và học sinh cùng một số đồ dùng học tập.",
+          "latitude": 16.0695244,
+          "longitude": 108.2248224,
+          "place_id": "ChIJa-zOEzIYQjERSB3fZBeziVQ",
+          "data_id": "0x3142183213ceec6b:0x5489b31764df1d48",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcG3ZdpXk5aenfdmcZ59RHRqLHmX4SwxoKD9hSrzyQuZ6aQM6IIeVvJWv9OS34Dd3A_jjbDNpz_mnBDjXuzJ0FidVdnR2iexHchbmv_FzyK9gaZ1V9499D85VZmQHmNENp1hL-aqg=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        },
+        {
+          "title": "Nhà sách Phương Nam",
+          "name": "Nhà sách Phương Nam",
+          "address": "153 Phan Châu Trinh, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.4,
+          "reviews": 798,
+          "type": "Hiệu sách",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đã đóng cửa · Mở cửa lúc 7:00",
+          "hours": "Đã đóng cửa · Mở cửa lúc 7:00",
+          "phone": "+84 906 414 566",
+          "website": "https://nhasachphuongnam.com/",
+          "description": "",
+          "latitude": 16.0645,
+          "longitude": 108.220079,
+          "place_id": "ChIJybANfzMYQjERAaIvEG6ktAs",
+          "data_id": "0x314218337f0db0c9:0xbb4a46e102fa201",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfvo0a6NbFCB5V4Nq13ahNl27zHDU7XjLN9sog1ZOuJpl_kGa23jsfBzAIkP3RLa0E3ZppC-_mdY-tGCXEB3LhMOslIdRAgCRpyJ4B5fLRZz7Ejtk2A-jHqxPnoD8XkC1Y0Hi0K=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "intent": "location_bookstore"
+    }
+  ]
+}

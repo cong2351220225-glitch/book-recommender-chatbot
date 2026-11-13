@@ -1,0 +1,160 @@
+{
+  "key": "/authors/OL24137A",
+  "title": "eran morenos y de ojos dorados",
+  "personal_name": "Ray Bradbury",
+  "source_records": [
+    "amazon:1491536241",
+    "amazon:1501179497",
+    "amazon:1532822901",
+    "amazon:8445006770",
+    "amazon:6073107374",
+    "bwb:9781349208241",
+    "amazon:0985055006",
+    "amazon:208120827X",
+    "amazon:9584289098",
+    "bwb:9781515444909",
+    "amazon:9870412726",
+    "amazon:1515449815",
+    "bwb:9780007539871",
+    "amazon:3453319834",
+    "amazon:0895989662",
+    "amazon:1470820269",
+    "bwb:9781411474673",
+    "amazon:1881475468",
+    "bwb:9781683967392",
+    "promise:bwb_daily_pallets_2022-03-17",
+    "promise:bwb_daily_pallets_2021-09-14",
+    "promise:bwb_daily_pallets_2021-03-03",
+    "promise:bwb_daily_pallets_2021-02-15",
+    "promise:bwb_daily_pallets_2020-04-30",
+    "promise:bwb_daily_pallets_2022-06-06",
+    "promise:bwb_daily_pallets_2021-02-17",
+    "promise:bwb_daily_pallets_2020-12-04",
+    "amazon:8445074253",
+    "amazon:2290321214",
+    "promise:bwb_daily_pallets_2023-01-13:O8-CPU-613",
+    "amazon:2070441253",
+    "amazon:1596061367",
+    "promise:bwb_daily_pallets_2023-02-27:KS-201-748",
+    "promise:bwb_daily_pallets_2023-02-27:KS-201-746",
+    "amazon:1415916195",
+    "ia:huashi4510000unse",
+    "promise:bwb_daily_pallets_2023-08-24:W8-BUG-050",
+    "promise:bwb_daily_pallets_2023-09-26:O9-BYV-188",
+    "promise:bwb_daily_pallets_2024-05-02:P9-CMQ-675",
+    "promise:bwb_daily_pallets_2024-05-16:P9-CEH-851",
+    "bwb:9781649742162",
+    "amazon:8418067942",
+    "ia:bwb_P9-ATX-644",
+    "ia:bwb_S0-AWJ-209",
+    "ia:bwb_S0-AXR-180"
+  ],
+  "links": [
+    {
+      "title": "Official Website",
+      "url": "https://raybradbury.com",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Fantastic Fiction Author Entry",
+      "url": "https://www.fantasticfiction.com/b/ray-bradbury/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "ISFDB Author Entry",
+      "url": "https://www.isfdb.org/cgi-bin/ea.cgi?194",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "SFE Author Entry",
+      "url": "https://sf-encyclopedia.com/entry/bradbury_ray",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "Ray Bradbury (Vita and Books)",
+      "url": "https://love-books-review.com/reviews-by-author/ray-bradbury/",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "bio": "Ray Bradbury is one of those rare individuals whose writing has changed the way people think. His more than five hundred published works -- short stories, novels, plays, screenplays, television scripts, and verse -- exemplify the American imagination at its most creative. \r\n\r\nOnce read, his words are never forgotten. His best-known and most beloved books, *The Martian Chronicles*, *The Illustrated Man*, *Fahrenheit 451* and *Something Wicked This Way Comes*, are masterworks that readers carry with them over a lifetime. His timeless, constant appeal to audiences young and old has proven him to be one of the truly classic authors of the 20th Century -- and the 21st. \r\n\r\nIn recognition of his stature in the world of literature and the impact he has had on so many for so many years, Bradbury was awarded the National Book Foundation's 2000 Medal for Distinguished Contribution to American Letters, an the National Medal of Arts in 2004. \r\n\r\n([Source][1])\r\n\r\n\r\n  [1]: http://www.raybradbury.com/about.html",
+  "name": "Ray Bradbury",
+  "alternate_names": [
+    "'Hollerbochen'",
+    "'Oz' Bradbury",
+    "Archibald Bradbury",
+    "Brett Sterling",
+    "Brian Eldred",
+    "Bu lei de bo li",
+    "Doug Rogers",
+    "Dr. Acula's Daw",
+    "Guy Amory",
+    "Herald Hershey",
+    "Howe",
+    "Kno Knuth Ing",
+    "R. Bredberi",
+    "Ray Bradberry",
+    "Ray D Bradbury",
+    "Ray D. Bradbury",
+    "Rei Bredberi",
+    "Rej Bredberi",
+    "Ron Reynolds",
+    "R．ブラッドベリ",
+    "Р. Бредбери",
+    "Рей Бредбері",
+    "Рей Бредбъри",
+    "Рэй Брэдбери",
+    "レイ・ブラッドベリ",
+    "レイ・ブラッドベリー",
+    "雷·布拉德伯里"
+  ],
+  "death_date": "5 June 2012",
+  "remote_ids": {
+    "librarything": "bradburyray",
+    "wikidata": "Q40640",
+    "viaf": "12305881",
+    "isni": "0000000120955961",
+    "lc_naf": "n79139258",
+    "bookbrainz": "61646c5b-62ee-4240-b81c-a5e4e00e30b8",
+    "goodreads": "1630",
+    "imdb": "nm0001969",
+    "musicbrainz": "6b9750c5-04c3-45b4-aef2-55b8c957a923",
+    "project_gutenberg": "41269",
+    "librivox": "9830",
+    "inventaire": "wd:Q40640",
+    "storygraph": "f531a431-000f-46e4-8374-4be9bda89cf6",
+    "amazon": "B000AQ1HW4",
+    "opac_sbn": "CFIV007830"
+  },
+  "birth_date": "22 August 1920",
+  "type": {
+    "key": "/type/author"
+  },
+  "photos": [
+    14853852,
+    14853851,
+    14853850,
+    14853849,
+    14853848,
+    7879536
+  ],
+  "latest_revision": 67,
+  "revision": 67,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-14T11:25:56.321018"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "works": [
+    {
+      "key": "/works/OL103123W"
+    }
+  ],
+  "title": "Fahrenheit 451",
+  "publishers": [
+    "FollettBound"
+  ],
+  "publish_date": "/1993",
+  "key": "/books/OL49829462M",
+  "type": {
+    "key": "/type/edition"
+  },
+  "identifiers": {},
+  "ocaid": "isbn_9780329046491",
+  "isbn_13": [
+    "9780329046491"
+  ],
+  "classifications": {},
+  "copyright_date": "1982",
+  "number_of_pages": 190,
+  "pagination": "190p.",
+  "edition_name": "1991 Second printing (45)",
+  "physical_format": "library binding",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "latest_revision": 2,
+  "revision": 2,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2023-11-05T10:58:07.917140"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-11-05T11:00:26.013971"
+  }
+}

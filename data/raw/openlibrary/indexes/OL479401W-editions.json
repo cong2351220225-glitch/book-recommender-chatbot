@@ -1,0 +1,101 @@
+{
+  "links": {
+    "self": "/works/OL479401W/editions.json",
+    "work": "/works/OL479401W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Heinemann Library"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "3765624"
+        ],
+        "librarything": [
+          "8667817"
+        ]
+      },
+      "description": {
+        "type": "/type/text",
+        "value": "Examines the world's mountains, discussing how they were formed, what organisms live there, and how they are used by humans."
+      },
+      "isbn_10": [
+        "1575725258"
+      ],
+      "series": [
+        "Mapping earthforms"
+      ],
+      "pagination": "32 p. :",
+      "covers": [
+        1929492
+      ],
+      "lc_classifications": [
+        "GB512 .C53 2000",
+        "GB512.C53 2000"
+      ],
+      "key": "/books/OL47035M",
+      "authors": [
+        {
+          "key": "/authors/OL30027A"
+        }
+      ],
+      "publish_places": [
+        "Chicago, Ill"
+      ],
+      "genres": [
+        "Juvenile literature."
+      ],
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:13703467:866",
+        "bwb:9781575725253"
+      ],
+      "title": "Mountains",
+      "dewey_decimal_class": [
+        "508.3143"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 31) and index."
+      },
+      "number_of_pages": 32,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "99046852"
+      ],
+      "subjects": [
+        "Mountains -- Juvenile literature.",
+        "Mountains."
+      ],
+      "publish_date": "2000",
+      "publish_country": "ilu",
+      "by_statement": "Catherine Chambers.",
+      "oclc_numbers": [
+        "42437103"
+      ],
+      "works": [
+        {
+          "key": "/works/OL479401W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-18T22:37:57.235651"
+      }
+    }
+  ]
+}

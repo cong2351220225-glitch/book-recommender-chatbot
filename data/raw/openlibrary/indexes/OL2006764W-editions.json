@@ -1,0 +1,78 @@
+{
+  "links": {
+    "self": "/works/OL2006764W/editions.json",
+    "work": "/works/OL2006764W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Phi Delta Kappa Educational Foundation"
+      ],
+      "weight": "0.8 ounces",
+      "series": [
+        "Fastback Series No. 317"
+      ],
+      "covers": [
+        10246272
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-07-10T05:43:42.292334"
+      },
+      "latest_revision": 7,
+      "key": "/books/OL11117393M",
+      "authors": [
+        {
+          "key": "/authors/OL241741A"
+        }
+      ],
+      "ocaid": "studentslaw0000ross",
+      "subjects": [
+        "General",
+        "Education / Teaching",
+        "Reference"
+      ],
+      "isbn_13": [
+        "9780873673174"
+      ],
+      "classifications": {},
+      "source_records": [
+        "ia:studentslaw0000ross"
+      ],
+      "title": "Students and the Law",
+      "identifiers": {
+        "goodreads": [
+          "4430168"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0873673174"
+      ],
+      "publish_date": "April 1991",
+      "oclc_numbers": [
+        "23664142"
+      ],
+      "works": [
+        {
+          "key": "/works/OL2006764W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7 x 5.2 x 0.2 inches",
+      "revision": 7
+    }
+  ]
+}

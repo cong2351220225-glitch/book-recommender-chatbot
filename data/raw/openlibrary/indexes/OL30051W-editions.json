@@ -1,0 +1,2654 @@
+{
+  "links": {
+    "self": "/works/OL30051W/editions.json",
+    "work": "/works/OL30051W"
+  },
+  "size": 50,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798631561618"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "66",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798631561618"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.150",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL48393590M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T19:39:54.393238"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9783842457713"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "90",
+      "publish_date": "2011",
+      "publishers": [
+        "tredition Verlag"
+      ],
+      "source_records": [
+        "bwb:9783842457713"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.100",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL48718706M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-07-17T10:38:40.289747"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721510977"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "53",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721510977"
+      ],
+      "title": "On Picket Duty",
+      "weight": "0.118",
+      "subtitle": "And Other Tales",
+      "full_title": "On Picket Duty And Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL48375906M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T18:12:16.942261"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798721510946"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "49",
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798721510946"
+      ],
+      "title": "On Picket Duty",
+      "weight": "0.150",
+      "subtitle": "And Other Tales",
+      "full_title": "On Picket Duty And Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL48386695M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T19:16:35.803199"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681850502"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "143",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681850502"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.273",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL48308658M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T14:48:59.436508"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781427018779"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "132",
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781427018779"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL44139950M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T07:32:42.772461"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_10": [
+        "115367498X"
+      ],
+      "isbn_13": [
+        "9781153674980"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-AKL-873"
+      ],
+      "publish_date": "2010-03-07",
+      "publishers": [
+        "General Books LLC"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-12-09"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL43527595M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-09T08:35:08.574110"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798641614779"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "99",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798641614779"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.205",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL42028473M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T12:28:40.254893"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798681830085"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "99",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798681830085"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.205",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL42083877M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T21:52:09.271175"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798697924747"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "99",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798697924747"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.205",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL42208706M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-30T19:04:30.046676"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798607565466"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "94",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798607565466"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "weight": "0.195",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41948468M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T00:17:31.956593"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798617374911"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "94",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798617374911"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "weight": "0.195",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41956940M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-29T01:36:35.729944"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798611938027"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "80",
+      "publish_date": "2020",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798611938027"
+      ],
+      "title": "On Picket Duty",
+      "weight": "0.173",
+      "full_title": "On Picket Duty",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41906952M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-28T17:43:10.966692"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781693714146"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "74",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781693714146"
+      ],
+      "title": "Picket Duty and Other Tales",
+      "weight": "0.123",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41537640M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T08:42:09.731777"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781688033108"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "82",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781688033108"
+      ],
+      "title": "On Picket Duty",
+      "weight": "0.132",
+      "full_title": "On Picket Duty",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41502073M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-26T03:16:07.177136"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781980599265"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "94",
+      "publish_date": "2018",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781980599265"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "weight": "0.195",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41381236M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-25T08:01:11.338973"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781070900704"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "94",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781070900704"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "weight": "0.195",
+      "full_title": "On Picket Duty, and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41313905M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-24T20:00:24.786917"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781707565528"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "96",
+      "publish_date": "2019",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781707565528"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "weight": "0.150",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL41675401M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-27T06:00:43.418069"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781521237540"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "77",
+      "publish_date": "2017",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9781521237540"
+      ],
+      "title": "On Picket Duty, and Other Tales (Annotated)",
+      "weight": "0.168",
+      "full_title": "On Picket Duty, and Other Tales (Annotated)",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL40633271M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-11-20T06:57:41.775282"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9798838389299"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "68",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798838389299"
+      ],
+      "title": "On Picket Duty",
+      "weight": "0.155",
+      "subtitle": "And Other Tales",
+      "full_title": "On Picket Duty And Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL39461563M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-08-19T05:20:48.198896"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781625587695"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "81",
+      "publish_date": "2013",
+      "publishers": [
+        "Start Publishing LLC"
+      ],
+      "source_records": [
+        "bwb:9781625587695"
+      ],
+      "subjects": [
+        "Fiction, short stories (single author)"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL36791834M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-01-28T01:26:02.592384"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781435318519"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 116,
+      "publish_date": "2007",
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "source_records": [
+        "bwb:9781435318519"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "United states, social life and customs, fiction"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "weight": "0.182",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL34417165M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-04T09:40:05.497154"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781438505930"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 88,
+      "publish_date": "2008",
+      "publishers": [
+        "Standard Publications, Inc."
+      ],
+      "source_records": [
+        "bwb:9781438505930"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "United states, social life and customs, fiction"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL34426027M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-04T13:56:53.930444"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781442944183"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442944183"
+      ],
+      "subjects": [
+        "Fiction, historical, general",
+        "United states, social life and customs, fiction"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "full_title": "On Picket Duty and Other Tales",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL34829261M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T11:58:23.249282"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 80,
+      "source_records": [
+        "amazon:1985203901"
+      ],
+      "title": "On Picket Duty",
+      "identifiers": {
+        "amazon": [
+          "1985203901"
+        ]
+      },
+      "isbn_13": [
+        "9781985203907"
+      ],
+      "covers": [
+        9184246
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty",
+      "isbn_10": [
+        "1985203901"
+      ],
+      "publish_date": "Feb 09, 2018",
+      "key": "/books/OL27777536M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-12T06:09:24.525415"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "On Picket Duty",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jul 18, 2019",
+      "source_records": [
+        "amazon:108122553X",
+        "bwb:9781081225537"
+      ],
+      "number_of_pages": 113,
+      "publishers": [
+        "Independently published",
+        "Independently Published"
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty And Other Tales",
+      "subtitle": "And Other Tales",
+      "notes": "Source title: On Picket Duty: And Other Tales",
+      "covers": [
+        11534736
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL32907327M",
+      "identifiers": {},
+      "isbn_10": [
+        "108122553X"
+      ],
+      "isbn_13": [
+        "9781081225537"
+      ],
+      "classifications": {},
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-31T05:52:31.574072"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "On Picket Duty",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "Jan 21, 2018",
+      "source_records": [
+        "amazon:1538064413"
+      ],
+      "number_of_pages": 82,
+      "publishers": [
+        "Nook Press"
+      ],
+      "isbn_10": [
+        "1538064413"
+      ],
+      "isbn_13": [
+        "9781538064412"
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty",
+      "covers": [
+        12038332
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL34398932M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-03T10:09:33.626490"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-09-25T16:03:38.167768"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 94,
+      "source_records": [
+        "amazon:198609443X",
+        "bwb:9781986094436"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "identifiers": {
+        "amazon": [
+          "198609443X"
+        ]
+      },
+      "isbn_13": [
+        "9781986094436"
+      ],
+      "covers": [
+        9177620
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty and Other Tales",
+      "isbn_10": [
+        "198609443X"
+      ],
+      "publish_date": "Mar 05, 2018",
+      "key": "/books/OL27768431M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-10T23:15:48.632400"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-02T17:38:55.555304"
+      }
+    },
+    {
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "number_of_pages": 94,
+      "source_records": [
+        "amazon:198619079X",
+        "bwb:9781986190794"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "identifiers": {
+        "amazon": [
+          "198619079X"
+        ]
+      },
+      "isbn_13": [
+        "9781986190794"
+      ],
+      "covers": [
+        9178164
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty and Other Tales",
+      "isbn_10": [
+        "198619079X"
+      ],
+      "publish_date": "Mar 10, 2018",
+      "key": "/books/OL27769030M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-11T01:17:07.680567"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-25T05:31:55.660220"
+      }
+    },
+    {
+      "publishers": [
+        "SMK Books"
+      ],
+      "number_of_pages": 86,
+      "source_records": [
+        "amazon:1515425975"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "identifiers": {
+        "amazon": [
+          "1515425975"
+        ]
+      },
+      "covers": [
+        9219092
+      ],
+      "physical_format": "hardcover",
+      "full_title": "On Picket Duty, and Other Tales",
+      "publish_date": "Apr 03, 2018",
+      "key": "/books/OL27824272M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "1515425975"
+      ],
+      "isbn_13": [
+        "9781515425977"
+      ],
+      "classifications": {},
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-18T17:06:11.822597"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-08T04:57:19.929543"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "On Picket Duty, and Other Tales",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "May 15, 2018",
+      "source_records": [
+        "amazon:1985385643",
+        "bwb:9781985385641"
+      ],
+      "number_of_pages": 78,
+      "publishers": [
+        "Createspace Independent Publishing Platform",
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1985385643"
+      ],
+      "isbn_13": [
+        "9781985385641"
+      ],
+      "physical_format": "paperback",
+      "full_title": "On Picket Duty, and Other Tales",
+      "covers": [
+        12031254
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "key": "/books/OL34313876M",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T00:51:44.165244"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-09-26T22:33:31.398829"
+      }
+    },
+    {
+      "publishers": [
+        "eBooksLib"
+      ],
+      "physical_format": "E-book",
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11l.mrc:6447313:1632"
+      ],
+      "title": "On Picket Duty",
+      "identifiers": {
+        "overdrive": [
+          "D21E0EBB-7A54-4044-93FC-9E3A8F389C68"
+        ]
+      },
+      "isbn_13": [
+        "9781554456888",
+        "9781412156974",
+        "9781554456895"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "key": "/books/OL24292641M",
+      "publish_places": [
+        "Ottawa"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-23T02:02:20.530517"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-02T16:35:32.800063"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "4750558"
+        ]
+      },
+      "title": "On picket duty",
+      "subtitle": "and other tales.",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1969",
+      "publishers": [
+        "Garrett Press",
+        "Infobase Holdings, Inc."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "On picket duty.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The king of clubs and the queen of hearts.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The cross on the old church tower.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The death of John.",
+          "pagenum": "",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "isbn_10": [
+        "0512000042"
+      ],
+      "series": [
+        "The American short story series, v. 33"
+      ],
+      "covers": [
+        9505348,
+        -1
+      ],
+      "lc_classifications": [
+        "PZ3.A355 On5",
+        "PS1017 On5",
+        "PZ3.A355On5"
+      ],
+      "ocaid": "onpicketdutyothe0033lmal",
+      "publish_places": [
+        "[New York]"
+      ],
+      "subject_time": [
+        "19th century"
+      ],
+      "pagination": "96 p.",
+      "source_records": [
+        "amazon:0512000042",
+        "ia:onpicketdutyothe0033lmal",
+        "marc:marc_loc_2016/BooksAll.2016.part07.utf8:14103734:740",
+        "marc:marc_columbia/Columbia-extract-20221130-001.mrc:388704212:1146",
+        "bwb:9780512000040",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:679605901:724",
+        "marc:harvard_bibliographic_metadata/20220215_024.bib.mrc:269681741:1123"
+      ],
+      "dewey_decimal_class": [
+        "813/.4"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "69011876"
+      ],
+      "subjects": [
+        "United States -- Social life and customs -- 19th century -- Fiction."
+      ],
+      "publish_country": "nyu",
+      "subject_place": [
+        "United States"
+      ],
+      "oclc_numbers": [
+        "54281"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL5680603M",
+      "number_of_pages": 96,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "latest_revision": 17,
+      "revision": 17,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-08T09:24:09.464223"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1552960"
+        ],
+        "librarything": [
+          "5525727"
+        ]
+      },
+      "title": "On Picket Duty And Other Stories (The Works Of Louisa May Alcott)",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "January 1885",
+      "publishers": [
+        "Reprint Services Corp"
+      ],
+      "weight": "12 ounces",
+      "isbn_13": [
+        "9780781200783"
+      ],
+      "physical_format": "Library Binding",
+      "isbn_10": [
+        "0781200784"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Literature"
+      ],
+      "physical_dimensions": "8.7 x 5.7 x 0.6 inches",
+      "source_records": [
+        "amazon:0781200784"
+      ],
+      "key": "/books/OL9649861M",
+      "number_of_pages": 106,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-29T12:59:58.880315"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Reprinted from Boston: James Redpath, 1864."
+      },
+      "title": "On picket duty, and other tales",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1969",
+      "publishers": [
+        "Garrett Press"
+      ],
+      "series": [
+        "The American short story series -- v.33"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "xxu",
+      "by_statement": "by L. M. Alcott.",
+      "publish_places": [
+        "New York"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:278351491:529"
+      ],
+      "key": "/books/OL13938528M",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-02T04:56:06.193537"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-26T15:40:11.527154"
+      }
+    },
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "weight": "5 ounces",
+      "covers": [
+        2838525
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11876891M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Literary Collections / Essays"
+      ],
+      "isbn_13": [
+        "9781426419188"
+      ],
+      "source_records": [
+        "amazon:142641918X"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "number_of_pages": 84,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "142641918X"
+      ],
+      "publish_date": "February 8, 2006",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "source_records": [
+        "amazon:1414269846:2-bf:271059192:156480"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "number_of_pages": 116,
+      "isbn_13": [
+        "9781414269849"
+      ],
+      "covers": [
+        1784550
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "1414269846"
+      ],
+      "publish_date": "January 2004",
+      "key": "/books/OL9707737M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General & Literary Fiction",
+        "Short Stories (single author)",
+        "Fiction - General",
+        "Fiction"
+      ],
+      "revision": 4
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1090106"
+        ]
+      },
+      "title": "On Picket Duty and Other Tales (Large Print)",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "December 1, 2005",
+      "publishers": [
+        "Echo Library"
+      ],
+      "weight": "9 ounces",
+      "covers": [
+        2037154
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Fiction",
+        "Juvenile Fiction",
+        "Children's Books/All Ages",
+        "Children: Young Adult (Gr. 7-9)",
+        "General",
+        "Juvenile Fiction / General",
+        "Short Stories"
+      ],
+      "edition_name": "Largeprint edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781846370564"
+      ],
+      "isbn_10": [
+        "1846370566"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "source_records": [
+        "amazon:1846370566"
+      ],
+      "key": "/books/OL8962772M",
+      "number_of_pages": 168,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T19:56:23.126898"
+      }
+    },
+    {
+      "publishers": [
+        "BiblioBazaar"
+      ],
+      "weight": "8.5 ounces",
+      "covers": [
+        1844853
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9810942M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Literary Collections / Essays"
+      ],
+      "isbn_13": [
+        "9781426420290"
+      ],
+      "source_records": [
+        "amazon:1426420293:2-av:330659405:165800"
+      ],
+      "title": "On Picket Duty, and Other Tales (Large Print Edition)",
+      "number_of_pages": 80,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1426420293"
+      ],
+      "publish_date": "February 8, 2006",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.5 x 8 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Irvington Pub"
+      ],
+      "weight": "8.8 ounces",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL11529258M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0842280006"
+      ],
+      "title": "On Picket Duty & Other Tales",
+      "identifiers": {
+        "goodreads": [
+          "6240477"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "isbn_13": [
+        "9780842280006"
+      ],
+      "isbn_10": [
+        "0842280006"
+      ],
+      "publish_date": "June 1972",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5.5 x 0.5 inches",
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Hard Press"
+      ],
+      "number_of_pages": 70,
+      "weight": "5.4 ounces",
+      "covers": [
+        1760459
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL9345264M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "isbn_13": [
+        "9781406932959"
+      ],
+      "source_records": [
+        "amazon:1406932957:2-ac:527017250:201911"
+      ],
+      "title": "On Picket Duty, and Other Tales",
+      "identifiers": {
+        "goodreads": [
+          "1355189"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1406932957"
+      ],
+      "publish_date": "November 3, 2006",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 6
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Sabin 691\n\nMicroopaque. Louisville [Ky.] : Lost Cause Press, 1965. 2 microcards : negative. (Selected Americana from Sabin's Dictionary of books relating to America, from its discovery to the present time ; 691)"
+      },
+      "title": "On picket duty, and other tales",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "1864",
+      "publishers": [
+        "J. Redpath"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "On picket duty",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The king of clubs and the queen of hearts",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The cross on the old church tower",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "The death of John",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "series": [
+        "Selected Americana from Sabin's Dictionary of books relating to America, from its discovery to the present time -- 691"
+      ],
+      "covers": [
+        7125283
+      ],
+      "physical_format": "Microform",
+      "ia_loaded_id": [
+        "onpicketdutyothe00alco"
+      ],
+      "ocaid": "onpicketdutyothe00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "96 p.",
+      "source_records": [
+        "marc:marc_miami_univ_ohio/allbibs0062.out:4718566:1136",
+        "ia:onpicketdutyothe00alco",
+        "marc:marc_columbia/Columbia-extract-20221130-012.mrc:30678457:862",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:680068786:1182",
+        "marc:harvard_bibliographic_metadata/20220215_026.bib.mrc:244505686:1979"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_country": "mau",
+      "by_statement": "By L.M. Alcott",
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "231616",
+        "786047670"
+      ],
+      "key": "/books/OL14692556M",
+      "number_of_pages": 96,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "lc_classifications": [
+        "PZ3.A355 0n",
+        "PS1017 .O5"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-14T02:36:28.245863"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-31T21:01:46.571023"
+      }
+    },
+    {
+      "title": "On Picket Duty and Other Tales",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "July 12, 2006",
+      "publishers": [
+        "IndyPublish"
+      ],
+      "weight": "11 ounces",
+      "covers": [
+        1848182
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Short stories",
+        "Short Stories (single author)",
+        "Fiction / Short Stories (single author)",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781428018617"
+      ],
+      "isbn_10": [
+        "1428018611"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "source_records": [
+        "amazon:1428018611"
+      ],
+      "key": "/books/OL9604229M",
+      "number_of_pages": 116,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-16T14:20:34.901015"
+      }
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "weight": "11 ounces",
+      "covers": [
+        2809429
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL11825030M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Short stories",
+        "Short Stories (single author)",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781421902975"
+      ],
+      "source_records": [
+        "amazon:1421902974"
+      ],
+      "title": "On Picket Duty And Other Tales",
+      "number_of_pages": 116,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1421902974"
+      ],
+      "publish_date": "April 30, 2005",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.4 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "7185369"
+        ]
+      },
+      "weight": "6.4 ounces",
+      "covers": [
+        2809430
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL11825031M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Short stories",
+        "Short Stories (single author)",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781421902982"
+      ],
+      "source_records": [
+        "amazon:1421902982"
+      ],
+      "title": "On Picket Duty And Other Tales",
+      "number_of_pages": 116,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1421902982"
+      ],
+      "publish_date": "April 30, 2005",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 5.9 x 0.3 inches",
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "weight": "5.8 ounces",
+      "covers": [
+        1800942
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9840642M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Short stories",
+        "Fiction - General",
+        "Fiction",
+        "Short Stories (single author)"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "WHAT air you thinkin' of, Phil?"
+      },
+      "source_records": [
+        "amazon:1419138529:2-aw:2924059236:166328"
+      ],
+      "title": "On Picket Duty And Other Tales",
+      "number_of_pages": 84,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781419138522"
+      ],
+      "isbn_10": [
+        "1419138529"
+      ],
+      "publish_date": "June 30, 2004",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 8 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Reprint Services Corp"
+      ],
+      "weight": "11.2 ounces",
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL10449266M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0317901842"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "identifiers": {
+        "goodreads": [
+          "7185336"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780317901849"
+      ],
+      "isbn_10": [
+        "0317901842"
+      ],
+      "publish_date": "May 1988",
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.6 x 5.7 x 0.6 inches",
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "IndyPublish.com"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "source_records": [
+        "amazon:1414269854"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "number_of_pages": 116,
+      "isbn_13": [
+        "9781414269856"
+      ],
+      "covers": [
+        2784020
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "1414269854"
+      ],
+      "publish_date": "January 2004",
+      "key": "/books/OL11753563M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 4,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General & Literary Fiction",
+        "Short Stories (single author)",
+        "Fiction - General",
+        "Fiction"
+      ],
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Somerset Pubs"
+      ],
+      "physical_format": "Hardcover",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T20:43:58.466510"
+      },
+      "source_records": [
+        "amazon:0403041937:2-ad:4189402313:152353"
+      ],
+      "title": "On Picket Duty and Other Tales",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9780403041930"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0403041937"
+      ],
+      "publish_date": "June 1985",
+      "key": "/books/OL9379107M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "latest_revision": 3,
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Fiction"
+      ],
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "Dodo Press"
+      ],
+      "weight": "5 ounces",
+      "covers": [
+        2751092
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-04-27T14:04:38.174221"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL11651954M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "isbn_13": [
+        "9781406505948"
+      ],
+      "source_records": [
+        "amazon:1406505943"
+      ],
+      "title": "On Picket Duty, And Other Tales",
+      "number_of_pages": 88,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1406505943"
+      ],
+      "publish_date": "April 30, 2006",
+      "oclc_numbers": [
+        "639971618"
+      ],
+      "works": [
+        {
+          "key": "/works/OL30051W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9 x 6 x 0.2 inches",
+      "revision": 5
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "subtitle": "A Novel",
+  "lc_classifications": [
+    "PS3564.U468 A88 1997"
+  ],
+  "title": "Ariana, a gift most precious",
+  "covers": [
+    1871458
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The fluorescent lights hurt my eyes, already burning from the tears I had shed the night before and again today."
+  },
+  "first_publish_date": "1997",
+  "key": "/works/OL30070W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "The fluorescent lights hurt my eyes, already burning from the tears I had shed the night before and again today."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "subjects": [
+    "Fiction",
+    "Mormon women",
+    "HIV-positive persons",
+    "Mormons",
+    "Friendship",
+    "Mormons, fiction",
+    "Fiction, religious"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "dewey_number": [
+    "813/.54"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T08:02:36.115964"
+  }
+}

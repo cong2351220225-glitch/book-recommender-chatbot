@@ -1,0 +1,76 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Choose Your Own Adventure"
+  },
+  "identifiers": {
+    "librarything": [
+      "800822"
+    ],
+    "goodreads": [
+      "191023"
+    ]
+  },
+  "title": "The Reality Machine",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "publish_date": "November 1, 1993",
+  "publishers": [
+    "Skylark"
+  ],
+  "weight": "3.4 ounces",
+  "series": [
+    "Choose Your Own Adventure No. 142"
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "Adventure game-books / choose your own adventure",
+    "Fiction",
+    "Video games",
+    "Children's 9-12 - Fiction - General",
+    "Children: Grades 4-6",
+    "Virtual reality",
+    "Action & Adventure - General",
+    "Juvenile Fiction / Action & Adventure",
+    "Plot-your-own stories",
+    "Specimens"
+  ],
+  "isbn_13": [
+    "9780553564013"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0553564013"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "6.9 x 4.2 x 0.4 inches",
+  "source_records": [
+    "amazon:0553564013"
+  ],
+  "key": "/books/OL7829199M",
+  "number_of_pages": 128,
+  "works": [
+    {
+      "key": "/works/OL30098W"
+    }
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-18T05:17:00.783696"
+  }
+}

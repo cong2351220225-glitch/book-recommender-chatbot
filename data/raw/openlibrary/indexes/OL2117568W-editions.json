@@ -1,0 +1,73 @@
+{
+  "links": {
+    "self": "/works/OL2117568W/editions.json",
+    "work": "/works/OL2117568W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Princeton Review"
+      ],
+      "number_of_pages": 152,
+      "weight": "10.9 ounces",
+      "series": [
+        "Princeton Review Series"
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7700962M",
+      "authors": [
+        {
+          "key": "/authors/OL263218A"
+        }
+      ],
+      "subjects": [
+        "MAT (Miller Analogies Test)",
+        "Non-Classifiable",
+        "Study Guides",
+        "Study Methods For College Students",
+        "Miller analogies test"
+      ],
+      "isbn_13": [
+        "9780679769194"
+      ],
+      "classifications": {},
+      "title": "Cracking the MAT (Miller Analogies Test), 1997 ed",
+      "identifiers": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0679769196"
+      ],
+      "publish_date": "June 3, 1996",
+      "oclc_numbers": [
+        "35127729"
+      ],
+      "works": [
+        {
+          "key": "/works/OL2117568W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "11.2 x 8.5 x 0.5 inches",
+      "source_records": [
+        "bwb:9780679769194"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T01:23:56.596577"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "publishers": [
+    "Grosset & Dunlap"
+  ],
+  "pagination": "229 p. ;",
+  "source_records": [
+    "marc:unc_catalog_marc/marc-00078000-00079999.mrc:841355:374"
+  ],
+  "title": "Lulu's library.",
+  "number_of_pages": 229,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-10T17:13:58.103046"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-12T20:42:34.582369"
+  },
+  "publish_date": "1930",
+  "publish_country": "nyu",
+  "key": "/books/OL14076325M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "latest_revision": 3,
+  "publish_places": [
+    "New York"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30034W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 3
+}

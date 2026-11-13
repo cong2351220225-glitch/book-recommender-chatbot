@@ -1,0 +1,61 @@
+{
+  "title": "Hospital Sketches and Camp and Fireside Stories",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_date": "February 8, 2007",
+  "publishers": [
+    "Book Jungle"
+  ],
+  "weight": "1.5 pounds",
+  "covers": [
+    1990861
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "American history",
+    "History",
+    "History - U.S.",
+    "History: American",
+    "USA",
+    "United States - General",
+    "History / United States / General"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9781594624094"
+  ],
+  "isbn_10": [
+    "1594624097"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "9.2 x 7.5 x 0.8 inches",
+  "source_records": [
+    "amazon:1594624097"
+  ],
+  "key": "/books/OL8877804M",
+  "number_of_pages": 396,
+  "works": [
+    {
+      "key": "/works/OL30047W"
+    }
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-05-07T19:24:47.062415"
+  }
+}

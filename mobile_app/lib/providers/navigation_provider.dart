@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+
+class NavigationProvider extends ChangeNotifier {
+  static const int tabHome = 0;
+  static const int tabBooksCatalog = 1;
+  static const int tabBookshelf = 2;
+  static const int tabAiChat = 3;
+  static const int tabLocations = 4;
+  static const int tabAuthors = 5;
+  static const int tabGenres = 6;
+  static const int tabProfile = 7;
+  static const int tabAiCrawler = 8;
+
+  int _currentIndex = 0;
+
+  int get currentIndex => _currentIndex;
+
+  void setIndex(int index) {
+    if (_currentIndex == index) return;
+    _currentIndex = index;
+    notifyListeners();
+  }
+
+  void goToHome() => setIndex(tabHome);
+  void goToCatalog() => setIndex(tabBooksCatalog);
+  void goToBookshelf() => setIndex(tabBookshelf);
+  void goToAiChat() => setIndex(tabAiChat);
+  void goToLocations() => setIndex(tabLocations);
+  void goToAuthors() => setIndex(tabAuthors);
+  void goToGenres() => setIndex(tabGenres);
+  void goToProfile() => setIndex(tabProfile);
+  void goToAiCrawler() => setIndex(tabAiCrawler);
+}

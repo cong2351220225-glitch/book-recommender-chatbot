@@ -1,0 +1,15 @@
+{
+  "name": "Eric Pankey",
+  "personal_name": "Eric Pankey",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-11 18:03:05.98272"
+  },
+  "key": "/authors/OL26309A",
+  "birth_date": "1959",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 66862,
+  "revision": 2
+}

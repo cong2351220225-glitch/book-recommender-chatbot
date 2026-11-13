@@ -1,0 +1,661 @@
+{
+  "links": {
+    "self": "/works/OL44335W/editions.json",
+    "work": "/works/OL44335W"
+  },
+  "size": 10,
+  "entries": [
+    {
+      "publishers": [
+        "W. Heffer"
+      ],
+      "number_of_pages": 598,
+      "isbn_10": [
+        "0852700628"
+      ],
+      "subject_place": [
+        "Tibet."
+      ],
+      "lc_classifications": [
+        "BQ7602 .W28 1971"
+      ],
+      "key": "/books/OL5465421M",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_places": [
+        "Cambridge [Eng.]"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "1, 598 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part07.dat:143863296:705",
+        "marc:marc_loc_updates/v37.i24.records.utf8:1277826:730"
+      ],
+      "title": "The Buddhism of Tibet; or, Lamaism.",
+      "dewey_decimal_class": [
+        "294.3/923/09515"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. 578-583.\nReprint of 1934 ed."
+      },
+      "identifiers": {
+        "librarything": [
+          "770953"
+        ],
+        "goodreads": [
+          "4561474"
+        ]
+      },
+      "edition_name": "[2d ed.]",
+      "lccn": [
+        "73168233"
+      ],
+      "subjects": [
+        "Buddhism -- Tibet"
+      ],
+      "publish_date": "1971",
+      "publish_country": "enk",
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "publishers": [
+        "W. H. Allen"
+      ],
+      "subtitle": "with its mystic cults, symbolism and mythology, and in its relation to Indian Buddhism.",
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-09T22:37:22.005077"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL16806444M",
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "xviii, p., 598 p.",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:805907203:983"
+      ],
+      "title": "The Buddhism of Tibet, or Lamaism",
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. 578-583.\n\nMicrofiche. New Haven, Conn., Human Relations Area Files [1970?]"
+      },
+      "number_of_pages": 598,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T04:04:27.800153"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Gautama Buddha",
+        "Buddhism",
+        "Dge-lugs-pa (Sect)",
+        "Tibet (China) -- Religious life and customs"
+      ],
+      "publish_date": "1970",
+      "publish_country": "ctu",
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "W. Heffer"
+      ],
+      "key": "/books/OL23316639M",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_places": [
+        "Cambridge, Eng"
+      ],
+      "edition_name": "2d ed.",
+      "pagination": "598 p. :",
+      "source_records": [
+        "marc:marc_ithaca_college/ic_marc.mrc:15935560:782"
+      ],
+      "title": "The Buddhism of Tibet, or Lamaism.",
+      "notes": {
+        "type": "/type/text",
+        "value": "Label mounted on verso of t.p.: Published in the U.S.A. 1973 by Barnes & Noble Books (a division of Harper & Row Publishers, Inc.)\n\nReprint of the 2d ed., first published 1934.\n\nBibliography: p. 578-583."
+      },
+      "number_of_pages": 598,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Buddhism",
+        "Dge-lugs-pa (Sect)"
+      ],
+      "publish_date": "1973",
+      "publish_country": "enk",
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-01T19:01:25.942827"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "publishers": [
+        "W.H. Allen & Co."
+      ],
+      "identifiers": {
+        "librarything": [
+          "770953"
+        ]
+      },
+      "subtitle": "with its mystic cults, symbolism and mythology, and in its relation to Indian Buddhism",
+      "covers": [
+        6250064
+      ],
+      "lc_classifications": [
+        "BL1485 .W3"
+      ],
+      "key": "/books/OL23283234M",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "ocaid": "buddhismoftibeto00wadd",
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "xviii, 598, [7] pages of plates (5 fold.) :",
+      "source_records": [
+        "ia:buddhismoftibeto00wadd"
+      ],
+      "title": "The Buddhism of Tibet, or Lamaism",
+      "dewey_decimal_class": [
+        "294.392/3"
+      ],
+      "number_of_pages": 598,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "24004665"
+      ],
+      "subjects": [
+        "Lamaism",
+        "Buddha and Buddhism",
+        "Tibet (China) -- Religion"
+      ],
+      "publish_date": "1895",
+      "publish_country": "enk",
+      "by_statement": "by L. Austine Waddell.",
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-30T01:50:11.321256"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "other_titles": [
+        "Lamaism."
+      ],
+      "publishers": [
+        "W. Heffer"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "4561474"
+        ],
+        "librarything": [
+          "770953"
+        ]
+      },
+      "subtitle": "with its mystic cults, symbolism and mythology, and in its relation to Indian Buddhism",
+      "isbn_10": [
+        "0852700628"
+      ],
+      "covers": [
+        8521119
+      ],
+      "lc_classifications": [
+        "BQ7602 .W28 1971"
+      ],
+      "key": "/books/OL19476697M",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_places": [
+        "Cambridge [Eng.]"
+      ],
+      "edition_name": "[2d ed.]. --",
+      "pagination": "xlviii, [3], 598 p. :",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:279121625:999",
+        "amazon:0852700628",
+        "marc:marc_loc_2016/BooksAll.2016.part08.utf8:42224815:748",
+        "promise:bwb_daily_pallets_2023-01-17:W8-ACD-953",
+        "ia:buddhismoftibeto0000wadd"
+      ],
+      "title": "The Buddhism of Tibet, or, Lamaism",
+      "dewey_decimal_class": [
+        "294.3/923/09515"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliography: p. 578-583."
+      },
+      "number_of_pages": 598,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "73168233"
+      ],
+      "subjects": [
+        "Buddhism -- China -- Tibet"
+      ],
+      "publish_date": "1935",
+      "publish_country": "enk",
+      "by_statement": "by C. Austine Waddell.",
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W8-ACD-953"
+      ],
+      "ocaid": "buddhismoftibeto0000wadd",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-22T13:00:20.002794"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "770953"
+        ],
+        "goodreads": [
+          "4698198"
+        ]
+      },
+      "title": "The Buddhism of Tibet or Lamaism",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_date": "June 1, 2007",
+      "publishers": [
+        "Cosimo Classics"
+      ],
+      "weight": "1.7 pounds",
+      "covers": [
+        2977986
+      ],
+      "physical_format": "Paperback",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9781602061378"
+      ],
+      "isbn_10": [
+        "1602061378"
+      ],
+      "oclc_numbers": [
+        "427903710"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.5 x 5.5 x 1.4 inches",
+      "source_records": [
+        "amazon:1602061378"
+      ],
+      "key": "/books/OL12553960M",
+      "number_of_pages": 624,
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-14T23:34:08.514222"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "4040455"
+        ]
+      },
+      "title": "Buddhism Of Tibet or Lamaism",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_date": "August 1996",
+      "publishers": [
+        "Aryan Books International"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "edition_name": "1 edition",
+      "isbn_13": [
+        "9788173051043"
+      ],
+      "isbn_10": [
+        "8173051046"
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Philosophy"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "TIBET, the mystic Land of the Grand Lama, joint God and King of many millions, is still the most impenetrable country in the world."
+      },
+      "source_records": [
+        "amazon:8173051046"
+      ],
+      "key": "/books/OL9502626M",
+      "number_of_pages": 573,
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "770953"
+        ],
+        "goodreads": [
+          "421015"
+        ]
+      },
+      "title": "The Buddhism of Tibet or Lamaism",
+      "subtitle": "With Its Mystic Cults, Symbolism and Mythology, and in Its Relation to Indian Buddhism",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_date": "July 2, 2001",
+      "publishers": [
+        "Adamant Media Corporation"
+      ],
+      "weight": "1.8 pounds",
+      "covers": [
+        1736017
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "religion,buddhism,lamaism,Tibet,Laurence Austine Waddell",
+        "Religion / Buddhism",
+        "Religion / Zen Buddhism"
+      ],
+      "isbn_13": [
+        "9781402167492"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "1402167490"
+      ],
+      "oclc_numbers": [
+        "77560340"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.1 x 4.9 x 1.6 inches",
+      "source_records": [
+        "amazon:1402167490"
+      ],
+      "key": "/books/OL8373097M",
+      "number_of_pages": 635,
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "title": "Buddhism of Tibet or Lamaism",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        }
+      ],
+      "publish_date": "January 2003",
+      "publishers": [
+        "Kessinger Publishing"
+      ],
+      "weight": "3.2 pounds",
+      "covers": [
+        1447968
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Buddhism",
+        "Buddhism - General",
+        "Religion - World Religions"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "TIBET, the mystic Land of the Grand Lama, joint God and King of many millions, is still the most impenetrable country in the world."
+      },
+      "isbn_13": [
+        "9780766135055"
+      ],
+      "isbn_10": [
+        "0766135055"
+      ],
+      "oclc_numbers": [
+        "62230969"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "10.6 x 7.9 x 1.2 inches",
+      "source_records": [
+        "amazon:0766135055"
+      ],
+      "key": "/books/OL8058107M",
+      "number_of_pages": 664,
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    },
+    {
+      "title": "Buddhism of Tibet or Lamaism",
+      "authors": [
+        {
+          "key": "/authors/OL12061A"
+        },
+        {
+          "key": "/authors/OL3325876A"
+        }
+      ],
+      "publish_date": "December 12, 1999",
+      "publishers": [
+        "Low Price Publications,India"
+      ],
+      "weight": "1.8 pounds",
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Tibetan Buddhism",
+        "Tibet"
+      ],
+      "edition_name": "2 edition",
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "TIBET, the mystic Land of the Grand Lama, joint God and King of many millions, is still the most impenetrable country in the world."
+      },
+      "isbn_13": [
+        "9788175361720"
+      ],
+      "isbn_10": [
+        "8175361727"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.5 x 5.8 x 1.3 inches",
+      "covers": [
+        14674381
+      ],
+      "source_records": [
+        "amazon:8175361727"
+      ],
+      "key": "/books/OL9786579M",
+      "number_of_pages": 622,
+      "works": [
+        {
+          "key": "/works/OL44335W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-20T00:44:35.891665"
+      }
+    }
+  ]
+}

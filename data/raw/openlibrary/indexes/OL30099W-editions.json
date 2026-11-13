@@ -1,0 +1,535 @@
+{
+  "links": {
+    "self": "/works/OL30099W/editions.json",
+    "work": "/works/OL30099W"
+  },
+  "size": 8,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "isbn_13": [
+        "9781416996613"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2009",
+      "publishers": [
+        "Simon & Schuster Children's Publishing"
+      ],
+      "source_records": [
+        "bwb:9781416996613"
+      ],
+      "title": "Return to the Cave of Time",
+      "full_title": "Return to the Cave of Time",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "key": "/books/OL51599244M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-04-17T05:51:36.337148"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T08:09:45.593821"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "489998"
+        ]
+      },
+      "title": "Return to Cave/time",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "October 1, 1985",
+      "publishers": [
+        "Bantam"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780553254952"
+      ],
+      "edition_name": "Reissue edition",
+      "physical_format": "Mass Market Paperback",
+      "isbn_10": [
+        "0553254952"
+      ],
+      "oclc_numbers": [
+        "233582849"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Juvenile Fiction",
+        "Air Force",
+        "Time and space",
+        "Children's 12-Up - Fiction - General"
+      ],
+      "source_records": [
+        "amazon:0553254952"
+      ],
+      "key": "/books/OL7822571M",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-07T06:17:40.436733"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Choose Your Own Adventure"
+      },
+      "identifiers": {
+        "goodreads": [
+          "190918"
+        ],
+        "librarything": [
+          "489998"
+        ]
+      },
+      "title": "RETURN TO CAVE/TIME",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "October 1, 1985",
+      "publishers": [
+        "Bantam"
+      ],
+      "physical_format": "Mass Market Paperback",
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Children's 12-Up - Fiction - General",
+        "Juvenile Fiction"
+      ],
+      "isbn_13": [
+        "9780553252965"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553252968"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0553252968"
+      ],
+      "key": "/books/OL7822430M",
+      "number_of_pages": 128,
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-19T09:56:46.764101"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1152879"
+        ],
+        "librarything": [
+          "489998"
+        ]
+      },
+      "title": "RETURN TO CAVE/TIME",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "October 1, 1985",
+      "publishers": [
+        "Skylark"
+      ],
+      "physical_format": "Paperback",
+      "series": [
+        "Choose Your Own Adventure, No 50"
+      ],
+      "isbn_13": [
+        "9780553277852"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553277855"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Time and space",
+        "Fantastic fiction",
+        "Children's 12-Up - Fiction - General",
+        "Children: Grades 3-4",
+        "World War, 1939-1945",
+        "General",
+        "Non-Classifiable",
+        "Aerial operations, American",
+        "Fiction"
+      ],
+      "source_records": [
+        "amazon:0553277855"
+      ],
+      "key": "/books/OL7824267M",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-22T14:55:37.577139"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        },
+        {
+          "key": "/authors/OL7310797A"
+        }
+      ],
+      "isbn_13": [
+        "9781442452831"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 160,
+      "publish_date": "2012",
+      "publishers": [
+        "Simon & Schuster Books For Young Readers"
+      ],
+      "source_records": [
+        "bwb:9781442452831"
+      ],
+      "title": "Return to the Cave of Time",
+      "full_title": "Return to the Cave of Time",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "key": "/books/OL33989833M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-29T08:57:16.752022"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-10T18:40:05.699852"
+      }
+    },
+    {
+      "publishers": [
+        "Simon & Schuster Books for Young Readers"
+      ],
+      "series": [
+        "U-ventures"
+      ],
+      "covers": [
+        12717221,
+        8240850
+      ],
+      "full_title": "Return to the Cave of Time",
+      "key": "/books/OL24917821M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Willis, Drew, ill"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "p. cm.",
+      "source_records": [
+        "marc:marc_loc_updates/v39.i29.records.utf8:12395508:1035",
+        "marc:marc_loc_updates/v40.i22.records.utf8:5888791:1067",
+        "ia:returntocaveofti0000pack",
+        "marc:marc_loc_2016/BooksAll.2016.part38.utf8:184855800:1067",
+        "bwb:9781442434271"
+      ],
+      "title": "Return to the Cave of Time",
+      "notes": "The reader once again enters the mysterious Cave of Time and by following the instructions on each page can have several different adventures backward and forward in time.",
+      "edition_name": "1st ed.",
+      "subjects": [
+        "Plot-your-own stories",
+        "Fiction",
+        "Time travel",
+        "Adventure and adventurers"
+      ],
+      "publish_date": "2012",
+      "publish_country": "nyu",
+      "by_statement": "Edward Packard ; illustrated by Drew Willis",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "subtitle": "U-Ventures",
+      "number_of_pages": 160,
+      "ocaid": "returntocaveofti0000pack",
+      "isbn_13": [
+        "9781442434271"
+      ],
+      "lccn": [
+        "2011020270"
+      ],
+      "dewey_decimal_class": [
+        "[Fic]"
+      ],
+      "lc_classifications": [
+        "PZ7.P1245 Re 2012",
+        "PZ7.P1245Re 2012"
+      ],
+      "contributors": [
+        {
+          "role": "Illustrator",
+          "name": "Drew Willis"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-07-30T12:23:54.441060"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-02-01T02:14:53.377148"
+      }
+    },
+    {
+      "publishers": [
+        "Pocket Books"
+      ],
+      "identifiers": {
+        "librarything": [
+          "489998"
+        ],
+        "goodreads": [
+          "190918"
+        ]
+      },
+      "ia_box_id": [
+        "IA118004"
+      ],
+      "series": [
+        "Choose your own adventure -- # 50"
+      ],
+      "pagination": "115 p. :",
+      "covers": [
+        6631564
+      ],
+      "key": "/books/OL20938861M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "genres": [
+        "Juvenile fiction."
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:54085367:799",
+        "ia:returntocaveofti00pack",
+        "promise:bwb_daily_pallets_2022-09-21"
+      ],
+      "title": "Return to the Cave of Time",
+      "notes": "paperback",
+      "number_of_pages": 115,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories -- Juvenile fiction"
+      ],
+      "publish_date": "1985",
+      "publish_country": "nyu",
+      "by_statement": "by Edward Packard ; illustrated by Don Hedin.",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "classifications": {},
+      "ocaid": "returntocaveofti00pack",
+      "isbn_10": [
+        "0553252968"
+      ],
+      "subtitle": "Choose Your Own Adventure #50",
+      "local_id": [
+        "urn:bwbsku:T2-DXB-559"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T02:55:46.258878"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-04T07:22:25.003157"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam"
+      ],
+      "number_of_pages": 115,
+      "series": [
+        "Choose your own adventure -- 50",
+        "Choose your own adventure (Bantam Books) -- 50."
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-18T22:20:41.524078"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL21523851M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Hedin, Don."
+      ],
+      "pagination": "115p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:623338651:790"
+      ],
+      "title": "Returnto the cave of time",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "190918"
+        ],
+        "librarything": [
+          "489998"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T22:54:41.174386"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553252968"
+      ],
+      "publish_date": "1986",
+      "publish_country": "xxk",
+      "by_statement": "by Edward Packard ; illustrated by Don Hedin.",
+      "works": [
+        {
+          "key": "/works/OL30099W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "publishers": [
+    "Yearling"
+  ],
+  "identifiers": {
+    "librarything": [
+      "381063"
+    ],
+    "goodreads": [
+      "755029"
+    ]
+  },
+  "series": [
+    "Choose Your Own Adventure, Book 1"
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL7819024M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    },
+    {
+      "key": "/authors/OL2786825A"
+    }
+  ],
+  "subjects": [
+    "General",
+    "Non-Classifiable",
+    "Juvenile Fiction",
+    "Children's 9-12 - Fiction - General"
+  ],
+  "isbn_13": [
+    "9780553152388"
+  ],
+  "classifications": {},
+  "title": "The Circus",
+  "number_of_pages": 55,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0553152386"
+  ],
+  "publish_date": "June 1, 1983",
+  "works": [
+    {
+      "key": "/works/OL30084W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "bwb:9780553152388"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-11-18T16:12:56.157308"
+  }
+}

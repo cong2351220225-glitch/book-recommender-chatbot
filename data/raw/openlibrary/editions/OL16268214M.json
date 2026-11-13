@@ -1,0 +1,58 @@
+{
+  "other_titles": [
+    "Transcendental wild oats",
+    "Fruitlands diary"
+  ],
+  "publishers": [
+    "Harvard Common Press"
+  ],
+  "identifiers": {
+    "librarything": [
+      "491743"
+    ]
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-08-18T04:08:47.155900"
+  },
+  "latest_revision": 4,
+  "key": "/books/OL16268214M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "publish_places": [
+    "Harvard, Mass"
+  ],
+  "pagination": "92 p. :",
+  "source_records": [
+    "marc:marc_miami_univ_ohio/allbibs0009.out:70927:843"
+  ],
+  "title": "Transcendental wild oats and Excerpts from the Fruitlands diary",
+  "lccn": [
+    "76355426"
+  ],
+  "number_of_pages": 92,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-09-23T00:53:20.786630"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "1981",
+  "publish_country": "mau",
+  "by_statement": "by Louisa May Alcott ; with an intro. by William Henry Harrison ; and ill. by J. Streeter Fowke",
+  "works": [
+    {
+      "key": "/works/OL30030W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}

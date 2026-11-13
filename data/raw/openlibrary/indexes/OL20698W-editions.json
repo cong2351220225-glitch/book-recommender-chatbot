@@ -1,0 +1,158 @@
+{
+  "links": {
+    "self": "/works/OL20698W/editions.json",
+    "work": "/works/OL20698W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "publishers": [
+        "printed for C. Bathurst"
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:75560876:424"
+      ],
+      "title": "Verses on the death of Doctor Swift",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-31T01:56:43.384715"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-14T19:21:29.787113"
+      },
+      "publish_date": "1739",
+      "publish_country": "xxk",
+      "key": "/books/OL13731530M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "by_statement": "written by himself.",
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20698W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3
+    },
+    {
+      "publishers": [
+        "printed for C. Bathurst"
+      ],
+      "scan_on_demand": true,
+      "subtitle": "Written by himself: Nov. 1731",
+      "series": [
+        "Eighteenth Century -- reel 11147, no. 03."
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2011-10-14T19:21:29.787113"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL13469404M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "20p. ;",
+      "revision": 3,
+      "source_records": [
+        "marc:bpl_marc/bpl138.mrc:13442701:981"
+      ],
+      "title": "Verses on the death of Doctor Swift.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-06-04T15:24:53.588920"
+      },
+      "edition_name": "The second edition.",
+      "publish_date": "1739",
+      "location": [
+        "BPL1MI"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20698W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "enk"
+    },
+    {
+      "publishers": [
+        "Printed for C. Bathurst"
+      ],
+      "series": [
+        "Library of English literature -- LEL 40105."
+      ],
+      "physical_format": "Microform",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-08-04T12:08:24.695910"
+      },
+      "latest_revision": 5,
+      "key": "/books/OL13560475M",
+      "authors": [
+        {
+          "key": "/authors/OL24522A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "pagination": "[2], 18 p., advertising matter.",
+      "source_records": [
+        "marc:marc_western_washington_univ/wwu_bibs.mrc_revrev.mrc:470645489:1030"
+      ],
+      "title": "Verses on the death of Doctor Swift",
+      "notes": {
+        "type": "/type/text",
+        "value": "Title vignette.\n\nPublished Jan. 19, 1739. cf. Herman Teerink. A bibliography of the writings of Jonathan Swift.\n\nMicrofiche. Chicago, Ill. : Library Resources, inc., 1976. 1 microfiche : positive ; 8 x 13 cm. (Library of English literature ; LEL 40105)"
+      },
+      "number_of_pages": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-08-27T19:49:36.681220"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1739",
+      "publish_country": "enk",
+      "by_statement": "written by himself: Nov. 1731.",
+      "oclc_numbers": [
+        "8446201"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20698W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    }
+  ]
+}

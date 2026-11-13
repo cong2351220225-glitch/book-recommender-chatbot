@@ -1,0 +1,30 @@
+{
+  "title": "Bon-mots of the nineteenth century",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-15T11:23:34.130855"
+  },
+  "covers": [
+    6482682
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-14T00:43:07.004622"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL45763W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL18303A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

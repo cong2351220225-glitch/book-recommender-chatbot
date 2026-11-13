@@ -1,0 +1,220 @@
+{
+  "links": {
+    "self": "/works/OL241883W/editions.json",
+    "work": "/works/OL241883W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1985",
+      "publish_country": "ilu",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL2539318A"
+        }
+      ],
+      "series": [
+        "The Baldwin lectures -- 1909.",
+        "ATLA monograph preservation program -- ATLA fiche 1985-0967.",
+        "Baldwin lectures -- 1909."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references.\n\nMicrofiche. Chicago : American Theological Library Association, 1985. 1 microfiche ; 11 x 15 cm. High reduction. Silver based film. (ATLA monograph preservation program ; ATLA fiche 1985-0967)"
+      },
+      "subject_times": [
+        "20th century"
+      ],
+      "subjects": [
+        "Religious thought",
+        "Faith",
+        "Christianity"
+      ],
+      "title": "Modern thought and the crisis in belief",
+      "by_statement": "by R.M. Wenley",
+      "physical_format": "[microform] /",
+      "publishers": [
+        "Macmillan"
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "isbn_10": [
+        "0837029678"
+      ],
+      "pagination": "xviii, 364 p.",
+      "number_of_pages": 364,
+      "source_records": [
+        "marc:marc_gtu/KLF IA Export 5-5-22.mrc:66807912:1390",
+        "marc:marc_columbia/Columbia-extract-20221130-009.mrc:523518863:1592",
+        "marc:harvard_bibliographic_metadata/ab.bib.02.20150123.full.mrc:408426270:1399",
+        "marc:harvard_bibliographic_metadata/20220215_016.bib.mrc:304954230:2773"
+      ],
+      "full_title": "Modern thought and the crisis in belief",
+      "works": [
+        {
+          "key": "/works/OL241883W"
+        }
+      ],
+      "key": "/books/OL37909628M",
+      "lc_classifications": [
+        "BR121 .W45 1909",
+        "BR121 .W46 1909"
+      ],
+      "oclc_numbers": [
+        "505740984",
+        "1513674"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-05-18T12:48:03.296466"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-09-06T21:42:51.238019"
+      }
+    },
+    {
+      "publishers": [
+        "The Macmillan company"
+      ],
+      "series": [
+        "The Baldwin lectures -- 1909."
+      ],
+      "covers": [
+        5959983
+      ],
+      "key": "/books/OL14028924M",
+      "authors": [
+        {
+          "key": "/authors/OL2539318A"
+        }
+      ],
+      "ocaid": "modernthoughtcrisb00wenl",
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "xviii p., 1 l., 364 p.",
+      "source_records": [
+        "ia:modernthoughtcrisb00wenl",
+        "marc:marc_evangelical_seminary/Evangelical_Seminary_20200728.mrc:1286229:638"
+      ],
+      "title": "Modern thought and the crisis in belief",
+      "number_of_pages": 364,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Bible -- Criticism, interpretation, etc"
+      ],
+      "publish_date": "1909",
+      "publish_country": "nyu",
+      "by_statement": "by R. M. Wenley.",
+      "works": [
+        {
+          "key": "/works/OL241883W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "1513674"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-06T06:21:44.492352"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-08T03:02:45.285847"
+      }
+    },
+    {
+      "publishers": [
+        "The Macmillan company"
+      ],
+      "series": [
+        "Baldwin lectures -- 1909."
+      ],
+      "covers": [
+        5959982
+      ],
+      "key": "/books/OL14028923M",
+      "authors": [
+        {
+          "key": "/authors/OL2539318A"
+        }
+      ],
+      "ocaid": "modernthoughtcri00wenl",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Bible -- Criticism, interpretation, etc"
+      ],
+      "pagination": "xviii p., 1 l., 364 p.",
+      "source_records": [
+        "ia:modernthoughtcri00wenl",
+        "ia:cu31924029237315",
+        "marc:marc_claremont_school_theology/CSTMARC1_barcode.mrc:59687029:1974",
+        "marc:marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:59749161:1974",
+        "ia:modernthoughtcri0000wenl",
+        "marc:marc_columbia/Columbia-extract-20221130-010.mrc:232500269:903"
+      ],
+      "title": "Modern thought and the crisis in belief",
+      "number_of_pages": 364,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:cst:10011343963"
+      ],
+      "publish_date": "1909",
+      "by_statement": "by R. M. Wenley",
+      "oclc_numbers": [
+        "1513674"
+      ],
+      "works": [
+        {
+          "key": "/works/OL241883W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "09006087"
+      ],
+      "lc_classifications": [
+        "BR121 .W46 1909"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-06T06:21:43.576530"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-08-10T12:12:43.274051"
+      }
+    }
+  ]
+}

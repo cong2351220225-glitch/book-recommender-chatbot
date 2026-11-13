@@ -1,0 +1,87 @@
+{
+  "lc_classifications": [
+    "BS2840 .E4 2003"
+  ],
+  "title": "Lost Christianities",
+  "covers": [
+    126979,
+    10887520
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "Ancient Christians knew of far more Gospels than the four that eventually came to be included in the New Testament."
+  },
+  "first_publish_date": "2003",
+  "key": "/works/OL18311W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL23421A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL7959877A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL9166693A"
+      }
+    }
+  ],
+  "subject_times": [
+    "Early church, ca. 30-600",
+    "Primitive and early church, ca. 30-600"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Heresies, Christian",
+    "Criticism, interpretation",
+    "Apocryphal books (New Testament)",
+    "History",
+    "Church history",
+    "Christian Heresies",
+    "Hérésies chrétiennes",
+    "Critique, interprétation",
+    "Apocryphes (Nouveau Testament)",
+    "Christianity",
+    "Bibel",
+    "Église",
+    "Apokryphen",
+    "Heterodoxe stromingen",
+    "Primitive and early church",
+    "Vroege kerk",
+    "Histoire",
+    "Early church",
+    "Apocriefen",
+    "Bible, criticism, interpretation, etc., n. t. apocryphal books",
+    "Heresies and heretics, early church, ca. 30-600",
+    "Church history, primitive and early church, ca. 30-600"
+  ],
+  "description": {
+    "type": "/type/text",
+    "value": "\"In Lost Christianities, Bart D. Ehrman offers a fascinating look at these early forms of Christianity and shows how they came to be suppressed, reformed, or forgotten. All of these groups insisted that they upheld the teachings of Jesus and his apostles, and they all possessed writings that bore out their claims, books reputedly produced by Jesus' own followers. Modern archaeological work has recovered a number of key texts, and as Ehrman shows, these spectacular discoveries reveal religious diversity that says much about the ways in which history gets written by the winners. Ehrman's discussion ranges from considerations of various \"lost scriptures\"--Including forged gospels supposedly written by Simon Peter, Jesus' closest disciple, and Judas Thomas, Jesus' alleged twin brother - to the disparate beliefs of such groups as the Jewish-Christian Ebionites, the anti-Jewish Marcionites, and various \"Gnostic\" sects. Ehrman examines in depth the battles that raged between \"proto-orthodox Christians\"--those who eventually compiled the canonical books of the New Testament and standardized Christian belief - and the groups they denounced as heretics and ultimately overcame.\"--Jacket."
+  },
+  "latest_revision": 10,
+  "revision": 10,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-08T18:30:11.514899"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-31T03:39:50.937366"
+  }
+}

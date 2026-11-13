@@ -1,0 +1,28 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T04:26:29.496983"
+  },
+  "title": "The Blind Atheist",
+  "covers": [
+    756977
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T09:03:45.935007"
+  },
+  "latest_revision": 2,
+  "key": "/works/OL524831W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL36834A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 2
+}

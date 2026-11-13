@@ -1,0 +1,121 @@
+{
+  "links": {
+    "self": "/works/OL2816661W/editions.json",
+    "work": "/works/OL2816661W"
+  },
+  "size": 2,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "1999",
+      "publish_country": "fr",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "title": "D'Aléxis Léger à Saint-John Perse, ou, Decouverte de Saint-John Perse",
+      "by_statement": "Edmond Dupland",
+      "authors": [
+        {
+          "key": "/authors/OL419364A"
+        }
+      ],
+      "oclc_numbers": [
+        "45456993"
+      ],
+      "other_titles": [
+        "Decouverte de Saint-John Perse"
+      ],
+      "subject_people": [
+        "Saint-John Perse (1887-1975)"
+      ],
+      "publishers": [
+        "publisher not identified"
+      ],
+      "publish_places": [
+        "France?]"
+      ],
+      "pagination": "257, xv pages",
+      "number_of_pages": 257,
+      "source_records": [
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:30561125:875",
+        "marc:harvard_bibliographic_metadata/20220215_041.bib.mrc:65367094:1217"
+      ],
+      "full_title": "D'Aléxis Léger à Saint-John Perse, ou, Decouverte de Saint-John Perse",
+      "works": [
+        {
+          "key": "/works/OL2816661W"
+        }
+      ],
+      "key": "/books/OL52272611M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-07-09T09:03:16.358263"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-17T10:28:41.398248"
+      }
+    },
+    {
+      "title": "D'Aléxis Léger à Saint-John Perse, ou, Decouverte de Saint-John Perse",
+      "authors": [
+        {
+          "key": "/authors/OL419364A"
+        }
+      ],
+      "publish_date": "1999",
+      "other_titles": [
+        "Decouverte de Saint-John Perse"
+      ],
+      "publishers": [
+        "s.n."
+      ],
+      "publish_places": [
+        "[France?"
+      ],
+      "oclc_number": [
+        "45456993"
+      ],
+      "pagination": "257, xv p. :",
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "subjects": [
+        "Saint-John Perse, -- 1887-1975"
+      ],
+      "publish_country": "fr ",
+      "by_statement": "Edmond Dupland.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:bcl_marc/bcl_open.03.mrc:515581915:670"
+      ],
+      "key": "/books/OL18285848M",
+      "number_of_pages": 257,
+      "works": [
+        {
+          "key": "/works/OL2816661W"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-15T16:17:20.507771"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-09T14:53:15.259505"
+      }
+    }
+  ]
+}

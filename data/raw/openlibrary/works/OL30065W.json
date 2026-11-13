@@ -1,0 +1,75 @@
+{
+  "description": "Ben and his trained dog, Sancho, run away from the circus and soon find a warm welcome in a kind community where spirited games are played. Theatricals and imaginative pageantry are all part of the fun.",
+  "title": "Under the Lilacs",
+  "dewey_number": [
+    "[Fic]"
+  ],
+  "covers": [
+    7386602,
+    8249972,
+    7002961,
+    7222644,
+    8152507,
+    2758517,
+    10509259,
+    9184250,
+    10897654,
+    5579405,
+    9177624
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "The elm-tree avenue was all overgrown, the great gate was never unlocked, and the old house had been shut up for several years."
+  },
+  "first_publish_date": "1878",
+  "key": "/works/OL30065W",
+  "authors": [
+    {
+      "author": {
+        "key": "/authors/OL26680A"
+      },
+      "type": {
+        "key": "/type/author_role"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "The elm-tree avenue was all overgrown, the great gate was never unlocked, and the old house had been shut up for several years."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Juvenile literature",
+    "Dogs",
+    "Runaways in fiction",
+    "Dogs in fiction",
+    "Friendship in fiction",
+    "Runaways",
+    "Circus performers",
+    "Friendship",
+    "Families",
+    "Family",
+    "Fiction, general",
+    "Children's fiction",
+    "Dogs, fiction",
+    "Friendship, fiction",
+    "Runaways, fiction",
+    "Girls, fiction",
+    "New england, fiction"
+  ],
+  "location": "/works/OL23075335W",
+  "latest_revision": 28,
+  "revision": 28,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2024-11-14T18:04:23.289082"
+  }
+}

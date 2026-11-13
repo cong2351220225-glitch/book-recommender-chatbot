@@ -1,0 +1,100 @@
+{
+  "links": {
+    "self": "/works/OL41064W/editions.json",
+    "work": "/works/OL41064W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "publishers": [
+        "Gallimard"
+      ],
+      "number_of_pages": 1165,
+      "series": [
+        "Bibliothèque de la Pléiade ;"
+      ],
+      "covers": [
+        965799
+      ],
+      "key": "/books/OL2349590M",
+      "authors": [
+        {
+          "key": "/authors/OL28127A"
+        }
+      ],
+      "publish_places": [
+        "[Paris]"
+      ],
+      "contributions": [
+        "Baudelaire, Charles, 1821-1867.",
+        "Le Dantec, Y.-G. 1898-1958."
+      ],
+      "pagination": "xiii, 1165 p. ;",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part19.dat:59831776:916",
+        "marc:marc_loc_2016/BooksAll.2016.part17.utf8:186948337:910",
+        "amazon:2070104540",
+        "marc:harvard_bibliographic_metadata/ab.bib.00.20150123.full.mrc:198430284:982",
+        "marc:harvard_bibliographic_metadata/20220215_023.bib.mrc:228442356:1854"
+      ],
+      "title": "Œuvres en prose",
+      "notes": "Bibliography: p. [1147]-1159.",
+      "identifiers": {
+        "librarything": [
+          "996632"
+        ],
+        "goodreads": [
+          "1712673"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/fre"
+        },
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Poe, Edgar Allan, 1809-1849 -- Translations into French"
+      ],
+      "publish_date": "1951",
+      "publish_country": "fr ",
+      "by_statement": "Edgar Allan Poe ; traduites par Charles Baudelaire ; texte établi et annoté par Y.-G. Le Dantec.",
+      "work_title": [
+        "Prose works."
+      ],
+      "works": [
+        {
+          "key": "/works/OL41064W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "2070104540"
+      ],
+      "lccn": [
+        "86673233"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "PS2604.F5 L35x 1983"
+      ],
+      "oclc_numbers": [
+        "14213916"
+      ],
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-06T16:22:53.429470"
+      }
+    }
+  ]
+}

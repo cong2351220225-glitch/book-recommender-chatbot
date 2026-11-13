@@ -1,0 +1,3239 @@
+{
+  "links": {
+    "self": "/works/OL76991W/editions.json",
+    "work": "/works/OL76991W",
+    "next": "/works/OL76991W/editions.json?offset=50"
+  },
+  "size": 59,
+  "entries": [
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "A Painted House",
+      "publishers": [
+        "Doubleday"
+      ],
+      "publish_date": "2001",
+      "key": "/books/OL35716893M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          ""
+        ]
+      },
+      "isbn_10": [
+        "0739414143"
+      ],
+      "ocaid": "paintedhousenove0000gris_k5c0",
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        12452174,
+        12452173
+      ],
+      "source_records": [
+        "ia:paintedhousenove0000gris_k5c0",
+        "promise:bwb_daily_pallets_2020-04-09"
+      ],
+      "local_id": [
+        "urn:bwbsku:707-BAA-750"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-12-19T16:08:44.347317"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T11:40:54.803965"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2001",
+      "publish_country": "it",
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "oclc_numbers": [
+        "797557313"
+      ],
+      "dewey_decimal_class": [
+        "813.54"
+      ],
+      "other_titles": [
+        "A painted house"
+      ],
+      "series": [
+        "Omnibus"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Tit. orig.: A painted house."
+      },
+      "contributions": [
+        "Mondadori"
+      ],
+      "title": "La casa dipinta",
+      "by_statement": "John Grisham ; traduzione di Tullio Dobner",
+      "publishers": [
+        "Mondadori"
+      ],
+      "publish_places": [
+        "Milano"
+      ],
+      "isbn_10": [
+        "8804490381"
+      ],
+      "isbn_13": [
+        "9788804490388"
+      ],
+      "pagination": "416 p.",
+      "number_of_pages": 416,
+      "ocaid": "lacasadipinta0000gris_p2o8",
+      "source_records": [
+        "ia:lacasadipinta0000gris_p2o8",
+        "amazon:8804490381",
+        "promise:bwb_daily_pallets_2021-06-17"
+      ],
+      "full_title": "La casa dipinta",
+      "covers": [
+        12209743
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "key": "/books/OL35367207M",
+      "local_id": [
+        "urn:bwbsku:KP-280-759"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-28T05:38:08.160341"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T07:20:05.843869"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "A Painted House",
+      "publishers": [
+        "Doubleday"
+      ],
+      "publish_date": "2001-02",
+      "key": "/books/OL33947093M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "038550120X"
+      ],
+      "ocaid": "paintedhousenove0000gris_w4z5",
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        12014326
+      ],
+      "lc_classifications": [
+        "PS3557.R5355P3 2001b"
+      ],
+      "source_records": [
+        "bwb:9780385501200",
+        "marc:marc_columbia/Columbia-extract-20221130-006.mrc:432324306:1997"
+      ],
+      "oclc_numbers": [
+        "49559833"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"The narrator is a farm boy named Luke Chandler, age seven, who lives in the cotton fields with his parents and grandparents in a little house that's never been painted. The Chandlers farm eighty acres that they rent, not own, and when the cotton is ready they hire a truckload of Mexicans and a family from the Ozarks to help harvest it.\".\n\n\"For six weeks they pick cotton, battling the heat, the rain, the fatigue, and, sometimes, each other. As the weeks pass Luke sees and hears things no seven-year-old could possibly be prepared for, and finds himself keeping secrets that not only threaten the crop but will change the lives of the Chandlers forever.\"--BOOK JACKET."
+      },
+      "number_of_pages": 388,
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T14:29:39.442975"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-07-17T08:41:20.632520"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "A Painted House",
+      "publishers": [
+        "Dell"
+      ],
+      "publish_date": "2015?",
+      "key": "/books/OL32934445M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "isbn_10": [
+        "044023722X"
+      ],
+      "ocaid": "paintedhousenove0000gris_a3p0",
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "covers": [
+        11554023
+      ],
+      "source_records": [
+        "bwb:9780440237228"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-05T13:43:28.459003"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T06:21:09.064293"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_date": "2001",
+      "publish_country": "pl",
+      "languages": [
+        {
+          "key": "/languages/pol"
+        }
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "oclc_numbers": [
+        "223696229"
+      ],
+      "work_titles": [
+        "Painted house"
+      ],
+      "series": [
+        "Srebrna seria"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: The painted house.\n\nIn Polish."
+      },
+      "title": "Malowany dom",
+      "by_statement": "John Grisham ; przekład Barbara Przybyłowska",
+      "publishers": [
+        "Amber"
+      ],
+      "publish_places": [
+        "Warszawa"
+      ],
+      "isbn_10": [
+        "8324101780"
+      ],
+      "isbn_13": [
+        "9788324101788"
+      ],
+      "pagination": "286 pages",
+      "number_of_pages": 286,
+      "ocaid": "malowanydom0000gris",
+      "source_records": [
+        "ia:malowanydom0000gris",
+        "promise:bwb_daily_pallets_2021-03-01"
+      ],
+      "covers": [
+        11513012
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "key": "/books/OL32880657M",
+      "local_id": [
+        "urn:bwbsku:KP-467-423"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-27T06:40:42.668226"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T21:19:52.901771"
+      }
+    },
+    {
+      "physical_format": "paperback",
+      "source_records": [
+        "amazon:9022985385",
+        "ia:deerfpachters0000gris",
+        "promise:bwb_daily_pallets_2021-01-15"
+      ],
+      "title": "De Erfpachters",
+      "covers": [
+        11412551
+      ],
+      "isbn_13": [
+        "9789022985380"
+      ],
+      "isbn_10": [
+        "9022985385"
+      ],
+      "publish_date": "May 21, 2001",
+      "key": "/books/OL28120743M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "deerfpachters0000gris",
+      "lc_classifications": [
+        "PS3557.R5355 P3128 2000x"
+      ],
+      "local_id": [
+        "urn:bwbsku:KH-695-073"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-21T03:12:42.802136"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T06:25:04.392906"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "La casa dipinta",
+      "publishers": [
+        "Oscar Mondadori"
+      ],
+      "publish_date": "2003",
+      "key": "/books/OL32776577M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        11408612
+      ],
+      "ocaid": "lacasadipinta0000gris",
+      "isbn_10": [
+        "8804505281"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "lc_classifications": [
+        "PS3557.R5355 P316 2002"
+      ],
+      "source_records": [
+        "ia:lacasadipinta0000gris",
+        "promise:bwb_daily_pallets_2021-01-26"
+      ],
+      "local_id": [
+        "urn:bwbsku:O5-DUN-958"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-10T16:07:32.504887"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-01-15T06:06:21.722293"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "A Painted House",
+      "publishers": [
+        "Random House Large Print"
+      ],
+      "publish_date": "2001",
+      "key": "/books/OL32027262M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        10693508
+      ],
+      "ocaid": "paintedhousenove0000gris_v9z9",
+      "isbn_13": [
+        "9780375431012"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "PS3557.R5355P3 2001"
+      ],
+      "source_records": [
+        "bwb:9780375431012"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-09T19:16:36.304391"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T05:45:43.854927"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "A Painted House",
+      "publishers": [
+        "Doubleday"
+      ],
+      "publish_date": "2001-02",
+      "key": "/books/OL32027216M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        10693449
+      ],
+      "ocaid": "paintedhousenove0000gris_c7k4",
+      "isbn_10": [
+        "038550120X"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-09T18:32:57.048093"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-09T18:33:38.968031"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "title": "La dernière récolte",
+      "publishers": [
+        "Le Grand Livre du Mois"
+      ],
+      "publish_date": "2002-03",
+      "key": "/books/OL32026710M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        10693136
+      ],
+      "ocaid": "laderniererecolt0000gris_v6n1",
+      "isbn_13": [
+        "9782702875636"
+      ],
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-125-676"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2020-07-30"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-09T15:10:38.585716"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-10T03:57:35.617080"
+      }
+    },
+    {
+      "publishers": [
+        "Penguin Random House"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "bwb:9780099537021"
+      ],
+      "title": "Painted House",
+      "number_of_pages": 480,
+      "isbn_13": [
+        "9780099537021"
+      ],
+      "full_title": "Painted House",
+      "lc_classifications": [
+        "PS3557.R5355"
+      ],
+      "publish_date": "2013",
+      "key": "/books/OL28437413M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Arkansas, fiction",
+        "Fiction, historical"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-01T18:39:39.857812"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Debolsillo"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"Septembre de 1952. El algodón está casi a punto en los campos de Arkansas. La cosecha empezará pronto. Luke Chandler es un niño de siete años que vive con su familia en una granja sin pintar. En seis semanas, los Chandler y un grupo de jornaleros llegardos de la sierra y de México tendrán que recoger todo el algodón, que es su sustento y el garante de su supervivencia en el campo. Pero pronto el calor, la lluvia, el cansancio, un asesinato y el descubrimiento de un secreto familiar amenazarán con destruir las esperanzas de los Chandler. Y sacarán a Luke, de un solo golpe, de su inocencia infantil para llevarlo a la vida adulta\"--Cover, p. 4."
+      },
+      "isbn_10": [
+        "8499080820"
+      ],
+      "series": [
+        "Bestseller -- 412/14",
+        "Bestseller (Debolsillo (Firm)) -- 412/14."
+      ],
+      "covers": [
+        8946760
+      ],
+      "full_title": "La granja",
+      "lc_classifications": [
+        "PS3557.R5355 P318 2009"
+      ],
+      "key": "/books/OL27148958M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "Barcelona"
+      ],
+      "contributions": [
+        "Garí Puig, Fernando"
+      ],
+      "subjects": [
+        "Cultivo",
+        "Población rural",
+        "Cotton farmers",
+        "Algodón",
+        "Fiction",
+        "Boys",
+        "Familia",
+        "Vida agrícola",
+        "Muchachos",
+        "Farm life",
+        "Ficción",
+        "Rural families"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "pagination": "445 p.",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run04.mrc:355517017:3204",
+        "promise:bwb_daily_pallets_2022-05-25"
+      ],
+      "title": "La granja",
+      "work_titles": [
+        "Painted house"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: A painted house."
+      },
+      "number_of_pages": 445,
+      "isbn_13": [
+        "9788499080826"
+      ],
+      "edition_name": "1a ed.",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "subject_places": [
+        "Arkansas"
+      ],
+      "local_id": [
+        "urn:sfpl:31223101396233",
+        "urn:sfpl:31223101396225",
+        "urn:sfpl:31223101396217",
+        "urn:bwbsku:P7-CQU-719"
+      ],
+      "publish_date": "2009",
+      "publish_country": "sp",
+      "by_statement": "John Grisham ; traducción de Fernando Garí Puig",
+      "oclc_numbers": [
+        "406166076"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T03:50:49.928892"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-05T06:17:11.420857"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "LA Granja",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "November 2001",
+      "publishers": [
+        "Ediciones B"
+      ],
+      "physical_format": "Paperback",
+      "isbn_13": [
+        "9788466602693"
+      ],
+      "covers": [
+        7882672
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "8466602690"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Spanish: Adult Fiction"
+      ],
+      "source_records": [
+        "amazon:8466602690"
+      ],
+      "key": "/books/OL9134093M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-10T15:03:51.632241"
+      }
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "1853951"
+        ]
+      },
+      "title": "LA Casa Dipinta",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "June 2002",
+      "publishers": [
+        "Mondadori (Italy)"
+      ],
+      "weight": "7.2 ounces",
+      "covers": [
+        5284042
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "isbn_13": [
+        "9788804505518"
+      ],
+      "isbn_10": [
+        "8804505516"
+      ],
+      "oclc_numbers": [
+        "73165001"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.5 x 5 x 0.5 inches",
+      "source_records": [
+        "amazon:8804505516"
+      ],
+      "key": "/books/OL13427866M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-03-09T06:53:10.440606"
+      }
+    },
+    {
+      "title": "Uma casa pintada",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "2002",
+      "publishers": [
+        "Rocco"
+      ],
+      "edition_name": "2.a ed.",
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "isbn_10": [
+        "9727594603"
+      ],
+      "publish_country": "po ",
+      "by_statement": "John Grisham.",
+      "oclc_numbers": [
+        "54367255"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_places": [
+        "Lisboa"
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:950414654:408"
+      ],
+      "key": "/books/OL15527375M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-20T09:04:20.483221"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-12T19:41:48.147512"
+      }
+    },
+    {
+      "title": "Casa Pintada, A",
+      "publish_date": "2001",
+      "publishers": [
+        "Rocco"
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "isbn_13": [
+        "9788532513045"
+      ],
+      "edition_name": "1 edition",
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "8532513042"
+      ],
+      "oclc_numbers": [
+        "49992375"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:8532513042"
+      ],
+      "key": "/books/OL13400194M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-06T11:29:50.015732"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3215169"
+        ]
+      },
+      "title": "Die Farm. 4 Cassetten.",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "July 1, 2002",
+      "publishers": [
+        "Heyne Hörbuch, Mchn."
+      ],
+      "isbn_13": [
+        "9783453863668"
+      ],
+      "covers": [
+        2206240
+      ],
+      "physical_format": "Audio Cassette",
+      "isbn_10": [
+        "3453863666"
+      ],
+      "oclc_numbers": [
+        "163374176"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:3453863666"
+      ],
+      "key": "/books/OL9853956M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-13T08:16:36.370143"
+      }
+    },
+    {
+      "publishers": [
+        "Heyne"
+      ],
+      "number_of_pages": 462,
+      "weight": "1.5 pounds",
+      "covers": [
+        9323610
+      ],
+      "physical_format": "Hardcover",
+      "key": "/books/OL9041537M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "source_records": [
+        "ia:diefarm00gris",
+        "amazon:3453864786"
+      ],
+      "title": "Die Farm. Roman.",
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "112085"
+        ]
+      },
+      "isbn_13": [
+        "9783453864788"
+      ],
+      "isbn_10": [
+        "3453864786"
+      ],
+      "publish_date": "July 1, 2002",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.8 x 1.8 inches",
+      "latest_revision": 15,
+      "revision": 15,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-03-28T16:04:19.992913"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1532461"
+        ],
+        "librarything": [
+          "9448003"
+        ]
+      },
+      "title": "Die Farm. 5 CDs.",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        },
+        {
+          "key": "/authors/OL3287732A"
+        }
+      ],
+      "publish_date": "July 1, 2002",
+      "publishers": [
+        "Ullstein Hörverlag"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "weight": "7.8 ounces",
+      "isbn_13": [
+        "9783550101717"
+      ],
+      "covers": [
+        2231076
+      ],
+      "physical_format": "Audio CD",
+      "isbn_10": [
+        "3550101716"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "5.5 x 5 x 0.9 inches",
+      "source_records": [
+        "amazon:3550101716"
+      ],
+      "key": "/books/OL9700853M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-04T15:34:13.592484"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "3215172"
+        ]
+      },
+      "title": "Die Farm. 5 CDs.",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "July 1, 2002",
+      "publishers": [
+        "Heyne Hörbuch, Mchn."
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "isbn_13": [
+        "9783453863316"
+      ],
+      "physical_format": "Audio CD",
+      "isbn_10": [
+        "3453863313"
+      ],
+      "oclc_numbers": [
+        "163650982"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:3453863313"
+      ],
+      "key": "/books/OL9636155M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-02-11T08:59:43.211150"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1938713"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "La dernière récolte",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "2004",
+      "publishers": [
+        "Robert Laffont"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "series": [
+        "Pocket -- 11909"
+      ],
+      "languages": [
+        {
+          "key": "/languages/fre"
+        }
+      ],
+      "publish_country": "fr ",
+      "by_statement": "John Grisham ; traduit de l'américain par Patrick Berthon.",
+      "publish_places": [
+        "Paris"
+      ],
+      "contributions": [
+        "Berthon, Patrick."
+      ],
+      "isbn_10": [
+        "2266132105"
+      ],
+      "ocaid": "ladernirercolte0000gris",
+      "covers": [
+        10692989
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1115106591:512"
+      ],
+      "key": "/books/OL16354886M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-23T12:17:52.115982"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-16T13:24:40.518288"
+      }
+    },
+    {
+      "publishers": [
+        "Robert Laffont"
+      ],
+      "number_of_pages": 382,
+      "weight": "1.3 pounds",
+      "covers": [
+        9323449
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL12459907M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        },
+        {
+          "key": "/authors/OL3128403A"
+        }
+      ],
+      "ocaid": "laderniererecolt0000gris",
+      "source_records": [
+        "ia:laderniererecolt0000gris",
+        "amazon:2221095375"
+      ],
+      "title": "La Dernière récolte",
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "1137961"
+        ]
+      },
+      "isbn_13": [
+        "9782221095379"
+      ],
+      "isbn_10": [
+        "2221095375"
+      ],
+      "publish_date": "April 8, 2002",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.4 x 6.1 x 1.3 inches",
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-10-29T23:01:44.701950"
+      }
+    },
+    {
+      "publishers": [
+        "Dell"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "227528"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "subtitle": "a novel",
+      "ia_box_id": [
+        "IA108114"
+      ],
+      "isbn_10": [
+        "044023722X"
+      ],
+      "pagination": "465 p. ;",
+      "covers": [
+        9322919
+      ],
+      "key": "/books/OL18384124M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "ocaid": "paintedhouse00gris",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Cotton farmers -- Arkansas -- Fiction",
+        "Nineteen fifties -- Fiction",
+        "Boys -- Arkansas -- Fiction",
+        "Migrant labor -- Arkansas -- Fiction"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "classifications": {},
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/pcc_bibs.mrc_rev.mrc:114990519:720",
+        "ia:paintedhouse00gris",
+        "ia:paintedhous00gris",
+        "ia:paintedhousenove2003gris",
+        "ia:paintedhouse00",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run02.mrc:214006244:1802",
+        "ia:paintedhousenove0000gris_w4z5",
+        "marc:marc_scms/20220805_ADAM_MARC_records.mrc:59187319:2026",
+        "promise:bwb_daily_pallets_2022-05-25"
+      ],
+      "title": "A painted house",
+      "number_of_pages": 465,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223074829830",
+        "urn:sfpl:31223056439681",
+        "urn:scms:0188600526639",
+        "urn:bwbsku:W7-CEJ-123"
+      ],
+      "publish_date": "2002",
+      "publish_country": "nyu",
+      "by_statement": "by John Grisham.",
+      "oclc_numbers": [
+        "48665467"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lccn": [
+        "2001266464"
+      ],
+      "lc_classifications": [
+        "PS3557.R5355 P3 2001b",
+        "PS3557.R5355 P148 2002"
+      ],
+      "latest_revision": 27,
+      "revision": 27,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-16T11:51:07.109579"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-05T06:47:09.954410"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "209596"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "A painted house a novel",
+      "isbn_13": [
+        "9780736661799"
+      ],
+      "physical_format": "Audio cassette",
+      "isbn_10": [
+        "0736661794"
+      ],
+      "oclc_numbers": [
+        "45905069"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0736661794"
+      ],
+      "key": "/books/OL7893381M",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-26T18:28:43.646155"
+      }
+    },
+    {
+      "publishers": [
+        "Doubleday Large Print",
+        "BCA"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "85143"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "subtitle": "a novel",
+      "isbn_10": [
+        "0739414143"
+      ],
+      "pagination": "642 p. (large print)",
+      "covers": [
+        9323517
+      ],
+      "physical_format": "Large Print",
+      "key": "/books/OL20942627M",
+      "ocaid": "paintedhouselarg00gris",
+      "publish_places": [
+        "New York"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:57248121:1026",
+        "ia:paintedhouselarg00gris",
+        "amazon:0739414143"
+      ],
+      "title": "A painted house",
+      "notes": {
+        "type": "/type/text",
+        "value": "156,302-LP"
+      },
+      "number_of_pages": 642,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Boys -- Fiction",
+        "Farm life -- Fiction",
+        "Rural families -- Fiction",
+        "Cotton farmers -- Fiction",
+        "Large type books",
+        "Arkansas -- Fiction"
+      ],
+      "publish_date": "2001",
+      "publish_country": "nyu",
+      "by_statement": "by John Grisham.",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-31T04:15:13.455215"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-04T19:38:21.419022"
+      }
+    },
+    {
+      "publishers": [
+        "Arrow Books Ltd"
+      ],
+      "weight": "10.7 ounces",
+      "covers": [
+        73433
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9272192M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "subjects": [
+        "Adventure / thriller",
+        "Modern fiction",
+        "Fiction"
+      ],
+      "edition_name": "New Ed edition",
+      "source_records": [
+        "amazon:0099416158:o-6:2416439238:213691",
+        "amazon:0099416158:7:2018674111:214840"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "goodreads": [
+          "45149"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "isbn_13": [
+        "9780099416159"
+      ],
+      "isbn_10": [
+        "0099416158"
+      ],
+      "publish_date": "March 1, 2007",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "7.1 x 4.4 x 1.3 inches",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-06T20:27:39.411970"
+      }
+    },
+    {
+      "publishers": [
+        "Random House Large Print"
+      ],
+      "number_of_pages": 562,
+      "subtitle": "a novel",
+      "isbn_10": [
+        "0375431012"
+      ],
+      "subject_place": [
+        "Arkansas"
+      ],
+      "pagination": "562 p. (large print) ;",
+      "covers": [
+        9323520
+      ],
+      "lc_classifications": [
+        "PS3557.R5355 P3 2001"
+      ],
+      "url": [
+        "http://www.loc.gov/catdir/bios/random052/00068040.html",
+        "http://www.loc.gov/catdir/samples/random042/00068040.html",
+        "http://www.loc.gov/catdir/description/random044/00068040.html"
+      ],
+      "key": "/books/OL6796463M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "ocaid": "paint00gris",
+      "publish_places": [
+        "New York"
+      ],
+      "uri_descriptions": [
+        "Contributor biographical information",
+        "Sample text",
+        "Publisher description"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part01.dat:20780720:1134",
+        "ia:paint00gris"
+      ],
+      "title": "A painted house",
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "984002"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "00068040"
+      ],
+      "subjects": [
+        "Boys -- Fiction",
+        "Farm life -- Fiction",
+        "Rural families -- Fiction",
+        "Cotton farmers -- Fiction",
+        "Large type books",
+        "Arkansas -- Fiction"
+      ],
+      "publish_date": "2001",
+      "publish_country": "nyu",
+      "by_statement": "by John Grisham.",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/bios/random052/00068040.html",
+        "http://www.loc.gov/catdir/samples/random042/00068040.html",
+        "http://www.loc.gov/catdir/description/random044/00068040.html"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-06T20:27:21.103763"
+      }
+    },
+    {
+      "publishers": [
+        "BCA"
+      ],
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2332403577:365"
+      ],
+      "title": "A painted house",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2000",
+      "publish_country": "xxk",
+      "key": "/books/OL21833670M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "by_statement": "a novel by John Grisham.",
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-04T06:35:36.149834"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "45149"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "A Painted House",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "March 1, 2007",
+      "publishers": [
+        "Arrow Books Ltd",
+        "Arrow/Children S (a Division of Random House"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-05-20:KO-397-845",
+        "amazon:0099416158:o-6:2416439238:213691",
+        "amazon:0099416158:7:2018674111:214840",
+        "bwb:9780099416159",
+        "promise:bwb_daily_pallets_2021-05-19:KO-507-577",
+        "promise:bwb_daily_pallets_2021-05-17:KO-447-719",
+        "promise:bwb_daily_pallets_2021-05-12:KP-050-921",
+        "promise:bwb_daily_pallets_2021-05-12:KO-754-736",
+        "promise:bwb_daily_pallets_2021-05-11:KP-043-192",
+        "promise:bwb_daily_pallets_2021-05-11:KP-082-800",
+        "promise:bwb_daily_pallets_2021-05-07:KO-693-310",
+        "promise:bwb_daily_pallets_2021-05-06:KO-711-871",
+        "promise:bwb_daily_pallets_2020-11-19:KO-455-642"
+      ],
+      "covers": [
+        10681284
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "0099416158"
+      ],
+      "isbn_13": [
+        "9780099416159"
+      ],
+      "ocaid": "paintedhousenove0000gris",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-397-845",
+        "urn:bwbsku:KO-507-577",
+        "urn:bwbsku:KO-447-719",
+        "urn:bwbsku:KP-050-921",
+        "urn:bwbsku:KO-754-736",
+        "urn:bwbsku:KP-043-192",
+        "urn:bwbsku:KP-082-800",
+        "urn:bwbsku:KO-693-310",
+        "urn:bwbsku:KO-711-871",
+        "urn:bwbsku:KO-455-642"
+      ],
+      "key": "/books/OL7317537M",
+      "number_of_pages": 480,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 34,
+      "revision": 34,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T16:54:30.640664"
+      }
+    },
+    {
+      "publishers": [
+        "Turtleback Books Distributed by Demco Media"
+      ],
+      "weight": "9.6 ounces",
+      "physical_format": "Turtleback",
+      "key": "/books/OL10942579M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "subjects": [
+        "Suspense",
+        "Fiction",
+        "Mystery/Suspense"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0606276211"
+      ],
+      "title": "Painted House",
+      "identifiers": {
+        "goodreads": [
+          "2420966"
+        ]
+      },
+      "isbn_13": [
+        "9780606276214"
+      ],
+      "isbn_10": [
+        "0606276211"
+      ],
+      "publish_date": "December 2001",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.8 x 4.2 x 1.2 inches",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Delta"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "5360"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "covers": [
+        240141
+      ],
+      "lc_classifications": [
+        ""
+      ],
+      "key": "/books/OL7439419M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0385337930:20:2026540240:258567",
+        "bwb:9780385337939"
+      ],
+      "title": "A Painted House",
+      "number_of_pages": 384,
+      "isbn_13": [
+        "9780385337939"
+      ],
+      "isbn_10": [
+        "0385337930"
+      ],
+      "publish_date": "February 3, 2004",
+      "oclc_numbers": [
+        "54472069"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The hill people and the Mexicans arrived on the same day."
+      },
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-06T20:26:55.528041"
+      }
+    },
+    {
+      "publishers": [
+        "Random House Audiobooks"
+      ],
+      "weight": "7 ounces",
+      "covers": [
+        3007163
+      ],
+      "physical_format": "Audio CD",
+      "key": "/books/OL12006575M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "contributions": [
+        "David Lansbury (Narrator)",
+        "Anthony Heald (Narrator)"
+      ],
+      "subjects": [
+        "Modern fiction",
+        "Fiction"
+      ],
+      "source_records": [
+        "amazon:1856867447"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "goodreads": [
+          "983998"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "isbn_13": [
+        "9781856867443"
+      ],
+      "isbn_10": [
+        "1856867447"
+      ],
+      "publish_date": "February 1, 2001",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "5.6 x 4.8 x 1 inches",
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Random House Group Limited"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11g.mrc:787438:2455",
+        "bwb:9781407098142"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "overdrive": [
+          "BD5AF7C8-6B57-4413-AF6A-52A70434FB9B"
+        ]
+      },
+      "isbn_13": [
+        "9781407098142"
+      ],
+      "covers": [
+        6403315
+      ],
+      "physical_format": "Electronic resource",
+      "publish_date": "2010",
+      "publish_country": "nyu",
+      "key": "/books/OL24255324M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-17T02:38:40.424106"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Ediciones B"
+      ],
+      "number_of_pages": 461,
+      "isbn_10": [
+        "8466603301"
+      ],
+      "series": [
+        "La Trama",
+        "Trama (Ediciones B (Firm))"
+      ],
+      "pagination": "461 p. ;",
+      "key": "/books/OL23057523M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "Barcelona"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "genres": [
+        "Fiction.",
+        "Ficción."
+      ],
+      "source_records": [
+        "marc:SanFranPL10/SanFranPL10.out:65033786:1446",
+        "promise:bwb_daily_pallets_2021-07-26"
+      ],
+      "title": "La granja",
+      "work_titles": [
+        "Painted house."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: A painted house."
+      },
+      "identifiers": {
+        "goodreads": [
+          "1888926"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "edition_name": "1a ed.",
+      "subjects": [
+        "Boys -- Fiction",
+        "Farm life -- Fiction",
+        "Rural families -- Fiction",
+        "Cotton farmers -- Fiction",
+        "Muchachos -- Ficción",
+        "Vida agrícola -- Ficción",
+        "Familias rurales -- Ficción",
+        "Granjeros de algodón -- Ficción",
+        "Arkansas -- Fiction",
+        "Arkansas -- Ficción"
+      ],
+      "publish_date": "2001",
+      "publish_country": "sp ",
+      "by_statement": "John Grisham ; [traducción de Ma. Antonia Menini].",
+      "oclc_numbers": [
+        "48421916"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:O7-DGU-457"
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T07:42:16.051288"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T03:57:49.611132"
+      }
+    },
+    {
+      "publishers": [
+        "AST",
+        "Khranitelʹ"
+      ],
+      "number_of_pages": 382,
+      "pagination": "382 p. ;",
+      "key": "/books/OL23104928M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "Moskva"
+      ],
+      "contributions": [
+        "Danilov, I."
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:SanFranPL14/SanFranPL14.out:62987163:2052",
+        "ia:pokrashennyidom0000gris",
+        "amazon:5170376804",
+        "promise:bwb_daily_pallets_2021-05-14"
+      ],
+      "title": "Pokrashennyĭ dom",
+      "work_titles": [
+        "Painted house."
+      ],
+      "identifiers": {
+        "goodreads": [
+          "2168872"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/rus"
+        }
+      ],
+      "subjects": [
+        "Boys -- Fiction",
+        "Farm life -- Fiction",
+        "Arkansas -- Fiction"
+      ],
+      "publish_date": "2006",
+      "publish_country": "ru ",
+      "by_statement": "Dzhon Grishėm ; [per. s angl. I. Danilova].",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12172205
+      ],
+      "ocaid": "pokrashennyidom0000gris",
+      "isbn_10": [
+        "5170376804"
+      ],
+      "isbn_13": [
+        "9785170376803"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "813"
+      ],
+      "lc_classifications": [
+        "PS3557.R5355 P3117 2006"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-DHY-037"
+      ],
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T17:36:57.042259"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T11:59:43.868478"
+      }
+    },
+    {
+      "publishers": [
+        "BCA"
+      ],
+      "pagination": "388p.",
+      "subtitle": "a novel.",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2333182772:371"
+      ],
+      "title": "A painted house",
+      "number_of_pages": 388,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2000",
+      "publish_country": "xxk",
+      "key": "/books/OL21834147M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "London"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-04T06:41:11.432502"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Random House Publishing Group"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "The hill people and the Mexicans arrived on the same day. It was a Wednesday, early in September 1952. The Cardinals were five games behind the Dodgers with three weeks to go, and the season looked hopeless. The cotton, however, was waist-high to my father, over my head, and he and my grandfather could be heard before supper whispering words that were seldom heard. It could be a \"good crop.\"Thus begins the new novel from John Grisham, a story inspired by his own childhood in rural Arkansas. The narrator is a farm boy named Luke Chandler, age seven, who lives in the cotton fields with his parents and grandparents in a little house that's never been painted. The Chandlers farm eighty acres that they rent, not own, and when the cotton is ready they hire a truckload of Mexicans and a family from the Ozarks to help harvest it.For six weeks they pick cotton, battling the heat, the rain, the fatigue, and, sometimes, each other. As the weeks pass Luke sees and hears things no seven-year-old could possibly be prepared for, and finds himself keeping secrets that not only threaten the crop but will change the lives of the Chandlers forever.A Painted House is a moving story of one boy's journey from innocence to experience."
+      },
+      "source_records": [
+        "marc_overdrive/InternetArchiveCrMarc-2010-06-11b.mrc:6494377:2464"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "overdrive": [
+          "B320F3FF-E717-4D5A-916F-17489F558B18"
+        ]
+      },
+      "isbn_13": [
+        "9780307576040"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2010-06-22T18:41:22.657750"
+      },
+      "physical_format": "E-book",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-04-06T16:21:15.837173"
+      },
+      "publish_date": "2010",
+      "publish_country": "nyu",
+      "key": "/books/OL24282763M",
+      "latest_revision": 5,
+      "publish_places": [
+        "New York"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "656398363"
+      ],
+      "revision": 5
+    },
+    {
+      "publishers": [
+        "Random House Audiobooks",
+        "Gardners Books"
+      ],
+      "weight": "6.4 ounces",
+      "physical_format": "Audio Cassette",
+      "key": "/books/OL12006574M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "contributions": [
+        "David Lansbury (Narrator)"
+      ],
+      "subjects": [
+        "Modern fiction",
+        "Fiction"
+      ],
+      "source_records": [
+        "amazon:1856867137"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "goodreads": [
+          "984722"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "isbn_13": [
+        "9781856867139"
+      ],
+      "isbn_10": [
+        "1856867137"
+      ],
+      "publish_date": "February 1, 2001",
+      "oclc_numbers": [
+        "49547134"
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "5.5 x 4.2 x 1.4 inches",
+      "covers": [
+        13929654
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T20:50:18.033121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-13T07:57:42.604475"
+      }
+    },
+    {
+      "publishers": [
+        "Dell"
+      ],
+      "classifications": {},
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-04-06T17:43:43.283666"
+      },
+      "title": "A Painted House",
+      "identifiers": {},
+      "covers": [
+        9322921
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2013-05-21T02:18:09.033657"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0440295912"
+      ],
+      "publish_date": "2001-09",
+      "key": "/books/OL25427019M",
+      "ocaid": "paintedhouse00",
+      "latest_revision": 5,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5
+    },
+    {
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "983999"
+        ]
+      },
+      "title": "A painted house",
+      "subtitle": "a novel",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "2001",
+      "publishers": [
+        "QPD",
+        "Dell Publishing Co.. Inc.",
+        "Ebury Publishing"
+      ],
+      "ia_box_id": [
+        "IA184301"
+      ],
+      "isbn_10": [
+        "0712670645"
+      ],
+      "pagination": "388 p. ;",
+      "covers": [
+        9323516
+      ],
+      "ia_loaded_id": [
+        "paintedhousenove00gris_0"
+      ],
+      "ocaid": "paintedhousenove00gris_0",
+      "publish_places": [
+        "London"
+      ],
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-06-28:W6-AIW-071",
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:2278491658:774",
+        "ia:paintedhousenove00gris_0",
+        "ia:paintedhousenove0000gris",
+        "ia:isbn_9780712670449",
+        "promise:bwb_daily_pallets_2020-11-24:KO-515-743",
+        "bwb:9780712670647"
+      ],
+      "dewey_decimal_class": [
+        "813.54"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Boys -- Arkansas -- Fiction",
+        "Farm life -- Arkansas -- Fiction",
+        "Cotton farmers -- Arkansas -- Fiction",
+        "Nineteen fifties -- Fiction",
+        "Migrant labor -- Arkansas -- Fiction"
+      ],
+      "publish_country": "enk",
+      "by_statement": "by John Grisham.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:W6-AIW-071",
+        "urn:bwbsku:KO-515-743"
+      ],
+      "key": "/books/OL18899600M",
+      "number_of_pages": 388,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-20T12:08:34.130686"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-06-17T06:05:13.209283"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1030977"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "A Painted House",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "February 1, 2001",
+      "publishers": [
+        "Century"
+      ],
+      "weight": "1.9 pounds",
+      "covers": [
+        450675
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Adventure / thriller",
+        "Modern fiction",
+        "Fiction"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-05-24:KO-631-440",
+        "amazon:0712670394:cl:1121587571:221604",
+        "amazon:0712670394",
+        "promise:bwb_daily_pallets_2021-05-21:KO-714-558",
+        "promise:bwb_daily_pallets_2021-05-20:KO-540-180",
+        "promise:bwb_daily_pallets_2021-05-19:KO-517-977",
+        "promise:bwb_daily_pallets_2021-05-10:KP-005-964",
+        "promise:bwb_daily_pallets_2021-05-07:KO-999-600"
+      ],
+      "isbn_13": [
+        "9780712670395"
+      ],
+      "isbn_10": [
+        "0712670394"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.2 x 6.2 x 1.3 inches",
+      "local_id": [
+        "urn:bwbsku:KO-631-440",
+        "urn:bwbsku:KO-714-558",
+        "urn:bwbsku:KO-540-180",
+        "urn:bwbsku:KO-517-977",
+        "urn:bwbsku:KP-005-964",
+        "urn:bwbsku:KO-999-600"
+      ],
+      "key": "/books/OL7794595M",
+      "number_of_pages": 400,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 23,
+      "revision": 23,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T14:02:59.341843"
+      }
+    },
+    {
+      "publishers": [
+        "Tandem Library"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0613494512:cc:291249567:264616",
+        "amazon:0613494512"
+      ],
+      "title": "Painted House",
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "1030976"
+        ]
+      },
+      "covers": [
+        392558
+      ],
+      "isbn_13": [
+        "9780613494519"
+      ],
+      "isbn_10": [
+        "0613494512"
+      ],
+      "publish_date": "August 2001",
+      "key": "/books/OL7600186M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The hill people and the Mexicans arrived on the same day."
+      },
+      "number_of_pages": 480,
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-02-16T11:34:44.001198"
+      }
+    },
+    {
+      "publishers": [
+        "Perfection Learning Prebound"
+      ],
+      "source_records": [
+        "amazon:0756909309:2-ar:3643270694:248406"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "goodreads": [
+          "2416063"
+        ]
+      },
+      "isbn_13": [
+        "9780756909307"
+      ],
+      "physical_format": "Unknown Binding",
+      "isbn_10": [
+        "0756909309"
+      ],
+      "publish_date": "September 2001",
+      "key": "/books/OL9730247M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Fiction"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The hill people and the Mexicans arrived on the same day."
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "526966"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "title": "A Painted House",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "September 6, 2001",
+      "publishers": [
+        "Century"
+      ],
+      "covers": [
+        10686464
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "Modern fiction",
+        "Fiction"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2021-05-17:KO-548-122",
+        "amazon:0712670440:cl:1122273111:208173",
+        "bwb:9780712670449",
+        "promise:bwb_daily_pallets_2021-05-17:KO-396-447",
+        "promise:bwb_daily_pallets_2021-05-14:KO-807-043",
+        "promise:bwb_daily_pallets_2021-05-11:KO-933-797"
+      ],
+      "edition_name": "New Ed edition",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "0712670440"
+      ],
+      "isbn_13": [
+        "9780712670449"
+      ],
+      "ocaid": "isbn_9780712670449",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:bwbsku:KO-548-122",
+        "urn:bwbsku:KO-396-447",
+        "urn:bwbsku:KO-807-043",
+        "urn:bwbsku:KO-933-797"
+      ],
+      "key": "/books/OL7794598M",
+      "number_of_pages": 400,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 21,
+      "revision": 21,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-02-28T13:58:08.621736"
+      }
+    },
+    {
+      "publishers": [
+        "Doubleday"
+      ],
+      "number_of_pages": 388,
+      "ia_box_id": [
+        "IA105817"
+      ],
+      "isbn_10": [
+        "038550120X"
+      ],
+      "pagination": "388 p. cm.",
+      "covers": [
+        6549273
+      ],
+      "key": "/books/OL23269954M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "ocaid": "paintedhousenove00gris",
+      "publish_places": [
+        "New York"
+      ],
+      "genres": [
+        "Fiction"
+      ],
+      "source_records": [
+        "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:57018305:944",
+        "marc:marc_ithaca_college/ic_marc.mrc:179062788:1008",
+        "ia:paintedhousenove00gris"
+      ],
+      "title": "A painted house",
+      "notes": {
+        "type": "/type/text",
+        "value": "154,159\n\n154,160\n\n154,251"
+      },
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "984003"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Boys -- Fiction"
+      ],
+      "publish_date": "2001",
+      "publish_country": "nyu",
+      "by_statement": "by John Grisham.",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-05-29T19:55:08.797433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "984003",
+          "984002",
+          "392782"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "subtitle": "a novel",
+      "subject_place": [
+        "Arkansas"
+      ],
+      "covers": [
+        9323333
+      ],
+      "local_id": [
+        "urn:phillips:31867000888227",
+        "urn:bwbsku:W7-BZM-443"
+      ],
+      "lc_classifications": [
+        "PS3557.R5355 P3 2001b",
+        "PS3557.R5355 P3 2001"
+      ],
+      "ocaid": "painte00gris",
+      "uri_descriptions": [
+        "Contributor biographical information",
+        "Sample text",
+        "Publisher description"
+      ],
+      "edition_name": "1st ed.",
+      "genres": [
+        "Fiction."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part13.dat:152420801:1177",
+        "ia:paintedhousenove00gris",
+        "ia:painte00gris",
+        "marc:marc_openlibraries_phillipsacademy/PANO_FOR_IA_05072019.mrc:77509606:2602",
+        "marc:marc_loc_2016/BooksAll.2016.part01.utf8:48979769:1134",
+        "marc:marc_loc_2016/BooksAll.2016.part29.utf8:3900109:1177",
+        "ia:paintedhousenove0000gris_c7k4",
+        "ia:paintedhousenove0000gris_v9z9",
+        "promise:bwb_daily_pallets_2022-07-28",
+        "marc:marc_nuls/NULS_PHC_180925.mrc:156661958:1289",
+        "marc:harvard_bibliographic_metadata/20220215_011.bib.mrc:807567:4836"
+      ],
+      "title": "A  painted house",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Boys -- Fiction",
+        "Farm life -- Fiction",
+        "Rural families -- Fiction",
+        "Cotton farmers -- Fiction",
+        "Arkansas -- Fiction"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "by John Grisham.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "uris": [
+        "http://www.loc.gov/catdir/bios/random053/2001266464.html",
+        "http://www.loc.gov/catdir/samples/random042/2001266464.html",
+        "http://www.loc.gov/catdir/description/random044/2001266464.html"
+      ],
+      "publishers": [
+        "Doubleday"
+      ],
+      "ia_box_id": [
+        "IA105817"
+      ],
+      "key": "/books/OL3962539M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "lccn": [
+        "2001266464"
+      ],
+      "pagination": "388 p. ; 25 cm.",
+      "url": [
+        "http://www.loc.gov/catdir/bios/random053/2001266464.html",
+        "http://www.loc.gov/catdir/samples/random042/2001266464.html",
+        "http://www.loc.gov/catdir/description/random044/2001266464.html"
+      ],
+      "number_of_pages": 388,
+      "isbn_13": [
+        "9780385501200"
+      ],
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "isbn_10": [
+        "038550120X",
+        "0375431012",
+        "0385501218"
+      ],
+      "publish_date": "2001",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "oclc_numbers": [
+        "301832819",
+        "49559833"
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"The hill people and the Mexicans arrived on the same day. It was a Wednesday, early in September 1952. The Cardinals were five games behind the Dodgers with three weeks to go, and the season looked hopeless. The cotton, however, was waist-high to my father, over my head, and he and my grandfather could be heard before supper whispering words that were seldom heard. It could be a 'good crop'.\" Thus begins from author John Grisham, a story inspired by his own childhood in rural Arkansas. The narrator is a farm boy named Luke Chandler, age seven, who lives in the cotton fields with his parents and grandparents in a little house that's never been painted. The Chandlers farm eighty acres that they rent, not own, and when the cotton is ready they hire a truckload of Mexicans and a family from the Ozarks to help harvest it. For six weeks they pick cotton, battling the heat, the rain, the fatigue, and, sometimes, each other. As the weeks pass Luke sees and hears things no seven-year-old could possibly be prepared for, and finds himself keeping secrets that not only threaten the crop but will change the lives of the Chandlers forever. This is a moving story of one boy's journey from innocence to experience."
+      },
+      "latest_revision": 24,
+      "revision": 24,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-07-28T00:38:11.076029"
+      }
+    },
+    {
+      "publishers": [
+        "Dell"
+      ],
+      "number_of_pages": 480,
+      "covers": [
+        9323521
+      ],
+      "key": "/books/OL7520189M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "ocaid": "paintedhous00gris",
+      "isbn_13": [
+        "9780440237228"
+      ],
+      "source_records": [
+        "amazon:044023722X:bk:1097287250:264062",
+        "ia:paintedhous00gris"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "227528"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "044023722X"
+      ],
+      "publish_date": "December 26, 2001",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The hill people and the Mexicans arrived on the same day."
+      },
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Doubleday"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0553698664:by:16015137:152340"
+      ],
+      "title": "A Painted House",
+      "identifiers": {
+        "goodreads": [
+          "334502"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "isbn_13": [
+        "9780553698664"
+      ],
+      "physical_format": "Hardcover",
+      "isbn_10": [
+        "0553698664"
+      ],
+      "publish_date": "2001",
+      "key": "/books/OL7850042M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Fiction"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-23T12:15:47.795599"
+      }
+    },
+    {
+      "publishers": [
+        "Ediciones B"
+      ],
+      "weight": "1.7 pounds",
+      "covers": [
+        12449421
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL9418983M",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "contributions": [
+        "M. A. Antonia Menini (Translator)"
+      ],
+      "subjects": [
+        "General",
+        "Fiction",
+        "Fiction - General",
+        "Spanish: Adult Fiction"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "title": "La Granja",
+      "identifiers": {
+        "goodreads": [
+          "1888926"
+        ],
+        "librarything": [
+          "861174"
+        ]
+      },
+      "publish_date": "2001-03",
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 6 x 1.5 inches",
+      "isbn_10": [
+        "8466603301"
+      ],
+      "isbn_13": [
+        "9788466603300"
+      ],
+      "ocaid": "lagranja0000gris",
+      "classifications": {},
+      "source_records": [
+        "ia:lagranja0000gris"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T03:12:54.297237"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Punto de Lectura"
+      },
+      "identifiers": {
+        "librarything": [
+          "861174"
+        ],
+        "goodreads": [
+          "473499"
+        ]
+      },
+      "title": "La Granja / a Painted House",
+      "authors": [
+        {
+          "key": "/authors/OL39329A"
+        }
+      ],
+      "publish_date": "March 15, 2002",
+      "publishers": [
+        "Punto de Lectura"
+      ],
+      "weight": "9.4 ounces",
+      "covers": [
+        1047739
+      ],
+      "physical_format": "Mass Market Paperback",
+      "subjects": [
+        "Reading materials",
+        "Fiction",
+        "Fiction - General",
+        "Spanish: Adult Fiction",
+        "General",
+        "Spanish language"
+      ],
+      "isbn_13": [
+        "9788466305921"
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "isbn_10": [
+        "8466305920"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.7 x 4.3 x 0.8 inches",
+      "source_records": [
+        "amazon:8466305920"
+      ],
+      "key": "/books/OL9133963M",
+      "number_of_pages": 496,
+      "works": [
+        {
+          "key": "/works/OL76991W"
+        }
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-06-02T21:17:02.568496"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2327 @@
+{
+  "links": {
+    "self": "/works/OL74504W/editions.json",
+    "work": "/works/OL74504W",
+    "next": "/works/OL74504W/editions.json?offset=50"
+  },
+  "size": 387,
+  "entries": [
+    {
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL8336888A"
+        }
+      ],
+      "publish_date": "2015",
+      "type": {
+        "key": "/type/edition"
+      },
+      "dewey_decimal_class": [
+        "813/.52"
+      ],
+      "isbn_13": [
+        "9781516998753"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "bwb:9781516998753"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "weight": "0.295",
+      "full_title": "White Fang",
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Raul Bracho"
+        }
+      ],
+      "key": "/books/OL55621477M",
+      "number_of_pages": 156,
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T10:56:47.953831"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-21T13:18:22.014610"
+      }
+    },
+    {
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL9605723A"
+        }
+      ],
+      "publish_date": "2016",
+      "type": {
+        "key": "/type/edition"
+      },
+      "dewey_decimal_class": [
+        "813/.52"
+      ],
+      "isbn_13": [
+        "9781537527260"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publishers": [
+        "Bookstore"
+      ],
+      "source_records": [
+        "bwb:9781537527260"
+      ],
+      "weight": "0.364",
+      "full_title": "White Fang",
+      "key": "/books/OL55626042M",
+      "number_of_pages": 202,
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-09-28T11:31:38.790036"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-08-21T13:18:41.501129"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1907",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 368,
+      "ocaid": "bwb_KU-093-442",
+      "source_records": [
+        "ia:bwb_KU-093-442"
+      ],
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58632659M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T19:26:40.543121"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1933-01-01",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 294,
+      "publishers": [
+        "Grosset & Dunlap"
+      ],
+      "ocaid": "bwb_O8-BSY-366",
+      "source_records": [
+        "ia:bwb_O8-BSY-366"
+      ],
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58645467M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T00:11:41.626631"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang ",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1970",
+      "number_of_pages": 230,
+      "ocaid": "bwb_P9-AGA-908",
+      "source_records": [
+        "ia:bwb_P9-AGA-908"
+      ],
+      "full_title": "White Fang ",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58659950M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T08:00:21.803329"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1916",
+      "number_of_pages": 258,
+      "ocaid": "bwb_P9-EDT-287",
+      "source_records": [
+        "ia:bwb_P9-EDT-287"
+      ],
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58678804M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T12:10:03.399983"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1906",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 350,
+      "publishers": [
+        "Grosset & Dunlap Publishers"
+      ],
+      "ocaid": "bwb_W9-DEE-369",
+      "source_records": [
+        "ia:bwb_W9-DEE-369"
+      ],
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58728850M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-28T03:22:09.187512"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang ",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "1983",
+      "languages": [
+        {
+          "key": "/languages/jpn"
+        }
+      ],
+      "number_of_pages": 344,
+      "ocaid": "bwb_Y0-AGS-322",
+      "source_records": [
+        "ia:bwb_Y0-AGS-322"
+      ],
+      "full_title": "White Fang ",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL58732835M",
+      "covers": [
+        15207273
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-04-28T04:21:20.532107"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-04-07T22:50:04.962948"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9781442937802"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2008",
+      "publishers": [
+        "ReadHowYouWant.com, Limited"
+      ],
+      "source_records": [
+        "bwb:9781442937802"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44238426M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T17:41:13.333171"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "2015",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_13": [
+        "9781596881853"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "260",
+      "publishers": [
+        "Large Print Book Company, The"
+      ],
+      "source_records": [
+        "bwb:9781596881853",
+        "promise:bwb_daily_pallets_2022-12-05",
+        "ia:whitefang0000jack_b3s9"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "weight": "0.300",
+      "full_title": "White Fang",
+      "local_id": [
+        "urn:bwbsku:P8-AZT-783"
+      ],
+      "ocaid": "whitefang0000jack_b3s9",
+      "key": "/books/OL44251711M",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "covers": [
+        14534828
+      ],
+      "number_of_pages": 266,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T19:21:17.080696"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9781520066592"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2016",
+      "publishers": [
+        "Dreamscape Media, LLC"
+      ],
+      "source_records": [
+        "bwb:9781520066592"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44269412M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T20:54:48.652981"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9781520066608"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2016",
+      "publishers": [
+        "Dreamscape Media, LLC"
+      ],
+      "source_records": [
+        "bwb:9781520066608"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44271822M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:03:51.428131"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9781454939832"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "64",
+      "publish_date": "2020",
+      "publishers": [
+        "Sterling Publishing Co., Inc."
+      ],
+      "source_records": [
+        "bwb:9781454939832"
+      ],
+      "subjects": [
+        "Dogs, fiction",
+        "Wolves, fiction",
+        "Children's fiction"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44280328M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:35:28.922639"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798360829997"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "258",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798360829997"
+      ],
+      "title": "White Fang",
+      "weight": "0.395",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44284801M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T21:50:15.755822"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798358279339"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "139",
+      "publish_date": "2022",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798358279339"
+      ],
+      "title": "White Fang",
+      "weight": "0.332",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44316313M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-17T23:42:29.105473"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00N25BNKQ"
+        ],
+        "better_world_books": [
+          "BWB31395590"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P8-AGL-436"
+      ],
+      "publish_date": "1967-01-01",
+      "publishers": [
+        "The Macmillan Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-12-19"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL44783513M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-22T08:29:36.532433"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "2013-10-12",
+      "type": {
+        "key": "/type/edition"
+      },
+      "isbn_10": [
+        "149297403X"
+      ],
+      "isbn_13": [
+        "9781492974031"
+      ],
+      "local_id": [
+        "urn:bwbsku:KR-579-021"
+      ],
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-12-28",
+        "ia:whitefang0000jack_o2a7",
+        "bwb:9781492974031"
+      ],
+      "full_title": "White Fang",
+      "ocaid": "whitefang0000jack_o2a7",
+      "key": "/books/OL45615621M",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "covers": [
+        14534829
+      ],
+      "number_of_pages": 228,
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-10T21:46:36.673237"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_10": [
+        "8883373642"
+      ],
+      "isbn_13": [
+        "9788883373640"
+      ],
+      "local_id": [
+        "urn:bwbsku:O5-NPB-291"
+      ],
+      "publish_date": "2015-12-01",
+      "publishers": [
+        "Library Classics"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-08-13"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL45658564M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T04:06:40.742130"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "identifiers": {
+        "amazon": [
+          "B00N25BNKQ"
+        ],
+        "better_world_books": [
+          "BWB31395590"
+        ]
+      },
+      "local_id": [
+        "urn:bwbsku:P1-BEY-497"
+      ],
+      "publish_date": "1967-01-01",
+      "publishers": [
+        "The Macmillan Company"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2022-05-23"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL45696047M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2023-01-14T07:24:47.510897"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-03T18:48:23.084151"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "title": "Colmillo Blanco",
+      "publishers": [
+        "El País"
+      ],
+      "publish_date": "2004",
+      "key": "/books/OL60552821M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "depósito_legal": [
+          "M 187-2004"
+        ],
+        "goodreads": [
+          "8653539"
+        ],
+        "librarything": [
+          "4784"
+        ]
+      },
+      "covers": [
+        15136797
+      ],
+      "isbn_10": [
+        "849624623X"
+      ],
+      "oclc_numbers": [
+        "433654986"
+      ],
+      "classifications": {
+        "udc": [
+          "821.111(73)-31\"18\""
+        ]
+      },
+      "publish_places": [
+        "Madrid, España"
+      ],
+      "series": [
+        "El País - Aventuras No. 15"
+      ],
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "María del Mar Hernández"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "translation_of": "White Fang",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Paperback",
+      "number_of_pages": 260,
+      "pagination": "260 p. ; 20 cm",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2025-10-28T16:33:30.424979"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-10-28T16:38:27.457281"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "title": "Wolfsblut",
+      "publishers": [
+        "Rowohlt"
+      ],
+      "publish_date": "1952-12",
+      "key": "/books/OL56147427M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14821677
+      ],
+      "identifiers": {
+        "bookbrainz": [
+          "95b10a31-c7ab-4ed1-853c-af4edb181c7f"
+        ]
+      },
+      "classifications": {},
+      "edition_name": "76.-100. Tausend",
+      "series": [
+        "rororo 19"
+      ],
+      "languages": [
+        {
+          "key": "/languages/ger"
+        }
+      ],
+      "translation_of": "White Fang",
+      "translated_from": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "physical_format": "Taschenbuch",
+      "number_of_pages": 149,
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T15:50:58.626606"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-10-01T15:52:38.883649"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Colmillo blanco",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "Apr 13, 2014",
+      "source_records": [
+        "amazon:9871784155"
+      ],
+      "publishers": [
+        "SALIM"
+      ],
+      "isbn_10": [
+        "9871784155"
+      ],
+      "isbn_13": [
+        "9789871784158"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Colmillo blanco",
+      "covers": [
+        10848601
+      ],
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL32199069M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-04-13T01:29:40.985486"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-23T06:59:16.204865"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Caninos Brancos",
+      "authors": [
+        {
+          "key": "/authors/OL2965820A"
+        }
+      ],
+      "publish_date": "Jan 01, 2014",
+      "source_records": [
+        "amazon:8563560859"
+      ],
+      "publishers": [
+        "Penguin-Companhia",
+        "Penguin"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Caninos Brancos (Em Portugues do Brasil)",
+      "full_title": "Caninos Brancos",
+      "covers": [
+        12370651
+      ],
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35665043M",
+      "identifiers": {},
+      "isbn_10": [
+        "8563560859"
+      ],
+      "isbn_13": [
+        "9788563560858"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Translator",
+          "name": "Sonia Moreira"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/por"
+        }
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-14T00:15:40.069835"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-10T08:45:56.477799"
+      }
+    },
+    {
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "title": "Zanna Bianca",
+      "publishers": [
+        "Canguro editore"
+      ],
+      "publish_date": "2011",
+      "key": "/books/OL35676260M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        12376872
+      ],
+      "ocaid": "zannabianca0000lond",
+      "classifications": {},
+      "languages": [
+        {
+          "key": "/languages/ita"
+        }
+      ],
+      "source_records": [
+        "ia:zannabianca0000lond",
+        "promise:bwb_daily_pallets_2024-01-17:KT-778-835"
+      ],
+      "local_id": [
+        "urn:bwbsku:KT-778-835"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-21T15:18:37.761405"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-01-19T01:08:06.767665"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798542987415"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798542987415"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35198553M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-11T01:42:21.423471"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798531545985"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798531545985"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35198102M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-11T01:38:43.354341"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798517341891"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798517341891"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35196739M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-11T01:27:10.566602"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798527019117"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798527019117"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.395",
+      "pagination": "257",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35165140M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-10T20:54:35.993425"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798713646691"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798713646691"
+      ],
+      "title": "White Fang",
+      "weight": "0.305",
+      "pagination": "164",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35120005M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-10T13:56:37.579501"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798542310862"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798542310862"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35058594M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-10T04:39:15.007778"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798738894206"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798738894206"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.400",
+      "pagination": "260",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35017739M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-09T22:38:54.771339"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798532524347"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 260,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798532524347"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.400",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34347297M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T05:59:55.964728"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T21:52:44.994039"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798529089170"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 260,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798529089170"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.400",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34326607M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T02:46:54.044628"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:03:37.242357"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798513547662"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 186,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798513547662"
+      ],
+      "title": "White Fang (Annotated)",
+      "weight": "0.336",
+      "full_title": "White Fang (Annotated)",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34315292M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-02T01:04:09.742933"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:04:50.418210"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798518925397"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 321,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798518925397"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.423",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34307117M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T23:49:51.521215"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T21:44:40.854585"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798716266322"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 217,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798716266322"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.391",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34303692M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T23:20:45.467002"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T21:30:51.395627"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798726637075"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 257,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798726637075"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.395",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34292651M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T21:42:49.689799"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:03:44.502285"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798512975251"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 260,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798512975251"
+      ],
+      "title": "White Fang Illustrated",
+      "weight": "0.400",
+      "full_title": "White Fang Illustrated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34261204M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T16:34:02.767949"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:03:44.042535"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798726824987"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 249,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798726824987"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34250977M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T14:59:48.904305"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:08:22.872903"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798749169102"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 249,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798749169102"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34221388M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T03:29:31.323195"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T21:41:28.421279"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL8395304A"
+        },
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798739466389"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 189,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798739466389"
+      ],
+      "title": "White Fang : (Illustrated)",
+      "weight": "0.564",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34207246M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-01T00:46:45.686766"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:05:04.078277"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9781951652326"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2020",
+      "publishers": [
+        "Hanley Media"
+      ],
+      "source_records": [
+        "bwb:9781951652326"
+      ],
+      "subjects": [
+        "American fiction (fictional works by one author)"
+      ],
+      "title": "White Fang",
+      "full_title": "White Fang",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34186022M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T21:25:14.136812"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:04:08.503740"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798515079307"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 272,
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798515079307"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.418",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL34145155M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T14:34:14.811419"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-04-07T22:03:28.886694"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "Sep 29, 2018",
+      "source_records": [
+        "amazon:1724148125",
+        "bwb:9781724148124"
+      ],
+      "number_of_pages": 190,
+      "publishers": [
+        "Independently Published",
+        "Independently published"
+      ],
+      "isbn_10": [
+        "1724148125"
+      ],
+      "isbn_13": [
+        "9781724148124"
+      ],
+      "physical_format": "paperback",
+      "full_title": "White Fang",
+      "covers": [
+        11569341
+      ],
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL32955449M",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-08-09T04:49:09.318238"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-21T05:39:00.853399"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "Nov 18, 2018",
+      "source_records": [
+        "amazon:1731706499"
+      ],
+      "number_of_pages": 226,
+      "publishers": [
+        "Simon & Brown"
+      ],
+      "isbn_10": [
+        "1731706499"
+      ],
+      "isbn_13": [
+        "9781731706492"
+      ],
+      "physical_format": "paperback",
+      "full_title": "White Fang",
+      "covers": [
+        12079029
+      ],
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35264716M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-13T02:13:38.249839"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "White Fang",
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "publish_date": "Jan 30, 2016",
+      "source_records": [
+        "amazon:1523779764"
+      ],
+      "number_of_pages": 184,
+      "publishers": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "isbn_10": [
+        "1523779764"
+      ],
+      "isbn_13": [
+        "9781523779765"
+      ],
+      "physical_format": "paperback",
+      "full_title": "White Fang",
+      "covers": [
+        12101619
+      ],
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35289594M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-17T07:25:51.345675"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798466897289"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798466897289"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35237362M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-11T07:26:17.659327"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798500307583"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798500307583"
+      ],
+      "title": "White Fang Annotated",
+      "weight": "0.386",
+      "pagination": "249",
+      "full_title": "White Fang Annotated",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35248082M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-11T09:00:23.865878"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798538495740"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798538495740"
+      ],
+      "title": "White Fang",
+      "weight": "0.400",
+      "pagination": "259",
+      "subtitle": "Jack London  [Annotated]",
+      "full_title": "White Fang Jack London  [Annotated]",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35184310M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-10T23:40:13.494830"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL44633A"
+        }
+      ],
+      "isbn_13": [
+        "9798500537256"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2021",
+      "publishers": [
+        "Independently Published"
+      ],
+      "source_records": [
+        "bwb:9798500537256"
+      ],
+      "title": "White Fang Novel by Jack London:(Annotated Edition)",
+      "weight": "0.382",
+      "pagination": "245",
+      "full_title": "White Fang Novel by Jack London:(Annotated Edition)",
+      "works": [
+        {
+          "key": "/works/OL74504W"
+        }
+      ],
+      "key": "/books/OL35046662M",
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-10T02:55:59.841867"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-23T11:33:51.453311"
+      }
+    }
+  ]
+}

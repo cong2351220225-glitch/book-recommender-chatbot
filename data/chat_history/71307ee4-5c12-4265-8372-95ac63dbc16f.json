@@ -1,0 +1,20 @@
+{
+  "id": "71307ee4-5c12-4265-8372-95ac63dbc16f",
+  "title": "Thư viện hiện có bao nhiêu cuốn sách?",
+  "timestamp": "2026-11-03 13:29:02",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thư viện hiện có bao nhiêu cuốn sách?",
+      "timestamp": "13:29"
+    },
+    {
+      "role": "assistant",
+      "content": "Hiện tại kho thư viện có 208 cuốn sách. 📚",
+      "timestamp": "13:29",
+      "sources": [],
+      "locations": [],
+      "intent": "library_info"
+    }
+  ]
+}

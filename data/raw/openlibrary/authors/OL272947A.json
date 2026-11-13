@@ -1,0 +1,75 @@
+{
+  "name": "Douglas Adams",
+  "bio": {
+    "type": "/type/text",
+    "value": "Douglas Noël Adams (Cambridge, England, 11 March 1952 – Santa Barbara, California, 11 May 2001) was an English author, humourist, and screenwriter. He wrote *The Hitchhiker's Guide to the Galaxy,* which originated in 1978 as a BBC radio comedy, before developing into a \"trilogy\" of five books that sold more than 14 million copies in his lifetime. He also adapted it into a 1981 television series, a 1984 video game and a posthumously-released 2005 feature film. Douglas died unexpectedly of a sudden heart attack at the age of 49."
+  },
+  "alternate_names": [
+    "Adams Douglas",
+    "DOUGLAS ADAMS",
+    "Douglas Noël Adams"
+  ],
+  "source_records": [
+    "amazon:1849906750",
+    "amazon:0671432419",
+    "amazon:1529044197",
+    "amazon:8599296973",
+    "amazon:0739332090",
+    "amazon:056350496X",
+    "amazon:0787108960",
+    "amazon:6053756172",
+    "amazon:8580415594",
+    "promise:bwb_daily_pallets_2023-05-24:KH-448-676"
+  ],
+  "type": {
+    "key": "/type/author"
+  },
+  "links": [
+    {
+      "title": "DouglasAdams.com",
+      "url": "http://www.douglasadams.com/",
+      "type": {
+        "key": "/type/link"
+      }
+    },
+    {
+      "title": "en.wikipedia.org/wiki/Douglas_Adams",
+      "url": "https://en.wikipedia.org/wiki/Douglas_Adams",
+      "type": {
+        "key": "/type/link"
+      }
+    }
+  ],
+  "birth_date": "11 March 1952",
+  "photos": [
+    6387387,
+    5898485,
+    5898473
+  ],
+  "death_date": "11 May 2001",
+  "remote_ids": {
+    "wikidata": "Q42",
+    "viaf": "113230702",
+    "isni": "0000000080456315",
+    "bookbrainz": "307812da-da11-4ee5-a906-31e5ce9694bb",
+    "musicbrainz": "e9ed318d-8cc5-4cf8-ab77-505e39ab6ea4",
+    "goodreads": "4",
+    "imdb": "nm0010930",
+    "lc_naf": "n80076765",
+    "librarything": "adamsdouglas-1",
+    "opac_sbn": "RAVV034417",
+    "amazon": "B000AQ2A84"
+  },
+  "personal_name": "Douglas Adams",
+  "key": "/authors/OL272947A",
+  "latest_revision": 24,
+  "revision": 24,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-07-27T20:14:58.607910"
+  }
+}

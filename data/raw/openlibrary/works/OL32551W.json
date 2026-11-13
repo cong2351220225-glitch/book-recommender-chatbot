@@ -1,0 +1,45 @@
+{
+  "first_publish_date": "1986",
+  "description": {
+    "type": "/type/text",
+    "value": "With clear instructions from his mother to take only one petcare job for the summer, Oliver secretly fills the garage with animals that he tries to take care of without her knowing."
+  },
+  "title": "Secret of the old garage",
+  "lc_classifications": [
+    "PZ7.M4783 Se 1986"
+  ],
+  "key": "/works/OL32551W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL24966A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "[Fic]"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Pets",
+    "Fiction"
+  ],
+  "covers": [
+    12661612
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T02:04:21.803530"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-03-10T06:35:58.058346"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "5c3bbaaa-88bc-43b7-b635-527886a4edca",
+  "title": "Tôi muốn tìm nhà sách gần đây.",
+  "timestamp": "2026-11-03 03:06:30",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi muốn tìm nhà sách gần đây.",
+      "timestamp": "03:06"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm nhà sách ở khu vực, thành phố hoặc quận nào? (Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn)",
+      "timestamp": "03:06",
+      "sources": [],
+      "locations": [],
+      "intent": "location_bookstore"
+    }
+  ]
+}

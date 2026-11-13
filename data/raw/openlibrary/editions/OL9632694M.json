@@ -1,0 +1,51 @@
+{
+  "publishers": [
+    "Sagebrush"
+  ],
+  "physical_format": "Library Binding",
+  "source_records": [
+    "amazon:0833520628:2-ao:4274751402:177538"
+  ],
+  "title": "Day with the Dinosaurs (Choose Your Own Adventure #46)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T09:38:13.731961"
+  },
+  "isbn_13": [
+    "9780833520623"
+  ],
+  "edition_name": "Rebound edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "isbn_10": [
+    "0833520628"
+  ],
+  "publish_date": "November 30, 2003",
+  "key": "/books/OL9632694M",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T10:14:51.113371"
+  },
+  "latest_revision": 2,
+  "subjects": [
+    "Children: Grades 2-3"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30085W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "id": 12951873,
+  "revision": 2
+}

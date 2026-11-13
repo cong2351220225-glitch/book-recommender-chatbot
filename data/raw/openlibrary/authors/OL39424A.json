@@ -1,0 +1,15 @@
+{
+  "name": "Alan Rabinowitz",
+  "personal_name": "Alan Rabinowitz",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-12 08:31:37.687237"
+  },
+  "key": "/authors/OL39424A",
+  "birth_date": "1953",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 99125,
+  "revision": 2
+}

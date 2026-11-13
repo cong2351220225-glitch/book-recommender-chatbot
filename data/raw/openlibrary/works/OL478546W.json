@@ -1,0 +1,38 @@
+{
+  "covers": [
+    1524565
+  ],
+  "key": "/works/OL478546W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL29986A"
+      }
+    }
+  ],
+  "title": "The Italian 100",
+  "subject_places": [
+    "Italy"
+  ],
+  "subjects": [
+    "Biography",
+    "Celebrities",
+    "Italy, biography"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "latest_revision": 6,
+  "revision": 6,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-08T03:08:02.564024"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-11-02T14:54:19.863450"
+  }
+}

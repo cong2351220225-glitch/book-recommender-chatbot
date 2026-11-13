@@ -1,0 +1,74 @@
+{
+  "publishers": [
+    "Earthwalk School of Astrology"
+  ],
+  "number_of_pages": 250,
+  "weight": "14.4 ounces",
+  "covers": [
+    732133
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL8555145M",
+  "authors": [
+    {
+      "key": "/authors/OL248417A"
+    }
+  ],
+  "subjects": [
+    "New Age / Body, Mind & Spirit",
+    "Body, Mind & Spirit",
+    "New Age",
+    "Astrology - General",
+    "New Age / Parapsychology"
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "When a soul incarnates, it carries with it a pattern of the heavens that existed at the moment of birth."
+  },
+  "title": "Relationship Analysis (Astrology: a Language of Life)",
+  "identifiers": {
+    "goodreads": [
+      "3230525"
+    ],
+    "librarything": [
+      "544509"
+    ]
+  },
+  "isbn_13": [
+    "9780966897838"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0966897838"
+  ],
+  "publish_date": "October 2004",
+  "works": [
+    {
+      "key": "/works/OL2045582W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.4 x 5.5 x 0.7 inches",
+  "local_id": [
+    "urn:bwbsku:S0-BAS-381"
+  ],
+  "source_records": [
+    "promise:bwb_daily_pallets_2024-11-04:S0-BAS-381"
+  ],
+  "latest_revision": 7,
+  "revision": 7,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-30T06:33:27.187047"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-10-03T22:34:21.847889"
+  }
+}

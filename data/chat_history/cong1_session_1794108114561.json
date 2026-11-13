@@ -1,0 +1,149 @@
+{
+  "id": "session_1794108114561",
+  "title": "Tôi muốn tìm nhà sách gần đây",
+  "timestamp": "2026-11-08 10:26:28",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tôi muốn tìm nhà sách gần đây",
+      "timestamp": "10:21"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm nhà sách ở khu vực, thành phố hoặc quận nào? (Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn)",
+      "timestamp": "10:21",
+      "sources": [],
+      "locations": [],
+      "intent": "location_bookstore"
+    },
+    {
+      "role": "user",
+      "content": "đà nẵng",
+      "timestamp": "10:22"
+    },
+    {
+      "role": "assistant",
+      "content": "Đã ghi nhận khu vực của bạn là **Đà Nẵng**. Bạn muốn tìm nhà sách hay thư viện ở khu vực này?",
+      "timestamp": "10:22",
+      "sources": [],
+      "locations": [],
+      "intent": "set_location"
+    },
+    {
+      "role": "user",
+      "content": "thư viện",
+      "timestamp": "10:22"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin lỗi bạn, hiện tại hệ thống của tôi chỉ tập trung vào việc hỗ trợ tìm kiếm và chọn các cuốn sách có trong thư viện. Tôi không có dữ liệu để tìm kiếm vị trí hay địa chỉ các thư viện/nhà sách thực tế ngoài đời thực tại Đà Nẵng. \n\nNếu bạn cần tư vấn hoặc tìm chọn sách theo chủ đề, thể loại hay sở thích, bạn hãy cho tôi biết nhé!",
+      "timestamp": "10:22",
+      "sources": [
+        {
+          "document": "Title: Vũ trụ\nAuthor: Carl Sagan\nGenre: Khoa học\nPublication year: 1980\nTags: vũ trụ, không gian, khoa học\nTarget audience: Độc giả ham khám phá\nMood: Muốn thư giãn\nDifficulty: Dễ đọc\nSummary: Một chuyến du hành qua vũ trụ và khoa học.\nDescription: Cuốn sách phổ biến khoa học đưa người đọc khám phá nguồn gốc vũ trụ, sự sống và vị trí của con người trong không gian.",
+          "metadata": {
+            "title": "Vũ trụ",
+            "mood": "Muốn thư giãn",
+            "book_id": "book_014",
+            "year": 1980,
+            "tags": "vũ trụ, không gian, khoa học",
+            "author": "Carl Sagan",
+            "rating": 4.8,
+            "target_audience": "Độc giả ham khám phá",
+            "genre": "Khoa học",
+            "difficulty": "Dễ đọc",
+            "featured": true,
+            "author_id": "carl-sagan"
+          },
+          "distance": 0.32482653856277466
+        },
+        {
+          "document": "Title: Trí tuệ nhân tạo: Một cách tiếp cận hiện đại\nAuthor: Stuart Russell và Peter Norvig\nGenre: AI\nPublication year: 2020\nTags: AI, máy học, tác tử\nTarget audience: Sinh viên công nghệ\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toàn diện về trí tuệ nhân tạo.\nDescription: Giáo trình nền tảng về trí tuệ nhân tạo, bao quát tác tử thông minh, tìm kiếm, học máy, xác suất và xử lý ngôn ngữ.",
+          "metadata": {
+            "year": 2020,
+            "author": "Stuart Russell và Peter Norvig",
+            "mood": "Muốn học hỏi",
+            "featured": true,
+            "rating": 4.6,
+            "difficulty": "Chuyên sâu",
+            "author_id": "russell-norvig",
+            "genre": "AI",
+            "book_id": "book_012",
+            "tags": "AI, máy học, tác tử",
+            "target_audience": "Sinh viên công nghệ",
+            "title": "Trí tuệ nhân tạo: Một cách tiếp cận hiện đại"
+          },
+          "distance": 0.32883816957473755
+        },
+        {
+          "document": "Title: Deep Learning\nAuthor: Ian Goodfellow; Yoshua Bengio; Aaron Courville\nGenre: AI\nPublication year: 2016\nTags: AI, deep learning, mạng nơ-ron\nTarget audience: Người học chuyên sâu\nMood: Muốn học hỏi\nDifficulty: Chuyên sâu\nSummary: Nền tảng toán học và kỹ thuật học sâu.\nDescription: Tài liệu chuyên sâu về mạng nơ-ron và học sâu, từ nền tảng toán học đến các phương pháp tối ưu và ứng dụng.",
+          "metadata": {
+            "featured": false,
+            "author_id": "goodfellow-bengio-courville",
+            "title": "Deep Learning",
+            "rating": 4.5,
+            "difficulty": "Chuyên sâu",
+            "author": "Ian Goodfellow; Yoshua Bengio; Aaron Courville",
+            "genre": "AI",
+            "year": 2016,
+            "mood": "Muốn học hỏi",
+            "book_id": "book_013",
+            "tags": "AI, deep learning, mạng nơ-ron",
+            "target_audience": "Người học chuyên sâu"
+          },
+          "distance": 0.32900524139404297
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "nhà sách",
+      "timestamp": "10:25"
+    },
+    {
+      "role": "assistant",
+      "content": "Ở Đà Nẵng, có một số nhà sách lớn và nổi tiếng mà bạn có thể tham khảo:\n\n1. **Nhà sách Đà Nẵng:** 41 Lê Duẩn, Q. Hải Châu\n2. **Nhà sách Phương Nam:** Tầng 3 Vincom Plaza (Ngô Quyền) hoặc 252 Bạch Đằng, Q. Hải Châu\n3. **Nhà sách Fahasa:** Tầng 3 Lotte Mart Đà Nẵng hoặc trong siêu thị Co.opmart Đà Nẵng (478 Điện Biên Phủ)\n4. **Nhà sách Nhã Nam:** 19 Nguyễn Thị Minh Khai, Q. Hải Châu\n5. **Nhà sách Kim Đồng:** 102 Phan Châu Trinh, Q. Hải Châu\n\nNếu bạn muốn tìm sách theo tác giả, thể loại hoặc nhà xuất bản cụ thể trên hệ thống thư viện sách điện tử, bạn cứ nhắn cho mình nhé!",
+      "timestamp": "10:25",
+      "sources": [],
+      "locations": [],
+      "intent": "out_of_domain"
+    },
+    {
+      "role": "user",
+      "content": "Tìm thư viện gần đây ở Đà Nẵng",
+      "timestamp": "10:26"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **1** thư viện gần khu vực **Đà Nẵng** dành cho bạn:",
+      "timestamp": "10:26",
+      "sources": [],
+      "locations": [
+        {
+          "title": "Thư viện Đà Nẵng",
+          "name": "Thư viện Đà Nẵng",
+          "address": "33 Trần Phú, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.5,
+          "reviews": 335,
+          "type": "['Thư viện quốc gia']",
+          "types": [],
+          "open_state": "Đang mở cửa · Đóng cửa vào 11:30 · Mở lại vào 13:30",
+          "hours": "[{'chủ nhật': '07:30–11:30, 13:30–17:00'}, {'thứ hai': 'Đóng cửa'}, {'thứ ba': '07:30–11:30, 13:30–17:00'}, {'thứ tư': '07:30–11:30, 13:30–17:00'}, {'thứ năm': '07:30–11:30, 13:30–17:00'}, {'thứ sáu': '07:30–11:30'}, {'thứ bảy': '07:30–11:30, 13:30–17:00'}]",
+          "phone": "",
+          "website": "https://thuvien.danang.gov.vn/",
+          "description": "",
+          "latitude": 16.0738274,
+          "longitude": 108.22406629999999,
+          "place_id": "ChIJOfF0RjAYQjERVkbdHH4RTV4",
+          "data_id": "0x314218304674f139:0x5e4d117e1cdd4656",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdhY7NlsKJ1hYm7OJqCp9YmvVU_oij28j4S0P8KUfnDBFoHZF4U1zjmf2FPmIw-i4UIU5-FE5TtsAO-TdKBDlpZwwOk7LsqA2bXuXn_07Uc2VRdpNJwtv38EGgOTZejUn-Ajju_CAE3gVE=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Th%C6%B0+vi%E1%BB%87n+%C4%90%C3%A0+N%E1%BA%B5ng%2C+33+Tr%E1%BA%A7n+Ph%C3%BA%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Th%C6%B0+vi%E1%BB%87n+%C4%90%C3%A0+N%E1%BA%B5ng%2C+33+Tr%E1%BA%A7n+Ph%C3%BA%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "intent": "location_library"
+    }
+  ]
+}

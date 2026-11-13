@@ -1,0 +1,38 @@
+{
+  "title": "Tajemnica chińskiego pokoju",
+  "key": "/works/OL109506W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL29655A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Technology",
+    "Social aspects",
+    "Philosophy",
+    "Technology and civilization",
+    "Social aspects of Technology"
+  ],
+  "covers": [
+    2206696
+  ],
+  "first_publish_date": "October 1, 2000",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T23:16:23.155408"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-03-03T14:15:24.891611"
+  }
+}

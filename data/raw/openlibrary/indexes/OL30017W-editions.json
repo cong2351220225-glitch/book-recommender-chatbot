@@ -1,0 +1,275 @@
+{
+  "links": {
+    "self": "/works/OL30017W/editions.json",
+    "work": "/works/OL30017W"
+  },
+  "size": 4,
+  "entries": [
+    {
+      "publishers": [
+        "Kessinger Publishing, LLC"
+      ],
+      "number_of_pages": 48,
+      "weight": "4 ounces",
+      "covers": [
+        1800582
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-12T13:28:03.430093"
+      },
+      "latest_revision": 4,
+      "key": "/books/OL9847160M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "subjects": [
+        "Classic fiction",
+        "Juvenile Fiction",
+        "Children's Books/Ages 9-12 Fiction",
+        "Children: Grades 4-6",
+        "Classics",
+        "Juvenile Fiction / Classics"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Marjorie sat on the door-step, shelling peas, quite unconscious what a pretty picture she made, with the roses peeping at her through the lattice work of the porch, the wind playing hide-and-seek in her curly hair, while the sunshine with its silent magic changed her faded gingham to a golden gown, and shimmered on the bright tin pan as if it were a silver shield."
+      },
+      "source_records": [
+        "amazon:1419132717:2-aw:4499767878:167503"
+      ],
+      "title": "Marjorie's Three Gifts",
+      "identifiers": {
+        "librarything": [
+          "1587621"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "isbn_13": [
+        "9781419132711"
+      ],
+      "isbn_10": [
+        "1419132717"
+      ],
+      "publish_date": "June 17, 2004",
+      "works": [
+        {
+          "key": "/works/OL30017W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.8 x 7.2 x 0.2 inches",
+      "revision": 4
+    },
+    {
+      "publishers": [
+        "Little, Brown"
+      ],
+      "covers": [
+        6536663
+      ],
+      "lc_classifications": [
+        "PZ7.A335 M1899x",
+        "PZ7.A335 Mar 1899"
+      ],
+      "key": "/books/OL23317623M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "marjoriesthreegi00alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "41 p. [4] leaves of plates :",
+      "source_records": [
+        "ia:marjoriesthreegi00alco",
+        "marc:marc_loc_2016/BooksAll.2016.part40.utf8:170434385:1224"
+      ],
+      "title": "Marjorie's three gifts",
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "number_of_pages": 41,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2012658684"
+      ],
+      "publish_date": "1899",
+      "publish_country": "mau",
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30017W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "oclc_numbers": [
+        "5092836"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-06-01T19:55:54.914616"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T11:43:30.237427"
+      }
+    },
+    {
+      "identifiers": {
+        "goodreads": [
+          "1355205"
+        ]
+      },
+      "title": "Marjorie's Three Gifts (Large Print)",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "publish_date": "November 2, 2006",
+      "publishers": [
+        "Echo Library"
+      ],
+      "weight": "2.9 ounces",
+      "covers": [
+        1759240
+      ],
+      "physical_format": "Paperback",
+      "subjects": [
+        "General & Literary Fiction",
+        "General",
+        "Fiction / General",
+        "Fiction",
+        "Fiction - General"
+      ],
+      "edition_name": "Lrg edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Marjorie sat on the door-step, shelling peas, quite unconscious what a pretty picture she made, with the roses peeping at her through the lattice work of the porch, the wind playing hide-and-seek in her curly hair, while the sunshine with its silent magic changed her faded gingham to a golden gown, and shimmered on the bright tin pan as if it were a silver shield."
+      },
+      "isbn_13": [
+        "9781406832952"
+      ],
+      "isbn_10": [
+        "1406832952"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.8 x 0.3 inches",
+      "source_records": [
+        "amazon:1406832952"
+      ],
+      "key": "/books/OL8411522M",
+      "number_of_pages": 48,
+      "works": [
+        {
+          "key": "/works/OL30017W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-08T23:59:39.267946"
+      }
+    },
+    {
+      "publishers": [
+        "Little, Brown"
+      ],
+      "covers": [
+        6965926
+      ],
+      "ia_loaded_id": [
+        "marjoriesthreegi0alco"
+      ],
+      "lc_classifications": [
+        "PZ7.A335 M1899x"
+      ],
+      "key": "/books/OL13441761M",
+      "authors": [
+        {
+          "key": "/authors/OL26680A"
+        }
+      ],
+      "ocaid": "marjoriesthreegi0alco",
+      "publish_places": [
+        "Boston"
+      ],
+      "pagination": "41 p. [4] leaves of plates :",
+      "source_records": [
+        "marc:bpl_marc/bpl113.mrc:29973892:658",
+        "ia:marjoriesthreegi0alco",
+        "marc:marc_columbia/Columbia-extract-20221130-032.mrc:61378704:1965"
+      ],
+      "title": "Marjorie's three gifts",
+      "dewey_decimal_class": [
+        "F"
+      ],
+      "publish_date": "1899",
+      "location": [
+        "BPL1SP"
+      ],
+      "by_statement": "by Louisa M. Alcott.",
+      "works": [
+        {
+          "key": "/works/OL30017W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "publish_country": "mau",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 41,
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-05-29T16:44:46.024029"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-07T11:43:32.807265"
+      }
+    }
+  ]
+}

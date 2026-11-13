@@ -1,0 +1,60 @@
+{
+  "publishers": [
+    "Knopf"
+  ],
+  "number_of_pages": 104,
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2011-04-29T12:57:35.908788"
+  },
+  "source_records": [
+    "amazon:0375709746:19:763220801:152727"
+  ],
+  "title": "Cenotaph",
+  "identifiers": {
+    "librarything": [
+      "1238743"
+    ],
+    "goodreads": [
+      "1315249"
+    ]
+  },
+  "isbn_13": [
+    "9780375709746"
+  ],
+  "covers": [
+    228968
+  ],
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0375709746"
+  ],
+  "publish_date": "September 25, 2001",
+  "key": "/books/OL7426520M",
+  "authors": [
+    {
+      "key": "/authors/OL26309A"
+    }
+  ],
+  "latest_revision": 7,
+  "oclc_numbers": [
+    "48188245"
+  ],
+  "works": [
+    {
+      "key": "/works/OL27349W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 7
+}

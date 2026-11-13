@@ -1,0 +1,18 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-16T00:22:57.847081"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-16T23:12:00.806384"
+  },
+  "latest_revision": 2,
+  "location": "/works/OL59837W",
+  "key": "/works/OL59838W",
+  "type": {
+    "key": "/type/redirect"
+  },
+  "id": 34851642,
+  "revision": 2
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Cracking the MAT (Miller Analogies Test), 1997 ed",
+  "first_publish_date": "June 3, 1996",
+  "key": "/works/OL2117568W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL263218A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Miller analogies test"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:56:23.678361"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2021-09-29T01:23:56.596577"
+  }
+}

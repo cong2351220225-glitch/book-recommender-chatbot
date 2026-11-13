@@ -1,0 +1,89 @@
+{
+  "publishers": [
+    "Skylark"
+  ],
+  "number_of_pages": 117,
+  "weight": "2.4 ounces",
+  "series": [
+    "Choose Your Own Adventure, No 134"
+  ],
+  "physical_format": "Paperback",
+  "key": "/books/OL7825224M",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "subjects": [
+    "Adventure game-books / choose your own adventure",
+    "Fiction",
+    "Specimens",
+    "Children's 9-12 - Fiction - General",
+    "Children: Grades 4-6",
+    "General",
+    "Juvenile Fiction / General",
+    "Dolphins",
+    "Plot-your-own stories"
+  ],
+  "classifications": {},
+  "title": "Secret of the Dolphins",
+  "identifiers": {
+    "goodreads": [
+      "190987"
+    ],
+    "librarything": [
+      "603680"
+    ]
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "publish_date": "March 1, 1993",
+  "works": [
+    {
+      "key": "/works/OL30088W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "7 x 4.5 x 0.5 inches",
+  "covers": [
+    11321839
+  ],
+  "source_records": [
+    "ia:secretofdolphins0000pack",
+    "bwb:9780553293005",
+    "promise:bwb_daily_pallets_2021-04-01"
+  ],
+  "ocaid": "secretofdolphins0000pack",
+  "isbn_10": [
+    "0553293001"
+  ],
+  "isbn_13": [
+    "9780553293005"
+  ],
+  "lccn": [
+    "2011459327"
+  ],
+  "lc_classifications": [
+    "PZ7.P1245 Sed 1993x",
+    "CPB Box no.13 vol.12"
+  ],
+  "subtitle": "Choose Your Own Adventure #134",
+  "local_id": [
+    "urn:bwbsku:P4-AVJ-363"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-01-14T23:41:26.176546"
+  }
+}

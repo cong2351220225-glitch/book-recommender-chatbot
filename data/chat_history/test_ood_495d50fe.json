@@ -1,0 +1,20 @@
+{
+  "id": "test_ood_495d50fe",
+  "title": "Thời tiết ngày mai ở thủ đô Berlin của n",
+  "timestamp": "2026-11-03 12:40:20",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thời tiết ngày mai ở thủ đô Berlin của nước Đức ra sao?",
+      "timestamp": "12:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Đã ghi nhận khu vực của bạn là **thủ đô Berlin của nước Đức ra sao**. Bạn muốn tìm nhà sách hay thư viện ở khu vực này?",
+      "timestamp": "12:40",
+      "sources": [],
+      "locations": [],
+      "intent": "set_location"
+    }
+  ]
+}

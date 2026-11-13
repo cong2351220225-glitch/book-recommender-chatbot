@@ -1,0 +1,35 @@
+{
+  "title": "Exploring Otherness",
+  "covers": [
+    3020465
+  ],
+  "key": "/works/OL816045W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL68747A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Education",
+    "Linguistics",
+    "Education & training"
+  ],
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T04:46:50.760843"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-20T12:32:03.573976"
+  }
+}

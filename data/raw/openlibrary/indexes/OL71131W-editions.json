@@ -1,0 +1,544 @@
+{
+  "links": {
+    "self": "/works/OL71131W/editions.json",
+    "work": "/works/OL71131W"
+  },
+  "size": 9,
+  "entries": [
+    {
+      "publishers": [
+        "Cambridge University Press"
+      ],
+      "source_records": [
+        "bwb:9781107688650",
+        "marc:marc_loc_2016/BooksAll.2016.part41.utf8:108880420:1226"
+      ],
+      "title": "Studies In Words",
+      "lccn": [
+        "2013498103"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T17:31:28.548691"
+      },
+      "covers": [
+        7754353
+      ],
+      "isbn_13": [
+        "9781107688650"
+      ],
+      "lc_classifications": [
+        "PE1585 .L4 2013"
+      ],
+      "publish_date": "2013",
+      "key": "/books/OL26115565M",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-12T14:07:59.424507"
+      },
+      "latest_revision": 6,
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 6
+    },
+    {
+      "publishers": [
+        "University Press"
+      ],
+      "full_title": "Studies in words",
+      "key": "/books/OL26569467M",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "publish_places": [
+        "Cambridge"
+      ],
+      "subjects": [
+        "Etymology",
+        "English language",
+        "Semantics"
+      ],
+      "pagination": "vii, 239 p. ;",
+      "source_records": [
+        "marc:OpenLibraries-Trent-MARCs/tier5.mrc:19299825:540",
+        "promise:bwb_daily_pallets_2024-01-catchup:P8-ADV-474",
+        "ia:bwb_P8-ADV-474"
+      ],
+      "title": "Studies in words",
+      "number_of_pages": 239,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:trent:0116302352863",
+        "urn:bwbsku:P8-ADV-474"
+      ],
+      "publish_date": "1961",
+      "publish_country": "cak",
+      "by_statement": "C.S. Lewis",
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "B000HS9XPI"
+        ],
+        "better_world_books": [
+          "BWB18693769"
+        ]
+      },
+      "covers": [
+        14904357
+      ],
+      "ocaid": "bwb_P8-ADV-474",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2018-11-17T12:19:31.922413"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-27T03:27:33.958067"
+      }
+    },
+    {
+      "publishers": [
+        "Cambridge University Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "6657679"
+        ],
+        "librarything": [
+          "91210"
+        ]
+      },
+      "isbn_10": [
+        "0521093716"
+      ],
+      "edition_name": "2Rev Ed edition",
+      "physical_format": "Paperback",
+      "key": "/books/OL7731748M",
+      "authors": [
+        {
+          "key": "/authors/OL2624503A"
+        }
+      ],
+      "subjects": [
+        "Literary studies: general",
+        "Literary Criticism",
+        "British Isles",
+        "Literary Criticism & Collections / English, Irish, Scottish, Welsh",
+        "English, Irish, Scottish, Welsh"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "marc:marc_marygrove/marygrovecollegelibrary.full.D20191108.T213022.internetarchive2nd_REPACK.mrc:23524777:3915",
+        "bwb:9780521093712"
+      ],
+      "title": "Studies in Words",
+      "number_of_pages": 350,
+      "isbn_13": [
+        "9780521093712"
+      ],
+      "local_id": [
+        "urn:mgc:31927000317468"
+      ],
+      "publish_date": "August 29, 1975",
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "IN this chapter we shall have to consider Greek phusis, Latin natura (with its derivatives), and English kind."
+      },
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-04T01:35:22.037344"
+      }
+    },
+    {
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliographical references.\n\n6"
+      },
+      "title": "Studies in words",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "pagination": "vii, 343 p.",
+      "edition_name": "2d ed.",
+      "subjects": [
+        "English language -- Semantics.",
+        "English language -- Words -- History."
+      ],
+      "by_statement": "by C. S. Lewis",
+      "publish_places": [
+        "Cambridge"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:marc_laurentian/openlibrary.mrc:413179704:759"
+      ],
+      "key": "/books/OL21419339M",
+      "number_of_pages": 343,
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T13:19:39.580753"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-12-02T21:18:34.698836"
+      }
+    },
+    {
+      "publishers": [
+        "University Press"
+      ],
+      "covers": [
+        9321730
+      ],
+      "lc_classifications": [
+        "PE1585 .L4",
+        "PE1585 .L4 1960"
+      ],
+      "key": "/books/OL5811340M",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "publish_places": [
+        "Cambridge [Eng.]"
+      ],
+      "subjects": [
+        "English language -- Semantics",
+        "English language -- Etymology"
+      ],
+      "pagination": "239 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part05.dat:25738758:623",
+        "marc:marc_openlibraries_phillipsacademy/PANO_FOR_IA_05072019.mrc:5682193:1044",
+        "ia:studiesinwords0000lewi_p4j3",
+        "marc:marc_claremont_school_theology/CSTMARC1_barcode.mrc:53093027:2666",
+        "ia:studiesinwords0000unse",
+        "marc:marc_loc_2016/BooksAll.2016.part05.utf8:102159368:623",
+        "marc:marc_claremont_school_theology/CSTMARC1_multibarcode.mrc:53142811:2666",
+        "marc:harvard_bibliographic_metadata/ab.bib.00.20150123.full.mrc:830565218:688",
+        "marc:harvard_bibliographic_metadata/20220215_003.bib.mrc:238290847:1688"
+      ],
+      "title": "Studies in words.",
+      "dewey_decimal_class": [
+        "422"
+      ],
+      "number_of_pages": 239,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "60050175"
+      ],
+      "local_id": [
+        "urn:phillips:31867000064100",
+        "urn:cst:10011382931"
+      ],
+      "publish_date": "1960",
+      "publish_country": "enk",
+      "oclc_numbers": [
+        "1232370"
+      ],
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-05-18T15:42:39.863133"
+      }
+    },
+    {
+      "publishers": [
+        "Cambridge U.P."
+      ],
+      "number_of_pages": 343,
+      "covers": [
+        9321729
+      ],
+      "local_id": [
+        "urn:trent:0116302352350",
+        "urn:sfpl:31223025696676",
+        "urn:evs:39663000211763"
+      ],
+      "lc_classifications": [
+        "PE1585 .L4 1967"
+      ],
+      "latest_revision": 12,
+      "key": "/books/OL5981755M",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "ocaid": "studiesinwords0000lewi",
+      "publish_places": [
+        "Cambridge",
+        "London"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "vii, 343 p.",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part05.dat:146835897:614",
+        "marc:marc_ithaca_college/ic_marc.mrc:109701051:754",
+        "marc:OpenLibraries-Trent-MARCs/tier5.mrc:19298555:737",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run01.mrc:131226181:1445",
+        "ia:studiesinwords0000lewi",
+        "marc:marc_evangelical_seminary/Evangelical_Seminary_20200728.mrc:13297335:704",
+        "marc:marc_loc_2016/BooksAll.2016.part06.utf8:50929492:609"
+      ],
+      "title": "Studies in words",
+      "lccn": [
+        "66010799"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Bibliographical footnotes."
+      },
+      "identifiers": {
+        "librarything": [
+          "91210"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "edition_name": "2nd ed.",
+      "subjects": [
+        "English language -- Semantics",
+        "English language -- Etymology"
+      ],
+      "publish_date": "1967",
+      "publish_country": "mau",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-04T07:29:38.605426"
+      },
+      "by_statement": "by C. S. Lewis.",
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 12
+    },
+    {
+      "title": "Studies in words.",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "publish_date": "1960",
+      "publishers": [
+        "University Press"
+      ],
+      "languages": [
+        {
+          "key": "/languages/und"
+        }
+      ],
+      "edition_name": "2nd.",
+      "publish_country": "xx ",
+      "publish_places": [
+        "Cambridge"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1704720508:405"
+      ],
+      "key": "/books/OL18136891M",
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-11T03:07:09.992976"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-04T07:09:29.539145"
+      }
+    },
+    {
+      "publishers": [
+        "Cambridge University Press"
+      ],
+      "pagination": "vii, 240p. ;",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:1753394053:473",
+        "ia:bwb_KU-026-786"
+      ],
+      "title": "Studies in words",
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes index."
+      },
+      "number_of_pages": 240,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1960",
+      "publish_country": "xxk",
+      "key": "/books/OL18232781M",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "by_statement": "by C.S. Lewis.",
+      "publish_places": [
+        "Cambridge"
+      ],
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        14895712
+      ],
+      "ocaid": "bwb_KU-026-786",
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-15T06:37:32.798899"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2025-04-26T19:24:49.219282"
+      }
+    },
+    {
+      "publishers": [
+        "University Press"
+      ],
+      "pagination": "vii, 239 p. ;",
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:3363093515:551"
+      ],
+      "title": "Studies in words.",
+      "number_of_pages": 239,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-17T10:03:16.484273"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T10:31:22.675166"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "English language -- Semantics",
+        "English language -- Etymology"
+      ],
+      "publish_date": "1961",
+      "publish_country": "cak",
+      "key": "/books/OL21386353M",
+      "authors": [
+        {
+          "key": "/authors/OL31574A"
+        }
+      ],
+      "latest_revision": 3,
+      "publish_places": [
+        "Cambridge"
+      ],
+      "works": [
+        {
+          "key": "/works/OL71131W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

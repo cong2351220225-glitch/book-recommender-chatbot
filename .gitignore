@@ -1,0 +1,60 @@
+# ============================================================
+# AI Digital Library — .gitignore
+# ============================================================
+
+# --- Môi trường ảo Python ---
+.venv/
+.venv-1/
+env/
+venv/
+
+# --- Biến môi trường (chứa API Keys - KHÔNG commit) ---
+.env
+
+# --- Bytecode Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# --- Flutter / Dart build artifacts ---
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/windows/flutter/ephemeral/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+
+# --- Logs và crash reports ---
+*.log
+server_crash.log
+
+# --- Thư mục scratch / nháp tạm thời ---
+scratch/
+
+# --- Backup thư mục (nặng, không cần trên GitHub) ---
+chroma_db_bak/
+chroma_db_phase1_bak/
+chroma_db_phase4_bak/
+mobile_app_test_bak/
+
+# --- Tệp tạm Word/Office khi mở ---
+~$*.docx
+~$*.xlsx
+
+# --- Tệp mẫu báo cáo (của giảng viên - không phải sản phẩm đồ án) ---
+MAU_BAO_CAO.docx
+MAU_BAO_CAO_XEM_TRUOC.pdf
+docs/MAU_BAO_CAO_FULL_DUMP.txt
+docs/DAN_Y_MAU_TRICH_XUAT.md
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.suo
+*.user
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini

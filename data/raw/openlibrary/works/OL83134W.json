@@ -1,0 +1,36 @@
+{
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-17T07:47:27.823890"
+  },
+  "subjects": [
+    "Interracial dating",
+    "Juvenile fiction",
+    "History",
+    "Fiction"
+  ],
+  "latest_revision": 3,
+  "key": "/works/OL83134W",
+  "title": "Only a Matter of Time (Survivors)",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL21846A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-23T07:19:40.705711"
+  },
+  "covers": [
+    2591269
+  ],
+  "revision": 3
+}

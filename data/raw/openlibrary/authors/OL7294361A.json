@@ -1,0 +1,17 @@
+{
+  "name": "Norazli Othman",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:02:42.330432"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2016-09-22T15:02:42.330432"
+  },
+  "latest_revision": 1,
+  "key": "/authors/OL7294361A",
+  "type": {
+    "key": "/type/author"
+  },
+  "revision": 1
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Jane Dyer",
+  "personal_name": "Jane Dyer",
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2008-09-12 05:33:28.057963"
+  },
+  "key": "/authors/OL36233A",
+  "type": {
+    "key": "/type/author"
+  },
+  "id": 91369,
+  "revision": 2
+}

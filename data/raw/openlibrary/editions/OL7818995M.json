@@ -1,0 +1,72 @@
+{
+  "notes": {
+    "type": "/type/text",
+    "value": "Skylark Choose Your Own Adventure"
+  },
+  "identifiers": {
+    "librarything": [
+      "2948265"
+    ],
+    "goodreads": [
+      "191089"
+    ]
+  },
+  "title": "DREAM TRIPS",
+  "authors": [
+    {
+      "key": "/authors/OL26684A"
+    }
+  ],
+  "publish_date": "May 1, 1983",
+  "publishers": [
+    "Yearling"
+  ],
+  "series": [
+    "Choose Your Own Adventure# 9"
+  ],
+  "physical_format": "Paperback",
+  "subjects": [
+    "General",
+    "Non-Classifiable",
+    "Dreams",
+    "Fiction",
+    "Literary recreations",
+    "Children's 9-12 - Fiction - General",
+    "Juvenile Fiction"
+  ],
+  "edition_name": "Reissue edition",
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_13": [
+    "9780553151909"
+  ],
+  "isbn_10": [
+    "0553151908"
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "source_records": [
+    "amazon:0553151908"
+  ],
+  "key": "/books/OL7818995M",
+  "number_of_pages": 64,
+  "works": [
+    {
+      "key": "/works/OL30087W"
+    }
+  ],
+  "latest_revision": 9,
+  "revision": 9,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-12-30T00:51:12.587445"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "links": {
+    "self": "/works/OL7963388W/editions.json",
+    "work": "/works/OL7963388W"
+  },
+  "size": 1,
+  "entries": [
+    {
+      "title": "Sm Marketing Supplements Sampler",
+      "authors": [
+        {
+          "key": "/authors/OL2656598A"
+        }
+      ],
+      "publish_date": "September 26, 1994",
+      "publishers": [
+        "Pearson US Imports & PHIPEs"
+      ],
+      "isbn_13": [
+        "9780131944824"
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "0131944827"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "local_id": [
+        "urn:bwbsku:TW-281-278"
+      ],
+      "source_records": [
+        "promise:bwb_daily_pallets_2023-05-16:TW-281-278"
+      ],
+      "ocaid": "smmarketingsuppl0000keeg",
+      "key": "/books/OL10084151M",
+      "works": [
+        {
+          "key": "/works/OL7963388W"
+        }
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2024-03-27T19:16:48.266805"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "first_publish_date": "1885",
+  "title": "A vindication of the authenticity of the elephant pipes and inscribed tablets in the museum of the Davenport Academy of Natural Sciences",
+  "covers": [
+    5746311
+  ],
+  "lc_classifications": [
+    "E73 .P982"
+  ],
+  "key": "/works/OL256729W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL2617695A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Mounds",
+    "Antiquities",
+    "Archaeology",
+    "North American Indians"
+  ],
+  "latest_revision": 5,
+  "revision": 5,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-23T23:50:15.759675"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-01-03T20:02:42.810184"
+  }
+}

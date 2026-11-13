@@ -1,0 +1,66 @@
+{
+  "publishers": [
+    "Popular Library"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "3717844"
+    ],
+    "librarything": [
+      "683715"
+    ],
+    "amazon": [
+      ""
+    ]
+  },
+  "subtitle": "More unknown thrillers of Louisa May Alcott",
+  "source_records": [
+    "amazon:0445041749:bl:2316737860:164618",
+    "amazon:0445041749",
+    "promise:bwb_daily_pallets_2020-04-09"
+  ],
+  "title": "Plots and counterplots",
+  "number_of_pages": 319,
+  "isbn_13": [
+    "9780445041745"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "isbn_10": [
+    "0445041749"
+  ],
+  "publish_date": "1978",
+  "key": "/books/OL7534525M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "oclc_numbers": [
+    "37488322"
+  ],
+  "works": [
+    {
+      "key": "/works/OL30018W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "local_id": [
+    "urn:bwbsku:680-BAA-116"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T13:35:46.876380"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-12-10T11:57:25.785866"
+  }
+}

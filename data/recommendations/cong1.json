@@ -1,0 +1,17 @@
+{
+  "username": "cong1",
+  "updated_at": "2026-11-02T21:12:32.280588+00:00",
+  "preferences": {
+    "preferred_genres": [],
+    "preferred_authors": [],
+    "reading_goal": ""
+  },
+  "feedback": {
+    "book_011": {
+      "liked": true,
+      "reason": "",
+      "updated_at": "2026-11-02T19:12:38.751752+00:00"
+    }
+  },
+  "cached_recommendations": {}
+}

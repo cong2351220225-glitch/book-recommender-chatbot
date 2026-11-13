@@ -1,0 +1,76 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother."
+  },
+  "title": "An Old-Fashioned Thanksgiving",
+  "covers": [
+    779398,
+    10897844,
+    9219117
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+  },
+  "subject_places": [
+    "New England"
+  ],
+  "first_publish_date": "1974",
+  "key": "/works/OL30044W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26680A"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL342112A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": "SIXTY YEARS AGO, up among the New Hampshire hills, lived Farmer Bassett, with a houseful of sturdy sons and daughters growing up about him."
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Family life",
+    "Fiction",
+    "Thanksgiving Day",
+    "Juvenile fiction",
+    "Families",
+    "Children's fiction",
+    "Family life, fiction",
+    "Thanksgiving day, fiction",
+    "New england, fiction",
+    "American fiction (fictional works by one author)",
+    "History",
+    "Fiction, general",
+    "Fiction, short stories (single author)"
+  ],
+  "subject_times": [
+    "19th century"
+  ],
+  "location": "/works/OL24368674W",
+  "latest_revision": 17,
+  "revision": 17,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-09-25T16:56:44.601666"
+  }
+}

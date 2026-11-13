@@ -1,0 +1,47 @@
+{
+  "first_publish_date": "1999",
+  "subtitle": "a novel",
+  "title": "To Love and To Promise",
+  "covers": [
+    3699256
+  ],
+  "lc_classifications": [
+    "PS3564.U468 T6 1999"
+  ],
+  "key": "/works/OL30079W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Fiction",
+    "Mormon women",
+    "Internet pornography",
+    "Fiction, religious",
+    "Mormons, fiction",
+    "Fiction, christian, general",
+    "Fiction, family life, general"
+  ],
+  "latest_revision": 8,
+  "revision": 8,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2023-10-17T08:00:08.087140"
+  }
+}

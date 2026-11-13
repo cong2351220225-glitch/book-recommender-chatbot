@@ -1,0 +1,52 @@
+{
+  "subtitle": "a novel",
+  "description": {
+    "type": "/type/text",
+    "value": "Publisher Description\r\nA Missing Groom, A Threatening Note, Another Page-Turning Adventure\r\nThree months have passed since Cassi Mason and Jared Landine helped the FBI expose a criminal mastermind. Along the way, they fell in love, and now Jared has moved to San Diego to be near Cassi. But four days before their wedding, Jared disappears.\r\nFrantic to discover what happened, Cassi plunges into a world of danger and intrigue. Can she find Jared before it’s too late?\r\nMeanwhile, Laranda Garrettson is safely in a prison hospital, recuperating from a gunshot wound that paralyzed her from the waist down. Her body may be damaged, but her brilliant and devious mind is far from beaten.\r\nBig Tommy, an organized crime boss, is also on the move. In a stunning turn of events, his evil plans threaten to turn Cassi’s world upside down.\r\nIn her heart-stopping sequel to A Bid for Love, best-selling novelist Rachel Ann Nunes has created a fast-paced, intensely romantic thriller that will keep you guessing at every turn.\r\nA high-energy story for anyone who enjoys a great Christian mystery peppered with plenty of romance.\r\n\r\nDeal for Love Series\r\nA Bid for Love (#1)\r\nFramed for Love (#2)\r\nLove on the Run (#3)"
+  },
+  "title": "Framed For Love",
+  "lc_classifications": [
+    "PS3564.U468 F7 1999"
+  ],
+  "covers": [
+    832716
+  ],
+  "first_publish_date": "1999",
+  "key": "/works/OL30074W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL26682A"
+      }
+    }
+  ],
+  "dewey_number": [
+    "813/.54"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "subjects": [
+    "Mormon women",
+    "Fiction",
+    "Missing persons",
+    "Organized crime",
+    "Fiction, romance, general"
+  ],
+  "genres": [
+    "/tags/OL177T"
+  ],
+  "latest_revision": 11,
+  "revision": 11,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-13T07:30:47.452303"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2026-09-01T12:00:33.732018"
+  }
+}

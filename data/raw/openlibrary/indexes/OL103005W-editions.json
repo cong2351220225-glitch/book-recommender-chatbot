@@ -1,0 +1,195 @@
+{
+  "links": {
+    "self": "/works/OL103005W/editions.json",
+    "work": "/works/OL103005W"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "subtitle": "a picture book.",
+      "subject_place": [
+        "United States."
+      ],
+      "lc_classifications": [
+        "N611.A6 A4 1947"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL6514245M",
+      "authors": [
+        {
+          "key": "/authors/OL24127A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "contributions": [
+        "Downs, Joseph."
+      ],
+      "pagination": "[4] p.,",
+      "source_records": [
+        "marc:marc_records_scriblio_net/part03.dat:187770297:904",
+        "marc:marc_loc_2016/BooksAll.2016.part04.utf8:76783140:904"
+      ],
+      "title": "The American wing",
+      "dewey_decimal_class": [
+        "708.147"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Text signed: Joseph Downs."
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "47006931"
+      ],
+      "subjects": [
+        "Metropolitan Museum of Art (New York, N.Y.). American Wing",
+        "Architecture, Domestic -- United States",
+        "Interior decoration -- United States"
+      ],
+      "publish_date": "1947",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-17T22:29:13.725328"
+      },
+      "series": [
+        "Its Picture book series"
+      ],
+      "oclc_numbers": [
+        "4588967"
+      ],
+      "works": [
+        {
+          "key": "/works/OL103005W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    },
+    {
+      "latest_revision": 2,
+      "contributions": [
+        "Downs, Joseph"
+      ],
+      "id": 22000844,
+      "source_records": [
+        "marc:marc_university_of_toronto/uoft.marc:634938268:568"
+      ],
+      "title": "The American wing.",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Architecture, Domestic",
+        "Architecture -- United States"
+      ],
+      "publish_country": "nyu",
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "publishers": [
+        "[Museum Press]"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T20:31:15.160508"
+      },
+      "key": "/books/OL15514035M",
+      "authors": [
+        {
+          "key": "/authors/OL24127A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "pagination": "[6] p.  20 pl.",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-20T07:54:25.706806"
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "Text signed by Joseph Downs."
+      },
+      "number_of_pages": 20,
+      "publish_date": "1938",
+      "works": [
+        {
+          "key": "/works/OL103005W"
+        }
+      ]
+    },
+    {
+      "publishers": [
+        "[The Museum Press]"
+      ],
+      "pagination": "[6] p. ;",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:90471675:904"
+      ],
+      "title": "The American Wing.",
+      "contributions": [
+        "Downs, Joseph."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "At head of title:  The Metropolitan museum of art.\n\nIntroduction signed:  Joseph Downs."
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-14T00:49:18.559022"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2009-10-17T20:31:15.160508"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Metropolitan Museum of Art (New York, N.Y.). -- American Wing",
+        "Architecture, Domestic -- United States"
+      ],
+      "latest_revision": 2,
+      "publish_country": "nyu",
+      "key": "/books/OL14677344M",
+      "authors": [
+        {
+          "key": "/authors/OL24127A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "publish_date": "1933",
+      "works": [
+        {
+          "key": "/works/OL103005W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "id": 19992236,
+      "revision": 2
+    }
+  ]
+}

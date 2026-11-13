@@ -1,0 +1,56 @@
+import '../models/book_model.dart';
+import '../models/book_list_response.dart';
+import '../services/api_service.dart';
+
+class BookRepository {
+  final ApiService _apiService;
+
+  BookRepository({ApiService? apiService})
+      : _apiService = apiService ?? ApiService();
+
+  Future<BookListResponse> getBooks({
+    String? query,
+    String? title,
+    String? author,
+    String? isbn,
+    String? genre,
+    String? language,
+    int? minYear,
+    int? maxYear,
+    double? minRating,
+    bool? featuredOnly,
+    bool? readingOnly,
+    int page = 1,
+    int pageSize = 20,
+    String sortBy = 'Phù hợp',
+  }) async {
+    return await _apiService.getBooks(
+      query: query,
+      title: title,
+      author: author,
+      isbn: isbn,
+      genre: genre,
+      language: language,
+      minYear: minYear,
+      maxYear: maxYear,
+      minRating: minRating,
+      featuredOnly: featuredOnly,
+      readingOnly: readingOnly,
+      page: page,
+      pageSize: pageSize,
+      sortBy: sortBy,
+    );
+  }
+
+  Future<List<String>> getLanguages() async {
+    return await _apiService.getBookLanguages();
+  }
+
+  Future<Map<String, dynamic>> getBookDetail(String bookId) async {
+    return await _apiService.getBookDetail(bookId);
+  }
+
+  Future<List<BookModel>> getRelatedBooks(String bookId, {int limit = 5}) async {
+    return await _apiService.getRelatedBooks(bookId, limit: limit);
+  }
+}

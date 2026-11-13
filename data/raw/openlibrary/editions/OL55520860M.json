@@ -1,0 +1,48 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL25788A"
+    },
+    {
+      "key": "/authors/OL1385584A"
+    }
+  ],
+  "isbn_13": [
+    "9781537401812"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 88,
+  "publish_date": "2016",
+  "publishers": [
+    "CreateSpace Independent Publishing Platform"
+  ],
+  "source_records": [
+    "bwb:9781537401812"
+  ],
+  "title": "De Ratones y Hombres",
+  "weight": "0.186",
+  "full_title": "De Ratones y Hombres",
+  "works": [
+    {
+      "key": "/works/OL23204W"
+    }
+  ],
+  "key": "/books/OL55520860M",
+  "latest_revision": 3,
+  "revision": 3,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2024-09-27T20:30:47.881473"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-08-29T21:02:11.769946"
+  }
+}

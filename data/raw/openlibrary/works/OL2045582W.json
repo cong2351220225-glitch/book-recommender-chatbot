@@ -1,0 +1,43 @@
+{
+  "first_publish_date": "October 2004",
+  "title": "Relationship Analysis (Astrology: a Language of Life)",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T22:46:52.055571"
+  },
+  "covers": [
+    732133
+  ],
+  "first_sentence": {
+    "type": "/type/text",
+    "value": "When a soul incarnates, it carries with it a pattern of the heavens that existed at the moment of birth."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2010-04-28T08:08:16.294715"
+  },
+  "latest_revision": 3,
+  "key": "/works/OL2045582W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL248417A"
+      }
+    }
+  ],
+  "excerpts": [
+    {
+      "excerpt": {
+        "type": "/type/text",
+        "value": "When a soul incarnates, it carries with it a pattern of the heavens that existed at the moment of birth."
+      },
+      "page": "First sentence"
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "id": 37223588,
+  "revision": 3
+}

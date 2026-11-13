@@ -1,0 +1,355 @@
+{
+  "links": {
+    "self": "/works/OL30084W/editions.json",
+    "work": "/works/OL30084W"
+  },
+  "size": 5,
+  "entries": [
+    {
+      "identifiers": {
+        "goodreads": [
+          "1914963"
+        ],
+        "librarything": [
+          "381063"
+        ]
+      },
+      "title": "Circus, The",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_date": "June 1, 1983",
+      "publishers": [
+        "Yearling"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_13": [
+        "9780553154269"
+      ],
+      "physical_format": "Paperback",
+      "isbn_10": [
+        "0553154265"
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Children's 9-12 - Fiction - General"
+      ],
+      "source_records": [
+        "amazon:0553154265"
+      ],
+      "key": "/books/OL7819146M",
+      "works": [
+        {
+          "key": "/works/OL30084W"
+        }
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2026-01-19T23:51:23.292468"
+      }
+    },
+    {
+      "publishers": [
+        "Yearling"
+      ],
+      "physical_format": "Paperback",
+      "classifications": {},
+      "title": "CIRCUS, THE",
+      "series": [
+        "Choose Your Own Adventure, No. 1"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "936783"
+        ]
+      },
+      "isbn_13": [
+        "9780553157444"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553157442"
+      ],
+      "publish_date": "June 1, 1983",
+      "key": "/books/OL7819418M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL30084W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Juvenile Fiction",
+        "Children's 9-12 - Fiction - General",
+        "Children: Babies & Toddlers"
+      ],
+      "source_records": [
+        "amazon:0553157442"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-15T19:12:26.772402"
+      }
+    },
+    {
+      "publishers": [
+        "Yearling"
+      ],
+      "identifiers": {
+        "librarything": [
+          "381063"
+        ],
+        "goodreads": [
+          "755029"
+        ]
+      },
+      "series": [
+        "Choose Your Own Adventure, Book 1"
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL7819024M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        },
+        {
+          "key": "/authors/OL2786825A"
+        }
+      ],
+      "subjects": [
+        "General",
+        "Non-Classifiable",
+        "Juvenile Fiction",
+        "Children's 9-12 - Fiction - General"
+      ],
+      "isbn_13": [
+        "9780553152388"
+      ],
+      "classifications": {},
+      "title": "The Circus",
+      "number_of_pages": 55,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0553152386"
+      ],
+      "publish_date": "June 1, 1983",
+      "works": [
+        {
+          "key": "/works/OL30084W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "bwb:9780553152388"
+      ],
+      "latest_revision": 8,
+      "revision": 8,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-11-18T16:12:56.157308"
+      }
+    },
+    {
+      "publishers": [
+        "Bantam Skylark"
+      ],
+      "identifiers": {
+        "librarything": [
+          "381063"
+        ],
+        "goodreads": [
+          "1129761"
+        ]
+      },
+      "ia_box_id": [
+        "IA123710"
+      ],
+      "series": [
+        "Choose your own adventure -- 1"
+      ],
+      "covers": [
+        6613017,
+        4672366
+      ],
+      "key": "/books/OL21522341M",
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "publish_places": [
+        "Toronto",
+        "London"
+      ],
+      "contributions": [
+        "Granger, Paul."
+      ],
+      "pagination": "55p. :",
+      "source_records": [
+        "marc:talis_openlibrary_contribution/talis-openlibrary-contribution.mrc:622983574:705",
+        "ia:circus00pack",
+        "amazon:0553151207",
+        "promise:bwb_daily_pallets_2021-03-15"
+      ],
+      "title": "The circus",
+      "number_of_pages": 55,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "1981",
+      "publish_country": "xxk",
+      "by_statement": "Edward Packard ; illustrated by Paul Granger.",
+      "works": [
+        {
+          "key": "/works/OL30084W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "circus00pack",
+      "isbn_10": [
+        "0553151207"
+      ],
+      "oclc_numbers": [
+        "59204759"
+      ],
+      "classifications": {},
+      "dewey_decimal_class": [
+        "813/.54"
+      ],
+      "local_id": [
+        "urn:bwbsku:O7-DAY-202"
+      ],
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-02T22:46:54.289242"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-12-08T18:28:08.950809"
+      }
+    },
+    {
+      "publishers": [
+        "Timun Mas"
+      ],
+      "identifiers": {
+        "librarything": [
+          "381063"
+        ]
+      },
+      "isbn_10": [
+        "847176850X"
+      ],
+      "series": [
+        "Elige tu propia aventura. Globo azul -- 9.",
+        "Elige tu propia aventura -- 9."
+      ],
+      "authors": [
+        {
+          "key": "/authors/OL26684A"
+        }
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-18T05:52:31.166473"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL16947492M",
+      "by_statement": "Edward Packard ; ilustraciones, Paul Granger ; [traducción al castellano, Iris Menéndez].",
+      "publish_places": [
+        "Barcelona"
+      ],
+      "contributions": [
+        "Granger, Paul."
+      ],
+      "pagination": "53 p. :",
+      "source_records": [
+        "marc:marc_oregon_summit_records/catalog_files/washs02192008.mrc_revrev.mrc:918432084:950"
+      ],
+      "title": "El circo",
+      "work_titles": [
+        "Circus."
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translation of: The circus."
+      },
+      "number_of_pages": 53,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-09-26T19:01:26.044879"
+      },
+      "languages": [
+        {
+          "key": "/languages/spa"
+        }
+      ],
+      "subjects": [
+        "Plot-your-own stories",
+        "Adventure stories"
+      ],
+      "publish_date": "1985",
+      "publish_country": "sp ",
+      "works": [
+        {
+          "key": "/works/OL30084W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3
+    }
+  ]
+}

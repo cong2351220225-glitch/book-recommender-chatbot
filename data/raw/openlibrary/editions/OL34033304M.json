@@ -1,0 +1,44 @@
+{
+  "type": {
+    "key": "/type/edition"
+  },
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "isbn_13": [
+    "9781633557017"
+  ],
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "number_of_pages": 130,
+  "publish_date": "2014",
+  "publishers": [
+    "Start Publishing LLC"
+  ],
+  "source_records": [
+    "bwb:9781633557017"
+  ],
+  "title": "Aunt Jo's Scrap Bag",
+  "full_title": "Aunt Jo's Scrap Bag",
+  "works": [
+    {
+      "key": "/works/OL30067W"
+    }
+  ],
+  "key": "/books/OL34033304M",
+  "latest_revision": 4,
+  "revision": 4,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2021-09-29T18:57:29.166845"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2022-04-08T04:57:19.929543"
+  }
+}

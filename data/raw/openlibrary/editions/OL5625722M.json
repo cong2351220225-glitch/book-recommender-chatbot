@@ -1,0 +1,150 @@
+{
+  "other_titles": [
+    "Independence: a centennial love story."
+  ],
+  "publishers": [
+    "Roberts Bros."
+  ],
+  "identifiers": {
+    "librarything": [
+      "389058"
+    ]
+  },
+  "subtitle": "and Independence: a centennial love story",
+  "lc_classifications": [
+    "PS1017 .S5 1876",
+    "Microfilm 70841 PS"
+  ],
+  "latest_revision": 4,
+  "key": "/books/OL5625722M",
+  "authors": [
+    {
+      "key": "/authors/OL26680A"
+    }
+  ],
+  "table_of_contents": [
+    {
+      "level": 0,
+      "label": "",
+      "title": "Silver pitchers.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Anna's whim.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Transcendental wild oats.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "The romance of a summer day.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "My rococo watch.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "By the river.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Letty's tramp.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Scarlet stockings.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    },
+    {
+      "level": 0,
+      "label": "",
+      "title": "Independence: a centennial love story.",
+      "pagenum": "",
+      "type": {
+        "key": "/type/toc_item"
+      }
+    }
+  ],
+  "publish_places": [
+    "Boston"
+  ],
+  "pagination": "307 p.",
+  "source_records": [
+    "marc:marc_records_scriblio_net/part06.dat:73488581:846",
+    "marc:marc_loc_2016/BooksAll.2016.part06.utf8:155964773:841"
+  ],
+  "title": "Silver pitchers",
+  "lccn": [
+    "68043804"
+  ],
+  "notes": {
+    "type": "/type/text",
+    "value": "Microfilm. Washington, D.C., Library of Congress."
+  },
+  "number_of_pages": 307,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-10-05T08:51:08.040300"
+  },
+  "publish_date": "1876",
+  "publish_country": "mau",
+  "by_statement": "by Louisa M. Alcott.",
+  "works": [
+    {
+      "key": "/works/OL30036W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "revision": 4
+}
