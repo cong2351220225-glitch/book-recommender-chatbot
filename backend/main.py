@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 import os
+from pathlib import Path
 from typing import Any
 from fastapi import FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
 
 from backend.core.config import CORS_ORIGINS
 from backend.core.database import get_books_df
@@ -61,8 +63,51 @@ app.include_router(book_vision_router.router, prefix=api_v1_prefix)
 app.include_router(media_router.router, prefix=api_v1_prefix)
 
 
-@app.get("/", tags=["Root"])
-def root() -> dict[str, Any]:
+# Phục vụ Static Files cho Sách mẫu đọc trực tuyến và Frontend Web
+samples_dir = Path("data/sample_books")
+if samples_dir.exists():
+    app.mount("/samples", StaticFiles(directory=str(samples_dir)), name="sample_books")
+
+frontend_dir = Path("frontend_web")
+if frontend_dir.exists():
+    app.mount("/static_web", StaticFiles(directory=str(frontend_dir)), name="frontend_web")
+
+
+@app.get("/", tags=["Frontend Web"])
+def serve_index() -> Any:
+    index_path = Path("frontend_web/index.html")
+    if index_path.exists():
+        return FileResponse(str(index_path), media_type="text/html")
+    return {
+        "message": "Welcome to AI Digital Library API",
+        "version": "1.0.0",
+        "docs": "/docs",
+        "status": "healthy",
+    }
+
+
+@app.get("/web", tags=["Frontend Web"])
+def serve_web() -> Any:
+    index_path = Path("frontend_web/index.html")
+    if index_path.exists():
+        return FileResponse(str(index_path), media_type="text/html")
+    return {"message": "frontend_web/index.html is not created yet."}
+
+
+@app.get("/docs-pdf", tags=["Documentation"])
+def serve_docs_pdf() -> Any:
+    pdf_path = Path("docs/BAO_CAO_DO_AN_AI.pdf")
+    if pdf_path.exists():
+        return FileResponse(
+            str(pdf_path),
+            media_type="application/pdf",
+            headers={"Content-Disposition": "inline; filename=BAO_CAO_DO_AN_AI.pdf"},
+        )
+    return JSONResponse(status_code=404, content={"detail": "Tệp báo cáo PDF chưa tồn tại."})
+
+
+@app.get("/api", tags=["Root"])
+def api_info() -> dict[str, Any]:
     return {
         "message": "Welcome to AI Digital Library API",
         "version": "1.0.0",
