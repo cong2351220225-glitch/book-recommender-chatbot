@@ -43,6 +43,28 @@ def list_languages() -> list[str]:
     return valid_langs
 
 
+@router.get("/difficulties", response_model=list[str])
+def list_difficulties() -> list[str]:
+    """Get distinct reading difficulties present in the library dataset."""
+    books_df = get_books_df()
+    if books_df.empty or "difficulty" not in books_df.columns:
+        return ["Tất cả", "Dễ đọc", "Trung bình", "Chuyên sâu"]
+    raw_diffs = books_df["difficulty"].dropna().astype(str).unique().tolist()
+    valid_diffs = sorted([d.strip() for d in raw_diffs if d.strip()])
+    return ["Tất cả"] + [d for d in valid_diffs if d != "Tất cả"]
+
+
+@router.get("/moods", response_model=list[str])
+def list_moods() -> list[str]:
+    """Get distinct reading moods/goals present in the library dataset."""
+    books_df = get_books_df()
+    if books_df.empty or "mood" not in books_df.columns:
+        return ["Tất cả", "Tích cực", "Muốn có động lực", "Muốn học hỏi", "Muốn suy ngẫm", "Muốn thư giãn"]
+    raw_moods = books_df["mood"].dropna().astype(str).unique().tolist()
+    valid_moods = sorted([m.strip() for m in raw_moods if m.strip()])
+    return ["Tất cả"] + [m for m in valid_moods if m != "Tất cả"]
+
+
 @router.get("", response_model=BookListResponse)
 def list_books(
     q: str | None = Query(None, description="Search keyword across title, author, ISBN, summary, tags"),
@@ -50,6 +72,8 @@ def list_books(
     author: str | None = Query(None, description="Filter specifically by author name"),
     isbn: str | None = Query(None, description="Filter specifically by ISBN"),
     genre: str | None = Query(None, description="Filter by genre"),
+    difficulty: str | None = Query(None, description="Filter by reading difficulty"),
+    mood: str | None = Query(None, description="Filter by reading mood"),
     language: str | None = Query(None, description="Filter by language"),
     min_year: int | None = Query(None, description="Minimum publication year"),
     max_year: int | None = Query(None, description="Maximum publication year"),
@@ -88,6 +112,20 @@ def list_books(
         filtered_df = filtered_df[
             filtered_df["author"].astype(str).str.lower().str.contains(a_val, regex=False, na=False)
             | filtered_df["author_id"].astype(str).str.lower().str.contains(a_val, regex=False, na=False)
+        ]
+
+    # Difficulty specific filter
+    if difficulty and difficulty.strip() and difficulty.strip() != "Tất cả":
+        d_val = difficulty.strip().lower()
+        filtered_df = filtered_df[
+            filtered_df["difficulty"].astype(str).str.lower().str.contains(d_val, regex=False, na=False)
+        ]
+
+    # Mood specific filter
+    if mood and mood.strip() and mood.strip() != "Tất cả":
+        m_val = mood.strip().lower()
+        filtered_df = filtered_df[
+            filtered_df["mood"].astype(str).str.lower().str.contains(m_val, regex=False, na=False)
         ]
 
     # Reading availability filter

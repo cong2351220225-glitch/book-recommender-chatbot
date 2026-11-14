@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Digital Library · The Architecture of Reading (DAU)</title>
+  <title>Thư viện Số AI · Trí tuệ Nhân tạo dẫn lối Tri thức Tinh hoa</title>
   
   <!-- Favicon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
@@ -16,7 +16,7 @@
 
   <style>
     /* ==========================================================================
-       1. KAI NOMURA DESIGN SYSTEM — ADAPTIVE REM VIEWPORT GRID & TOKENS
+       1. DESIGN SYSTEM — ADAPTIVE REM VIEWPORT GRID & EDITORIAL MONOCHROME
        ========================================================================== */
     html {
       font-size: 16px;
@@ -99,208 +99,234 @@
     }
 
     /* ==========================================================================
-       2. FIXED EDITORIAL HEADER
+       2. HEADER NAVIGATION
        ========================================================================== */
     .site-header {
-      position: fixed;
+      position: sticky;
       top: 0;
       left: 0;
-      right: 0;
+      width: 100%;
       height: var(--header-h);
       background: rgba(255, 255, 255, 0.94);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
       border-bottom: var(--border-dashed);
-      z-index: 900;
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 0 var(--site-pad);
+      z-index: 100;
+      transition: background 0.3s ease;
     }
-
     .brand-wrap {
       display: flex;
-      align-items: center;
-      gap: 1.2rem;
+      align-items: baseline;
+      gap: 0.75rem;
     }
     .brand-title {
-      font-family: var(--font-sans);
-      font-size: 0.95rem;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-      text-decoration: none;
+      font-family: var(--font-serif);
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
       color: var(--color-ink);
-      text-transform: uppercase;
-      display: flex;
-      align-items: center;
-      gap: 0.6rem;
-    }
-    .brand-title::before {
-      content: "";
-      display: inline-block;
-      width: 0.55rem;
-      height: 0.55rem;
-      background: var(--color-ink);
+      text-decoration: none;
     }
     .brand-tag {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
-      color: var(--color-muted);
+      font-size: 0.7rem;
+      color: var(--color-lead);
       border: 1px solid var(--color-hairline);
       padding: 0.15rem 0.5rem;
       border-radius: 2px;
+      letter-spacing: 0.05em;
     }
-
     .header-nav {
       display: flex;
       align-items: center;
-      gap: 2rem;
+      gap: 1.8rem;
     }
     .nav-item {
-      font-family: var(--font-sans);
-      font-size: 0.85rem;
-      font-weight: 500;
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--color-lead);
       text-decoration: none;
-      color: var(--color-charcoal);
-      transition: color 0.2s ease;
       position: relative;
+      padding: 0.3rem 0;
+      transition: color 0.2s ease;
     }
-    .nav-item:hover {
+    .nav-item:hover, .nav-item.active {
       color: var(--color-ink);
     }
     .nav-item::after {
       content: "";
       position: absolute;
+      bottom: 0;
       left: 0;
-      bottom: -4px;
-      width: 0;
+      width: 0%;
       height: 1px;
       background: var(--color-ink);
       transition: width 0.25s ease;
     }
-    .nav-item:hover::after {
+    .nav-item:hover::after, .nav-item.active::after {
       width: 100%;
     }
-
     .header-meta {
       display: flex;
       align-items: center;
-      gap: 1.5rem;
+      gap: 1.2rem;
     }
     .live-clock {
       font-family: var(--font-mono);
-      font-size: 0.78rem;
+      font-size: 0.72rem;
       color: var(--color-lead);
       display: flex;
       align-items: center;
-      gap: 0.5rem;
+      gap: 0.4rem;
     }
     .live-clock-dot {
       width: 6px;
       height: 6px;
-      background: #10b981;
       border-radius: 50%;
+      background: var(--color-ink);
       display: inline-block;
+      animation: pulseDot 2s infinite ease-in-out;
     }
-
+    @keyframes pulseDot {
+      0%, 100% { opacity: 0.3; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
     .btn-ai-studio {
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      font-weight: 500;
-      padding: 0.5rem 1rem;
-      background: transparent;
-      color: var(--color-ink);
-      border: var(--border-dashed);
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 0.6rem;
-      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-    .btn-ai-studio:hover {
       background: var(--color-ink);
       color: var(--color-paper);
-      border-color: var(--color-ink);
+      border: 1px solid var(--color-ink);
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.5rem 1.1rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      cursor: pointer;
+      border-radius: 2px;
+      transition: background 0.2s ease, transform 0.15s ease;
+    }
+    .btn-ai-studio:hover {
+      background: #333330;
+      transform: translateY(-1px);
     }
     .btn-ai-studio .key-badge {
-      font-size: 0.68rem;
+      background: rgba(255, 255, 255, 0.2);
       padding: 0.1rem 0.35rem;
-      background: var(--color-canvas);
-      color: var(--color-ink);
+      font-size: 0.68rem;
       border-radius: 2px;
-      border: 1px solid var(--color-dashed);
-      transition: all 0.2s;
-    }
-    .btn-ai-studio:hover .key-badge {
-      background: #333330;
-      color: var(--color-paper);
-      border-color: #444440;
     }
 
     /* ==========================================================================
-       3. EDITORIAL PROLOGUE (HERO SECTION)
+       3. SECTION COMMON HEADERS & WRAPPERS
        ========================================================================== */
-    .section-prologue {
-      margin-top: var(--header-h);
-      padding: 5.5rem var(--site-pad) 4.5rem;
-      border-bottom: var(--border-dashed);
-      position: relative;
-    }
-
     .section-index-tag {
-      display: inline-flex;
+      display: flex;
       align-items: center;
-      gap: 0.8rem;
+      gap: 0.75rem;
       margin-bottom: 2rem;
     }
     .section-index-num {
       font-family: var(--font-mono);
-      font-size: 0.82rem;
-      color: var(--color-lead);
-      border: 1px solid var(--color-hairline);
-      padding: 0.2rem 0.6rem;
-      background: var(--color-subtle);
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--color-ink);
     }
     .section-index-title {
       font-family: var(--font-mono);
       font-size: 0.8rem;
-      text-transform: uppercase;
       letter-spacing: 0.1em;
+      text-transform: uppercase;
       color: var(--color-lead);
     }
 
+    /* ==========================================================================
+       4. SECTION 01: PROLOGUE / HERO EDITORIAL
+       ========================================================================== */
+    .section-prologue {
+      padding: 4.5rem var(--site-pad) 4rem;
+      border-bottom: var(--border-dashed);
+      background: var(--color-paper);
+    }
     .hero-editorial-grid {
       display: grid;
-      grid-template-columns: 2.2fr 1fr;
-      gap: 4rem;
-      align-items: flex-end;
-      margin-bottom: 4rem;
+      grid-template-columns: 1.35fr 1fr;
+      gap: 3.5rem;
+      align-items: flex-start;
+      margin-bottom: 3.5rem;
     }
-
     .hero-headline {
-      font-size: 4.2rem;
+      font-size: 4rem;
       line-height: 1.05;
+      letter-spacing: -0.03em;
       color: var(--color-ink);
     }
     .hero-headline em {
       font-style: italic;
       font-weight: 400;
-      display: block;
-      color: var(--color-charcoal);
     }
-
     .hero-manifesto {
       font-size: 1.05rem;
-      line-height: 1.7;
       color: var(--color-charcoal);
-      border-left: 1px solid var(--color-ink);
-      padding-left: 1.8rem;
+      line-height: 1.7;
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+      padding-top: 0.5rem;
     }
-    .hero-manifesto p + p {
+    .hero-quick-actions {
+      display: flex;
+      gap: 1rem;
       margin-top: 1rem;
+      flex-wrap: wrap;
     }
-
-    /* 4-Column Architectural Metric Grid */
+    .btn-hero-primary {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      padding: 0.8rem 1.6rem;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      cursor: pointer;
+    }
+    .btn-hero-primary:hover {
+      background: #333330;
+      transform: translateY(-2px);
+    }
+    .btn-hero-secondary {
+      background: transparent;
+      color: var(--color-ink);
+      border: 1px solid var(--color-ink);
+      padding: 0.8rem 1.6rem;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      letter-spacing: 0.05em;
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      cursor: pointer;
+    }
+    .btn-hero-secondary:hover {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      transform: translateY(-2px);
+    }
     .metric-grid {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
@@ -308,437 +334,574 @@
       border-left: var(--border-dashed);
     }
     .metric-cell {
-      padding: 2rem 1.8rem;
       border-right: var(--border-dashed);
       border-bottom: var(--border-dashed);
+      padding: 2.2rem 1.8rem;
       background: var(--color-paper);
-      transition: background-color 0.25s ease;
+      transition: background 0.2s ease;
     }
     .metric-cell:hover {
       background: var(--color-subtle);
     }
     .metric-num {
-      font-family: var(--font-serif);
-      font-size: 3.2rem;
+      font-family: var(--font-mono);
+      font-size: 2.6rem;
+      font-weight: 700;
       line-height: 1;
-      margin-bottom: 0.5rem;
+      letter-spacing: -0.04em;
+      margin-bottom: 0.6rem;
       color: var(--color-ink);
     }
     .metric-title {
-      font-family: var(--font-sans);
-      font-size: 0.95rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--color-ink);
-      margin-bottom: 0.3rem;
+      font-family: var(--font-serif);
+      font-size: 1.05rem;
+      font-weight: 500;
+      margin-bottom: 0.35rem;
     }
     .metric-desc {
-      font-size: 0.85rem;
+      font-size: 0.82rem;
       color: var(--color-lead);
       line-height: 1.5;
     }
 
     /* ==========================================================================
-       4. SECTION 02: THE REPOSITORY (CATALOG)
+       5. SECTION 02: REPOSITORY / CATALOGUE
        ========================================================================== */
     .section-catalog {
-      padding: 5rem var(--site-pad);
+      padding: 4.5rem var(--site-pad) 5rem;
       border-bottom: var(--border-dashed);
     }
-
     .catalog-header-bar {
       display: flex;
       align-items: flex-end;
       justify-content: space-between;
-      margin-bottom: 2.5rem;
-      gap: 2rem;
+      margin-bottom: 2rem;
+      gap: 1.5rem;
+      flex-wrap: wrap;
     }
     .catalog-title {
       font-size: 2.8rem;
-      line-height: 1.1;
+      letter-spacing: -0.02em;
     }
-
-    /* Filter & Controls Toolbar */
-    .catalog-toolbar {
-      display: grid;
-      grid-template-columns: 2fr 1.2fr 1fr auto;
-      gap: 1rem;
-      padding: 1.2rem;
-      background: var(--color-subtle);
-      border: var(--border-dashed);
-      margin-bottom: 2rem;
-      align-items: center;
-    }
-
-    .input-editorial {
-      width: 100%;
-      padding: 0.75rem 1rem;
-      background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      font-family: var(--font-sans);
-      font-size: 0.9rem;
-      color: var(--color-ink);
-      outline: none;
-      transition: border-color 0.2s ease;
-    }
-    .input-editorial:focus {
-      border-color: var(--color-ink);
-    }
-
-    .select-editorial {
-      width: 100%;
-      padding: 0.75rem 1rem;
-      background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      font-family: var(--font-sans);
-      font-size: 0.9rem;
-      color: var(--color-ink);
-      outline: none;
-      cursor: pointer;
-    }
-    .select-editorial:focus {
-      border-color: var(--color-ink);
-    }
-
     .view-mode-toggle {
-      display: flex;
-      border: 1px solid var(--color-hairline);
-      background: var(--color-paper);
+      display: inline-flex;
+      border: 1px solid var(--color-ink);
     }
     .btn-view-mode {
-      padding: 0.75rem 1rem;
       background: transparent;
       border: none;
+      padding: 0.45rem 1rem;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
       cursor: pointer;
       color: var(--color-lead);
-      transition: all 0.2s;
+      transition: all 0.2s ease;
     }
     .btn-view-mode.active {
       background: var(--color-ink);
       color: var(--color-paper);
     }
 
-    /* Genre Filter Pills */
+    /* Filter Toolbar */
+    .catalog-toolbar {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr 1fr auto;
+      gap: 0.8rem;
+      margin-bottom: 1.5rem;
+      padding: 1.2rem;
+      border: var(--border-dashed);
+      background: var(--color-subtle);
+      align-items: center;
+    }
+    @media (max-width: 1200px) {
+      .catalog-toolbar {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+    @media (max-width: 768px) {
+      .catalog-toolbar {
+        grid-template-columns: 1fr;
+      }
+    }
+    .input-editorial, .select-editorial {
+      width: 100%;
+      height: 2.8rem;
+      padding: 0 0.9rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      color: var(--color-ink);
+      border-radius: 0;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    .input-editorial:focus, .select-editorial:focus {
+      border-color: var(--color-ink);
+    }
     .genre-filter-row {
       display: flex;
       flex-wrap: wrap;
       gap: 0.5rem;
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
     }
     .genre-pill {
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      padding: 0.4rem 0.9rem;
-      border: 1px solid var(--color-hairline);
       background: var(--color-paper);
-      color: var(--color-charcoal);
+      border: 1px solid var(--color-hairline);
+      padding: 0.35rem 0.85rem;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--color-lead);
       cursor: pointer;
-      text-decoration: none;
       transition: all 0.2s ease;
     }
     .genre-pill:hover, .genre-pill.active {
+      border-color: var(--color-ink);
       background: var(--color-ink);
       color: var(--color-paper);
-      border-color: var(--color-ink);
     }
 
-    /* Book Cards Grid View */
+    /* Book Grid */
     .books-grid {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 2rem;
-      margin-bottom: 3.5rem;
+      margin-bottom: 3rem;
     }
+    @media (max-width: 1280px) { .books-grid { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 900px)  { .books-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 580px)  { .books-grid { grid-template-columns: 1fr; } }
 
     .book-card {
-      border: 1px solid var(--color-hairline);
+      border: var(--border-dashed);
       background: var(--color-paper);
       display: flex;
       flex-direction: column;
       cursor: pointer;
       position: relative;
-      transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease, border-color 0.3s ease;
+      transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
     }
     .book-card:hover {
-      transform: translateY(-6px);
+      transform: translateY(-4px);
       border-color: var(--color-ink);
-      box-shadow: 0 16px 32px rgba(25, 25, 23, 0.08);
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
     }
-
     .book-card-cover-wrap {
       width: 100%;
-      height: 20rem;
-      background: var(--color-canvas);
+      aspect-ratio: 2/3;
       overflow: hidden;
+      background: var(--color-canvas);
       position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: center;
       border-bottom: 1px solid var(--color-hairline);
     }
     .book-card-cover-img {
       width: 100%;
       height: 100%;
       object-fit: cover;
-      filter: grayscale(80%) contrast(105%);
-      transition: filter 0.4s ease, transform 0.4s ease;
+      filter: grayscale(100%) contrast(105%);
+      transition: filter 0.3s ease, transform 0.3s ease;
     }
     .book-card:hover .book-card-cover-img {
       filter: grayscale(0%) contrast(100%);
-      transform: scale(1.03);
+      transform: scale(1.02);
     }
-    .book-card-badge {
+    .book-badge-reading {
       position: absolute;
-      top: 0.8rem;
-      right: 0.8rem;
-      font-family: var(--font-mono);
-      font-size: 0.68rem;
-      padding: 0.2rem 0.5rem;
+      top: 0.6rem;
+      right: 0.6rem;
       background: var(--color-ink);
       color: var(--color-paper);
-      text-transform: uppercase;
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      padding: 0.2rem 0.5rem;
       letter-spacing: 0.05em;
+      text-transform: uppercase;
     }
-
-    .book-card-body {
+    .book-card-content {
       padding: 1.4rem;
-      flex-grow: 1;
       display: flex;
       flex-direction: column;
+      flex-grow: 1;
     }
     .book-card-genre {
       font-family: var(--font-mono);
-      font-size: 0.7rem;
-      color: var(--color-lead);
+      font-size: 0.68rem;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.08em;
+      color: var(--color-lead);
       margin-bottom: 0.4rem;
     }
     .book-card-title {
-      font-family: var(--font-serif);
       font-size: 1.35rem;
-      font-weight: 600;
       line-height: 1.25;
       margin-bottom: 0.4rem;
       color: var(--color-ink);
-      overflow: hidden;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
-      height: 3.4rem;
+      overflow: hidden;
     }
     .book-card-author {
-      font-size: 0.9rem;
-      color: var(--color-charcoal);
+      font-size: 0.88rem;
+      color: var(--color-lead);
       margin-bottom: 0.8rem;
     }
-    .book-card-meta {
+    .book-card-badges {
       display: flex;
-      justify-content: space-between;
-      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-bottom: 0.8rem;
+    }
+    .tag-badge {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      padding: 0.15rem 0.45rem;
+      background: var(--color-canvas);
+      border: 1px solid var(--color-hairline);
+      color: var(--color-charcoal);
+    }
+    .book-card-footer {
+      margin-top: auto;
       padding-top: 0.8rem;
       border-top: 1px dashed var(--color-hairline);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
       font-family: var(--font-mono);
       font-size: 0.75rem;
-      color: var(--color-muted);
-      margin-top: auto;
+    }
+    .book-card-rating {
+      color: var(--color-ink);
+      font-weight: 700;
     }
 
-    /* Index List View (Archival Table) */
+    /* Index Table View */
     .books-index-table {
       width: 100%;
       border-collapse: collapse;
       margin-bottom: 3rem;
-      display: none; /* toggled via JS */
+      display: none;
+    }
+    .books-index-table th, .books-index-table td {
+      padding: 0.9rem 1rem;
+      text-align: left;
+      border-bottom: 1px solid var(--color-hairline);
+      font-size: 0.88rem;
     }
     .books-index-table th {
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.72rem;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: var(--color-lead);
-      text-align: left;
-      padding: 1rem 1.2rem;
-      border-bottom: 1px solid var(--color-ink);
       background: var(--color-subtle);
+      border-top: 1px solid var(--color-hairline);
     }
-    .books-index-table td {
-      padding: 1.2rem;
-      border-bottom: var(--border-hairline);
-      font-size: 0.92rem;
-      color: var(--color-charcoal);
-      vertical-align: middle;
-    }
-    .books-index-table tr {
+    .books-index-table tr:hover td {
+      background: var(--color-subtle);
       cursor: pointer;
-      transition: background-color 0.15s ease;
-    }
-    .books-index-table tr:hover {
-      background-color: var(--color-subtle);
-    }
-    .books-index-table .cell-title {
-      font-family: var(--font-serif);
-      font-size: 1.15rem;
-      font-weight: 600;
-      color: var(--color-ink);
-    }
-    .books-index-table .cell-mono {
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      color: var(--color-lead);
     }
 
-    /* Pagination / Load More */
+    /* Pagination */
     .catalog-pagination {
       display: flex;
       align-items: center;
       justify-content: space-between;
+      padding: 1.2rem 0;
       border-top: var(--border-dashed);
-      padding-top: 2rem;
     }
     .btn-pagination {
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      padding: 0.6rem 1.4rem;
       background: var(--color-paper);
-      border: 1px solid var(--color-ink);
-      color: var(--color-ink);
+      border: 1px solid var(--color-hairline);
+      padding: 0.6rem 1.4rem;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
       cursor: pointer;
+      color: var(--color-ink);
       transition: all 0.2s ease;
     }
     .btn-pagination:hover:not(:disabled) {
+      border-color: var(--color-ink);
       background: var(--color-ink);
       color: var(--color-paper);
     }
     .btn-pagination:disabled {
-      opacity: 0.35;
+      opacity: 0.4;
       cursor: not-allowed;
-      border-color: var(--color-dashed);
     }
 
     /* ==========================================================================
-       5. SECTION 03: CARTOGRAPHY (LOCAL BOOKSHOPS & LIBRARIES)
+       6. SECTION 03: AI CRAWLER & VECTOR SYNC (QUẢN TRỊ DỮ LIỆU)
        ========================================================================== */
-    .section-cartography {
-      padding: 5rem var(--site-pad);
+    .section-crawler {
+      padding: 4.5rem var(--site-pad) 5.5rem;
       border-bottom: var(--border-dashed);
       background: var(--color-subtle);
     }
-    .cartography-grid {
+    .crawler-dashboard-grid {
       display: grid;
-      grid-template-columns: 1fr 1.6fr;
-      gap: 3.5rem;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 3rem;
+      margin-top: 2rem;
     }
-    .cartography-search-card {
-      background: var(--color-paper);
+    @media (max-width: 960px) {
+      .crawler-dashboard-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+    }
+    .crawler-card {
       border: var(--border-dashed);
       padding: 2.2rem;
+      background: var(--color-paper);
+    }
+    .crawler-form-row {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 0.8rem;
+      margin-top: 1.2rem;
+    }
+    @media (max-width: 700px) {
+      .crawler-form-row {
+        grid-template-columns: 1fr;
+      }
+    }
+    .sync-metrics-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+    }
+    .sync-metrics-table td {
+      padding: 0.85rem 0;
+      border-bottom: 1px dashed var(--color-hairline);
+      font-size: 0.92rem;
+    }
+    .sync-metrics-table td:first-child {
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: var(--color-lead);
+      text-transform: uppercase;
+      width: 55%;
+    }
+    .sync-status-badge {
+      display: inline-block;
+      padding: 0.25rem 0.6rem;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1px solid var(--color-ink);
+    }
+    .sync-status-badge.synced {
+      background: #191917;
+      color: #ffffff;
+    }
+    .sync-status-badge.pending {
+      background: #f4f4f1;
+      color: #191917;
+      border: 1px dashed var(--color-charcoal);
+    }
+    .crawler-results-list {
+      margin-top: 1.5rem;
+      max-height: 480px;
+      overflow-y: auto;
+      padding-right: 0.4rem;
+    }
+    .crawler-item-card {
+      border: 1px solid var(--color-hairline);
+      padding: 1.2rem;
+      margin-bottom: 1rem;
+      background: var(--color-subtle);
+      transition: border-color 0.2s ease;
+    }
+    .crawler-item-card:hover {
+      border-color: var(--color-ink);
+    }
+    .crawler-item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .crawler-item-title {
+      font-size: 1.15rem;
+      font-weight: 500;
+      color: var(--color-ink);
+    }
+    .crawler-badge {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      padding: 0.2rem 0.5rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      white-space: nowrap;
+    }
+    .crawler-badge.exists {
+      color: var(--color-lead);
+      background: var(--color-canvas);
+    }
+    .crawler-badge.new {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border-color: var(--color-ink);
+    }
+    .btn-import-book {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border: none;
+      padding: 0.45rem 0.9rem;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: background 0.2s ease;
+    }
+    .btn-import-book:hover:not(:disabled) {
+      background: #333330;
+    }
+    .btn-import-book:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    /* ==========================================================================
+       7. SECTION 04: LOCATIONS / CARTOGRAPHY
+       ========================================================================== */
+    .section-cartography {
+      padding: 4.5rem var(--site-pad) 5.5rem;
+      border-bottom: var(--border-dashed);
+    }
+    .cartography-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.8fr;
+      gap: 3.5rem;
+      align-items: flex-start;
+    }
+    @media (max-width: 960px) {
+      .cartography-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+    }
+    .cartography-search-card {
+      border: var(--border-dashed);
+      padding: 2.2rem;
+      background: var(--color-subtle);
     }
     .cartography-results-wrap {
-      display: flex;
-      flex-direction: column;
-      gap: 1.2rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+    @media (max-width: 680px) {
+      .cartography-results-wrap {
+        grid-template-columns: 1fr;
+      }
     }
     .location-entry-card {
+      border: var(--border-dashed);
+      padding: 1.5rem;
       background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      padding: 1.6rem 1.8rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
       transition: border-color 0.2s ease, transform 0.2s ease;
     }
     .location-entry-card:hover {
       border-color: var(--color-ink);
-      transform: translateX(4px);
+      transform: translateY(-2px);
     }
     .location-name {
-      font-family: var(--font-serif);
-      font-size: 1.3rem;
-      font-weight: 600;
-      margin-bottom: 0.4rem;
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+      color: var(--color-ink);
     }
     .location-addr {
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       color: var(--color-charcoal);
-      margin-bottom: 0.6rem;
+      margin-bottom: 1rem;
+      line-height: 1.5;
     }
     .location-details {
-      display: flex;
-      gap: 1.5rem;
       font-family: var(--font-mono);
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       color: var(--color-lead);
-      margin-bottom: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+      margin-bottom: 1.2rem;
     }
     .btn-maps-link {
       display: inline-flex;
       align-items: center;
       gap: 0.5rem;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
-      text-decoration: none;
+      font-size: 0.72rem;
       color: var(--color-ink);
+      text-decoration: none;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
       border-bottom: 1px solid var(--color-ink);
-      padding-bottom: 2px;
-      transition: opacity 0.2s;
+      padding-bottom: 0.15rem;
+      align-self: flex-start;
+      transition: opacity 0.2s ease;
     }
     .btn-maps-link:hover {
-      opacity: 0.65;
+      opacity: 0.6;
     }
 
     /* ==========================================================================
-       6. SECTION 04: COLOPHON & ACADEMIC DOSSIER
+       8. SITE FOOTER
        ========================================================================== */
-    .section-colophon {
-      padding: 5rem var(--site-pad) 6rem;
-    }
-    .colophon-grid {
-      display: grid;
-      grid-template-columns: 1.8fr 1.2fr;
-      gap: 4rem;
-    }
-    .colophon-spec-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1.5rem;
-    }
-    .colophon-spec-table td {
-      padding: 0.9rem 0;
-      border-bottom: 1px dashed var(--color-hairline);
-      font-size: 0.92rem;
-    }
-    .colophon-spec-table td:first-child {
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      color: var(--color-lead);
-      width: 40%;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-
-    .btn-download-pdf {
-      display: inline-flex;
+    .site-footer {
+      padding: 3rem var(--site-pad);
+      background: var(--color-paper);
+      border-top: var(--border-dashed);
+      display: flex;
       align-items: center;
-      gap: 0.8rem;
-      padding: 1.1rem 2rem;
-      background: var(--color-ink);
-      color: var(--color-paper);
-      text-decoration: none;
-      font-family: var(--font-mono);
-      font-size: 0.85rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      margin-top: 2rem;
-      transition: background 0.2s ease, transform 0.2s ease;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1.5rem;
     }
-    .btn-download-pdf:hover {
-      background: #333330;
-      transform: translateY(-2px);
+    .footer-brand {
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: var(--color-ink);
+    }
+    .footer-copy {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--color-lead);
+      letter-spacing: 0.05em;
+    }
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+    }
+    .footer-link {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--color-lead);
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .footer-link:hover {
+      color: var(--color-ink);
     }
 
     /* ==========================================================================
-       7. AI LIBRARIAN STUDIO (SLIDE-OVER DRAWER)
+       9. AI LIBRARIAN STUDIO (SLIDE-OVER DRAWER)
        ========================================================================== */
     .studio-backdrop {
       position: fixed;
@@ -749,19 +912,18 @@
       z-index: 1000;
       opacity: 0;
       pointer-events: none;
-      transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      transition: opacity 0.3s ease;
     }
     .studio-backdrop.active {
       opacity: 1;
       pointer-events: auto;
     }
-
     .studio-drawer {
       position: fixed;
       top: 0;
       right: 0;
       bottom: 0;
-      width: 42rem;
+      width: 44rem;
       max-width: 95vw;
       background: var(--color-paper);
       border-left: 1px solid var(--color-ink);
@@ -769,36 +931,33 @@
       display: flex;
       flex-direction: column;
       transform: translateX(100%);
-      transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-      box-shadow: -16px 0 48px rgba(25, 25, 23, 0.15);
+      transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: -15px 0 35px rgba(0, 0, 0, 0.08);
     }
     .studio-drawer.active {
-      transform: translateX(0);
+      transform: translateX(0%);
     }
-
     .drawer-header {
-      padding: 1.6rem 2rem;
+      padding: 1.2rem 1.8rem;
       border-bottom: var(--border-dashed);
       display: flex;
       align-items: center;
       justify-content: space-between;
-      background: var(--color-subtle);
     }
     .drawer-title-wrap h3 {
-      font-family: var(--font-serif);
-      font-size: 1.35rem;
-      font-weight: 600;
-      margin-bottom: 0.2rem;
+      font-size: 1.45rem;
+      font-weight: 500;
+      margin-bottom: 0.15rem;
     }
     .drawer-close-btn {
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      padding: 0.4rem 0.8rem;
       background: transparent;
       border: 1px solid var(--color-hairline);
+      padding: 0.4rem 0.8rem;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
       cursor: pointer;
-      color: var(--color-charcoal);
-      transition: all 0.2s;
+      color: var(--color-lead);
+      transition: all 0.2s ease;
     }
     .drawer-close-btn:hover {
       background: var(--color-ink);
@@ -806,30 +965,79 @@
       border-color: var(--color-ink);
     }
 
-    /* Drawer Subnav Tabs */
+    /* Drawer Controls Bar (Top-K, New chat, Clear) */
+    .drawer-controls-bar {
+      padding: 0.6rem 1.8rem;
+      background: var(--color-subtle);
+      border-bottom: 1px solid var(--color-hairline);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+    }
+    .topk-control {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--color-charcoal);
+    }
+    .topk-select {
+      padding: 0.2rem 0.5rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      cursor: pointer;
+    }
+    .drawer-action-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+    .btn-drawer-action {
+      background: var(--color-paper);
+      border: 1px solid var(--color-hairline);
+      padding: 0.3rem 0.65rem;
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      color: var(--color-charcoal);
+      transition: all 0.2s ease;
+    }
+    .btn-drawer-action:hover {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border-color: var(--color-ink);
+    }
+
+    /* Subnav Tabs */
     .drawer-tabs {
       display: flex;
-      border-bottom: 1px solid var(--color-hairline);
+      border-bottom: var(--border-dashed);
       background: var(--color-paper);
+      overflow-x: auto;
     }
     .drawer-tab-btn {
       flex: 1;
-      padding: 0.9rem;
-      text-align: center;
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      background: transparent;
+      padding: 0.8rem 0.5rem;
       border: none;
-      border-bottom: 2px solid transparent;
+      background: transparent;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
       color: var(--color-lead);
       cursor: pointer;
-      transition: all 0.2s;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: all 0.2s ease;
     }
     .drawer-tab-btn.active {
       color: var(--color-ink);
-      font-weight: 700;
       border-bottom-color: var(--color-ink);
       background: var(--color-subtle);
     }
@@ -837,93 +1045,143 @@
     .drawer-body {
       flex-grow: 1;
       overflow-y: auto;
-      padding: 1.8rem 2rem;
+      padding: 1.5rem 1.8rem;
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
+    }
+    .drawer-tab-pane {
+      display: none;
+      height: 100%;
+    }
+    .drawer-tab-pane.active {
+      display: block;
     }
 
-    /* Chat Messages inside Drawer */
+    /* Chat Messages Pane */
     .chat-messages-container {
       display: flex;
       flex-direction: column;
       gap: 1.5rem;
-      min-height: 18rem;
+      padding-bottom: 1.5rem;
     }
     .chat-msg {
       display: flex;
       flex-direction: column;
-      gap: 0.5rem;
       max-width: 90%;
     }
     .chat-msg.user {
       align-self: flex-end;
+      align-items: flex-end;
     }
     .chat-msg.assistant {
       align-self: flex-start;
-      max-width: 95%;
+      align-items: flex-start;
+      max-width: 96%;
     }
     .chat-msg-header {
       font-family: var(--font-mono);
-      font-size: 0.7rem;
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
       color: var(--color-muted);
+      margin-bottom: 0.35rem;
       display: flex;
       align-items: center;
       gap: 0.6rem;
     }
     .chat-bubble {
-      padding: 1.1rem 1.4rem;
-      font-size: 0.92rem;
-      line-height: 1.6;
+      padding: 1.1rem 1.3rem;
+      font-size: 0.95rem;
+      line-height: 1.65;
+      border-radius: 2px;
+      word-break: break-word;
     }
     .chat-msg.user .chat-bubble {
+      background: var(--color-ink);
+      color: var(--color-paper);
+    }
+    .chat-msg.assistant .chat-bubble {
       background: var(--color-subtle);
       border: 1px solid var(--color-hairline);
       color: var(--color-ink);
     }
-    .chat-msg.assistant .chat-bubble {
-      background: var(--color-paper);
-      border: 1px solid var(--color-ink);
-      color: var(--color-ink);
-      box-shadow: 4px 4px 0 rgba(25, 25, 23, 0.05);
-    }
-    .chat-bubble p + p {
-      margin-top: 0.8rem;
-    }
 
-    /* TTS Audio Bar in Chat */
-    .msg-tts-btn {
+    /* Markdown Table in Chat */
+    .table-scroll-wrap {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 0.8rem 0;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+    }
+    .chat-md-table {
+      width: 100%;
+      min-width: 480px;
+      border-collapse: collapse;
+      font-size: 0.82rem;
+    }
+    .chat-md-table th, .chat-md-table td {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--color-hairline);
+      text-align: left;
+    }
+    .chat-md-table th {
+      background: var(--color-canvas);
       font-family: var(--font-mono);
       font-size: 0.72rem;
-      background: transparent;
-      border: 1px solid var(--color-dashed);
-      padding: 0.25rem 0.65rem;
-      color: var(--color-charcoal);
-      cursor: pointer;
+      text-transform: uppercase;
+      color: var(--color-ink);
+    }
+    .chat-md-table tr:nth-child(even) {
+      background: var(--color-subtle);
+    }
+    .chat-inline-code {
+      background: var(--color-canvas);
+      padding: 0.15rem 0.35rem;
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      border: 1px solid var(--color-hairline);
+    }
+    .chat-bullet {
+      margin-left: 1.2rem;
+      margin-bottom: 0.25rem;
+    }
+
+    /* TTS Button & Grounding Sources */
+    .msg-tts-btn {
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-      margin-top: 0.4rem;
-      transition: all 0.2s;
+      margin-top: 0.75rem;
+      padding: 0.35rem 0.75rem;
+      background: var(--color-canvas);
+      border: 1px solid var(--color-dashed);
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: all 0.2s ease;
     }
     .msg-tts-btn:hover {
       background: var(--color-ink);
       color: var(--color-paper);
     }
-
-    /* Grounding Sources Box */
+    .msg-tts-btn.playing {
+      background: #191917;
+      color: #ffffff;
+    }
     .grounding-box {
-      margin-top: 0.8rem;
+      margin-top: 0.85rem;
       padding: 0.8rem 1rem;
-      background: var(--color-subtle);
-      border: var(--border-dashed);
-      font-size: 0.82rem;
+      background: var(--color-paper);
+      border: 1px dashed var(--color-dashed);
     }
     .grounding-title {
       font-family: var(--font-mono);
-      font-size: 0.7rem;
+      font-size: 0.68rem;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
       color: var(--color-lead);
       margin-bottom: 0.5rem;
     }
@@ -931,52 +1189,168 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0.3rem 0;
+      gap: 0.5rem;
+      padding: 0.35rem 0;
       border-bottom: 1px dashed var(--color-hairline);
+      font-size: 0.82rem;
     }
     .grounding-item:last-child {
       border-bottom: none;
     }
+    .btn-view-source-book {
+      background: transparent;
+      border: 1px solid var(--color-hairline);
+      padding: 0.2rem 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .btn-view-source-book:hover {
+      background: var(--color-ink);
+      color: var(--color-paper);
+    }
 
-    /* Vision Tool inside Drawer */
+    /* Chat Input Bar */
+    .drawer-footer {
+      padding: 1.2rem 1.8rem;
+      border-top: var(--border-dashed);
+      background: var(--color-paper);
+    }
+    .chat-input-bar {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    .chat-text-input {
+      flex-grow: 1;
+      height: 3rem;
+      padding: 0 1rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-subtle);
+      font-family: var(--font-sans);
+      font-size: 0.92rem;
+      color: var(--color-ink);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    .chat-text-input:focus {
+      border-color: var(--color-ink);
+      background: var(--color-paper);
+    }
+    .btn-mic-stt {
+      width: 3rem;
+      height: 3rem;
+      background: var(--color-subtle);
+      border: 1px solid var(--color-hairline);
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+    }
+    .btn-mic-stt:hover {
+      background: var(--color-canvas);
+      border-color: var(--color-ink);
+    }
+    .btn-mic-stt.recording {
+      background: #dc2626;
+      color: #ffffff;
+      animation: pulseRecord 1s infinite alternate;
+    }
+    @keyframes pulseRecord {
+      0% { transform: scale(0.95); opacity: 0.8; }
+      100% { transform: scale(1.05); opacity: 1; }
+    }
+    .btn-send-chat {
+      height: 3rem;
+      padding: 0 1.5rem;
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border: none;
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+    .btn-send-chat:hover {
+      background: #333330;
+    }
+
+    /* History Pane */
+    .history-session-item {
+      border: 1px solid var(--color-hairline);
+      padding: 1rem 1.2rem;
+      margin-bottom: 0.8rem;
+      background: var(--color-subtle);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      transition: all 0.2s ease;
+    }
+    .history-session-item:hover {
+      border-color: var(--color-ink);
+      background: var(--color-paper);
+    }
+    .history-title {
+      font-weight: 500;
+      font-size: 0.95rem;
+      color: var(--color-ink);
+      margin-bottom: 0.25rem;
+    }
+    .history-meta {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--color-lead);
+    }
+    .history-actions {
+      display: flex;
+      gap: 0.4rem;
+    }
+
+    /* Vision Pane */
     .vision-dropzone {
       border: 2px dashed var(--color-dashed);
-      background: var(--color-subtle);
-      padding: 2.5rem 1.5rem;
+      padding: 3rem 2rem;
       text-align: center;
+      background: var(--color-subtle);
       cursor: pointer;
-      transition: border-color 0.2s, background-color 0.2s;
+      transition: all 0.2s ease;
     }
     .vision-dropzone:hover, .vision-dropzone.dragover {
       border-color: var(--color-ink);
       background: var(--color-canvas);
     }
     .vision-preview-img {
-      max-height: 14rem;
-      margin: 1rem auto;
+      max-height: 180px;
+      margin: 1rem auto 0;
+      border: 1px solid var(--color-hairline);
       display: none;
-      border: 1px solid var(--color-ink);
-      box-shadow: 4px 4px 0 rgba(25, 25, 23, 0.08);
     }
 
-    /* Prompt Suggestion Chips in Drawer */
+    /* Suggestions Pane */
     .suggestion-chips-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 0.6rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
     }
     .suggestion-chip {
-      padding: 0.7rem 1rem;
-      background: var(--color-subtle);
       border: 1px solid var(--color-hairline);
-      font-size: 0.84rem;
-      color: var(--color-charcoal);
+      background: var(--color-subtle);
+      padding: 1rem 1.2rem;
       text-align: left;
+      font-family: var(--font-sans);
+      font-size: 0.92rem;
+      color: var(--color-ink);
       cursor: pointer;
-      transition: all 0.2s;
       display: flex;
-      align-items: center;
       justify-content: space-between;
+      align-items: center;
+      transition: all 0.2s ease;
     }
     .suggestion-chip:hover {
       background: var(--color-ink);
@@ -984,152 +1358,95 @@
       border-color: var(--color-ink);
     }
 
-    /* Drawer Footer (Input Form) */
-    .drawer-footer {
-      padding: 1.4rem 2rem;
-      border-top: var(--border-dashed);
-      background: var(--color-paper);
-    }
-    .chat-input-bar {
-      display: flex;
-      gap: 0.6rem;
-      align-items: center;
-    }
-    .chat-text-input {
-      flex-grow: 1;
-      padding: 0.85rem 1.2rem;
-      border: 1px solid var(--color-ink);
-      font-family: var(--font-sans);
-      font-size: 0.92rem;
-      outline: none;
-    }
-    .btn-mic-stt {
-      padding: 0.85rem 1.1rem;
-      background: var(--color-subtle);
-      border: 1px solid var(--color-dashed);
-      cursor: pointer;
-      font-size: 1rem;
-      transition: all 0.2s;
-    }
-    .btn-mic-stt.recording {
-      background: #ef4444;
-      color: white;
-      border-color: #ef4444;
-      animation: pulse 1.2s infinite;
-    }
-    @keyframes pulse {
-      0% { opacity: 1; }
-      50% { opacity: 0.5; }
-      100% { opacity: 1; }
-    }
-    .btn-send-chat {
-      padding: 0.85rem 1.5rem;
-      background: var(--color-ink);
-      color: var(--color-paper);
-      border: 1px solid var(--color-ink);
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      cursor: pointer;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      transition: background 0.2s;
-    }
-    .btn-send-chat:hover {
-      background: #333330;
-    }
-
     /* ==========================================================================
-       8. BOOK DOSSIER MODAL (EDITORIAL DETAIL VIEW)
+       10. MODALS (BOOK DOSSIER & READING SAMPLE)
        ========================================================================== */
     .modal-backdrop {
       position: fixed;
       inset: 0;
-      background: rgba(25, 25, 23, 0.5);
-      backdrop-filter: blur(5px);
-      -webkit-backdrop-filter: blur(5px);
-      z-index: 1050;
-      opacity: 0;
-      pointer-events: none;
-      transition: opacity 0.3s ease;
-      display: flex;
+      background: rgba(25, 25, 23, 0.6);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      z-index: 2000;
+      display: none;
       align-items: center;
       justify-content: center;
       padding: 2rem;
     }
     .modal-backdrop.active {
-      opacity: 1;
-      pointer-events: auto;
+      display: flex;
     }
     .book-dossier-card {
-      width: 65rem;
-      max-width: 96vw;
-      max-height: 90vh;
       background: var(--color-paper);
+      width: 58rem;
+      max-width: 95vw;
+      max-height: 90vh;
+      overflow-y: auto;
       border: 1px solid var(--color-ink);
-      box-shadow: 16px 16px 0 rgba(25, 25, 23, 0.12);
       display: flex;
       flex-direction: column;
-      overflow: hidden;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
     }
     .dossier-header {
       padding: 1.2rem 2rem;
       border-bottom: var(--border-dashed);
-      background: var(--color-subtle);
       display: flex;
       align-items: center;
       justify-content: space-between;
     }
     .dossier-body {
-      padding: 2.5rem;
-      overflow-y: auto;
       display: grid;
-      grid-template-columns: 1.1fr 2fr;
-      gap: 3rem;
+      grid-template-columns: 18rem 1fr;
+      gap: 2.5rem;
+      padding: 2.2rem;
+    }
+    @media (max-width: 768px) {
+      .dossier-body {
+        grid-template-columns: 1fr;
+      }
     }
     .dossier-cover-col img {
       width: 100%;
-      border: 1px solid var(--color-ink);
-      box-shadow: 8px 8px 0 rgba(25, 25, 23, 0.08);
-      margin-bottom: 1.5rem;
+      aspect-ratio: 2/3;
+      object-fit: cover;
+      border: 1px solid var(--color-hairline);
+      margin-bottom: 1.2rem;
     }
     .dossier-meta-list {
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      border-top: var(--border-dashed);
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
     }
     .dossier-meta-item {
       display: flex;
       justify-content: space-between;
-      padding: 0.5rem 0;
       border-bottom: 1px dashed var(--color-hairline);
+      padding-bottom: 0.35rem;
+      font-size: 0.85rem;
     }
-
+    .dossier-meta-item span {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--color-lead);
+      text-transform: uppercase;
+    }
     .dossier-info-col h2 {
-      font-size: 2.4rem;
-      line-height: 1.15;
-      margin-bottom: 0.5rem;
+      font-size: 2.2rem;
+      margin-bottom: 0.4rem;
     }
     .dossier-author {
       font-size: 1.1rem;
-      color: var(--color-charcoal);
-      margin-bottom: 1.5rem;
+      color: var(--color-lead);
+      margin-bottom: 1.2rem;
     }
     .dossier-tags-row {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.5rem;
-      margin-bottom: 1.8rem;
-    }
-    .dossier-tag {
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      padding: 0.25rem 0.65rem;
-      background: var(--color-subtle);
-      border: 1px solid var(--color-hairline);
-      color: var(--color-charcoal);
+      gap: 0.4rem;
+      margin-bottom: 1.5rem;
     }
     .dossier-text-block {
-      margin-bottom: 2rem;
+      margin-bottom: 1.5rem;
     }
     .dossier-text-block h4 {
       font-family: var(--font-mono);
@@ -1137,97 +1454,104 @@
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: var(--color-lead);
-      margin-bottom: 0.6rem;
+      margin-bottom: 0.5rem;
     }
     .dossier-actions {
       display: flex;
-      gap: 1rem;
+      gap: 0.8rem;
       flex-wrap: wrap;
-      margin-top: 2rem;
+      margin-top: 1.5rem;
       padding-top: 1.5rem;
       border-top: var(--border-dashed);
     }
     .btn-dossier-primary {
-      padding: 0.85rem 1.6rem;
       background: var(--color-ink);
       color: var(--color-paper);
-      text-decoration: none;
+      border: none;
+      padding: 0.8rem 1.6rem;
       font-family: var(--font-mono);
-      font-size: 0.8rem;
-      border: 1px solid var(--color-ink);
+      font-size: 0.78rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
       cursor: pointer;
-      transition: background 0.2s;
+      text-decoration: none;
+      transition: background 0.2s ease;
     }
     .btn-dossier-primary:hover {
       background: #333330;
     }
     .btn-dossier-secondary {
-      padding: 0.85rem 1.6rem;
-      background: var(--color-paper);
+      background: transparent;
       color: var(--color-ink);
-      text-decoration: none;
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
       border: 1px solid var(--color-ink);
+      padding: 0.8rem 1.6rem;
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
       cursor: pointer;
-      transition: all 0.2s;
+      text-decoration: none;
+      transition: all 0.2s ease;
     }
     .btn-dossier-secondary:hover {
-      background: var(--color-subtle);
+      background: var(--color-ink);
+      color: var(--color-paper);
     }
 
-    /* Audio Player Floating Banner */
+    /* Reading Sample Modal Card */
+    .reading-modal-card {
+      background: var(--color-paper);
+      width: 48rem;
+      max-width: 95vw;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--color-ink);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+    }
+    .reading-modal-body {
+      padding: 2.5rem;
+      overflow-y: auto;
+      font-family: var(--font-serif);
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: var(--color-charcoal);
+    }
+
+    /* Audio Player Floating Bar */
     #global-audio-player {
       position: fixed;
       bottom: 2rem;
-      left: var(--site-pad);
-      background: var(--color-paper);
-      border: 1px solid var(--color-ink);
-      padding: 0.8rem 1.4rem;
-      box-shadow: 8px 8px 0 rgba(25, 25, 23, 0.15);
-      z-index: 850;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      padding: 0.6rem 1.2rem;
       display: none;
       align-items: center;
-      gap: 1.2rem;
-    }
-
-    /* Responsive Overrides */
-    @media (max-width: 1024px) {
-      .hero-editorial-grid { grid-template-columns: 1fr; gap: 2rem; }
-      .metric-grid { grid-template-columns: repeat(2, 1fr); }
-      .books-grid { grid-template-columns: repeat(2, 1fr); }
-      .cartography-grid { grid-template-columns: 1fr; }
-      .colophon-grid { grid-template-columns: 1fr; }
-      .dossier-body { grid-template-columns: 1fr; }
-    }
-    @media (max-width: 640px) {
-      .site-header { padding: 0 1.2rem; }
-      .header-nav { display: none; }
-      .section-prologue, .section-catalog, .section-cartography, .section-colophon { padding-left: 1.2rem; padding-right: 1.2rem; }
-      .hero-headline { font-size: 2.8rem; }
-      .metric-grid { grid-template-columns: 1fr; }
-      .books-grid { grid-template-columns: 1fr; }
-      .catalog-toolbar { grid-template-columns: 1fr; }
+      gap: 1rem;
+      z-index: 3000;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
     }
   </style>
 </head>
 
 <body>
-
   <!-- ========================================================================
-       1. FIXED EDITORIAL HEADER
+       1. SITE HEADER & BRAND
        ======================================================================== -->
   <header class="site-header">
     <div class="brand-wrap">
-      <a href="#prologue" class="brand-title">DAU · AI Digital Library</a>
-      <span class="brand-tag" id="header-volume-tag">VOL. 209</span>
+      <a href="#prologue" class="brand-title">THƯ VIỆN SỐ AI</a>
+      <span class="brand-tag" id="header-volume-tag">209 ẤN PHẨM</span>
     </div>
 
     <nav class="header-nav">
-      <a href="#prologue" class="nav-item">PROLOGUE [01]</a>
-      <a href="#catalog" class="nav-item">REPOSITORY [02]</a>
-      <a href="#cartography" class="nav-item">CARTOGRAPHY [03]</a>
-      <a href="#colophon" class="nav-item">COLOPHON [04]</a>
+      <a href="#prologue" class="nav-item">[01] GIỚI THIỆU</a>
+      <a href="#catalog" class="nav-item">[02] KHO SÁCH SỐ</a>
+      <a href="#crawler" class="nav-item">[03] THU THẬP & ĐỒNG BỘ AI</a>
+      <a href="#locations" class="nav-item">[04] ĐỊNH VỊ NHÀ SÁCH</a>
     </nav>
 
     <div class="header-meta">
@@ -1236,37 +1560,41 @@
         <span id="clock-display">ĐÀ NẴNG --:--:--</span>
       </div>
       <button class="btn-ai-studio" id="btn-open-studio" title="Mở Trợ lý Thủ thư AI (Phím tắt: ⌘K / Ctrl+K)">
-        <span>AI STUDIO</span>
+        <span>TRỢ LÝ THỦ THƯ AI</span>
         <span class="key-badge">⌘K</span>
       </button>
     </div>
   </header>
 
   <!-- ========================================================================
-       2. PROLOGUE: HERO EDITORIAL
+       2. SECTION [01]: PROLOGUE / KHÔNG GIAN ĐỌC THÔNG MINH
        ======================================================================== -->
   <main>
     <section class="section-prologue" id="prologue">
       <div class="section-index-tag">
         <span class="section-index-num">[01]</span>
-        <span class="section-index-title">PROLOGUE / THE ARCHITECTURE OF THOUGHT</span>
+        <span class="section-index-title">KHÔNG GIAN ĐỌC SÁCH THÔNG MINH</span>
       </div>
 
       <div class="hero-editorial-grid">
         <div>
           <h1 class="hero-headline">
-            Curated Intelligence <br>
-            <em>for Canonical Literature.</em>
+            Trí tuệ Nhân tạo <br>
+            <em>dẫn lối Tri thức Tinh hoa.</em>
           </h1>
+          <div class="hero-quick-actions">
+            <a href="#catalog" class="btn-hero-primary">KHÁM PHÁ KHO SÁCH &darr;</a>
+            <button class="btn-hero-secondary" id="btn-hero-open-ai">MỞ TRỢ LÝ THỦ THƯ AI ⌘K</button>
+          </div>
         </div>
         <div class="hero-manifesto">
           <p>
-            Đồ án tốt nghiệp Trí tuệ Nhân tạo tại Đại học Kiến trúc Đà Nẵng: 
-            Tái cấu trúc trải nghiệm thư viện số thông qua kiến trúc RAG, Google Gemini 2.5/3.6 Flash, 
-            và nhận diện đa phương thức (Computer Vision & Voice Audio).
+            Nền tảng thư viện thông minh tích hợp trí tuệ nhân tạo thế hệ mới: 
+            Đề xuất sách cá nhân hóa RAG qua ChromaDB, thị giác máy tính nhận diện bìa sách đa chiều 
+            và bản đồ định vị điểm đọc thực tế.
           </p>
           <p class="mono-label">
-            AUTHORED BY TRẦN HỒNG CÔNG (23CT5) · SUPERVISED BY TS. ĐỖ PHÚC HẢO
+            HỆ THỐNG THƯ VIỆN SỐ CHUẨN MỰC · TRẢI NGHIỆM ĐỌC ĐA PHƯƠNG THỨC
           </p>
         </div>
       </div>
@@ -1274,57 +1602,78 @@
       <!-- 4-Column Architectural Metric Grid -->
       <div class="metric-grid">
         <div class="metric-cell">
-          <div class="metric-num" id="stat-total-books">209</div>
-          <div class="metric-title">Standardized Titles</div>
-          <div class="metric-desc">Đầu sách tinh tuyển được chuẩn hóa 26 trường siêu dữ liệu học thuật.</div>
+          <div class="metric-num" id="stat-total-books">209+</div>
+          <div class="metric-title">Tác phẩm kinh điển</div>
+          <div class="metric-desc">Ấn phẩm tinh tuyển được chuẩn hóa 26 trường siêu dữ liệu học thuật.</div>
         </div>
         <div class="metric-cell">
-          <div class="metric-num">768-D</div>
-          <div class="metric-title">ChromaDB Vectors</div>
-          <div class="metric-desc">Không gian vector ngữ nghĩa truy xuất chính xác bằng khoảng cách Cosine.</div>
+          <div class="metric-num">100%</div>
+          <div class="metric-title">Vector hóa ngữ nghĩa</div>
+          <div class="metric-desc">Không gian vector 768 chiều nhúng bằng Gemini Embedding trong ChromaDB.</div>
         </div>
         <div class="metric-cell">
-          <div class="metric-num">0.00</div>
-          <div class="metric-title">Hallucination Rate</div>
-          <div class="metric-desc">Neo giữ thông tin nghiêm ngặt (Strict Grounding) vào dữ liệu thực tế.</div>
+          <div class="metric-num">0.8s</div>
+          <div class="metric-title">Tốc độ phản hồi</div>
+          <div class="metric-desc">Truy xuất thông tin tức thì, neo giữ dữ liệu nghiêm ngặt chống ảo giác.</div>
         </div>
         <div class="metric-cell">
-          <div class="metric-num">03</div>
-          <div class="metric-title">Multimodal Modalities</div>
-          <div class="metric-desc">Tương tác linh hoạt qua Văn bản, Ảnh bìa Vision và Giọng nói hai chiều.</div>
+          <div class="metric-num">24/7</div>
+          <div class="metric-title">Trợ lý Thủ thư số</div>
+          <div class="metric-desc">Tương tác linh hoạt đa thể thức qua Văn bản, Ảnh bìa Vision và Giọng nói hai chiều.</div>
         </div>
       </div>
     </section>
 
     <!-- ========================================================================
-         3. SECTION 02: THE REPOSITORY (CATALOG)
+         3. SECTION [02]: KHO SÁCH SỐ / TOÀN VĂN ẤN PHẨM
          ======================================================================== -->
     <section class="section-catalog" id="catalog">
       <div class="section-index-tag">
         <span class="section-index-num">[02]</span>
-        <span class="section-index-title">REPOSITORY / CANONICAL CATALOGUE</span>
+        <span class="section-index-title">KHO LƯU TRỮ / TOÀN VĂN ẤN PHẨM</span>
       </div>
 
       <div class="catalog-header-bar">
         <div>
-          <h2 class="catalog-title">The Curated Works</h2>
-          <p class="mono-label" id="catalog-count-label">SHOWING 24 OF 209 TITLES</p>
+          <h2 class="catalog-title">Kho Lưu trữ Ấn phẩm</h2>
+          <p class="mono-label" id="catalog-count-label">HIỂN THỊ 24 TRÊN 209 ẤN PHẨM</p>
         </div>
 
         <div class="view-mode-toggle">
-          <button class="btn-view-mode active" id="btn-view-grid" title="Lưới thẻ sách">GRID</button>
-          <button class="btn-view-mode" id="btn-view-index" title="Bảng mục lục số hóa">INDEX</button>
+          <button class="btn-view-mode active" id="btn-view-grid" title="Dạng lưới thẻ sách">DẠNG LƯỚI</button>
+          <button class="btn-view-mode" id="btn-view-index" title="Dạng bảng mục lục">DẠNG BẢNG</button>
         </div>
       </div>
 
-      <!-- Controls Toolbar -->
+      <!-- Controls Toolbar with Difficulty & Mood -->
       <div class="catalog-toolbar">
         <div>
           <input type="text" class="input-editorial" id="search-input" placeholder="TÌM THEO TÊN SÁCH, TÁC GIẢ HOẶC CHỦ ĐỀ...">
         </div>
         <div>
           <select class="select-editorial" id="filter-genre">
-            <option value="">TẤT CẢ THỂ LOẠI (ALL GENRES)</option>
+            <option value="">TẤT CẢ THỂ LOẠI</option>
+          </select>
+        </div>
+        <div>
+          <select class="select-editorial" id="filter-difficulty">
+            <option value="">TẤT CẢ ĐỘ KHÓ</option>
+            <option value="Dễ đọc">DỄ ĐỌC</option>
+            <option value="Trung bình">TRUNG BÌNH</option>
+            <option value="Chuyên sâu">CHUYÊN SÂU</option>
+          </select>
+        </div>
+        <div>
+          <select class="select-editorial" id="filter-mood">
+            <option value="">TẤT CẢ TÂM TRẠNG</option>
+            <option value="Tích cực">TÍCH CỰC</option>
+            <option value="Muốn có động lực">MUỐN CÓ ĐỘNG LỰC</option>
+            <option value="Muốn học hỏi">MUỐN HỌC HỎI</option>
+            <option value="Muốn suy ngẫm">MUỐN SUY NGẪM</option>
+            <option value="Muốn thư giãn">MUỐN THƯ GIÃN</option>
+            <option value="Muốn tiến bộ">MUỐN TIẾN BỘ</option>
+            <option value="Muốn kết nối">MUỐN KẾT NỐI</option>
+            <option value="Mất động lực">MẤT ĐỘNG LỰC</option>
           </select>
         </div>
         <div>
@@ -1336,7 +1685,7 @@
           </select>
         </div>
         <div>
-          <button class="btn-pagination" id="btn-reset-filters">RESET</button>
+          <button class="btn-pagination" id="btn-reset-filters">ĐẶT LẠI</button>
         </div>
       </div>
 
@@ -1358,6 +1707,7 @@
             <th>TỰA ĐỀ TÁC PHẨM</th>
             <th>TÁC GIẢ</th>
             <th>THỂ LOẠI</th>
+            <th>ĐỘ KHÓ & TÂM TRẠNG</th>
             <th>NĂM</th>
             <th>ĐÁNH GIÁ</th>
             <th>ĐỌC THỬ</th>
@@ -1370,173 +1720,257 @@
 
       <!-- Pagination Toolbar -->
       <div class="catalog-pagination">
-        <span class="mono-label" id="pagination-page-label">PAGE 1 OF 9</span>
+        <span class="mono-label" id="pagination-page-label">TRANG 1 TRÊN 9</span>
         <div style="display:flex; gap:0.6rem;">
-          <button class="btn-pagination" id="btn-prev-page" disabled>&larr; PREVIOUS</button>
-          <button class="btn-pagination" id="btn-next-page">NEXT &rarr;</button>
+          <button class="btn-pagination" id="btn-prev-page" disabled>&larr; TRƯỚC</button>
+          <button class="btn-pagination" id="btn-next-page">TIẾP &rarr;</button>
         </div>
       </div>
     </section>
 
     <!-- ========================================================================
-         4. SECTION 03: CARTOGRAPHY (MAPS & PHYSICAL SANCTUARIES)
+         4. SECTION [03]: AI CRAWLER & VECTOR SYNC (QUẢN TRỊ DỮ LIỆU)
          ======================================================================== -->
-    <section class="section-cartography" id="cartography">
+    <section class="section-crawler" id="crawler">
       <div class="section-index-tag">
         <span class="section-index-num">[03]</span>
-        <span class="section-index-title">CARTOGRAPHY / PHYSICAL SANCTUARIES</span>
+        <span class="section-index-title">QUẢN TRỊ DỮ LIỆU / AI BOOK CRAWLER & VECTOR SYNC</span>
+      </div>
+
+      <div class="crawler-dashboard-grid">
+        <!-- Cột Trái: Online Book Crawler -->
+        <div class="crawler-card">
+          <h3 style="font-size:1.8rem; margin-bottom:0.6rem;">Thu thập Dữ liệu Sách Trực tuyến</h3>
+          <p style="font-size:0.9rem; color:var(--color-charcoal); line-height:1.6;">
+            Truy vấn tự động từ các nguồn học thuật & thư viện số thế giới (Open Library, Google Books, Gutenberg...). 
+            Chuẩn hóa 26 trường siêu dữ liệu và nhập trực tiếp vào kho lưu trữ thư viện.
+          </p>
+
+          <div class="crawler-form-row">
+            <div>
+              <label class="mono-label" style="display:block; margin-bottom:0.35rem;">TỪ KHÓA TÌM KIẾM</label>
+              <input type="text" class="input-editorial" id="crawler-search-query" placeholder="Ví dụ: Nhà giả kim, Deep Work...">
+            </div>
+            <div>
+              <label class="mono-label" style="display:block; margin-bottom:0.35rem;">NGUỒN DỮ LIỆU</label>
+              <select class="select-editorial" id="crawler-source-select">
+                <option value="all">TẤT CẢ NGUỒN</option>
+                <option value="google_books">GOOGLE BOOKS</option>
+                <option value="openlibrary">OPEN LIBRARY</option>
+                <option value="gutenberg">GUTENBERG</option>
+                <option value="internet_archive">INTERNET ARCHIVE</option>
+                <option value="itunes">APPLE BOOKS</option>
+              </select>
+            </div>
+            <div>
+              <label class="mono-label" style="display:block; margin-bottom:0.35rem;">SỐ KẾT QUẢ</label>
+              <select class="select-editorial" id="crawler-limit-select">
+                <option value="5">5 KẾT QUẢ</option>
+                <option value="10" selected>10 KẾT QUẢ</option>
+                <option value="20">20 KẾT QUẢ</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="btn-pagination" id="btn-crawler-search" style="background:var(--color-ink); color:var(--color-paper); width:100%; margin-top:1rem;">
+            TÌM KIẾM SÁCH MỚI &rarr;
+          </button>
+
+          <!-- Crawler Results Container -->
+          <div class="crawler-results-list" id="crawler-results-container">
+            <div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1.5rem;">
+              <p class="mono-label">NHẬP TỪ KHÓA VÀ NHẤN "TÌM KIẾM SÁCH MỚI" ĐỂ THU THẬP TỰ ĐỘNG</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Cột Phải: Self-Healing ChromaDB Vector Sync -->
+        <div class="crawler-card">
+          <h3 style="font-size:1.8rem; margin-bottom:0.6rem;">Đồng bộ Vector Tự chữa lành</h3>
+          <p style="font-size:0.9rem; color:var(--color-charcoal); line-height:1.6;">
+            Cơ chế Self-Healing tự động so sánh toàn bộ các đầu sách trong cơ sở dữ liệu CSV với không gian Vector ChromaDB 
+            để phát hiện và đánh chỉ mục ngữ nghĩa cho các sách mới nhập.
+          </p>
+
+          <table class="sync-metrics-table">
+            <tr>
+              <td>TỔNG ĐẦU SÁCH (CSV)</td>
+              <td><strong id="sync-stat-total">--</strong></td>
+            </tr>
+            <tr>
+              <td>ĐÃ CÓ VECTOR (CHROMADB)</td>
+              <td><strong id="sync-stat-indexed">--</strong></td>
+            </tr>
+            <tr>
+              <td>THIẾU VECTOR (CHƯA ĐÁNH CHỈ MỤC)</td>
+              <td><strong id="sync-stat-unindexed" style="color:#d97706;">--</strong></td>
+            </tr>
+            <tr>
+              <td>TRẠNG THÁI TOÀN VẸN</td>
+              <td><span id="sync-stat-status" class="sync-status-badge">ĐANG KIỂM TRA...</span></td>
+            </tr>
+            <tr>
+              <td>LẦN ĐỒNG BỘ GẦN NHẤT</td>
+              <td><span id="sync-stat-time" style="font-family:var(--font-mono); font-size:0.8rem; color:var(--color-lead);">--</span></td>
+            </tr>
+          </table>
+
+          <button class="btn-pagination" id="btn-sync-chroma" style="background:var(--color-ink); color:var(--color-paper); width:100%; padding:0.9rem 1rem;">
+            ĐỒNG BỘ VECTOR CHROMADB NGAY ↻
+          </button>
+
+          <div id="sync-result-box" style="margin-top:1.2rem; display:none; padding:1rem; border:var(--border-dashed); background:var(--color-subtle); font-size:0.85rem;">
+            <!-- Sync status feedback -->
+          </div>
+
+          <div id="unindexed-books-preview" style="margin-top:1.5rem; display:none;">
+            <p class="mono-label" style="margin-bottom:0.6rem;">DANH SÁCH CHƯA ĐỒNG BỘ VECTOR:</p>
+            <div id="unindexed-list-items" style="max-height:160px; overflow-y:auto; border:1px solid var(--color-hairline); background:var(--color-subtle); padding:0.6rem;">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         5. SECTION [04]: LOCATIONS / CARTOGRAPHY
+         ======================================================================== -->
+    <section class="section-cartography" id="locations">
+      <div class="section-index-tag">
+        <span class="section-index-num">[04]</span>
+        <span class="section-index-title">BẢN ĐỒ ĐỊA ĐIỂM / NHÀ SÁCH & THƯ VIỆN THỰC TẾ</span>
       </div>
 
       <div class="cartography-grid">
         <div class="cartography-search-card">
-          <h2 style="font-size:2.2rem; margin-bottom:1rem;">Tra cứu Địa điểm</h2>
-          <p style="font-size:0.92rem; color:var(--color-charcoal); margin-bottom:1.8rem;">
-            Kết nối vị trí đời thực qua SerpApi Google Maps Engine. Định vị các nhà sách và thư viện lớn tại Đà Nẵng, Huế, Hà Nội, TP.HCM.
+          <h2 style="font-size:2.2rem; margin-bottom:1rem;">Tra cứu Địa điểm Đọc</h2>
+          <p style="font-size:0.92rem; color:var(--color-charcoal); margin-bottom:1.8rem; line-height:1.6;">
+            Kết nối vị trí đời thực qua SerpApi & Google Maps. Định vị các nhà sách và thư viện công cộng lớn tại Đà Nẵng, Hà Nội, TP.HCM và các tỉnh thành.
           </p>
 
           <div style="display:flex; flex-direction:column; gap:1rem;">
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.4rem;">KHU VỰC / THÀNH PHỐ</label>
-              <input type="text" class="input-editorial" id="loc-input-city" value="Đà Nẵng" placeholder="Ví dụ: Đà Nẵng, Huế, Hà Nội...">
+              <input type="text" class="input-editorial" id="loc-input-city" value="Đà Nẵng" placeholder="Ví dụ: Đà Nẵng, Huế, Hà Nội, TP.HCM...">
             </div>
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.4rem;">LOẠI ĐỊA ĐIỂM</label>
               <select class="select-editorial" id="loc-select-kind">
                 <option value="all">TẤT CẢ (NHÀ SÁCH & THƯ VIỆN)</option>
-                <option value="bookstore">CHỈ NHÀ SÁCH (BOOKSTORES)</option>
-                <option value="library">CHỈ THƯ VIỆN (LIBRARIES)</option>
+                <option value="bookstore">CHỈ NHÀ SÁCH</option>
+                <option value="library">CHỈ THƯ VIỆN</option>
               </select>
             </div>
             <button class="btn-pagination" id="btn-search-locations" style="background:var(--color-ink); color:var(--color-paper); margin-top:0.6rem;">
-              SEARCH SANCTUARIES &rarr;
+              TÌM KIẾM ĐỊA ĐIỂM &rarr;
             </button>
           </div>
         </div>
 
         <div class="cartography-results-wrap" id="locations-results-container">
           <!-- Rendered via JS -->
-          <div style="padding:3rem; text-align:center; border:var(--border-dashed); background:var(--color-paper);">
-            <p class="mono-label">NHẤN "SEARCH SANCTUARIES" ĐỂ TRA CỨU ĐỊA ĐIỂM THỰC TẾ</p>
+          <div style="padding:3rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
+            <p class="mono-label">ĐANG TỰ ĐỘNG TẢI DANH SÁCH NHÀ SÁCH & THƯ VIỆN TẠI ĐÀ NẴNG...</p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ========================================================================
-         5. SECTION 04: COLOPHON & ACADEMIC DOSSIER
-         ======================================================================== -->
-    <section class="section-colophon" id="colophon">
-      <div class="section-index-tag">
-        <span class="section-index-num">[04]</span>
-        <span class="section-index-title">COLOPHON / ACADEMIC DOSSIER</span>
-      </div>
-
-      <div class="colophon-grid">
-        <div>
-          <h2 style="font-size:2.8rem; margin-bottom:1rem;">Hồ sơ Học thuật</h2>
-          <p style="font-size:1.05rem; color:var(--color-charcoal); line-height:1.7;">
-            Đồ án nghiên cứu và phát triển hệ sinh thái Thư viện số thông minh đa nền tảng 
-            (Web & Desktop Native C++ Runner), kết hợp lý thuyết truy xuất thông tin hiện đại 
-            và giao diện đồ họa chuẩn phong cách tạp chí kiến trúc (Editorial Monochrome).
-          </p>
-
-          <table class="colophon-spec-table">
-            <tr>
-              <td>HỌC PHẦN</td>
-              <td>Đồ án Trí tuệ Nhân tạo (AIP202) — 2 Tín chỉ</td>
-            </tr>
-            <tr>
-              <td>CƠ SỞ ĐÀO TẠO</td>
-              <td>Khoa Công nghệ Thông tin · Đại học Kiến trúc Đà Nẵng (DAU)</td>
-            </tr>
-            <tr>
-              <td>SINH VIÊN THỰC HIỆN</td>
-              <td><strong>Trần Hồng Công</strong> · Lớp 23CT5 · MSSV: 23CT5</td>
-            </tr>
-            <tr>
-              <td>GIẢNG VIÊN HƯỚNG DẪN</td>
-              <td><strong>TS. Đỗ Phúc Hảo</strong></td>
-            </tr>
-            <tr>
-              <td>NĂM HỌC</td>
-              <td>2026 – 2027 · Thành phố Đà Nẵng</td>
-            </tr>
-            <tr>
-              <td>KIỂM THỬ TỰ ĐỘNG</td>
-              <td><strong>41 / 41 Tests Passed (100%)</strong> · Pytest Automated Suite</td>
-            </tr>
-          </table>
-
-          <a href="/docs-pdf" target="_blank" class="btn-download-pdf">
-            <span>XEM BÁO CÁO TOÀN VĂN (PDF · 2MB)</span>
-            <span>&darr;</span>
-          </a>
-        </div>
-
-        <div style="border:var(--border-dashed); padding:2.5rem; background:var(--color-subtle);">
-          <span class="mono-label">ARCHITECTURAL STATEMENT</span>
-          <p style="font-family:var(--font-serif); font-size:1.5rem; line-height:1.4; margin:1.2rem 0; color:var(--color-ink);">
-            "Knowledge is not merely data to be indexed; it is an architectural space to be wandered and reflected upon."
-          </p>
-          <p style="font-size:0.85rem; color:var(--color-lead); line-height:1.6;">
-            Giao diện này áp dụng triệt để nguyên lý thiết kế tối giản của Kai Nomura: 
-            loại bỏ hoàn toàn các yếu tố màu sắc gây nhiễu thị giác, tôn vinh nghệ thuật sắp chữ, 
-            đường nét kiến trúc và khoảng lặng của trang sách giấy.
-          </p>
         </div>
       </div>
     </section>
   </main>
 
   <!-- ========================================================================
-       6. AI LIBRARIAN STUDIO (SLIDE-OVER DRAWER)
+       6. SITE FOOTER
+       ======================================================================== -->
+  <footer class="site-footer">
+    <div class="footer-brand">THƯ VIỆN SỐ AI</div>
+    <div class="footer-copy">
+      &copy; 2026 Hệ thống Thư viện Số & Trợ lý Sách AI Đa phương thức. Mọi quyền được bảo lưu.
+    </div>
+    <div class="footer-links">
+      <a href="#prologue" class="footer-link">VỀ ĐẦU TRANG &uarr;</a>
+      <a href="#catalog" class="footer-link">KHO SÁCH</a>
+      <a href="#crawler" class="footer-link">QUẢN TRỊ AI</a>
+      <a href="#locations" class="footer-link">ĐỊA ĐIỂM</a>
+    </div>
+  </footer>
+
+  <!-- ========================================================================
+       7. AI LIBRARIAN STUDIO (SLIDE-OVER DRAWER)
        ======================================================================== -->
   <div class="studio-backdrop" id="studio-backdrop"></div>
 
   <aside class="studio-drawer" id="studio-drawer" aria-hidden="true">
     <div class="drawer-header">
       <div class="drawer-title-wrap">
-        <h3>AI Librarian Studio</h3>
-        <span class="mono-label">GEMINI GROUNDED RAG · MULTIMODAL ASSISTANT</span>
+        <h3>Trợ lý Thủ thư AI</h3>
+        <span class="mono-label">HỆ THỐNG RAG GEMINI · ĐA PHƯƠNG THỨC</span>
       </div>
-      <button class="drawer-close-btn" id="btn-close-studio" title="Đóng [ESC]">CLOSE [ESC]</button>
+      <button class="drawer-close-btn" id="btn-close-studio" title="Đóng [ESC]">ĐÓNG [ESC]</button>
     </div>
 
-    <!-- Subnav Tabs -->
+    <!-- Controls Bar: Top-K & Chat Management -->
+    <div class="drawer-controls-bar">
+      <div class="topk-control">
+        <span>Độ sâu RAG (Top-K):</span>
+        <select class="topk-select" id="rag-topk-select">
+          <option value="3">3 Tác phẩm</option>
+          <option value="5" selected>5 Tác phẩm (Chuẩn)</option>
+          <option value="7">7 Tác phẩm</option>
+          <option value="10">10 Tác phẩm (Sâu)</option>
+        </select>
+      </div>
+      <div class="drawer-action-buttons">
+        <button class="btn-drawer-action" id="btn-new-chat">+ Trò chuyện mới</button>
+        <button class="btn-drawer-action" id="btn-clear-chat">Xóa hội thoại</button>
+      </div>
+    </div>
+
+    <!-- Subnav Tabs (4 TABS) -->
     <div class="drawer-tabs">
-      <button class="drawer-tab-btn active" data-tab="tab-chat">CONVERSATION [CHAT]</button>
-      <button class="drawer-tab-btn" data-tab="tab-vision">VISION [COVER SCAN]</button>
-      <button class="drawer-tab-btn" data-tab="tab-prompts">CURATED INQUIRIES</button>
+      <button class="drawer-tab-btn active" data-tab="tab-chat">[TRÒ CHUYỆN AI]</button>
+      <button class="drawer-tab-btn" data-tab="tab-history">[LỊCH SỬ CHAT]</button>
+      <button class="drawer-tab-btn" data-tab="tab-vision">[QUÉT BÌA SÁCH]</button>
+      <button class="drawer-tab-btn" data-tab="tab-prompts">[GỢI Ý TRA CỨU]</button>
     </div>
 
     <div class="drawer-body">
       <!-- TAB 1: CHAT -->
-      <div id="tab-chat" class="drawer-tab-pane">
+      <div id="tab-chat" class="drawer-tab-pane active">
         <div class="chat-messages-container" id="chat-messages">
           <div class="chat-msg assistant">
             <div class="chat-msg-header">
-              <span>THỦ THƯ AI (GEMINI 2.5/3.6 FLASH)</span>
-              <span>GROUNDED</span>
+              <span>THỦ THƯ AI (GEMINI RAG)</span>
+              <span>CHUẨN HÓA</span>
             </div>
             <div class="chat-bubble">
-              Xin chào độc giả. Tôi là Trợ lý Thủ thư Số của Thư viện AI (DAU). 
-              Tôi được neo giữ tri thức vào 209 đầu sách chuẩn hóa trong kho dữ liệu ChromaDB. 
+              Xin chào độc giả. Tôi là Trợ lý Thủ thư Số của Thư viện AI. 
+              Tôi được neo giữ tri thức vào hơn 209 đầu sách chuẩn hóa trong cơ sở dữ liệu ChromaDB. 
               Bạn đang quan tâm đến tác phẩm, tác giả hay chủ đề nghiên cứu nào?
             </div>
           </div>
         </div>
       </div>
 
-      <!-- TAB 2: VISION -->
-      <div id="tab-vision" class="drawer-tab-pane" style="display:none;">
-        <p style="font-size:0.9rem; color:var(--color-charcoal); margin-bottom:1rem;">
-          Tải lên hoặc kéo thả ảnh bìa sách (JPG, PNG). Mô hình Gemini Vision sẽ phân tích hình ảnh, đọc tiêu đề và tự động tra cứu trong thư viện:
+      <!-- TAB 2: HISTORY -->
+      <div id="tab-history" class="drawer-tab-pane">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.2rem;">
+          <span class="mono-label">CÁC PHIÊN TRÒ CHUYỆN ĐÃ LƯU</span>
+          <button class="btn-drawer-action" id="btn-clear-all-history" style="color:#ef4444;">Xóa tất cả</button>
+        </div>
+        <div id="chat-history-list">
+          <!-- Rendered via JS -->
+        </div>
+      </div>
+
+      <!-- TAB 3: VISION -->
+      <div id="tab-vision" class="drawer-tab-pane">
+        <p style="font-size:0.9rem; color:var(--color-charcoal); margin-bottom:1rem; line-height:1.6;">
+          Tải lên hoặc kéo thả ảnh bìa sách (JPG, PNG). Mô hình Gemini Vision sẽ đọc ảnh, trích xuất tiêu đề, tác giả và tự động tra cứu trong thư viện:
         </p>
 
         <div class="vision-dropzone" id="vision-dropzone">
           <input type="file" id="vision-file-input" accept="image/jpeg,image/png,image/jpg" style="display:none;">
           <p class="mono-label" style="font-size:0.85rem; margin-bottom:0.5rem;">KÉO THẢ ẢNH BÌA SÁCH VÀO ĐÂY</p>
-          <span style="font-size:0.8rem; color:var(--color-muted);">HOẶC NHẤP ĐỂ DUYỆT TỆP CỤC BỘ (JPG/PNG &le; 8MB)</span>
+          <span style="font-size:0.8rem; color:var(--color-muted);">HOẶC NHẤP ĐỂ CHỌN ẢNH TỪ THIẾT BỊ (JPG/PNG &le; 8MB)</span>
           <img id="vision-preview" class="vision-preview-img" alt="Ảnh bìa xem trước">
         </div>
 
@@ -1545,36 +1979,41 @@
         </button>
 
         <div id="vision-result-box" style="margin-top:1.5rem; display:none; padding:1.2rem; border:var(--border-dashed); background:var(--color-subtle);">
-          <span class="mono-label">KẾT QUẢ TRÍCH XUẤT</span>
+          <span class="mono-label">KẾT QUẢ NHẬN DIỆN</span>
           <h4 id="vision-extracted-title" style="margin:0.5rem 0; font-size:1.2rem;"></h4>
           <p id="vision-extracted-author" style="font-size:0.88rem; color:var(--color-lead); margin-bottom:0.8rem;"></p>
-          <button class="btn-dossier-primary" id="btn-vision-search-catalog" style="font-size:0.75rem; padding:0.5rem 1rem;">
-            TÌM TÁC PHẨM TRONG KHO &rarr;
-          </button>
+          <div style="display:flex; gap:0.6rem;">
+            <button class="btn-dossier-primary" id="btn-vision-search-catalog" style="font-size:0.75rem; padding:0.5rem 1rem;">
+              TÌM TRONG KHO SÁCH &rarr;
+            </button>
+            <button class="btn-dossier-secondary" id="btn-vision-ask-ai" style="font-size:0.75rem; padding:0.5rem 1rem;">
+              HỎI THỦ THƯ VỀ SÁCH NÀY
+            </button>
+          </div>
         </div>
       </div>
 
-      <!-- TAB 3: PROMPTS -->
-      <div id="tab-prompts" class="drawer-tab-pane" style="display:none;">
+      <!-- TAB 4: PROMPTS -->
+      <div id="tab-prompts" class="drawer-tab-pane">
         <span class="mono-label" style="display:block; margin-bottom:0.8rem;">GỢI Ý CÂU HỎI TRA CỨU TIÊU BIỂU</span>
         <div class="suggestion-chips-grid">
-          <button class="suggestion-chip" data-prompt="Gợi ý cho tôi các cuốn sách về Trí tuệ Nhân tạo và Khoa học Dữ liệu cho người bắt đầu.">
-            <span>Tìm sách về Trí tuệ Nhân tạo & Machine Learning</span>
+          <button class="suggestion-chip" data-prompt="Gợi ý cho tôi 3 cuốn sách phát triển bản thân sâu sắc và đáng đọc nhất.">
+            <span>Gợi ý 3 sách phát triển bản thân sâu sắc nhất</span>
             <span>&rarr;</span>
           </button>
-          <button class="suggestion-chip" data-prompt="Tôi muốn xây dựng thói quen tốt và cải thiện kỷ luật bản thân, nên đọc những sách nào?">
-            <span>Sách rèn luyện thói quen và tư duy kỷ luật</span>
+          <button class="suggestion-chip" data-prompt="Tôi đang cảm thấy mất động lực trong học tập và công việc, hãy đề xuất sách giúp lấy lại năng lượng.">
+            <span>Sách chữa lành và lấy lại động lực khi kiệt sức</span>
             <span>&rarr;</span>
           </button>
-          <button class="suggestion-chip" data-prompt="So sánh nội dung và giá trị cốt lõi giữa hai cuốn sách Đắc nhân tâm và Nghệ thuật giao tiếp.">
-            <span>So sánh đa tài liệu: Đắc nhân tâm vs Giao tiếp</span>
+          <button class="suggestion-chip" data-prompt="So sánh nội dung và triết lý cốt lõi giữa hai cuốn sách 'Tư duy nhanh và chậm' và 'Tâm lý học về tiền' bằng bảng chi tiết.">
+            <span>So sánh bảng: Tư duy nhanh chậm vs Tâm lý học tiền</span>
             <span>&rarr;</span>
           </button>
-          <button class="suggestion-chip" data-prompt="Giới thiệu cho tôi các tác phẩm văn học kinh điển thế giới có trong thư viện.">
-            <span>Tuyển tập tác phẩm văn học kinh điển thế giới</span>
+          <button class="suggestion-chip" data-prompt="Tìm các cuốn sách văn học kinh điển thế giới dễ đọc và giàu ý nghĩa nhân văn có trong thư viện.">
+            <span>Tuyển tập tác phẩm văn học kinh điển dễ tiếp cận</span>
             <span>&rarr;</span>
           </button>
-          <button class="suggestion-chip" data-prompt="Tìm các nhà sách hoặc thư viện lớn ở Đà Nẵng có sách kỹ thuật và công nghệ.">
+          <button class="suggestion-chip" data-prompt="Tìm các nhà sách hoặc thư viện lớn ở Đà Nẵng có không gian đọc yên tĩnh và phong phú đầu sách.">
             <span>Tìm nhà sách và thư viện thực tế tại Đà Nẵng</span>
             <span>&rarr;</span>
           </button>
@@ -1593,13 +2032,13 @@
   </aside>
 
   <!-- ========================================================================
-       7. BOOK DOSSIER MODAL (EDITORIAL DETAIL VIEW)
+       8. BOOK DOSSIER MODAL (CHI TIẾT ẤN PHẨM)
        ======================================================================== -->
   <div class="modal-backdrop" id="book-modal-backdrop">
     <div class="book-dossier-card" role="dialog" aria-modal="true">
       <div class="dossier-header">
-        <span class="mono-label" id="modal-dossier-id">DOSSIER № 001</span>
-        <button class="drawer-close-btn" id="btn-close-modal">CLOSE [ESC]</button>
+        <span class="mono-label" id="modal-dossier-id">HỒ SƠ ẤN PHẨM</span>
+        <button class="drawer-close-btn" id="btn-close-modal">ĐÓNG [ESC]</button>
       </div>
 
       <div class="dossier-body">
@@ -1611,16 +2050,20 @@
               <strong id="modal-meta-year">-</strong>
             </div>
             <div class="dossier-meta-item">
+              <span>ĐỘ KHÓ ĐỌC</span>
+              <strong id="modal-meta-diff">-</strong>
+            </div>
+            <div class="dossier-meta-item">
+              <span>TÂM TRẠNG / MỤC TIÊU</span>
+              <strong id="modal-meta-mood">-</strong>
+            </div>
+            <div class="dossier-meta-item">
               <span>SỐ TRANG</span>
               <strong id="modal-meta-pages">-</strong>
             </div>
             <div class="dossier-meta-item">
               <span>NGÔN NGỮ</span>
               <strong id="modal-meta-lang">-</strong>
-            </div>
-            <div class="dossier-meta-item">
-              <span>ĐỊNH DẠNG</span>
-              <strong id="modal-meta-format">Bìa mềm</strong>
             </div>
             <div class="dossier-meta-item">
               <span>ĐÁNH GIÁ</span>
@@ -1652,11 +2095,11 @@
             <button class="btn-dossier-primary" id="btn-ask-ai-this-book">
               HỎI THỦ THƯ AI VỀ SÁCH NÀY &rarr;
             </button>
+            <button class="btn-dossier-secondary" id="btn-read-sample" style="display:none;">
+              📖 ĐỌC THỬ SÁCH MẪU
+            </button>
             <a href="#" target="_blank" class="btn-dossier-secondary" id="btn-buy-book">
               TÌM MUA SÁCH (TIKI / FAHASA)
-            </a>
-            <a href="#" target="_blank" class="btn-dossier-secondary" id="btn-read-sample" style="display:none;">
-              ĐỌC THỬ MẪU (PDF)
             </a>
           </div>
         </div>
@@ -1664,15 +2107,32 @@
     </div>
   </div>
 
-  <!-- Global Audio Player (TTS) -->
-  <div id="global-audio-player">
-    <span class="mono-label">AUDIO STREAM (TTS)</span>
-    <audio id="tts-audio-element" controls style="height:2rem;"></audio>
-    <button class="drawer-close-btn" id="btn-close-audio" style="padding:0.2rem 0.5rem;">✕</button>
+  <!-- ========================================================================
+       9. READING SAMPLE MODAL
+       ======================================================================== -->
+  <div class="modal-backdrop" id="reading-modal-backdrop">
+    <div class="reading-modal-card" role="dialog" aria-modal="true">
+      <div class="dossier-header">
+        <span class="mono-label" id="reading-modal-title">ĐỌC THỬ ẤN PHẨM MẪU</span>
+        <button class="drawer-close-btn" id="btn-close-reading">ĐÓNG [ESC]</button>
+      </div>
+      <div class="reading-modal-body" id="reading-modal-content">
+        <!-- Rendered sample content -->
+      </div>
+    </div>
   </div>
 
   <!-- ========================================================================
-       8. ESM JAVASCRIPT: LENIS SMOOTH SCROLL & FASTAPI CLIENT
+       10. GLOBAL AUDIO PLAYER (TTS)
+       ======================================================================== -->
+  <div id="global-audio-player">
+    <span class="mono-label" style="color:#ffffff;">ÂM THANH THỦ THƯ (TTS)</span>
+    <audio id="tts-audio-element" controls style="height:2rem;"></audio>
+    <button class="drawer-close-btn" id="btn-close-audio" style="padding:0.2rem 0.5rem; color:#ffffff; border-color:rgba(255,255,255,0.4);">✕</button>
+  </div>
+
+  <!-- ========================================================================
+       11. ESM JAVASCRIPT LOGIC
        ======================================================================== -->
   <script type="module">
     import Lenis from 'https://cdn.jsdelivr.net/npm/lenis@1.3.19/+esm';
@@ -1690,69 +2150,58 @@
     }
     requestAnimationFrame(raf);
 
-    // Anchor smooth scroll with Lenis
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
-        const targetId = this.getAttribute('href');
-        if (targetId && targetId !== '#') {
-          const targetEl = document.querySelector(targetId);
-          if (targetEl) {
-            e.preventDefault();
-            lenis.scrollTo(targetEl, { offset: -60 });
-          }
-        }
-      });
-    });
-
-    // 2. Real-time Clock (Đà Nẵng UTC+7)
-    function updateClock() {
-      const now = new Date();
-      const options = { timeZone: 'Asia/Ho_Chi_Minh', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
-      const timeStr = now.toLocaleTimeString('vi-VN', options);
-      const clockEl = document.getElementById('clock-display');
-      if (clockEl) clockEl.textContent = `ĐÀ NẴNG (UTC+7) ${timeStr}`;
-    }
-    setInterval(updateClock, 1000);
-    updateClock();
-
-    // ========================================================================
-    // 3. API STATE & DATA CONTROLLER
-    // ========================================================================
+    // 2. Global State & API Configuration
     const API_BASE = '/api/v1';
-
     const state = {
       books: [],
       totalBooks: 209,
       page: 1,
-      pageSize: 24,
-      totalPages: 9,
+      pageSize: 20,
+      totalPages: 11,
       query: '',
       genre: '',
+      difficulty: '',
+      mood: '',
       sort: 'Phù hợp',
-      viewMode: 'grid', // 'grid' | 'index'
+      viewMode: 'grid',
+      sessionId: localStorage.getItem('library_active_session_id') || ('sess_' + Math.random().toString(36).substring(2, 10)),
+      topK: 5,
       activeBook: null,
-      sessionId: 'web_' + Math.random().toString(36).substring(2, 10),
       isRecording: false,
       mediaRecorder: null,
       audioChunks: [],
+      currentTTSAudio: null,
     };
+    localStorage.setItem('library_active_session_id', state.sessionId);
 
-    // Vector placeholder generator
+    // Live Clock
+    function updateLiveClock() {
+      const now = new Date();
+      const timeStr = now.toLocaleTimeString('vi-VN', { hour12: false });
+      const clockEl = document.getElementById('clock-display');
+      if (clockEl) clockEl.textContent = `ĐÀ NẴNG ${timeStr}`;
+    }
+    setInterval(updateLiveClock, 1000);
+    updateLiveClock();
+
+    // Placeholder Cover Generator
     function generatePlaceholderCover(title, genre) {
-      const safeTitle = (title || 'AI Digital Library').substring(0, 30);
-      const safeGenre = (genre || 'Sách số').substring(0, 20);
-      return `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450"><rect width="300" height="450" fill="%23191917"/><rect x="12" y="12" width="276" height="426" fill="none" stroke="%23f4f4f1" stroke-width="1.5" stroke-dasharray="4,4"/><text x="150" y="140" font-family="serif" font-size="34" fill="%23f4f4f1" text-anchor="middle">📖</text><text x="150" y="210" font-family="sans-serif" font-size="12" font-weight="700" fill="%2396968f" text-anchor="middle" letter-spacing="2">${encodeURIComponent(safeGenre.toUpperCase())}</text><text x="150" y="260" font-family="serif" font-size="18" font-weight="600" fill="%23ffffff" text-anchor="middle">${encodeURIComponent(safeTitle)}</text><text x="150" y="380" font-family="monospace" font-size="10" fill="%2396968f" text-anchor="middle" letter-spacing="3">AI DIGITAL LIBRARY</text></svg>`;
+      const safeTitle = (title || 'Thư viện Số AI').substring(0, 30);
+      const safeGenre = (genre || 'Ấn phẩm').substring(0, 20);
+      return `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450"><rect width="300" height="450" fill="%23191917"/><rect x="12" y="12" width="276" height="426" fill="none" stroke="%23f4f4f1" stroke-width="1.5" stroke-dasharray="4,4"/><text x="150" y="140" font-family="serif" font-size="34" fill="%23f4f4f1" text-anchor="middle">📖</text><text x="150" y="210" font-family="sans-serif" font-size="12" font-weight="700" fill="%2396968f" text-anchor="middle" letter-spacing="2">${encodeURIComponent(safeGenre.toUpperCase())}</text><text x="150" y="260" font-family="serif" font-size="18" font-weight="600" fill="%23ffffff" text-anchor="middle">${encodeURIComponent(safeTitle)}</text><text x="150" y="380" font-family="monospace" font-size="10" fill="%2396968f" text-anchor="middle" letter-spacing="3">THƯ VIỆN SỐ AI</text></svg>`;
     }
 
-    // Load initial stats & genres
+    // ========================================================================
+    // 3. BOOK CATALOG CONTROLLER
+    // ========================================================================
     async function initLibraryData() {
       try {
         const statsRes = await fetch(`${API_BASE}/home/stats`);
         if (statsRes.ok) {
           const stats = await statsRes.json();
           state.totalBooks = stats.total_books || 209;
-          document.getElementById('stat-total-books').textContent = state.totalBooks;
-          document.getElementById('header-volume-tag').textContent = `VOL. ${state.totalBooks}`;
+          document.getElementById('stat-total-books').textContent = `${state.totalBooks}+`;
+          document.getElementById('header-volume-tag').textContent = `${state.totalBooks} ẤN PHẨM`;
         }
 
         const genresRes = await fetch(`${API_BASE}/genres`);
@@ -1761,9 +2210,12 @@
           renderGenreOptions(genres);
         }
       } catch (err) {
-        console.warn('Backend offline or fetching stats failed:', err);
+        console.warn('Backend stats/genres notice:', err);
       }
       fetchBooks();
+      initCrawlerSyncStatus();
+      searchLocations();
+      renderChatHistoryList();
     }
 
     function renderGenreOptions(genres) {
@@ -1772,13 +2224,11 @@
 
       genres.forEach(g => {
         const name = g.name || g;
-        // Select option
         const opt = document.createElement('option');
         opt.value = name;
         opt.textContent = name.toUpperCase();
         select.appendChild(opt);
 
-        // Pill
         const pill = document.createElement('button');
         pill.className = 'genre-pill';
         pill.dataset.genre = name;
@@ -1795,7 +2245,6 @@
       });
     }
 
-    // Fetch Books from API
     async function fetchBooks() {
       const params = new URLSearchParams({
         page: state.page,
@@ -1804,35 +2253,34 @@
       });
       if (state.query.trim()) params.append('q', state.query.trim());
       if (state.genre.trim()) params.append('genre', state.genre.trim());
+      if (state.difficulty.trim()) params.append('difficulty', state.difficulty.trim());
+      if (state.mood.trim()) params.append('mood', state.mood.trim());
 
       const gridEl = document.getElementById('books-grid-container');
-      const tableBody = document.getElementById('books-table-body');
       gridEl.style.opacity = '0.5';
 
       try {
         const res = await fetch(`${API_BASE}/books?${params.toString()}`);
-        if (!res.ok) throw new Error('API request failed');
+        if (!res.ok) throw new Error('API books error');
         const data = await res.json();
         state.books = data.items || [];
         state.totalPages = data.total_pages || Math.ceil((data.total || 209) / state.pageSize);
-        document.getElementById('catalog-count-label').textContent = `SHOWING ${state.books.length} OF ${data.total || state.totalBooks} TITLES`;
-        document.getElementById('pagination-page-label').textContent = `PAGE ${state.page} OF ${state.totalPages || 1}`;
+        document.getElementById('catalog-count-label').textContent = `HIỂN THỊ ${state.books.length} TRÊN ${data.total || state.totalBooks} ẤN PHẨM`;
+        document.getElementById('pagination-page-label').textContent = `TRANG ${state.page} TRÊN ${state.totalPages || 1}`;
         document.getElementById('btn-prev-page').disabled = state.page <= 1;
         document.getElementById('btn-next-page').disabled = state.page >= state.totalPages;
 
         renderBooksGrid(state.books);
         renderBooksTable(state.books);
       } catch (err) {
-        console.error('Error fetching books:', err);
         gridEl.innerHTML = `<div style="grid-column:1/-1; padding:3rem; text-align:center; border:var(--border-dashed);">
-          <p class="mono-label">KHÔNG THỂ KẾT NỐI MÁY CHỦ HOẶC KHÔNG TÌM THẤY TÁC PHẨM PHÙ HỢP</p>
+          <p class="mono-label">KHÔNG THỂ KẾT NỐI KHO SÁCH HOẶC KHÔNG TÌM THẤY TÁC PHẨM PHÙ HỢP</p>
         </div>`;
       } finally {
         gridEl.style.opacity = '1';
       }
     }
 
-    // Render Grid
     function renderBooksGrid(books) {
       const container = document.getElementById('books-grid-container');
       container.innerHTML = '';
@@ -1848,21 +2296,24 @@
         const card = document.createElement('article');
         card.className = 'book-card';
         const coverUrl = b.cover_url || generatePlaceholderCover(b.title, b.genre);
-        const isFeatured = b.featured === true || b.featured === 'true';
+        const hasReading = b.reading_available || b.local_file;
 
         card.innerHTML = `
           <div class="book-card-cover-wrap">
-            <img src="${coverUrl}" class="book-card-cover-img" alt="${b.title}" onerror="this.src='${generatePlaceholderCover(b.title, b.genre)}';">
-            ${isFeatured ? '<span class="book-card-badge">CANONICAL</span>' : ''}
+            <img src="${coverUrl}" alt="${escapeHtml(b.title)}" class="book-card-cover-img" loading="lazy">
+            ${hasReading ? '<span class="book-badge-reading">ĐỌC THỬ</span>' : ''}
           </div>
-          <div class="book-card-body">
-            <div class="book-card-genre">${b.genre || 'SÁCH'}</div>
-            <h3 class="book-card-title" title="${b.title}">${b.title}</h3>
-            <div class="book-card-author">${b.author || 'Tác giả chưa rõ'}</div>
-            <div class="book-card-meta">
-              <span>№ ${b.book_id || '000'}</span>
-              <span>⭐ ${Number(b.rating || 4.5).toFixed(1)}</span>
-              <span>${b.year || 'N/A'}</span>
+          <div class="book-card-content">
+            <span class="book-card-genre">${escapeHtml(b.genre || 'Sách')}</span>
+            <h3 class="book-card-title">${escapeHtml(b.title)}</h3>
+            <div class="book-card-author">${escapeHtml(b.author || 'Tác giả chưa rõ')}</div>
+            <div class="book-card-badges">
+              ${b.difficulty ? `<span class="tag-badge">${escapeHtml(b.difficulty)}</span>` : ''}
+              ${b.mood ? `<span class="tag-badge">${escapeHtml(b.mood)}</span>` : ''}
+            </div>
+            <div class="book-card-footer">
+              <span class="book-card-year">${b.year || '-'}</span>
+              <span class="book-card-rating">⭐ ${b.rating || '5.0'}</span>
             </div>
           </div>
         `;
@@ -1871,67 +2322,65 @@
       });
     }
 
-    // Render Table
     function renderBooksTable(books) {
       const tbody = document.getElementById('books-table-body');
       tbody.innerHTML = '';
       books.forEach(b => {
         const tr = document.createElement('tr');
+        const hasReading = b.reading_available || b.local_file;
         tr.innerHTML = `
-          <td class="cell-mono">${b.book_id || '000'}</td>
-          <td class="cell-title">${b.title}</td>
-          <td>${b.author || 'Không rõ'}</td>
-          <td class="cell-mono">${b.genre || 'Chung'}</td>
-          <td class="cell-mono">${b.year || 'N/A'}</td>
-          <td class="cell-mono">⭐ ${Number(b.rating || 4.5).toFixed(1)}</td>
-          <td class="cell-mono">${b.reading_available ? '✓ CÓ SẴN' : '—'}</td>
+          <td class="mono-label">${b.book_id || '-'}</td>
+          <td><strong>${escapeHtml(b.title)}</strong></td>
+          <td>${escapeHtml(b.author || '')}</td>
+          <td>${escapeHtml(b.genre || '')}</td>
+          <td><span class="tag-badge">${escapeHtml(b.difficulty || '')}</span> ${b.mood ? `<span class="tag-badge">${escapeHtml(b.mood)}</span>` : ''}</td>
+          <td class="mono-label">${b.year || '-'}</td>
+          <td>⭐ ${b.rating || '5.0'}</td>
+          <td>${hasReading ? '<span class="tag-badge" style="background:var(--color-ink); color:#fff;">CÓ</span>' : '<span style="color:var(--color-muted);">-</span>'}</td>
         `;
         tr.addEventListener('click', () => openBookModal(b));
         tbody.appendChild(tr);
       });
     }
 
-    // Book Modal Dossier
-    function openBookModal(book) {
-      state.activeBook = book;
-      lenis.stop(); // Stop smooth scroll
+    // Book Detail Modal
+    function openBookModal(b) {
+      state.activeBook = b;
+      document.getElementById('modal-dossier-id').textContent = `HỒ SƠ ẤN PHẨM № ${b.book_id || '001'}`;
+      document.getElementById('modal-cover-img').src = b.cover_url || generatePlaceholderCover(b.title, b.genre);
+      document.getElementById('modal-meta-year').textContent = b.year || '-';
+      document.getElementById('modal-meta-diff').textContent = b.difficulty || 'Trung bình';
+      document.getElementById('modal-meta-mood').textContent = b.mood || 'Phát triển bản thân';
+      document.getElementById('modal-meta-pages').textContent = b.pages ? `${b.pages} trang` : '-';
+      document.getElementById('modal-meta-lang').textContent = b.language || 'Tiếng Việt';
+      document.getElementById('modal-meta-rating').textContent = `⭐ ${b.rating || '5.0'}`;
+      document.getElementById('modal-genre-tag').textContent = (b.genre || 'SÁCH').toUpperCase();
+      document.getElementById('modal-title').textContent = b.title;
+      document.getElementById('modal-author').textContent = b.author || 'Tác giả chưa rõ';
+      document.getElementById('modal-summary').textContent = b.summary || b.description || 'Đang cập nhật tóm tắt nội dung...';
+      document.getElementById('modal-description').textContent = b.description || b.summary || 'Đang cập nhật chi tiết...';
 
-      document.getElementById('modal-dossier-id').textContent = `DOSSIER № ${book.book_id || '000'}`;
-      document.getElementById('modal-cover-img').src = book.cover_url || generatePlaceholderCover(book.title, book.genre);
-      document.getElementById('modal-meta-year').textContent = book.year || 'N/A';
-      document.getElementById('modal-meta-pages').textContent = book.pages ? `${book.pages} trang` : 'N/A';
-      document.getElementById('modal-meta-lang').textContent = book.language || 'Tiếng Việt';
-      document.getElementById('modal-meta-format').textContent = book.format || 'Bìa mềm';
-      document.getElementById('modal-meta-rating').textContent = `⭐ ${Number(book.rating || 4.5).toFixed(1)} / 5.0`;
-
-      document.getElementById('modal-genre-tag').textContent = (book.genre || 'SÁCH').toUpperCase();
-      document.getElementById('modal-title').textContent = book.title;
-      document.getElementById('modal-author').textContent = `Tác giả: ${book.author || 'Chưa rõ'}`;
-      document.getElementById('modal-summary').textContent = book.summary || book.description || 'Chưa có tóm tắt chi tiết.';
-      document.getElementById('modal-description').textContent = book.description || 'Mô tả tác phẩm đang được cập nhật.';
-
-      // Tags wrap
+      // Tags
       const tagsWrap = document.getElementById('modal-tags-wrap');
       tagsWrap.innerHTML = '';
-      if (book.target_audience) {
-        tagsWrap.innerHTML += `<span class="dossier-tag">🎯 ĐỐI TƯỢNG: ${book.target_audience}</span>`;
-      }
-      if (book.difficulty) {
-        tagsWrap.innerHTML += `<span class="dossier-tag">⚡ ĐỘ KHÓ: ${book.difficulty}</span>`;
-      }
-      if (book.mood) {
-        tagsWrap.innerHTML += `<span class="dossier-tag">💡 CẢM XÚC: ${book.mood}</span>`;
+      if (b.tags) {
+        const tagList = Array.isArray(b.tags) ? b.tags : String(b.tags).split(',');
+        tagList.forEach(t => {
+          const span = document.createElement('span');
+          span.className = 'tag-badge';
+          span.textContent = t.trim();
+          tagsWrap.appendChild(span);
+        });
       }
 
-      // Action links
+      // Buy & Read buttons
       const buyBtn = document.getElementById('btn-buy-book');
-      const buyUrl = book.purchase_url || `https://www.google.com/search?q=${encodeURIComponent('mua sách ' + book.title)}`;
-      buyBtn.href = buyUrl;
+      buyBtn.href = b.purchase_url || `https://tiki.vn/search?q=${encodeURIComponent(b.title)}`;
 
       const readBtn = document.getElementById('btn-read-sample');
-      if (book.reading_available && book.local_file) {
-        readBtn.style.display = 'inline-flex';
-        readBtn.href = `/samples/${book.local_file.split('/').pop()}`;
+      if (b.reading_available || b.local_file) {
+        readBtn.style.display = 'inline-block';
+        readBtn.onclick = () => openReadingSample(b);
       } else {
         readBtn.style.display = 'none';
       }
@@ -1941,25 +2390,279 @@
 
     function closeBookModal() {
       document.getElementById('book-modal-backdrop').classList.remove('active');
-      lenis.start();
     }
     document.getElementById('btn-close-modal').addEventListener('click', closeBookModal);
     document.getElementById('book-modal-backdrop').addEventListener('click', (e) => {
       if (e.target.id === 'book-modal-backdrop') closeBookModal();
     });
 
-    // Ask AI about this book
-    document.getElementById('btn-ask-ai-this-book').addEventListener('click', () => {
-      if (!state.activeBook) return;
-      const b = state.activeBook;
-      closeBookModal();
-      openStudioDrawer('tab-chat');
-      const q = `Hãy cho tôi biết những luận điểm cốt lõi, giá trị thực tiễn và phong cách viết của cuốn sách '${b.title}' do tác giả ${b.author} chấp bút.`;
-      sendChatMessage(q);
+    // Reading Sample Modal Controller
+    function openReadingSample(b) {
+      document.getElementById('reading-modal-title').textContent = `ĐỌC THỬ: ${b.title.toUpperCase()}`;
+      const contentEl = document.getElementById('reading-modal-content');
+      contentEl.innerHTML = `
+        <h2 style="font-size:2rem; margin-bottom:0.5rem;">${escapeHtml(b.title)}</h2>
+        <p class="mono-label" style="margin-bottom:2rem;">TÁC GIẢ: ${escapeHtml(b.author || '')} · NĂM ${b.year || ''}</p>
+        <div style="font-size:1.05rem; line-height:1.8; color:var(--color-charcoal);">
+          <p style="margin-bottom:1.5rem;"><strong>Lời tựa & Trích đoạn tác phẩm:</strong></p>
+          <p style="margin-bottom:1.2rem;">${escapeHtml(b.summary || b.description || 'Nội dung trích đoạn đang được số hóa...')}</p>
+          <p style="margin-bottom:1.2rem;">${escapeHtml(b.description || '')}</p>
+          <hr style="margin:2rem 0; border:none; border-top:1px dashed var(--color-hairline);">
+          <p class="mono-label">Bản quyền số hóa thuộc về Thư viện Số AI. Bạn có thể tìm đọc toàn văn tại các nhà sách đối tác hoặc hệ thống thư viện công cộng.</p>
+        </div>
+      `;
+      document.getElementById('reading-modal-backdrop').classList.add('active');
+    }
+    function closeReadingSample() {
+      document.getElementById('reading-modal-backdrop').classList.remove('active');
+    }
+    document.getElementById('btn-close-reading').addEventListener('click', closeReadingSample);
+    document.getElementById('reading-modal-backdrop').addEventListener('click', (e) => {
+      if (e.target.id === 'reading-modal-backdrop') closeReadingSample();
     });
 
     // ========================================================================
-    // 4. AI LIBRARIAN STUDIO DRAWER CONTROLLER
+    // 4. SECTION [03]: AI CRAWLER & SELF-HEALING CHROMADB SYNC
+    // ========================================================================
+    async function initCrawlerSyncStatus() {
+      try {
+        const res = await fetch(`${API_BASE}/crawler/unindexed`, {
+          headers: {
+            'X-Web-Client': 'editorial-monochrome',
+          }
+        });
+        if (res.ok) {
+          const data = await res.json();
+          document.getElementById('sync-stat-total').textContent = data.total_books || state.totalBooks;
+          document.getElementById('sync-stat-indexed').textContent = data.indexed_count || state.totalBooks;
+          document.getElementById('sync-stat-unindexed').textContent = data.count || 0;
+
+          const statusBadge = document.getElementById('sync-stat-status');
+          if (data.count === 0) {
+            statusBadge.className = 'sync-status-badge synced';
+            statusBadge.textContent = 'HOÀN TOÀN ĐỒNG BỘ';
+          } else {
+            statusBadge.className = 'sync-status-badge pending';
+            statusBadge.textContent = `CẦN ĐỒNG BỘ (${data.count} SÁCH)`;
+          }
+
+          document.getElementById('sync-stat-time').textContent = data.last_synced_at || 'Đã đồng bộ tự động';
+
+          // If unindexed books, show preview
+          const previewWrap = document.getElementById('unindexed-books-preview');
+          const listWrap = document.getElementById('unindexed-list-items');
+          if (data.count > 0 && data.unindexed_books && data.unindexed_books.length > 0) {
+            previewWrap.style.display = 'block';
+            listWrap.innerHTML = data.unindexed_books.map(ub => `
+              <div style="font-size:0.8rem; padding:0.25rem 0; border-bottom:1px dashed var(--color-hairline);">
+                <strong>${escapeHtml(ub.title)}</strong> - ${escapeHtml(ub.author || '')} (${ub.book_id})
+              </div>
+            `).join('');
+          } else {
+            previewWrap.style.display = 'none';
+          }
+        }
+      } catch (e) {
+        console.warn('Sync status notice:', e);
+      }
+    }
+
+    // Trigger ChromaDB Sync
+    document.getElementById('btn-sync-chroma').addEventListener('click', async () => {
+      const btn = document.getElementById('btn-sync-chroma');
+      const resultBox = document.getElementById('sync-result-box');
+      btn.disabled = true;
+      btn.textContent = 'ĐANG ĐỒNG BỘ VECTOR CHROMADB...';
+      resultBox.style.display = 'block';
+      resultBox.innerHTML = '<p class="mono-label">TIẾN TRÌNH NHÚNG EMBEDDING ĐANG CHẠY TRÊN GEMINI...</p>';
+
+      try {
+        const res = await fetch(`${API_BASE}/crawler/sync-unindexed`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Web-Client': 'editorial-monochrome',
+          }
+        });
+        const data = await res.json();
+        if (res.ok) {
+          resultBox.innerHTML = `
+            <p style="color:#16a34a; font-weight:600; margin-bottom:0.4rem;">✓ ${data.message}</p>
+            <p class="mono-label">ĐÃ VECTOR HÓA: ${data.synced_count} | THẤT BẠI: ${data.failed_count || 0}</p>
+          `;
+          initCrawlerSyncStatus();
+        } else {
+          resultBox.innerHTML = `<p style="color:#ef4444;">✕ ${data.detail || 'Không thể đồng bộ'}</p>`;
+        }
+      } catch (err) {
+        resultBox.innerHTML = `<p style="color:#ef4444;">✕ Lỗi kết nối mạng khi đồng bộ vector.</p>`;
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'ĐỒNG BỘ VECTOR CHROMADB NGAY ↻';
+      }
+    });
+
+    // Crawler Search
+    document.getElementById('btn-crawler-search').addEventListener('click', async () => {
+      const q = document.getElementById('crawler-search-query').value.trim();
+      const source = document.getElementById('crawler-source-select').value;
+      const limit = parseInt(document.getElementById('crawler-limit-select').value, 10) || 10;
+      const container = document.getElementById('crawler-results-container');
+
+      if (!q) {
+        alert('Vui lòng nhập từ khóa sách hoặc tên tác giả để tìm kiếm.');
+        return;
+      }
+
+      container.innerHTML = '<div style="padding:2.5rem; text-align:center;"><p class="mono-label">ĐANG TRUY VẤN NGUỒN DỮ LIỆU SỐ TOÀN CẦU...</p></div>';
+
+      try {
+        const res = await fetch(`${API_BASE}/crawler/search`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ query: q, source: source, limit: limit }),
+        });
+        if (!res.ok) throw new Error('Crawler search failed');
+        const data = await res.json();
+        const results = data.results || [];
+
+        if (!results.length) {
+          container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1rem;">
+            <p class="mono-label">KHÔNG TÌM THẤY ẤN PHẨM PHÙ HỢP TỪ CÁC NGUỒN CRAWLER ĐÃ CHỌN.</p>
+          </div>`;
+          return;
+        }
+
+        container.innerHTML = '';
+        results.forEach(cand => {
+          const card = document.createElement('div');
+          card.className = 'crawler-item-card';
+          const isExisting = cand.already_in_db;
+
+          card.innerHTML = `
+            <div class="crawler-item-header">
+              <div>
+                <h4 class="crawler-item-title">${escapeHtml(cand.title)}</h4>
+                <div style="font-size:0.85rem; color:var(--color-lead); margin-top:0.2rem;">
+                  Tác giả: <strong>${escapeHtml(cand.author || 'Chưa rõ')}</strong> · Năm: ${cand.year || '-'} · Nguồn: ${escapeHtml(cand.source_name || cand.source || 'Trực tuyến')}
+                </div>
+              </div>
+              <div>
+                ${isExisting ? '<span class="crawler-badge exists">ĐÃ CÓ TRONG KHO</span>' : '<span class="crawler-badge new">SÁCH MỚI</span>'}
+              </div>
+            </div>
+            <p style="font-size:0.85rem; color:var(--color-charcoal); line-height:1.5; margin-bottom:0.8rem;">
+              ${escapeHtml((cand.summary || cand.description || 'Không có mô tả sơ lược').substring(0, 180))}...
+            </p>
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span class="mono-label">ISBN: ${escapeHtml(cand.isbn || 'N/A')}</span>
+              <button class="btn-import-book" ${isExisting ? 'disabled' : ''}>
+                ${isExisting ? 'ĐÃ LƯU TRỮ' : '+ NHẬP VÀO KHO SÁCH'}
+              </button>
+            </div>
+          `;
+
+          const importBtn = card.querySelector('.btn-import-book');
+          if (!isExisting) {
+            importBtn.addEventListener('click', async () => {
+              importBtn.disabled = true;
+              importBtn.textContent = 'ĐANG NHẬP & VECTOR HÓA...';
+              try {
+                const impRes = await fetch(`${API_BASE}/crawler/import`, {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                    'X-Web-Client': 'editorial-monochrome',
+                  },
+                  body: JSON.stringify({
+                    candidate: cand,
+                    upsert_chroma: true,
+                  })
+                });
+                const impData = await impRes.json();
+                if (impRes.ok && impData.success) {
+                  importBtn.textContent = '✓ ĐÃ NHẬP THÀNH CÔNG';
+                  card.querySelector('.crawler-badge').className = 'crawler-badge exists';
+                  card.querySelector('.crawler-badge').textContent = 'ĐÃ CÓ TRONG KHO';
+                  fetchBooks();
+                  initCrawlerSyncStatus();
+                } else {
+                  alert(impData.message || 'Không thể nhập cuốn sách này.');
+                  importBtn.disabled = false;
+                  importBtn.textContent = '+ NHẬP VÀO KHO SÁCH';
+                }
+              } catch (e) {
+                alert('Lỗi kết nối khi nhập sách.');
+                importBtn.disabled = false;
+                importBtn.textContent = '+ NHẬP VÀO KHO SÁCH';
+              }
+            });
+          }
+
+          container.appendChild(card);
+        });
+
+      } catch (err) {
+        container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1rem;">
+          <p class="mono-label" style="color:#ef4444;">LỖI TRUY VẤN NGUỒN CRAWLER. VUI LÒNG THỬ LẠI SAU.</p>
+        </div>`;
+      }
+    });
+
+    // ========================================================================
+    // 5. SECTION [04]: CARTOGRAPHY (LOCATIONS SEARCH)
+    // ========================================================================
+    async function searchLocations() {
+      const city = document.getElementById('loc-input-city').value.trim() || 'Đà Nẵng';
+      const kind = document.getElementById('loc-select-kind').value || 'all';
+      const container = document.getElementById('locations-results-container');
+      container.innerHTML = '<div style="padding:2.5rem; text-align:center; grid-column:1/-1;"><p class="mono-label">ĐANG TRA CỨU BẢN ĐỒ GOOGLE MAPS...</p></div>';
+
+      try {
+        const res = await fetch(`${API_BASE}/locations/search?location=${encodeURIComponent(city)}&kind=${kind}&limit=6`);
+        if (!res.ok) throw new Error('Location API error');
+        const data = await res.json();
+        const items = data.results || [];
+
+        if (!items.length) {
+          container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
+            <p class="mono-label">KHÔNG TÌM THẤY ĐỊA ĐIỂM NÀO PHÙ HỢP TẠI "${city.toUpperCase()}".</p>
+          </div>`;
+          return;
+        }
+
+        container.innerHTML = '';
+        items.forEach(loc => {
+          const card = document.createElement('div');
+          card.className = 'location-entry-card';
+          const mapsUrl = loc.directions_url || loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((loc.title || loc.name) + ' ' + (loc.address || city))}`;
+          card.innerHTML = `
+            <div>
+              <h3 class="location-name">${escapeHtml(loc.title || loc.name || 'Điểm đọc sách')}</h3>
+              <p class="location-addr">${escapeHtml(loc.address || 'Khu vực trung tâm thành phố')}</p>
+              <div class="location-details">
+                ${loc.rating ? `<span>⭐ ${loc.rating} (${loc.reviews || 0} đánh giá)</span>` : ''}
+                ${loc.open_state || loc.hours ? `<span>🕒 ${escapeHtml(loc.open_state || loc.hours)}</span>` : ''}
+                ${loc.phone ? `<span>☎️ ${escapeHtml(loc.phone)}</span>` : ''}
+              </div>
+            </div>
+            <a href="${mapsUrl}" target="_blank" class="btn-maps-link">
+              <span>CHỈ ĐƯỜNG TRÊN GOOGLE MAPS</span>
+              <span>&rarr;</span>
+            </a>
+          `;
+          container.appendChild(card);
+        });
+      } catch (err) {
+        container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
+          <p class="mono-label" style="color:#ef4444;">KHÔNG THỂ TRUY VẤN DỮ LIỆU ĐỊA ĐIỂM LÚC NÀY.</p>
+        </div>`;
+      }
+    }
+    document.getElementById('btn-search-locations').addEventListener('click', searchLocations);
+
+    // ========================================================================
+    // 6. AI LIBRARIAN STUDIO (DRAWER) CONTROLLER
     // ========================================================================
     const drawer = document.getElementById('studio-drawer');
     const backdrop = document.getElementById('studio-backdrop');
@@ -1980,10 +2683,10 @@
     }
 
     document.getElementById('btn-open-studio').addEventListener('click', () => openStudioDrawer());
+    document.getElementById('btn-hero-open-ai').addEventListener('click', () => openStudioDrawer());
     document.getElementById('btn-close-studio').addEventListener('click', closeStudioDrawer);
     backdrop.addEventListener('click', closeStudioDrawer);
 
-    // Keyboard shortcut ⌘K / Ctrl+K and ESC
     window.addEventListener('keydown', (e) => {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
@@ -1993,23 +2696,63 @@
       if (e.key === 'Escape') {
         closeStudioDrawer();
         closeBookModal();
+        closeReadingSample();
       }
     });
 
-    // Drawer Subnav Tab Switcher
+    // Top-K selector
+    const topkSelect = document.getElementById('rag-topk-select');
+    topkSelect.addEventListener('change', (e) => {
+      state.topK = parseInt(e.target.value, 10) || 5;
+    });
+
+    // New chat session
+    document.getElementById('btn-new-chat').addEventListener('click', () => {
+      state.sessionId = 'sess_' + Math.random().toString(36).substring(2, 10);
+      localStorage.setItem('library_active_session_id', state.sessionId);
+      const container = document.getElementById('chat-messages');
+      container.innerHTML = `
+        <div class="chat-msg assistant">
+          <div class="chat-msg-header">
+            <span>THỦ THƯ AI (GEMINI RAG)</span>
+            <span>PHIÊN MỚI</span>
+          </div>
+          <div class="chat-bubble">
+            Tôi đã khởi tạo cuộc trò chuyện mới. Hãy đặt câu hỏi về các ấn phẩm, tác giả hoặc chủ đề bạn quan tâm!
+          </div>
+        </div>
+      `;
+      switchDrawerTab('tab-chat');
+    });
+
+    // Clear current chat display
+    document.getElementById('btn-clear-chat').addEventListener('click', () => {
+      const container = document.getElementById('chat-messages');
+      container.innerHTML = `
+        <div class="chat-msg assistant">
+          <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
+          <div class="chat-bubble">Đã xóa sạch nội dung hiển thị trong khung trò chuyện.</div>
+        </div>
+      `;
+    });
+
+    // Subnav Tab Switcher
     function switchDrawerTab(tabId) {
       document.querySelectorAll('.drawer-tab-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.tab === tabId);
       });
       document.querySelectorAll('.drawer-tab-pane').forEach(pane => {
-        pane.style.display = pane.id === tabId ? 'block' : 'none';
+        pane.classList.toggle('active', pane.id === tabId);
       });
+      if (tabId === 'tab-history') {
+        renderChatHistoryList();
+      }
     }
     document.querySelectorAll('.drawer-tab-btn').forEach(btn => {
       btn.addEventListener('click', () => switchDrawerTab(btn.dataset.tab));
     });
 
-    // Suggestion chips click
+    // Suggestions chips
     document.querySelectorAll('.suggestion-chip').forEach(chip => {
       chip.addEventListener('click', () => {
         const prompt = chip.dataset.prompt;
@@ -2018,8 +2761,18 @@
       });
     });
 
+    // Ask AI about active book
+    document.getElementById('btn-ask-ai-this-book').addEventListener('click', () => {
+      if (!state.activeBook) return;
+      const b = state.activeBook;
+      closeBookModal();
+      openStudioDrawer('tab-chat');
+      const q = `Hãy cho tôi biết những luận điểm cốt lõi, giá trị thực tiễn và phong cách viết của cuốn sách '${b.title}' do tác giả ${b.author} chấp bút.`;
+      sendChatMessage(q);
+    });
+
     // ========================================================================
-    // 5. CHAT STREAMING & MESSAGING CONTROLLER (RAG ENGINE)
+    // 7. CHAT RAG MESSAGING & STREAMING & HISTORY
     // ========================================================================
     const chatForm = document.getElementById('chat-form');
     const chatInput = document.getElementById('chat-input');
@@ -2033,6 +2786,141 @@
       sendChatMessage(text);
     });
 
+    // LocalStorage Chat History Helpers
+    const STORAGE_KEY_SESSIONS = 'library_chat_sessions_v2';
+
+    function getLocalSessions() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_KEY_SESSIONS) || '[]');
+      } catch (e) {
+        return [];
+      }
+    }
+
+    function saveLocalSessions(sessions) {
+      localStorage.setItem(STORAGE_KEY_SESSIONS, JSON.stringify(sessions));
+    }
+
+    function recordMessageInSession(role, content, sources = []) {
+      let sessions = getLocalSessions();
+      let sess = sessions.find(s => s.id === state.sessionId);
+      const now = new Date();
+      const timeStr = now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' }) + ' ' +
+                      now.toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric' });
+
+      if (!sess) {
+        const title = role === 'user' ? content.substring(0, 45) + (content.length > 45 ? '...' : '') : 'Tra cứu sách mới';
+        sess = {
+          id: state.sessionId,
+          title: title,
+          timestamp: timeStr,
+          messages: []
+        };
+        sessions.unshift(sess);
+      }
+
+      sess.messages.push({ role, content, sources, timestamp: timeStr });
+      sess.timestamp = timeStr;
+      saveLocalSessions(sessions);
+    }
+
+    function renderChatHistoryList() {
+      const container = document.getElementById('chat-history-list');
+      const sessions = getLocalSessions();
+
+      if (!sessions.length) {
+        container.innerHTML = `
+          <div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle);">
+            <p class="mono-label">CHƯA CÓ LỊCH SỬ HỘI THOẠI ĐƯỢC LƯU TRỮ</p>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = '';
+      sessions.forEach(s => {
+        const card = document.createElement('div');
+        card.className = 'history-session-item';
+        card.innerHTML = `
+          <div style="flex-grow:1; cursor:pointer;">
+            <div class="history-title">${escapeHtml(s.title || 'Cuộc trò chuyện')}</div>
+            <div class="history-meta">${s.timestamp || ''} · ${s.messages ? s.messages.length : 0} tin nhắn</div>
+          </div>
+          <div class="history-actions">
+            <button class="btn-drawer-action btn-restore-sess">Mở</button>
+            <button class="btn-drawer-action btn-del-sess" style="color:#ef4444;">✕</button>
+          </div>
+        `;
+
+        card.querySelector('.btn-restore-sess').addEventListener('click', () => restoreSession(s));
+        card.querySelector('div').addEventListener('click', () => restoreSession(s));
+        card.querySelector('.btn-del-sess').addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteSession(s.id);
+        });
+
+        container.appendChild(card);
+      });
+    }
+
+    function restoreSession(session) {
+      state.sessionId = session.id;
+      localStorage.setItem('library_active_session_id', session.id);
+      chatContainer.innerHTML = '';
+
+      if (session.messages && session.messages.length > 0) {
+        session.messages.forEach(m => {
+          if (m.role === 'user') {
+            const userMsgEl = document.createElement('div');
+            userMsgEl.className = 'chat-msg user';
+            userMsgEl.innerHTML = `
+              <div class="chat-msg-header"><span>BẠN (READER)</span></div>
+              <div class="chat-bubble">${escapeHtml(m.content)}</div>
+            `;
+            chatContainer.appendChild(userMsgEl);
+          } else {
+            const asstMsgEl = document.createElement('div');
+            asstMsgEl.className = 'chat-msg assistant';
+            asstMsgEl.innerHTML = `
+              <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
+              <div class="chat-bubble">${formatMarkdownToHtml(m.content)}</div>
+            `;
+            const bubble = asstMsgEl.querySelector('.chat-bubble');
+            const ttsBtn = document.createElement('button');
+            ttsBtn.className = 'msg-tts-btn';
+            ttsBtn.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+            ttsBtn.addEventListener('click', () => playTTS(m.content, ttsBtn));
+            bubble.appendChild(ttsBtn);
+            chatContainer.appendChild(asstMsgEl);
+          }
+        });
+      } else {
+        chatContainer.innerHTML = `
+          <div class="chat-msg assistant">
+            <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
+            <div class="chat-bubble">Đã khôi phục phiên hội thoại trống.</div>
+          </div>
+        `;
+      }
+      switchDrawerTab('tab-chat');
+      chatContainer.scrollTop = chatContainer.scrollHeight;
+    }
+
+    function deleteSession(id) {
+      let sessions = getLocalSessions().filter(s => s.id !== id);
+      saveLocalSessions(sessions);
+      renderChatHistoryList();
+      fetch(`${API_BASE}/chat/sessions/${id}`, { method: 'DELETE' }).catch(() => {});
+    }
+
+    document.getElementById('btn-clear-all-history').addEventListener('click', () => {
+      if (confirm('Bạn có chắc chắn muốn xóa toàn bộ lịch sử trò chuyện không?')) {
+        saveLocalSessions([]);
+        renderChatHistoryList();
+      }
+    });
+
+    // Send Message via SSE Stream
     async function sendChatMessage(message) {
       // 1. Render User Message
       const userMsgEl = document.createElement('div');
@@ -2043,14 +2931,15 @@
       `;
       chatContainer.appendChild(userMsgEl);
       chatContainer.scrollTop = chatContainer.scrollHeight;
+      recordMessageInSession('user', message);
 
-      // 2. Prepare Assistant Bubble
+      // 2. Prepare Assistant Message
       const assistantMsgEl = document.createElement('div');
       assistantMsgEl.className = 'chat-msg assistant';
       assistantMsgEl.innerHTML = `
         <div class="chat-msg-header">
           <span>THỦ THƯ AI (GEMINI RAG)</span>
-          <span class="mono-label">THINKING...</span>
+          <span class="mono-label">ĐANG TRUY VẤN VECTOR...</span>
         </div>
         <div class="chat-bubble"><em style="color:var(--color-muted);">Đang truy xuất không gian vector ChromaDB và phân tích ngữ cảnh...</em></div>
       `;
@@ -2060,14 +2949,13 @@
       const bubbleEl = assistantMsgEl.querySelector('.chat-bubble');
 
       try {
-        // SSE Streaming Call
         const response = await fetch(`${API_BASE}/chat/stream`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             message: message,
             session_id: state.sessionId,
-            top_k: 4,
+            top_k: state.topK,
           }),
         });
 
@@ -2085,7 +2973,7 @@
 
           buffer += decoder.decode(value, { stream: true });
           const lines = buffer.split('\n');
-          buffer = lines.pop(); // keep last incomplete line
+          buffer = lines.pop();
 
           for (const line of lines) {
             if (line.startsWith('data: ')) {
@@ -2100,62 +2988,30 @@
                   fullAnswer = payload.answer || fullAnswer;
                   retrievedBooks = payload.books || [];
                 }
-              } catch (e) {
-                // Ignore parse errors on keepalive
-              }
+              } catch (e) {}
             }
           }
         }
 
-        // Finalize assistant message with TTS button & Grounding sources
-        bubbleEl.innerHTML = formatMarkdownToHtml(fullAnswer);
-
-        // Append TTS Play button
-        const ttsBtn = document.createElement('button');
-        ttsBtn.className = 'msg-tts-btn';
-        ttsBtn.innerHTML = '<span>🔊</span><span>NGHE ĐỌC TIẾNG VIỆT (TTS)</span>';
-        ttsBtn.addEventListener('click', () => playTTS(fullAnswer));
-        bubbleEl.appendChild(ttsBtn);
-
-        // Append Grounding Sources if present
-        if (retrievedBooks && retrievedBooks.length > 0) {
-          const groundingBox = document.createElement('div');
-          groundingBox.className = 'grounding-box';
-          groundingBox.innerHTML = `<div class="grounding-title">NGUỒN SÁCH CHROMADB (${retrievedBooks.length} TÁC PHẨM TRÍCH XUẤT):</div>`;
-          retrievedBooks.forEach(item => {
-            const m = item.metadata || {};
-            const dist = item.distance ? Number(item.distance).toFixed(3) : '0.12';
-            groundingBox.innerHTML += `
-              <div class="grounding-item">
-                <span><strong>${escapeHtml(m.title || 'Sách')}</strong> · ${escapeHtml(m.author || '')}</span>
-                <span class="mono-label">DIST: ${dist}</span>
-              </div>
-            `;
-          });
-          bubbleEl.appendChild(groundingBox);
-        }
+        finalizeAssistantMessage(bubbleEl, fullAnswer, retrievedBooks);
+        recordMessageInSession('assistant', fullAnswer, retrievedBooks);
 
       } catch (err) {
-        console.warn('Stream failed, trying fallback POST /message:', err);
+        // Fallback POST /api/v1/chat
         try {
-          const fallbackRes = await fetch(`${API_BASE}/chat/message`, {
+          const fallbackRes = await fetch(`${API_BASE}/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
               message: message,
               session_id: state.sessionId,
-              top_k: 4,
+              top_k: state.topK,
             }),
           });
           if (!fallbackRes.ok) throw new Error('Fallback failed');
           const data = await fallbackRes.json();
-          bubbleEl.innerHTML = formatMarkdownToHtml(data.answer);
-
-          const ttsBtn = document.createElement('button');
-          ttsBtn.className = 'msg-tts-btn';
-          ttsBtn.innerHTML = '<span>🔊</span><span>NGHE ĐỌC (TTS)</span>';
-          ttsBtn.addEventListener('click', () => playTTS(data.answer));
-          bubbleEl.appendChild(ttsBtn);
+          finalizeAssistantMessage(bubbleEl, data.answer, data.books || []);
+          recordMessageInSession('assistant', data.answer, data.books || []);
         } catch (e) {
           bubbleEl.innerHTML = `<p style="color:#ef4444;">Xin lỗi độc giả, máy chủ AI đang bận hoặc chưa thể xử lý yêu cầu lúc này. Vui lòng thử lại sau ít giây.</p>`;
         }
@@ -2163,45 +3019,128 @@
       chatContainer.scrollTop = chatContainer.scrollHeight;
     }
 
+    function finalizeAssistantMessage(bubbleEl, text, books) {
+      bubbleEl.innerHTML = formatMarkdownToHtml(text);
+
+      // TTS Play button
+      const ttsBtn = document.createElement('button');
+      ttsBtn.className = 'msg-tts-btn';
+      ttsBtn.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+      ttsBtn.addEventListener('click', () => playTTS(text, ttsBtn));
+      bubbleEl.appendChild(ttsBtn);
+
+      // Grounding Sources
+      if (books && books.length > 0) {
+        const groundingBox = document.createElement('div');
+        groundingBox.className = 'grounding-box';
+        groundingBox.innerHTML = `<div class="grounding-title">NGUỒN SÁCH CHROMADB (${books.length} TÁC PHẨM TRÍCH XUẤT):</div>`;
+        books.forEach(item => {
+          const m = item.metadata || item;
+          const dist = item.distance ? Number(item.distance).toFixed(3) : '0.12';
+          const row = document.createElement('div');
+          row.className = 'grounding-item';
+          row.innerHTML = `
+            <span><strong>${escapeHtml(m.title || 'Sách')}</strong> · ${escapeHtml(m.author || '')}</span>
+            <div style="display:flex; align-items:center; gap:0.4rem;">
+              <span class="mono-label">DIST: ${dist}</span>
+              <button class="btn-view-source-book">Xem</button>
+            </div>
+          `;
+          row.querySelector('.btn-view-source-book').addEventListener('click', () => {
+            const found = state.books.find(b => b.title === m.title || b.book_id === m.book_id);
+            if (found) {
+              closeStudioDrawer();
+              openBookModal(found);
+            } else {
+              closeStudioDrawer();
+              openBookModal(m);
+            }
+          });
+          groundingBox.appendChild(row);
+        });
+        bubbleEl.appendChild(groundingBox);
+      }
+    }
+
     // TTS Player Controller
-    async function playTTS(text) {
+    async function playTTS(text, btnElement = null) {
       const player = document.getElementById('global-audio-player');
       const audioEl = document.getElementById('tts-audio-element');
+
+      if (state.currentTTSAudio && !audioEl.paused) {
+        audioEl.pause();
+        if (btnElement) {
+          btnElement.classList.remove('playing');
+          btnElement.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+        }
+        player.style.display = 'none';
+        return;
+      }
+
       player.style.display = 'flex';
+      if (btnElement) {
+        btnElement.classList.add('playing');
+        btnElement.innerHTML = '<span>⏹</span><span>DỪNG PHÁT</span>';
+      }
 
       try {
+        const cleanText = text.replace(/\|.*?\|/g, '').replace(/[\*#_`]/g, '').substring(0, 480);
         const res = await fetch(`${API_BASE}/chat/tts`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ text: text.substring(0, 450), lang: 'vi' }),
+          body: JSON.stringify({ text: cleanText, lang: 'vi' }),
         });
-        if (!res.ok) throw new Error('TTS failed');
+        if (!res.ok) throw new Error('TTS API failed');
         const blob = await res.blob();
         audioEl.src = URL.createObjectURL(blob);
         audioEl.play();
+        state.currentTTSAudio = audioEl;
+
+        audioEl.onended = () => {
+          if (btnElement) {
+            btnElement.classList.remove('playing');
+            btnElement.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+          }
+          player.style.display = 'none';
+        };
       } catch (err) {
-        console.error('TTS playback error:', err);
+        console.warn('Backend TTS error, falling back to Web Speech API:', err);
+        if ('speechSynthesis' in window) {
+          const utter = new SpeechSynthesisUtterance(text.substring(0, 300));
+          utter.lang = 'vi-VN';
+          speechSynthesis.speak(utter);
+          utter.onend = () => {
+            if (btnElement) {
+              btnElement.classList.remove('playing');
+              btnElement.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+            }
+            player.style.display = 'none';
+          };
+        }
       }
     }
+
     document.getElementById('btn-close-audio').addEventListener('click', () => {
       const player = document.getElementById('global-audio-player');
       const audioEl = document.getElementById('tts-audio-element');
       audioEl.pause();
       player.style.display = 'none';
+      document.querySelectorAll('.msg-tts-btn.playing').forEach(b => {
+        b.classList.remove('playing');
+        b.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
+      });
     });
 
     // Voice STT (Speech-to-Text) Controller
     const micBtn = document.getElementById('btn-mic-stt');
     micBtn.addEventListener('click', async () => {
       if (state.isRecording) {
-        // Stop recording
         state.isRecording = false;
         micBtn.classList.remove('recording');
         if (state.mediaRecorder && state.mediaRecorder.state !== 'inactive') {
           state.mediaRecorder.stop();
         }
       } else {
-        // Start recording
         try {
           const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
           state.mediaRecorder = new MediaRecorder(stream);
@@ -2246,7 +3185,7 @@
     });
 
     // ========================================================================
-    // 6. VISION COVER SCANNER CONTROLLER
+    // 8. VISION BOOK COVER RECOGNITION
     // ========================================================================
     const dropzone = document.getElementById('vision-dropzone');
     const fileInput = document.getElementById('vision-file-input');
@@ -2308,6 +3247,7 @@
         if (data.title) {
           titleEl.textContent = data.title;
           authorEl.textContent = data.author ? `Tác giả: ${data.author}` : 'Tác giả chưa xác định';
+          
           document.getElementById('btn-vision-search-catalog').onclick = () => {
             closeStudioDrawer();
             state.query = data.title;
@@ -2317,70 +3257,25 @@
             const catSec = document.getElementById('catalog');
             if (catSec) lenis.scrollTo(catSec);
           };
+
+          document.getElementById('btn-vision-ask-ai').onclick = () => {
+            switchDrawerTab('tab-chat');
+            sendChatMessage(`Tôi vừa quét bìa cuốn sách '${data.title}'. Hãy giới thiệu tổng quan và tóm tắt những ý tưởng nổi bật của cuốn sách này.`);
+          };
         } else {
-          titleEl.textContent = 'Không tìm thấy tên sách rõ ràng trên ảnh.';
-          authorEl.textContent = data.message || 'Hãy thử với góc chụp rõ nét và đủ sáng hơn.';
+          titleEl.textContent = 'Không nhận diện được tên sách rõ ràng.';
+          authorEl.textContent = data.message || 'Hãy thử tải lên ảnh bìa có góc chụp thẳng và đủ ánh sáng.';
         }
       } catch (err) {
-        alert('Lỗi nhận diện ảnh bìa. Vui lòng kiểm tra lại kết nối API.');
+        alert('Lỗi nhận diện ảnh bìa. Vui lòng kiểm tra lại kết nối.');
       } finally {
         submitVisionBtn.disabled = false;
-        submitVisionBtn.textContent = 'PHÂN TÍCH ẢNH BÌA BẰNG GEMINI VISION →';
+        submitVisionBtn.textContent = 'PHÂN TÍCH ẢNH BẰNG GEMINI VISION →';
       }
     });
 
     // ========================================================================
-    // 7. CARTOGRAPHY: LOCATIONS SEARCH
-    // ========================================================================
-    async function searchLocations() {
-      const city = document.getElementById('loc-input-city').value.trim() || 'Đà Nẵng';
-      const kind = document.getElementById('loc-select-kind').value || 'all';
-      const container = document.getElementById('locations-results-container');
-      container.innerHTML = '<div style="padding:2.5rem; text-align:center;"><p class="mono-label">ĐANG TRA CỨU GOOGLE MAPS...</p></div>';
-
-      try {
-        const res = await fetch(`${API_BASE}/locations/search?location=${encodeURIComponent(city)}&kind=${kind}&limit=6`);
-        if (!res.ok) throw new Error('Location API error');
-        const data = await res.json();
-        const items = data.results || [];
-
-        if (!items.length) {
-          container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper);">
-            <p class="mono-label">KHÔNG TÌM THẤY ĐỊA ĐIỂM NÀO PHÙ HỢP TẠI "${city.toUpperCase()}".</p>
-          </div>`;
-          return;
-        }
-
-        container.innerHTML = '';
-        items.forEach(loc => {
-          const card = document.createElement('div');
-          card.className = 'location-entry-card';
-          const mapsUrl = loc.directions_url || loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(loc.title + ' ' + (loc.address || city))}`;
-          card.innerHTML = `
-            <h3 class="location-name">${loc.title || 'Địa điểm chưa rõ'}</h3>
-            <p class="location-addr">${loc.address || 'Khu vực trung tâm thành phố'}</p>
-            <div class="location-details">
-              ${loc.rating ? `<span>⭐ ${loc.rating} (${loc.reviews || 0} reviews)</span>` : ''}
-              ${loc.open_state || loc.hours ? `<span>🕒 ${loc.open_state || loc.hours}</span>` : ''}
-              ${loc.phone ? `<span>☎️ ${loc.phone}</span>` : ''}
-            </div>
-            <a href="${mapsUrl}" target="_blank" class="btn-maps-link">
-              <span>CHỈ ĐƯỜNG TRÊN GOOGLE MAPS</span>
-              <span>&rarr;</span>
-            </a>
-          `;
-          container.appendChild(card);
-        });
-      } catch (err) {
-        container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper);">
-          <p class="mono-label" style="color:#ef4444;">KHÔNG THỂ TRUY VẤN DỮ LIỆU ĐỊA ĐIỂM LÚC NÀY.</p>
-        </div>`;
-      }
-    }
-    document.getElementById('btn-search-locations').addEventListener('click', searchLocations);
-
-    // ========================================================================
-    // 8. EVENT LISTENERS: FILTERS, PAGINATION, VIEW TOGGLE
+    // 9. EVENT LISTENERS: FILTERS, PAGINATION, VIEW TOGGLE
     // ========================================================================
     let searchTimeout = null;
     document.getElementById('search-input').addEventListener('input', (e) => {
@@ -2401,6 +3296,18 @@
       fetchBooks();
     });
 
+    document.getElementById('filter-difficulty').addEventListener('change', (e) => {
+      state.difficulty = e.target.value;
+      state.page = 1;
+      fetchBooks();
+    });
+
+    document.getElementById('filter-mood').addEventListener('change', (e) => {
+      state.mood = e.target.value;
+      state.page = 1;
+      fetchBooks();
+    });
+
     document.getElementById('filter-sort').addEventListener('change', (e) => {
       state.sort = e.target.value;
       state.page = 1;
@@ -2410,10 +3317,14 @@
     document.getElementById('btn-reset-filters').addEventListener('click', () => {
       state.query = '';
       state.genre = '';
+      state.difficulty = '';
+      state.mood = '';
       state.sort = 'Phù hợp';
       state.page = 1;
       document.getElementById('search-input').value = '';
       document.getElementById('filter-genre').value = '';
+      document.getElementById('filter-difficulty').value = '';
+      document.getElementById('filter-mood').value = '';
       document.getElementById('filter-sort').value = 'Phù hợp';
       document.querySelectorAll('.genre-pill').forEach((p, idx) => {
         p.classList.toggle('active', idx === 0);
@@ -2421,7 +3332,7 @@
       fetchBooks();
     });
 
-    // Pagination buttons
+    // Pagination
     document.getElementById('btn-prev-page').addEventListener('click', () => {
       if (state.page > 1) {
         state.page--;
@@ -2469,19 +3380,54 @@
         .replace(/'/g, '&#039;');
     }
 
+    // Markdown-to-HTML parser with Table support
     function formatMarkdownToHtml(md) {
       if (!md) return '';
-      let res = escapeHtml(md);
-      // bold
-      res = res.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-      // italic
-      res = res.replace(/\*(.*?)\*/g, '<em>$1</em>');
-      // code
-      res = res.replace(/`(.*?)`/g, '<code style="background:var(--color-subtle); padding:0.1rem 0.3rem; border:1px solid var(--color-hairline);">$1</code>');
-      // line breaks
-      res = res.replace(/\n\n/g, '</p><p>');
-      res = res.replace(/\n/g, '<br>');
-      return `<p>${res}</p>`;
+      const lines = md.split('\n');
+      let inTable = false;
+      let tableHtml = '';
+      let processedLines = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line.startsWith('|') && line.endsWith('|')) {
+          if (!inTable) {
+            inTable = true;
+            tableHtml = '<div class="table-scroll-wrap"><table class="chat-md-table">';
+          }
+          if (/^\|[\s\-:|]+\|$/.test(line)) {
+            continue;
+          }
+          const cells = line.split('|').slice(1, -1);
+          const isHeader = !tableHtml.includes('<tbody>');
+          if (isHeader && !tableHtml.includes('<thead>')) {
+            tableHtml += '<thead><tr>' + cells.map(c => `<th>${escapeHtml(c.trim())}</th>`).join('') + '</tr></thead><tbody>';
+          } else {
+            tableHtml += '<tr>' + cells.map(c => `<td>${escapeHtml(c.trim())}</td>`).join('') + '</tr>';
+          }
+        } else {
+          if (inTable) {
+            inTable = false;
+            tableHtml += '</tbody></table></div>';
+            processedLines.push(tableHtml);
+            tableHtml = '';
+          }
+          processedLines.push(escapeHtml(line));
+        }
+      }
+      if (inTable) {
+        tableHtml += '</tbody></table></div>';
+        processedLines.push(tableHtml);
+      }
+
+      let text = processedLines.join('\n');
+      text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+      text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+      text = text.replace(/`([^`]+)`/g, '<code class="chat-inline-code">$1</code>');
+      text = text.replace(/^[\*\-]\s+(.*)$/gm, '<li class="chat-bullet">$1</li>');
+      text = text.replace(/\n\n+/g, '</p><p>');
+      text = text.replace(/\n/g, '<br>');
+      return `<p>${text}</p>`;
     }
 
     // Initialize application
