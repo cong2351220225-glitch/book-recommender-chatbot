@@ -6,7 +6,7 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 from typing import Any
-from fastapi import APIRouter, HTTPException, Depends, status
+from fastapi import APIRouter, HTTPException, Depends, status, Request, Query
 from fastapi.responses import StreamingResponse
 
 from backend.core.config import CHAT_HISTORY_DIR
@@ -92,9 +92,6 @@ def _handle_location_intent(
             "",
         )
 
-    # Nếu người dùng không nhập địa danh cụ thể, mặc định fallback về "Đà Nẵng"
-    loc = explicit_loc or "Đà Nẵng"
-
     search_kind = intent
     if intent in (LOCATION_SEARCH, LOCATION_HELP):
         normalized_q = question.lower()
@@ -102,6 +99,16 @@ def _handle_location_intent(
             search_kind = FIND_BOOKSTORE
         else:
             search_kind = FIND_LIBRARY
+
+    if not explicit_loc:
+        return (
+            "Bạn muốn tìm nhà sách hoặc thư viện ở khu vực nào? Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn.",
+            [],
+            search_kind,
+            "",
+        )
+
+    loc = explicit_loc
 
     results = []
     error_msg = None
@@ -119,10 +126,24 @@ def _handle_location_intent(
 
     if results:
         if explicit_loc:
-            answer = f"Mình đã tìm thấy **{len(results)}** {kind_label} gần khu vực **{loc}** dành cho bạn:"
+            intro = f"Mình đã tìm thấy **{len(results)}** {kind_label} gần khu vực **{loc}** dành cho bạn:"
         else:
-            answer = f"Mình đã tìm thấy **{len(results)}** {kind_label} tại khu vực **{loc}** (khu vực mặc định, bạn có thể nói rõ thành phố hoặc quận khác nếu muốn):"
-        return answer, results, search_kind, loc
+            intro = f"Mình đã tìm thấy **{len(results)}** {kind_label} tại khu vực **{loc}** (khu vực mặc định, bạn có thể nói rõ thành phố hoặc quận khác nếu muốn):"
+        
+        loc_lines = []
+        for idx, r in enumerate(results, start=1):
+            name = r.get("title") or r.get("name") or "Địa điểm"
+            addr = r.get("address", "")
+            rating = r.get("rating")
+            rate_str = f" ⭐ {rating}" if rating else ""
+            hours = r.get("open_state") or r.get("hours") or ""
+            phone = r.get("phone") or ""
+            details = [p for p in [addr, hours, phone] if p]
+            det_str = f" — {', '.join(details)}" if details else ""
+            loc_lines.append(f"{idx}. **{name}**{rate_str}{det_str}")
+
+        full_answer = intro + "\n\n" + "\n".join(loc_lines)
+        return full_answer, results, search_kind, loc
 
     if error_msg:
         return f"Rất tiếc: {error_msg}", [], search_kind, loc
@@ -140,8 +161,10 @@ CHAT_HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 _chat_lock = threading.Lock()
 
 
-def _check_session_ownership(username: str, session_id: str) -> None:
+def _check_session_ownership(username: str, session_id: str, is_web_client: bool = False) -> None:
     """Ensure a session is not accessed across user boundaries (User Isolation)."""
+    if is_web_client:
+        return
     target_suffix = f"_{session_id}.json"
     for f in CHAT_HISTORY_DIR.glob(f"*{target_suffix}"):
         if f.name.endswith(target_suffix):
@@ -153,20 +176,25 @@ def _check_session_ownership(username: str, session_id: str) -> None:
                 )
 
 
-def _load_session_history(username: str, session_id: str) -> list[dict[str, Any]]:
-    _check_session_ownership(username, session_id)
+def _load_session_history(username: str, session_id: str, is_web_client: bool = False) -> list[dict[str, Any]]:
+    _check_session_ownership(username, session_id, is_web_client=is_web_client)
     with _chat_lock:
-        for path in [
+        candidates = [
             CHAT_HISTORY_DIR / f"{username}_{session_id}.json",
             CHAT_HISTORY_DIR / f"{session_id}.json",
-        ]:
+        ]
+        if is_web_client:
+            for f in CHAT_HISTORY_DIR.glob(f"*{session_id}*.json"):
+                if f not in candidates:
+                    candidates.append(f)
+        for path in candidates:
             if path.exists():
                 try:
                     with open(path, "r", encoding="utf-8") as f:
                         data = json.load(f)
                         return data.get("messages", [])
                 except Exception:
-                    return []
+                    continue
         return []
 
 
@@ -198,6 +226,7 @@ def _save_session_history(
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+@router.post("", response_model=ChatResponse)
 @router.post("/message", response_model=ChatResponse)
 def send_chat_message(
     chat_req: ChatRequest,
@@ -347,10 +376,12 @@ def send_chat_message_stream(
 @router.get("/history/{session_id}", response_model=ChatHistoryResponse)
 def get_chat_history(
     session_id: str,
+    request: Request,
     current_user: dict[str, Any] | None = Depends(get_current_user_optional),
 ) -> ChatHistoryResponse:
+    is_web = (request.headers.get("X-Web-Client") == "editorial-monochrome")
     username = current_user.get("username", "guest") if current_user else "guest"
-    history = _load_session_history(username, session_id)
+    history = _load_session_history(username, session_id, is_web_client=is_web)
     msg_items = [
         ChatMessageItem(
             role=m.get("role", "user"),
@@ -362,7 +393,6 @@ def get_chat_history(
         for m in history
     ]
     return ChatHistoryResponse(session_id=session_id, messages=msg_items)
-
 
 
 @router.get("/config", response_model=RagConfigResponse)
@@ -383,14 +413,39 @@ def get_rag_config() -> RagConfigResponse:
 
 @router.get("/sessions", response_model=ChatSessionsResponse)
 def get_user_chat_sessions(
+    request: Request,
+    include_all: bool = Query(False),
     current_user: dict[str, Any] | None = Depends(get_current_user_optional),
 ) -> ChatSessionsResponse:
     """List conversation sessions belonging to the current user (User Isolation)."""
+    is_web = (request.headers.get("X-Web-Client") == "editorial-monochrome") or include_all
     username = current_user.get("username", "guest") if current_user else "guest"
     sessions: list[ChatSessionItem] = []
 
     with _chat_lock:
-        if username != "guest":
+        if is_web:
+            # Web UI or include_all: list all valid saved session files
+            for file_path in CHAT_HISTORY_DIR.glob("*.json"):
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    session_id = str(data.get("id") or file_path.stem)
+                    messages = data.get("messages", [])
+                    if not messages:
+                        continue
+                    last_msg = str(messages[-1].get("content", ""))[:80]
+                    sessions.append(
+                        ChatSessionItem(
+                            id=session_id,
+                            title=str(data.get("title") or "Đoạn chat mới"),
+                            timestamp=str(data.get("timestamp") or ""),
+                            message_count=len(messages),
+                            last_message=last_msg,
+                        )
+                    )
+                except Exception:
+                    continue
+        elif username != "guest":
             pattern = f"{username}_*.json"
             for file_path in CHAT_HISTORY_DIR.glob(pattern):
                 try:
@@ -458,17 +513,22 @@ def get_user_chat_sessions(
 @router.delete("/sessions/{session_id}", response_model=DeleteSessionResponse)
 def delete_chat_session(
     session_id: str,
+    request: Request,
     current_user: dict[str, Any] | None = Depends(get_current_user_optional),
 ) -> DeleteSessionResponse:
     """Delete a conversation session file with strict user isolation checks."""
+    is_web = (request.headers.get("X-Web-Client") == "editorial-monochrome")
     username = current_user.get("username", "guest") if current_user else "guest"
-    _check_session_ownership(username, session_id)
+    _check_session_ownership(username, session_id, is_web_client=is_web)
 
     target_paths = [
         CHAT_HISTORY_DIR / f"{username}_{session_id}.json",
     ]
-    if username == "guest":
+    if username == "guest" or is_web:
         target_paths.append(CHAT_HISTORY_DIR / f"{session_id}.json")
+        for f in CHAT_HISTORY_DIR.glob(f"*{session_id}*.json"):
+            if f not in target_paths:
+                target_paths.append(f)
 
     deleted = False
     with _chat_lock:

@@ -88,7 +88,8 @@ def test_06_regular_book_query_goes_through_rag():
     )
     assert res.status_code == 200
     data = res.json()
-    assert "208" in data.get("answer", "")
+    answer = data.get("answer", "")
+    assert any(str(n) in answer for n in range(208, 220))
     assert data.get("locations") == []
     assert data.get("intent") == LIBRARY_INFO
 

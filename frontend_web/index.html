@@ -8,25 +8,20 @@
   <!-- Favicon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📖</text></svg>">
 
-  <!-- Typography: Satoshi (Fontshare) & Playfair Display (Google Fonts) -->
-  <link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap">
+  <!-- Typography: Plus Jakarta Sans & Playfair Display & JetBrains Mono -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..700;1,400..700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..800;1,400..800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <style>
     /* ==========================================================================
-       1. DESIGN SYSTEM — ADAPTIVE REM VIEWPORT GRID & EDITORIAL MONOCHROME
+       1. DESIGN SYSTEM — EDITORIAL MONOCHROME & RESPONSIVE TYPOGRAPHY
        ========================================================================== */
     html {
       font-size: 16px;
       box-sizing: border-box;
-      scroll-behavior: auto; /* Lenis handles smooth scroll */
+      scroll-behavior: auto; /* Handled smoothly by Lenis */
     }
-    @media (max-width: 1920px) { html { font-size: 0.833333vw; } }
-    @media (max-width: 1440px) { html { font-size: 1.111111vw; } }
-    @media (max-width: 1024px) { html { font-size: 1.5625vw;  } }
-    @media (max-width: 640px)  { html { font-size: 4.444444vw; } }
 
     *, *::before, *::after {
       box-sizing: inherit;
@@ -37,191 +32,205 @@
     :root {
       /* Editorial Monochrome Palette */
       --color-paper: #ffffff;
-      --color-subtle: #fafaf9;
-      --color-canvas: #f4f4f1;
+      --color-subtle: #fafaf8;
+      --color-canvas: #f4f4f0;
       --color-surface-hover: #ebebea;
       --color-ink: #191917;
-      --color-charcoal: #40403c;
-      --color-lead: #6e6e68;
-      --color-muted: #96968f;
+      --color-charcoal: #3b3b36;
+      --color-lead: #5a5a54;
+      --color-muted: #85857d;
       --color-hairline: #e3e3df;
       --color-dashed: #c8c8c2;
 
       /* Typography Tokens */
       --font-serif: "Playfair Display", Georgia, serif;
-      --font-sans: "Satoshi", -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
 
       /* Spacing & Borders */
       --border-dashed: 1px dashed var(--color-dashed);
       --border-hairline: 1px solid var(--color-hairline);
       --border-ink: 1px solid var(--color-ink);
-      --site-pad: 2.5rem;
-      --header-h: 4.2rem;
+      --site-pad: clamp(1.25rem, 3.5vw, 3rem);
+      --header-h: 4.5rem;
     }
 
     body {
-      background-color: var(--color-paper);
-      color: var(--color-ink);
       font-family: var(--font-sans);
-      font-weight: 400;
-      line-height: 1.6;
+      background: var(--color-paper);
+      color: var(--color-ink);
+      line-height: 1.65;
+      font-size: 1rem; /* 16px standard, crystal clear on Windows */
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       overflow-x: hidden;
-      selection-background-color: var(--color-ink);
-      selection-color: var(--color-paper);
     }
 
-    ::selection {
-      background: var(--color-ink);
-      color: var(--color-paper);
-    }
-
-    /* Common Typography Utility */
-    h1, h2, h3, h4, h5 {
+    h1, h2, h3, h4, h5, h6 {
       font-family: var(--font-serif);
-      font-weight: 400;
+      font-weight: 500;
+      letter-spacing: -0.015em;
+      line-height: 1.25;
       color: var(--color-ink);
-      line-height: 1.15;
-      letter-spacing: -0.02em;
     }
-    .serif-italic {
-      font-style: italic;
-      font-weight: 400;
+
+    p {
+      color: var(--color-charcoal);
+      font-size: 1rem;
+      line-height: 1.68;
     }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font-family: inherit;
+      cursor: pointer;
+      background: none;
+      border: none;
+    }
+
+    input, select, textarea {
+      font-family: inherit;
+      font-size: 0.95rem;
+    }
+
+    /* Standardized legible labels & badges */
     .mono-label {
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.8125rem; /* 13px */
+      font-weight: 600;
+      letter-spacing: 0.06em;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
       color: var(--color-lead);
+    }
+
+    .tag-badge {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem; /* 13px */
+      font-weight: 500;
+      padding: 0.25rem 0.6rem;
+      background: var(--color-canvas);
+      border: 1px solid var(--color-hairline);
+      color: var(--color-charcoal);
+      display: inline-block;
+      white-space: nowrap;
+    }
+
+    /* Container */
+    .container {
+      width: 100%;
+      max-width: 1600px;
+      margin: 0 auto;
     }
 
     /* ==========================================================================
        2. HEADER NAVIGATION
        ========================================================================== */
     .site-header {
-      position: sticky;
+      position: fixed;
       top: 0;
       left: 0;
       width: 100%;
       height: var(--header-h);
       background: rgba(255, 255, 255, 0.94);
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
       border-bottom: var(--border-dashed);
+      z-index: 100;
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 0 var(--site-pad);
-      z-index: 100;
-      transition: background 0.3s ease;
     }
+
     .brand-wrap {
       display: flex;
-      align-items: baseline;
-      gap: 0.75rem;
+      align-items: center;
+      gap: 1.25rem;
     }
+
     .brand-title {
       font-family: var(--font-serif);
-      font-size: 1.25rem;
-      font-weight: 600;
+      font-size: 1.35rem;
+      font-weight: 700;
       letter-spacing: -0.01em;
       color: var(--color-ink);
-      text-decoration: none;
+      white-space: nowrap;
     }
-    .brand-tag {
+
+    .brand-badge {
       font-family: var(--font-mono);
-      font-size: 0.7rem;
-      color: var(--color-lead);
-      border: 1px solid var(--color-hairline);
-      padding: 0.15rem 0.5rem;
-      border-radius: 2px;
-      letter-spacing: 0.05em;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      border: var(--border-ink);
+      padding: 0.2rem 0.55rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      background: var(--color-subtle);
     }
-    .header-nav {
+
+    .site-nav {
       display: flex;
       align-items: center;
-      gap: 1.8rem;
+      gap: 1.75rem;
     }
-    .nav-item {
+
+    .nav-link {
       font-family: var(--font-mono);
-      font-size: 0.78rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
+      font-size: 0.875rem; /* 14px */
+      font-weight: 600;
+      letter-spacing: 0.04em;
       color: var(--color-lead);
-      text-decoration: none;
-      position: relative;
-      padding: 0.3rem 0;
       transition: color 0.2s ease;
+      white-space: nowrap;
     }
-    .nav-item:hover, .nav-item.active {
+
+    .nav-link:hover, .nav-link.active {
       color: var(--color-ink);
     }
-    .nav-item::after {
-      content: "";
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 0%;
-      height: 1px;
-      background: var(--color-ink);
-      transition: width 0.25s ease;
-    }
-    .nav-item:hover::after, .nav-item.active::after {
-      width: 100%;
-    }
-    .header-meta {
+
+    .header-actions {
       display: flex;
       align-items: center;
-      gap: 1.2rem;
+      gap: 1.25rem;
     }
+
     .live-clock {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.8125rem;
       color: var(--color-lead);
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
+      white-space: nowrap;
     }
-    .live-clock-dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: var(--color-ink);
-      display: inline-block;
-      animation: pulseDot 2s infinite ease-in-out;
-    }
-    @keyframes pulseDot {
-      0%, 100% { opacity: 0.3; transform: scale(0.9); }
-      50% { opacity: 1; transform: scale(1.2); }
-    }
-    .btn-ai-studio {
+
+    .btn-librarian {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
       background: var(--color-ink);
       color: var(--color-paper);
+      padding: 0.65rem 1.2rem;
       border: 1px solid var(--color-ink);
-      font-family: var(--font-mono);
-      font-size: 0.75rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      padding: 0.5rem 1.1rem;
-      display: inline-flex;
+      display: flex;
       align-items: center;
-      gap: 0.6rem;
-      cursor: pointer;
-      border-radius: 2px;
-      transition: background 0.2s ease, transform 0.15s ease;
+      gap: 0.5rem;
+      transition: background 0.25s ease, color 0.25s ease;
+      white-space: nowrap;
     }
-    .btn-ai-studio:hover {
+
+    .btn-librarian:hover {
       background: #333330;
-      transform: translateY(-1px);
     }
-    .btn-ai-studio .key-badge {
-      background: rgba(255, 255, 255, 0.2);
-      padding: 0.1rem 0.35rem;
-      font-size: 0.68rem;
-      border-radius: 2px;
+
+    @media (max-width: 1080px) {
+      .site-nav { display: none; }
+    }
+    @media (max-width: 600px) {
+      .live-clock { display: none; }
+      .brand-badge { display: none; }
     }
 
     /* ==========================================================================
@@ -231,18 +240,20 @@
       display: flex;
       align-items: center;
       gap: 0.75rem;
-      margin-bottom: 2rem;
-    }
-    .section-index-num {
+      margin-bottom: 1.5rem;
       font-family: var(--font-mono);
-      font-size: 0.85rem;
+    }
+
+    .section-index-num {
+      font-size: 0.95rem;
       font-weight: 700;
       color: var(--color-ink);
     }
+
     .section-index-title {
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      letter-spacing: 0.1em;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--color-lead);
     }
@@ -251,230 +262,222 @@
        4. SECTION 01: PROLOGUE / HERO EDITORIAL
        ========================================================================== */
     .section-prologue {
-      padding: 4.5rem var(--site-pad) 4rem;
+      padding-top: calc(var(--header-h) + 3.5rem);
+      padding-bottom: 4.5rem;
+      padding-left: var(--site-pad);
+      padding-right: var(--site-pad);
       border-bottom: var(--border-dashed);
       background: var(--color-paper);
     }
+
     .hero-editorial-grid {
       display: grid;
-      grid-template-columns: 1.35fr 1fr;
-      gap: 3.5rem;
-      align-items: flex-start;
-      margin-bottom: 3.5rem;
+      grid-template-columns: 1.4fr 1fr;
+      gap: 4rem;
+      align-items: start;
     }
-    .hero-headline {
-      font-size: 4rem;
-      line-height: 1.05;
-      letter-spacing: -0.03em;
+
+    @media (max-width: 960px) {
+      .hero-editorial-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+      }
+    }
+
+    .hero-title {
+      font-size: clamp(2.3rem, 5vw, 3.8rem);
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      margin-bottom: 1.5rem;
       color: var(--color-ink);
     }
-    .hero-headline em {
-      font-style: italic;
-      font-weight: 400;
-    }
-    .hero-manifesto {
-      font-size: 1.05rem;
+
+    .hero-lead-text {
+      font-size: 1.125rem;
+      line-height: 1.75;
       color: var(--color-charcoal);
-      line-height: 1.7;
-      display: flex;
-      flex-direction: column;
-      gap: 1.2rem;
-      padding-top: 0.5rem;
+      margin-bottom: 2rem;
+      max-width: 680px;
     }
-    .hero-quick-actions {
+
+    .hero-actions-row {
       display: flex;
-      gap: 1rem;
-      margin-top: 1rem;
       flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 2rem;
     }
+
     .btn-hero-primary {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      font-weight: 600;
       background: var(--color-ink);
       color: var(--color-paper);
-      padding: 0.8rem 1.6rem;
-      font-family: var(--font-mono);
-      font-size: 0.8rem;
-      letter-spacing: 0.05em;
-      text-decoration: none;
-      text-transform: uppercase;
-      transition: background 0.2s ease, transform 0.2s ease;
+      padding: 0.85rem 1.6rem;
+      border: 1px solid var(--color-ink);
       display: inline-flex;
       align-items: center;
       gap: 0.6rem;
-      cursor: pointer;
+      transition: all 0.2s ease;
     }
+
     .btn-hero-primary:hover {
       background: #333330;
-      transform: translateY(-2px);
     }
+
     .btn-hero-secondary {
-      background: transparent;
-      color: var(--color-ink);
-      border: 1px solid var(--color-ink);
-      padding: 0.8rem 1.6rem;
       font-family: var(--font-mono);
-      font-size: 0.8rem;
-      letter-spacing: 0.05em;
-      text-decoration: none;
-      text-transform: uppercase;
-      transition: all 0.2s ease;
+      font-size: 0.875rem;
+      font-weight: 600;
+      background: var(--color-canvas);
+      color: var(--color-ink);
+      padding: 0.85rem 1.6rem;
+      border: 1px solid var(--color-hairline);
       display: inline-flex;
       align-items: center;
       gap: 0.6rem;
-      cursor: pointer;
+      transition: all 0.2s ease;
     }
+
     .btn-hero-secondary:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
-      transform: translateY(-2px);
-    }
-    .metric-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      border-top: var(--border-dashed);
-      border-left: var(--border-dashed);
-    }
-    .metric-cell {
-      border-right: var(--border-dashed);
-      border-bottom: var(--border-dashed);
-      padding: 2.2rem 1.8rem;
+      border-color: var(--color-ink);
       background: var(--color-paper);
-      transition: background 0.2s ease;
     }
-    .metric-cell:hover {
+
+    .hero-metrics-box {
+      border: var(--border-dashed);
+      padding: 2.2rem;
       background: var(--color-subtle);
     }
-    .metric-num {
-      font-family: var(--font-mono);
-      font-size: 2.6rem;
-      font-weight: 700;
-      line-height: 1;
-      letter-spacing: -0.04em;
-      margin-bottom: 0.6rem;
-      color: var(--color-ink);
+
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.75rem;
     }
-    .metric-title {
+
+    .metric-item-num {
       font-family: var(--font-serif);
-      font-size: 1.05rem;
-      font-weight: 500;
+      font-size: 2.5rem;
+      line-height: 1.1;
+      font-weight: 600;
+      color: var(--color-ink);
       margin-bottom: 0.35rem;
     }
-    .metric-desc {
-      font-size: 0.82rem;
+
+    .metric-item-label {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
       color: var(--color-lead);
-      line-height: 1.5;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      line-height: 1.45;
     }
 
     /* ==========================================================================
-       5. SECTION 02: REPOSITORY / CATALOGUE
+       5. SECTION 02: KHO SÁCH SỐ / CATALOGUE
        ========================================================================== */
     .section-catalog {
-      padding: 4.5rem var(--site-pad) 5rem;
+      padding: 4.5rem var(--site-pad) 5.5rem;
       border-bottom: var(--border-dashed);
+      background: var(--color-paper);
     }
+
     .catalog-header-bar {
       display: flex;
       align-items: flex-end;
       justify-content: space-between;
-      margin-bottom: 2rem;
-      gap: 1.5rem;
+      gap: 2rem;
       flex-wrap: wrap;
-    }
-    .catalog-title {
-      font-size: 2.8rem;
-      letter-spacing: -0.02em;
-    }
-    .view-mode-toggle {
-      display: inline-flex;
-      border: 1px solid var(--color-ink);
-    }
-    .btn-view-mode {
-      background: transparent;
-      border: none;
-      padding: 0.45rem 1rem;
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      cursor: pointer;
-      color: var(--color-lead);
-      transition: all 0.2s ease;
-    }
-    .btn-view-mode.active {
-      background: var(--color-ink);
-      color: var(--color-paper);
+      margin-bottom: 2.2rem;
     }
 
-    /* Filter Toolbar */
-    .catalog-toolbar {
-      display: grid;
-      grid-template-columns: 2fr 1fr 1fr 1fr 1fr auto;
-      gap: 0.8rem;
-      margin-bottom: 1.5rem;
-      padding: 1.2rem;
-      border: var(--border-dashed);
-      background: var(--color-subtle);
+    .catalog-title-group h2 {
+      font-size: clamp(2rem, 3.5vw, 2.75rem);
+      margin-bottom: 0.5rem;
+    }
+
+    .catalog-filter-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
       align-items: center;
-    }
-    @media (max-width: 1200px) {
-      .catalog-toolbar {
-        grid-template-columns: 1fr 1fr;
-      }
-    }
-    @media (max-width: 768px) {
-      .catalog-toolbar {
-        grid-template-columns: 1fr;
-      }
-    }
-    .input-editorial, .select-editorial {
       width: 100%;
-      height: 2.8rem;
-      padding: 0 0.9rem;
-      border: 1px solid var(--color-hairline);
-      background: var(--color-paper);
-      font-family: var(--font-sans);
-      font-size: 0.85rem;
-      color: var(--color-ink);
-      border-radius: 0;
-      outline: none;
-      transition: border-color 0.2s ease;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px dashed var(--color-hairline);
     }
-    .input-editorial:focus, .select-editorial:focus {
+
+    .search-input-wrap {
+      flex: 1 1 280px;
+      position: relative;
+    }
+
+    .input-editorial {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-subtle);
+      font-size: 0.95rem;
+      color: var(--color-ink);
+      transition: border-color 0.2s ease, background 0.2s ease;
+    }
+
+    .input-editorial:focus {
+      outline: none;
+      border-color: var(--color-ink);
+      background: var(--color-paper);
+    }
+
+    .select-editorial {
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-subtle);
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 500;
+      color: var(--color-charcoal);
+      cursor: pointer;
+    }
+
+    .select-editorial:focus {
+      outline: none;
       border-color: var(--color-ink);
     }
-    .genre-filter-row {
+
+    .genre-pills-bar {
       display: flex;
       flex-wrap: wrap;
       gap: 0.5rem;
       margin-bottom: 2rem;
     }
+
     .genre-pill {
-      background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      padding: 0.35rem 0.85rem;
       font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+      font-size: 0.8125rem;
+      font-weight: 500;
+      padding: 0.35rem 0.75rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
       color: var(--color-lead);
-      cursor: pointer;
       transition: all 0.2s ease;
     }
+
     .genre-pill:hover, .genre-pill.active {
-      border-color: var(--color-ink);
       background: var(--color-ink);
       color: var(--color-paper);
+      border-color: var(--color-ink);
     }
 
-    /* Book Grid */
+    /* Fixed locked Responsive Grid for Book Cards */
     .books-grid {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 2rem;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 24px;
+      align-items: stretch;
       margin-bottom: 3rem;
     }
-    @media (max-width: 1280px) { .books-grid { grid-template-columns: repeat(3, 1fr); } }
-    @media (max-width: 900px)  { .books-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (max-width: 580px)  { .books-grid { grid-template-columns: 1fr; } }
 
     .book-card {
       border: var(--border-dashed);
@@ -484,31 +487,94 @@
       cursor: pointer;
       position: relative;
       transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+      height: 100%;
     }
+
     .book-card:hover {
       transform: translateY(-4px);
       border-color: var(--color-ink);
       box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
     }
+
     .book-card-cover-wrap {
       width: 100%;
-      aspect-ratio: 2/3;
+      aspect-ratio: 2 / 3;
       overflow: hidden;
-      background: var(--color-canvas);
+      background: #191917;
       position: relative;
       border-bottom: 1px solid var(--color-hairline);
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
+
     .book-card-cover-img {
       width: 100%;
       height: 100%;
       object-fit: cover;
+      display: block;
       filter: grayscale(100%) contrast(105%);
       transition: filter 0.3s ease, transform 0.3s ease;
     }
+
     .book-card:hover .book-card-cover-img {
       filter: grayscale(0%) contrast(100%);
       transform: scale(1.02);
     }
+
+    /* CSS/HTML Book Cover Fallback (Hardcover Editorial Style) */
+    .book-cover-fallback {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.25rem 1rem;
+      background: linear-gradient(145deg, #22221f 0%, #121210 100%);
+      color: #f4f4f1;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      user-select: none;
+    }
+
+    .book-cover-fallback .fallback-icon {
+      font-size: 1.85rem;
+      opacity: 0.9;
+    }
+
+    .book-cover-fallback .fallback-genre {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #a8a89f;
+    }
+
+    .book-cover-fallback .fallback-title {
+      font-family: var(--font-serif);
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.35;
+      color: #ffffff;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .book-cover-fallback .fallback-brand {
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      letter-spacing: 0.18em;
+      color: #96968f;
+      text-transform: uppercase;
+      border-top: 1px dashed rgba(255, 255, 255, 0.2);
+      padding-top: 0.35rem;
+      width: 100%;
+    }
+
     .book-badge-reading {
       position: absolute;
       top: 0.6rem;
@@ -516,64 +582,66 @@
       background: var(--color-ink);
       color: var(--color-paper);
       font-family: var(--font-mono);
-      font-size: 0.65rem;
+      font-size: 0.75rem;
+      font-weight: 600;
       padding: 0.2rem 0.5rem;
       letter-spacing: 0.05em;
       text-transform: uppercase;
+      z-index: 2;
     }
+
     .book-card-content {
-      padding: 1.4rem;
+      padding: 1.25rem;
       display: flex;
       flex-direction: column;
       flex-grow: 1;
     }
+
     .book-card-genre {
       font-family: var(--font-mono);
-      font-size: 0.68rem;
+      font-size: 0.8125rem;
+      font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: var(--color-lead);
-      margin-bottom: 0.4rem;
+      margin-bottom: 0.35rem;
     }
+
     .book-card-title {
-      font-size: 1.35rem;
-      line-height: 1.25;
-      margin-bottom: 0.4rem;
+      font-size: 1.25rem;
+      line-height: 1.35;
+      margin-bottom: 0.35rem;
       color: var(--color-ink);
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
+
     .book-card-author {
-      font-size: 0.88rem;
+      font-size: 0.9375rem;
       color: var(--color-lead);
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.75rem;
     }
+
     .book-card-badges {
       display: flex;
       flex-wrap: wrap;
       gap: 0.35rem;
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.75rem;
     }
-    .tag-badge {
-      font-family: var(--font-mono);
-      font-size: 0.65rem;
-      padding: 0.15rem 0.45rem;
-      background: var(--color-canvas);
-      border: 1px solid var(--color-hairline);
-      color: var(--color-charcoal);
-    }
+
     .book-card-footer {
       margin-top: auto;
-      padding-top: 0.8rem;
+      padding-top: 0.75rem;
       border-top: 1px dashed var(--color-hairline);
       display: flex;
       align-items: center;
       justify-content: space-between;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.8125rem;
     }
+
     .book-card-rating {
       color: var(--color-ink);
       font-weight: 700;
@@ -586,51 +654,52 @@
       margin-bottom: 3rem;
       display: none;
     }
+
     .books-index-table th, .books-index-table td {
       padding: 0.9rem 1rem;
       text-align: left;
       border-bottom: 1px solid var(--color-hairline);
-      font-size: 0.88rem;
+      font-size: 0.9375rem;
     }
+
     .books-index-table th {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.8125rem;
+      font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: var(--color-lead);
-      background: var(--color-subtle);
-      border-top: 1px solid var(--color-hairline);
     }
+
     .books-index-table tr:hover td {
       background: var(--color-subtle);
       cursor: pointer;
     }
 
-    /* Pagination */
-    .catalog-pagination {
+    .pagination-bar {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 1.2rem 0;
+      padding-top: 1.5rem;
       border-top: var(--border-dashed);
     }
+
     .btn-pagination {
-      background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      padding: 0.6rem 1.4rem;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      cursor: pointer;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.6rem 1.2rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
       color: var(--color-ink);
       transition: all 0.2s ease;
     }
+
     .btn-pagination:hover:not(:disabled) {
       border-color: var(--color-ink);
-      background: var(--color-ink);
-      color: var(--color-paper);
+      background: var(--color-canvas);
     }
+
     .btn-pagination:disabled {
       opacity: 0.4;
       cursor: not-allowed;
@@ -644,227 +713,421 @@
       border-bottom: var(--border-dashed);
       background: var(--color-subtle);
     }
+
     .crawler-dashboard-grid {
       display: grid;
       grid-template-columns: 1.15fr 0.85fr;
       gap: 3rem;
       margin-top: 2rem;
     }
+
     @media (max-width: 960px) {
       .crawler-dashboard-grid {
         grid-template-columns: 1fr;
         gap: 2.5rem;
       }
     }
+
     .crawler-card {
       border: var(--border-dashed);
       padding: 2.2rem;
       background: var(--color-paper);
     }
+
     .crawler-form-row {
       display: grid;
       grid-template-columns: 2fr 1fr 1fr;
       gap: 0.8rem;
       margin-top: 1.2rem;
     }
+
     @media (max-width: 700px) {
       .crawler-form-row {
         grid-template-columns: 1fr;
       }
     }
+
+    /* Duplicate Comparison Summary Bar */
+    .crawler-summary-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+      padding: 0.85rem 1rem;
+      background: var(--color-canvas);
+      border: 1px solid var(--color-hairline);
+    }
+
+    .summary-pill {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .summary-pill.new strong {
+      color: #047857; /* Deep Emerald */
+      font-weight: 700;
+    }
+
+    .summary-pill.exists strong {
+      color: var(--color-lead);
+    }
+
+    /* Filter & Selection Toolbar */
+    .crawler-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.75rem;
+      margin-top: 1rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px dashed var(--color-hairline);
+    }
+
+    .crawler-filter-tabs {
+      display: flex;
+      gap: 0.35rem;
+    }
+
+    .crawler-filter-tab {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.35rem 0.65rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      color: var(--color-lead);
+      transition: all 0.2s ease;
+    }
+
+    .crawler-filter-tab:hover, .crawler-filter-tab.active {
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border-color: var(--color-ink);
+    }
+
+    .crawler-selection-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .btn-crawler-tool {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.35rem 0.65rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      color: var(--color-charcoal);
+    }
+
+    .btn-crawler-tool:hover {
+      border-color: var(--color-ink);
+      background: var(--color-canvas);
+    }
+
+    .btn-crawler-batch-import {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
+      padding: 0.45rem 0.9rem;
+      background: var(--color-ink);
+      color: var(--color-paper);
+      border: 1px solid var(--color-ink);
+      transition: all 0.2s ease;
+    }
+
+    .btn-crawler-batch-import:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    .crawler-results-list {
+      margin-top: 1.25rem;
+      max-height: 520px;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      padding-right: 0.4rem;
+    }
+
+    .crawler-item-card {
+      border: 1px solid var(--color-hairline);
+      padding: 1.1rem;
+      margin-bottom: 1rem;
+      background: var(--color-subtle);
+      transition: border-color 0.2s ease, opacity 0.2s ease;
+      display: flex;
+      gap: 1.1rem;
+      align-items: flex-start;
+    }
+
+    .crawler-item-card.is-duplicate {
+      opacity: 0.72;
+      background: #f2f2ef;
+    }
+
+    .crawler-item-card:hover {
+      border-color: var(--color-ink);
+    }
+
+    .crawler-item-checkbox {
+      margin-top: 0.3rem;
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+      accent-color: var(--color-ink);
+    }
+
+    .crawler-thumb-wrap {
+      width: 72px;
+      height: 108px;
+      aspect-ratio: 2 / 3;
+      flex-shrink: 0;
+      overflow: hidden;
+      background: #191917;
+      position: relative;
+      border: 1px solid var(--color-hairline);
+    }
+
+    .crawler-thumb-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .crawler-item-details {
+      flex-grow: 1;
+      min-width: 0;
+    }
+
+    .crawler-item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.75rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .crawler-item-title {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: var(--color-ink);
+      line-height: 1.3;
+    }
+
+    .crawler-badge {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.2rem 0.55rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      white-space: nowrap;
+    }
+
+    .crawler-badge.new {
+      background: #047857;
+      color: #ffffff;
+      border-color: #047857;
+    }
+
+    .crawler-badge.exists {
+      background: var(--color-canvas);
+      color: var(--color-lead);
+      border: 1px dashed var(--color-dashed);
+    }
+
+    .btn-import-book {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.45rem 0.85rem;
+      border: 1px solid var(--color-ink);
+      background: var(--color-ink);
+      color: var(--color-paper);
+      transition: all 0.2s ease;
+    }
+
+    .btn-import-book:hover:not(:disabled) {
+      background: #333330;
+    }
+
+    .btn-import-book:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+      border-color: var(--color-hairline);
+      background: var(--color-canvas);
+      color: var(--color-lead);
+    }
+
+    /* ChromaDB Vector Sync Table */
     .sync-metrics-table {
       width: 100%;
       border-collapse: collapse;
       margin: 1.5rem 0;
     }
+
     .sync-metrics-table td {
       padding: 0.85rem 0;
       border-bottom: 1px dashed var(--color-hairline);
-      font-size: 0.92rem;
+      font-size: 0.95rem;
     }
+
     .sync-metrics-table td:first-child {
       font-family: var(--font-mono);
-      font-size: 0.78rem;
+      font-size: 0.8125rem;
+      font-weight: 600;
       color: var(--color-lead);
       text-transform: uppercase;
       width: 55%;
     }
+
     .sync-status-badge {
       display: inline-block;
       padding: 0.25rem 0.6rem;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.8125rem;
       font-weight: 700;
       letter-spacing: 0.05em;
       text-transform: uppercase;
       border: 1px solid var(--color-ink);
     }
+
     .sync-status-badge.synced {
       background: #191917;
       color: #ffffff;
     }
+
     .sync-status-badge.pending {
       background: #f4f4f1;
       color: #191917;
       border: 1px dashed var(--color-charcoal);
     }
-    .crawler-results-list {
-      margin-top: 1.5rem;
-      max-height: 480px;
-      overflow-y: auto;
-      padding-right: 0.4rem;
-    }
-    .crawler-item-card {
-      border: 1px solid var(--color-hairline);
-      padding: 1.2rem;
-      margin-bottom: 1rem;
-      background: var(--color-subtle);
-      transition: border-color 0.2s ease;
-    }
-    .crawler-item-card:hover {
-      border-color: var(--color-ink);
-    }
-    .crawler-item-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 1rem;
-      margin-bottom: 0.5rem;
-    }
-    .crawler-item-title {
-      font-size: 1.15rem;
-      font-weight: 500;
-      color: var(--color-ink);
-    }
-    .crawler-badge {
-      font-family: var(--font-mono);
-      font-size: 0.68rem;
-      padding: 0.2rem 0.5rem;
-      border: 1px solid var(--color-hairline);
-      background: var(--color-paper);
-      white-space: nowrap;
-    }
-    .crawler-badge.exists {
-      color: var(--color-lead);
-      background: var(--color-canvas);
-    }
-    .crawler-badge.new {
-      background: var(--color-ink);
-      color: var(--color-paper);
-      border-color: var(--color-ink);
-    }
-    .btn-import-book {
-      background: var(--color-ink);
-      color: var(--color-paper);
-      border: none;
-      padding: 0.45rem 0.9rem;
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.05em;
-      cursor: pointer;
-      text-transform: uppercase;
-      transition: background 0.2s ease;
-    }
-    .btn-import-book:hover:not(:disabled) {
-      background: #333330;
-    }
-    .btn-import-book:disabled {
-      opacity: 0.4;
-      cursor: not-allowed;
-    }
 
     /* ==========================================================================
        7. SECTION 04: LOCATIONS / CARTOGRAPHY
        ========================================================================== */
-    .section-cartography {
+    .section-locations {
       padding: 4.5rem var(--site-pad) 5.5rem;
       border-bottom: var(--border-dashed);
+      background: var(--color-paper);
     }
+
     .cartography-grid {
       display: grid;
-      grid-template-columns: 1fr 1.8fr;
-      gap: 3.5rem;
-      align-items: flex-start;
+      grid-template-columns: 1fr 2.5fr;
+      gap: 3rem;
+      margin-top: 2rem;
     }
-    @media (max-width: 960px) {
+
+    @media (max-width: 900px) {
       .cartography-grid {
         grid-template-columns: 1fr;
-        gap: 2.5rem;
+        gap: 2rem;
       }
     }
-    .cartography-search-card {
+
+    .cartography-sidebar {
       border: var(--border-dashed);
-      padding: 2.2rem;
+      padding: 2rem;
       background: var(--color-subtle);
     }
+
     .cartography-results-wrap {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
       gap: 1.5rem;
     }
-    @media (max-width: 680px) {
-      .cartography-results-wrap {
-        grid-template-columns: 1fr;
-      }
-    }
-    .location-entry-card {
-      border: var(--border-dashed);
-      padding: 1.5rem;
-      background: var(--color-paper);
+
+    .location-card {
+      border: 1px solid var(--color-hairline);
+      padding: 1.4rem;
+      background: var(--color-subtle);
       display: flex;
       flex-direction: column;
-      justify-content: space-between;
-      transition: border-color 0.2s ease, transform 0.2s ease;
+      transition: all 0.25s ease;
     }
-    .location-entry-card:hover {
+
+    .location-card:hover, .location-card.highlighted-location {
       border-color: var(--color-ink);
-      transform: translateY(-2px);
+      background: var(--color-paper);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
     }
-    .location-name {
-      font-size: 1.25rem;
-      margin-bottom: 0.5rem;
+
+    .location-card.highlighted-location {
+      outline: 2px solid var(--color-ink);
+    }
+
+    .loc-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.75rem;
+    }
+
+    .loc-rating {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
       color: var(--color-ink);
     }
-    .location-addr {
-      font-size: 0.85rem;
-      color: var(--color-charcoal);
-      margin-bottom: 1rem;
-      line-height: 1.5;
+
+    .loc-card-title {
+      font-size: 1.2rem;
+      line-height: 1.35;
+      margin-bottom: 0.5rem;
     }
-    .location-details {
+
+    .loc-card-address {
+      font-size: 0.9375rem;
+      color: var(--color-charcoal);
+      line-height: 1.5;
+      margin-bottom: 0.75rem;
+    }
+
+    .loc-card-meta {
       font-family: var(--font-mono);
-      font-size: 0.75rem;
+      font-size: 0.8125rem;
       color: var(--color-lead);
+      margin-bottom: 1.25rem;
       display: flex;
       flex-direction: column;
-      gap: 0.3rem;
-      margin-bottom: 1.2rem;
+      gap: 0.25rem;
     }
-    .btn-maps-link {
+
+    .loc-card-footer {
+      margin-top: auto;
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--color-hairline);
+    }
+
+    .btn-map-link {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--color-ink);
       display: inline-flex;
       align-items: center;
-      gap: 0.5rem;
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      color: var(--color-ink);
-      text-decoration: none;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      border-bottom: 1px solid var(--color-ink);
-      padding-bottom: 0.15rem;
-      align-self: flex-start;
-      transition: opacity 0.2s ease;
+      gap: 0.35rem;
+      transition: color 0.2s ease;
     }
-    .btn-maps-link:hover {
-      opacity: 0.6;
+
+    .btn-map-link:hover {
+      text-decoration: underline;
     }
 
     /* ==========================================================================
        8. SITE FOOTER
        ========================================================================== */
     .site-footer {
-      padding: 3rem var(--site-pad);
-      background: var(--color-paper);
+      padding: 3.5rem var(--site-pad);
+      background: var(--color-canvas);
       border-top: var(--border-dashed);
       display: flex;
       align-items: center;
@@ -872,30 +1135,31 @@
       flex-wrap: wrap;
       gap: 1.5rem;
     }
+
     .footer-brand {
       font-family: var(--font-serif);
-      font-size: 1.15rem;
-      font-weight: 600;
-      color: var(--color-ink);
+      font-size: 1.25rem;
+      font-weight: 700;
     }
+
     .footer-copy {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.8125rem;
       color: var(--color-lead);
-      letter-spacing: 0.05em;
     }
+
     .footer-links {
       display: flex;
       gap: 1.5rem;
     }
+
     .footer-link {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
-      color: var(--color-lead);
-      text-decoration: none;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--color-charcoal);
     }
+
     .footer-link:hover {
       color: var(--color-ink);
     }
@@ -906,7 +1170,7 @@
     .studio-backdrop {
       position: fixed;
       inset: 0;
-      background: rgba(25, 25, 23, 0.45);
+      background: rgba(0, 0, 0, 0.45);
       backdrop-filter: blur(4px);
       -webkit-backdrop-filter: blur(4px);
       z-index: 1000;
@@ -914,448 +1178,579 @@
       pointer-events: none;
       transition: opacity 0.3s ease;
     }
+
     .studio-backdrop.active {
       opacity: 1;
       pointer-events: auto;
     }
+
     .studio-drawer {
       position: fixed;
       top: 0;
       right: 0;
-      bottom: 0;
-      width: 44rem;
-      max-width: 95vw;
+      width: 100%;
+      max-width: 680px;
+      height: 100%;
       background: var(--color-paper);
-      border-left: 1px solid var(--color-ink);
+      border-left: var(--border-dashed);
       z-index: 1001;
-      display: flex;
-      flex-direction: column;
       transform: translateX(100%);
       transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
-      box-shadow: -15px 0 35px rgba(0, 0, 0, 0.08);
+      display: flex;
+      flex-direction: column;
+      box-shadow: -12px 0 40px rgba(0, 0, 0, 0.12);
     }
+
     .studio-drawer.active {
-      transform: translateX(0%);
+      transform: translateX(0);
     }
+
     .drawer-header {
-      padding: 1.2rem 1.8rem;
+      padding: 1.5rem 1.75rem;
       border-bottom: var(--border-dashed);
       display: flex;
       align-items: center;
       justify-content: space-between;
+      background: var(--color-subtle);
     }
+
     .drawer-title-wrap h3 {
-      font-size: 1.45rem;
-      font-weight: 500;
-      margin-bottom: 0.15rem;
+      font-size: 1.35rem;
+      margin-bottom: 0.2rem;
     }
+
     .drawer-close-btn {
-      background: transparent;
-      border: 1px solid var(--color-hairline);
-      padding: 0.4rem 0.8rem;
       font-family: var(--font-mono);
-      font-size: 0.75rem;
-      cursor: pointer;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.35rem 0.65rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
       color: var(--color-lead);
       transition: all 0.2s ease;
     }
+
     .drawer-close-btn:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
       border-color: var(--color-ink);
+      color: var(--color-ink);
     }
 
-    /* Drawer Controls Bar (Top-K, New chat, Clear) */
+    /* Controls bar: Top-K & Chat Management */
     .drawer-controls-bar {
-      padding: 0.6rem 1.8rem;
-      background: var(--color-subtle);
+      padding: 0.75rem 1.75rem;
+      background: var(--color-canvas);
       border-bottom: 1px solid var(--color-hairline);
       display: flex;
       align-items: center;
       justify-content: space-between;
       flex-wrap: wrap;
-      gap: 0.8rem;
+      gap: 0.75rem;
     }
+
     .topk-control {
       display: flex;
       align-items: center;
       gap: 0.5rem;
       font-family: var(--font-mono);
-      font-size: 0.72rem;
-      color: var(--color-charcoal);
+      font-size: 0.8125rem;
+      color: var(--color-lead);
     }
+
     .topk-select {
-      padding: 0.2rem 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      padding: 0.25rem 0.5rem;
       border: 1px solid var(--color-hairline);
       background: var(--color-paper);
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      cursor: pointer;
+      color: var(--color-ink);
     }
+
     .drawer-action-buttons {
       display: flex;
       gap: 0.5rem;
     }
+
     .btn-drawer-action {
-      background: var(--color-paper);
-      border: 1px solid var(--color-hairline);
-      padding: 0.3rem 0.65rem;
       font-family: var(--font-mono);
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      cursor: pointer;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.35rem 0.65rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
       color: var(--color-charcoal);
       transition: all 0.2s ease;
     }
+
     .btn-drawer-action:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
       border-color: var(--color-ink);
+      background: var(--color-surface-hover);
     }
 
     /* Subnav Tabs */
     .drawer-tabs {
       display: flex;
-      border-bottom: var(--border-dashed);
-      background: var(--color-paper);
-      overflow-x: auto;
-    }
-    .drawer-tab-btn {
-      flex: 1;
-      padding: 0.8rem 0.5rem;
-      border: none;
-      background: transparent;
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--color-lead);
-      cursor: pointer;
-      border-bottom: 2px solid transparent;
-      white-space: nowrap;
-      transition: all 0.2s ease;
-    }
-    .drawer-tab-btn.active {
-      color: var(--color-ink);
-      border-bottom-color: var(--color-ink);
+      border-bottom: 1px solid var(--color-hairline);
       background: var(--color-subtle);
     }
 
+    .drawer-tab-btn {
+      flex: 1;
+      padding: 0.85rem 0.5rem;
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--color-lead);
+      border-bottom: 2px solid transparent;
+      text-align: center;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .drawer-tab-btn.active {
+      color: var(--color-ink);
+      border-bottom-color: var(--color-ink);
+      background: var(--color-paper);
+    }
+
+    /* Drawer Scrollable Body */
     .drawer-body {
       flex-grow: 1;
       overflow-y: auto;
-      padding: 1.5rem 1.8rem;
+      overscroll-behavior: contain;
+      -webkit-overflow-scrolling: touch;
+      padding: 1.5rem 1.75rem;
       display: flex;
       flex-direction: column;
     }
+
     .drawer-tab-pane {
       display: none;
+      flex-direction: column;
+      flex-grow: 1;
       height: 100%;
     }
+
     .drawer-tab-pane.active {
-      display: block;
+      display: flex;
     }
 
-    /* Chat Messages Pane */
+    /* Chat Messages Container */
     .chat-messages-container {
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
-      padding-bottom: 1.5rem;
+      gap: 1.4rem;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      -webkit-overflow-scrolling: touch;
+      flex-grow: 1;
+      padding-right: 0.4rem;
+      min-height: 200px;
     }
+
     .chat-msg {
       display: flex;
       flex-direction: column;
       max-width: 90%;
     }
+
     .chat-msg.user {
       align-self: flex-end;
-      align-items: flex-end;
     }
+
     .chat-msg.assistant {
       align-self: flex-start;
-      align-items: flex-start;
       max-width: 96%;
     }
+
     .chat-msg-header {
       font-family: var(--font-mono);
-      font-size: 0.68rem;
+      font-size: 0.75rem;
+      font-weight: 600;
       letter-spacing: 0.05em;
-      color: var(--color-muted);
+      color: var(--color-lead);
       margin-bottom: 0.35rem;
       display: flex;
       align-items: center;
-      gap: 0.6rem;
+      gap: 0.5rem;
     }
+
     .chat-bubble {
-      padding: 1.1rem 1.3rem;
-      font-size: 0.95rem;
-      line-height: 1.65;
-      border-radius: 2px;
-      word-break: break-word;
+      padding: 1rem 1.25rem;
+      font-size: 1rem;
+      line-height: 1.68;
+      border: 1px solid var(--color-hairline);
     }
+
     .chat-msg.user .chat-bubble {
       background: var(--color-ink);
       color: var(--color-paper);
+      border-color: var(--color-ink);
     }
+
     .chat-msg.assistant .chat-bubble {
       background: var(--color-subtle);
-      border: 1px solid var(--color-hairline);
       color: var(--color-ink);
     }
 
-    /* Markdown Table in Chat */
+    /* Markdown Styling in Chat */
+    .chat-bubble p {
+      margin-bottom: 0.8rem;
+      color: inherit;
+      font-size: 1rem;
+      line-height: 1.68;
+    }
+
+    .chat-bubble p:last-child {
+      margin-bottom: 0;
+    }
+
+    .chat-inline-code {
+      font-family: var(--font-mono);
+      font-size: 0.875rem;
+      background: rgba(0, 0, 0, 0.06);
+      padding: 0.15rem 0.35rem;
+      border: 1px solid var(--color-hairline);
+    }
+
+    .chat-bullet {
+      margin-left: 1.25rem;
+      margin-bottom: 0.35rem;
+    }
+
     .table-scroll-wrap {
-      width: 100%;
       overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
       margin: 0.8rem 0;
       border: 1px solid var(--color-hairline);
-      background: var(--color-paper);
     }
+
     .chat-md-table {
       width: 100%;
-      min-width: 480px;
       border-collapse: collapse;
-      font-size: 0.82rem;
+      font-size: 0.875rem;
     }
+
     .chat-md-table th, .chat-md-table td {
-      padding: 0.5rem 0.75rem;
+      padding: 0.6rem 0.85rem;
       border: 1px solid var(--color-hairline);
       text-align: left;
     }
+
     .chat-md-table th {
       background: var(--color-canvas);
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.75rem;
       text-transform: uppercase;
-      color: var(--color-ink);
-    }
-    .chat-md-table tr:nth-child(even) {
-      background: var(--color-subtle);
-    }
-    .chat-inline-code {
-      background: var(--color-canvas);
-      padding: 0.15rem 0.35rem;
-      font-family: var(--font-mono);
-      font-size: 0.82rem;
-      border: 1px solid var(--color-hairline);
-    }
-    .chat-bullet {
-      margin-left: 1.2rem;
-      margin-bottom: 0.25rem;
     }
 
-    /* TTS Button & Grounding Sources */
+    /* TTS Audio Play Button inside message */
     .msg-tts-btn {
+      margin-top: 0.75rem;
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-      margin-top: 0.75rem;
-      padding: 0.35rem 0.75rem;
-      background: var(--color-canvas);
-      border: 1px solid var(--color-dashed);
       font-family: var(--font-mono);
-      font-size: 0.7rem;
-      letter-spacing: 0.05em;
-      cursor: pointer;
-      text-transform: uppercase;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--color-lead);
+      border: 1px solid var(--color-hairline);
+      background: var(--color-paper);
+      padding: 0.3rem 0.65rem;
       transition: all 0.2s ease;
     }
+
     .msg-tts-btn:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
+      border-color: var(--color-ink);
+      color: var(--color-ink);
     }
+
     .msg-tts-btn.playing {
-      background: #191917;
+      background: var(--color-ink);
       color: #ffffff;
+      border-color: var(--color-ink);
     }
+
+    /* Grounding Sources (ChromaDB Books) */
     .grounding-box {
       margin-top: 0.85rem;
-      padding: 0.8rem 1rem;
-      background: var(--color-paper);
-      border: 1px dashed var(--color-dashed);
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--color-hairline);
     }
+
     .grounding-title {
       font-family: var(--font-mono);
-      font-size: 0.68rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
+      font-size: 0.75rem;
+      font-weight: 700;
       color: var(--color-lead);
-      margin-bottom: 0.5rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
     }
+
     .grounding-item {
       display: flex;
-      align-items: center;
       justify-content: space-between;
-      gap: 0.5rem;
+      align-items: center;
       padding: 0.35rem 0;
-      border-bottom: 1px dashed var(--color-hairline);
-      font-size: 0.82rem;
+      font-size: 0.875rem;
+      border-bottom: 1px dotted var(--color-hairline);
     }
-    .grounding-item:last-child {
-      border-bottom: none;
-    }
+
     .btn-view-source-book {
-      background: transparent;
-      border: 1px solid var(--color-hairline);
-      padding: 0.2rem 0.5rem;
       font-family: var(--font-mono);
-      font-size: 0.68rem;
+      font-size: 0.75rem;
+      text-decoration: underline;
       cursor: pointer;
-      transition: all 0.2s ease;
+      color: var(--color-lead);
     }
+
     .btn-view-source-book:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
+      color: var(--color-ink);
     }
 
-    /* Chat Input Bar */
-    .drawer-footer {
-      padding: 1.2rem 1.8rem;
-      border-top: var(--border-dashed);
-      background: var(--color-paper);
-    }
-    .chat-input-bar {
+    /* Interactive Location Cards in Chat */
+    .chat-locations-box {
+      margin-top: 1rem;
       display: flex;
-      align-items: center;
-      gap: 0.6rem;
+      flex-direction: column;
+      gap: 0.85rem;
+      border-top: 1px dashed var(--color-hairline);
+      padding-top: 0.95rem;
     }
-    .chat-text-input {
-      flex-grow: 1;
-      height: 3rem;
-      padding: 0 1rem;
+
+    .chat-locations-title {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
+      color: var(--color-lead);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .chat-location-card {
       border: 1px solid var(--color-hairline);
-      background: var(--color-subtle);
-      font-family: var(--font-sans);
-      font-size: 0.92rem;
-      color: var(--color-ink);
-      outline: none;
-      transition: border-color 0.2s ease;
+      background: var(--color-paper);
+      padding: 0.95rem 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
     }
-    .chat-text-input:focus {
+
+    .chat-location-card:hover {
       border-color: var(--color-ink);
-      background: var(--color-paper);
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
     }
-    .btn-mic-stt {
-      width: 3rem;
-      height: 3rem;
-      background: var(--color-subtle);
-      border: 1px solid var(--color-hairline);
-      font-size: 1.2rem;
-      cursor: pointer;
+
+    .chat-location-header {
       display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.5rem;
+    }
+
+    .chat-location-name {
+      font-family: var(--font-sans);
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--color-ink);
+    }
+
+    .chat-location-rating {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
+      color: #b45309;
+      white-space: nowrap;
+    }
+
+    .chat-location-info {
+      font-size: 0.9375rem;
+      color: var(--color-charcoal);
+      line-height: 1.5;
+    }
+
+    .chat-location-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.4rem;
+    }
+
+    .chat-location-btn {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.35rem 0.75rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-canvas);
+      color: var(--color-ink);
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-flex;
       align-items: center;
-      justify-content: center;
+      gap: 0.35rem;
       transition: all 0.2s ease;
     }
-    .btn-mic-stt:hover {
-      background: var(--color-canvas);
+
+    .chat-location-btn:hover {
+      background: var(--color-ink);
+      color: #ffffff;
       border-color: var(--color-ink);
     }
-    .btn-mic-stt.recording {
-      background: #dc2626;
-      color: #ffffff;
-      animation: pulseRecord 1s infinite alternate;
-    }
-    @keyframes pulseRecord {
-      0% { transform: scale(0.95); opacity: 0.8; }
-      100% { transform: scale(1.05); opacity: 1; }
-    }
-    .btn-send-chat {
-      height: 3rem;
-      padding: 0 1.5rem;
-      background: var(--color-ink);
-      color: var(--color-paper);
-      border: none;
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      cursor: pointer;
-      transition: background 0.2s ease;
-    }
-    .btn-send-chat:hover {
-      background: #333330;
-    }
 
-    /* History Pane */
+    /* History Session Items */
     .history-session-item {
       border: 1px solid var(--color-hairline);
-      padding: 1rem 1.2rem;
-      margin-bottom: 0.8rem;
+      padding: 1rem 1.15rem;
+      margin-bottom: 0.75rem;
       background: var(--color-subtle);
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 1rem;
-      transition: all 0.2s ease;
+      transition: border-color 0.2s ease;
     }
+
     .history-session-item:hover {
       border-color: var(--color-ink);
-      background: var(--color-paper);
     }
+
     .history-title {
-      font-weight: 500;
       font-size: 0.95rem;
+      font-weight: 600;
       color: var(--color-ink);
-      margin-bottom: 0.25rem;
+      margin-bottom: 0.2rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
     }
+
     .history-meta {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.75rem;
       color: var(--color-lead);
     }
+
     .history-actions {
       display: flex;
       gap: 0.4rem;
+      flex-shrink: 0;
     }
 
-    /* Vision Pane */
+    /* Vision Dropzone */
     .vision-dropzone {
       border: 2px dashed var(--color-dashed);
-      padding: 3rem 2rem;
+      padding: 2.5rem 1.5rem;
       text-align: center;
       background: var(--color-subtle);
       cursor: pointer;
-      transition: all 0.2s ease;
+      transition: border-color 0.2s ease, background 0.2s ease;
     }
+
     .vision-dropzone:hover, .vision-dropzone.dragover {
       border-color: var(--color-ink);
       background: var(--color-canvas);
     }
+
     .vision-preview-img {
-      max-height: 180px;
-      margin: 1rem auto 0;
-      border: 1px solid var(--color-hairline);
+      max-width: 180px;
+      max-height: 240px;
+      object-fit: contain;
+      margin-top: 1rem;
       display: none;
+      border: 1px solid var(--color-hairline);
     }
 
-    /* Suggestions Pane */
+    /* Prompts Suggestion Chips */
     .suggestion-chips-grid {
       display: flex;
       flex-direction: column;
-      gap: 0.8rem;
+      gap: 0.75rem;
     }
+
     .suggestion-chip {
+      padding: 0.85rem 1rem;
       border: 1px solid var(--color-hairline);
       background: var(--color-subtle);
-      padding: 1rem 1.2rem;
       text-align: left;
-      font-family: var(--font-sans);
-      font-size: 0.92rem;
-      color: var(--color-ink);
-      cursor: pointer;
+      font-size: 0.9375rem;
+      color: var(--color-charcoal);
       display: flex;
       justify-content: space-between;
       align-items: center;
       transition: all 0.2s ease;
     }
+
     .suggestion-chip:hover {
+      border-color: var(--color-ink);
+      background: var(--color-paper);
+      color: var(--color-ink);
+    }
+
+    /* Drawer Footer Input */
+    .drawer-footer {
+      padding: 1.25rem 1.75rem;
+      border-top: var(--border-dashed);
+      background: var(--color-paper);
+    }
+
+    .chat-input-bar {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .chat-text-input {
+      flex-grow: 1;
+      padding: 0.8rem 1.1rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-subtle);
+      font-size: 0.95rem;
+      color: var(--color-ink);
+    }
+
+    .chat-text-input:focus {
+      outline: none;
+      border-color: var(--color-ink);
+      background: var(--color-paper);
+    }
+
+    .btn-mic-stt {
+      padding: 0.75rem 0.9rem;
+      border: 1px solid var(--color-hairline);
+      background: var(--color-subtle);
+      color: var(--color-charcoal);
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+    }
+
+    .btn-mic-stt.recording {
+      background: #ef4444;
+      color: #ffffff;
+      border-color: #ef4444;
+      animation: pulse 1s infinite alternate;
+    }
+
+    @keyframes pulse {
+      from { transform: scale(1); }
+      to { transform: scale(1.08); }
+    }
+
+    .btn-send-chat {
+      padding: 0.8rem 1.4rem;
       background: var(--color-ink);
       color: var(--color-paper);
-      border-color: var(--color-ink);
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
+      border: 1px solid var(--color-ink);
+      transition: background 0.2s ease;
+    }
+
+    .btn-send-chat:hover {
+      background: #333330;
     }
 
     /* ==========================================================================
@@ -1364,212 +1759,239 @@
     .modal-backdrop {
       position: fixed;
       inset: 0;
-      background: rgba(25, 25, 23, 0.6);
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
       z-index: 2000;
       display: none;
       align-items: center;
       justify-content: center;
-      padding: 2rem;
+      padding: 1.5rem;
+      overflow-y: auto;
+      overscroll-behavior: contain;
     }
+
     .modal-backdrop.active {
       display: flex;
     }
+
     .book-dossier-card {
       background: var(--color-paper);
-      width: 58rem;
-      max-width: 95vw;
+      border: 1px solid var(--color-hairline);
+      width: 100%;
+      max-width: 900px;
       max-height: 90vh;
       overflow-y: auto;
-      border: 1px solid var(--color-ink);
+      overscroll-behavior: contain;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.2);
       display: flex;
       flex-direction: column;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
     }
+
     .dossier-header {
-      padding: 1.2rem 2rem;
+      padding: 1.25rem 1.75rem;
       border-bottom: var(--border-dashed);
       display: flex;
-      align-items: center;
       justify-content: space-between;
+      align-items: center;
+      background: var(--color-subtle);
     }
+
     .dossier-body {
+      padding: 2rem;
       display: grid;
-      grid-template-columns: 18rem 1fr;
+      grid-template-columns: 280px 1fr;
       gap: 2.5rem;
-      padding: 2.2rem;
     }
+
     @media (max-width: 768px) {
       .dossier-body {
         grid-template-columns: 1fr;
+        gap: 1.5rem;
       }
     }
-    .dossier-cover-col img {
-      width: 100%;
-      aspect-ratio: 2/3;
-      object-fit: cover;
-      border: 1px solid var(--color-hairline);
-      margin-bottom: 1.2rem;
+
+    .dossier-cover-col {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
     }
+
+    .modal-cover-wrap {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      overflow: hidden;
+      background: #191917;
+      border: 1px solid var(--color-hairline);
+      position: relative;
+    }
+
+    .dossier-cover-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
     .dossier-meta-list {
       display: flex;
       flex-direction: column;
-      gap: 0.5rem;
+      gap: 0.6rem;
+      border-top: 1px dashed var(--color-hairline);
+      padding-top: 1rem;
     }
+
     .dossier-meta-item {
       display: flex;
       justify-content: space-between;
-      border-bottom: 1px dashed var(--color-hairline);
-      padding-bottom: 0.35rem;
-      font-size: 0.85rem;
+      font-size: 0.875rem;
     }
+
     .dossier-meta-item span {
       font-family: var(--font-mono);
-      font-size: 0.72rem;
+      font-size: 0.75rem;
       color: var(--color-lead);
       text-transform: uppercase;
     }
+
     .dossier-info-col h2 {
-      font-size: 2.2rem;
+      font-size: 2rem;
+      line-height: 1.25;
       margin-bottom: 0.4rem;
     }
+
     .dossier-author {
       font-size: 1.1rem;
       color: var(--color-lead);
-      margin-bottom: 1.2rem;
+      margin-bottom: 1.25rem;
     }
+
     .dossier-tags-row {
       display: flex;
       flex-wrap: wrap;
       gap: 0.4rem;
       margin-bottom: 1.5rem;
     }
+
     .dossier-text-block {
       margin-bottom: 1.5rem;
     }
+
     .dossier-text-block h4 {
       font-family: var(--font-mono);
-      font-size: 0.75rem;
-      text-transform: uppercase;
+      font-size: 0.8125rem;
+      font-weight: 700;
       letter-spacing: 0.08em;
+      text-transform: uppercase;
       color: var(--color-lead);
       margin-bottom: 0.5rem;
     }
+
     .dossier-actions {
       display: flex;
-      gap: 0.8rem;
       flex-wrap: wrap;
-      margin-top: 1.5rem;
+      gap: 0.75rem;
       padding-top: 1.5rem;
-      border-top: var(--border-dashed);
+      border-top: 1px dashed var(--color-hairline);
     }
+
     .btn-dossier-primary {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 700;
       background: var(--color-ink);
       color: var(--color-paper);
-      border: none;
-      padding: 0.8rem 1.6rem;
-      font-family: var(--font-mono);
-      font-size: 0.78rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      cursor: pointer;
-      text-decoration: none;
-      transition: background 0.2s ease;
+      padding: 0.75rem 1.4rem;
+      border: 1px solid var(--color-ink);
+      transition: all 0.2s ease;
     }
+
     .btn-dossier-primary:hover {
       background: #333330;
     }
+
     .btn-dossier-secondary {
-      background: transparent;
-      color: var(--color-ink);
-      border: 1px solid var(--color-ink);
-      padding: 0.8rem 1.6rem;
       font-family: var(--font-mono);
-      font-size: 0.78rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      cursor: pointer;
-      text-decoration: none;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      background: var(--color-canvas);
+      color: var(--color-ink);
+      padding: 0.75rem 1.2rem;
+      border: 1px solid var(--color-hairline);
       transition: all 0.2s ease;
     }
+
     .btn-dossier-secondary:hover {
-      background: var(--color-ink);
-      color: var(--color-paper);
+      border-color: var(--color-ink);
     }
 
-    /* Reading Sample Modal Card */
+    /* Reading Sample Modal */
     .reading-modal-card {
       background: var(--color-paper);
-      width: 48rem;
-      max-width: 95vw;
+      border: 1px solid var(--color-hairline);
+      width: 100%;
+      max-width: 820px;
       max-height: 85vh;
-      display: flex;
-      flex-direction: column;
-      border: 1px solid var(--color-ink);
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.2);
     }
+
     .reading-modal-body {
       padding: 2.5rem;
-      overflow-y: auto;
-      font-family: var(--font-serif);
-      font-size: 1.15rem;
-      line-height: 1.8;
+      font-size: 1.05rem;
+      line-height: 1.85;
       color: var(--color-charcoal);
     }
 
-    /* Audio Player Floating Bar */
+    /* Global TTS Audio Floating Player */
     #global-audio-player {
       position: fixed;
-      bottom: 2rem;
-      left: 50%;
-      transform: translateX(-50%);
-      background: var(--color-ink);
-      color: var(--color-paper);
+      bottom: 1.5rem;
+      left: 1.5rem;
+      background: #191917;
+      color: #ffffff;
       border: 1px solid rgba(255, 255, 255, 0.2);
-      padding: 0.6rem 1.2rem;
+      padding: 0.75rem 1.25rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      z-index: 1500;
       display: none;
       align-items: center;
       gap: 1rem;
-      z-index: 3000;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
     }
   </style>
 </head>
-
 <body>
+
   <!-- ========================================================================
        1. SITE HEADER & BRAND
        ======================================================================== -->
   <header class="site-header">
     <div class="brand-wrap">
       <a href="#prologue" class="brand-title">THƯ VIỆN SỐ AI</a>
-      <span class="brand-tag" id="header-volume-tag">209 ẤN PHẨM</span>
+      <span class="brand-badge" id="header-volume-tag">209 ẤN PHẨM</span>
     </div>
 
-    <nav class="header-nav">
-      <a href="#prologue" class="nav-item">[01] GIỚI THIỆU</a>
-      <a href="#catalog" class="nav-item">[02] KHO SÁCH SỐ</a>
-      <a href="#crawler" class="nav-item">[03] THU THẬP & ĐỒNG BỘ AI</a>
-      <a href="#locations" class="nav-item">[04] ĐỊNH VỊ NHÀ SÁCH</a>
+    <nav class="site-nav">
+      <a href="#prologue" class="nav-link">[01] GIỚI THIỆU</a>
+      <a href="#catalog" class="nav-link">[02] KHO SÁCH SỐ</a>
+      <a href="#crawler" class="nav-link">[03] THU THẬP & ĐỒNG BỘ AI</a>
+      <a href="#locations" class="nav-link">[04] ĐỊNH VỊ NHÀ SÁCH</a>
     </nav>
 
-    <div class="header-meta">
-      <div class="live-clock">
-        <span class="live-clock-dot"></span>
-        <span id="clock-display">ĐÀ NẴNG --:--:--</span>
-      </div>
-      <button class="btn-ai-studio" id="btn-open-studio" title="Mở Trợ lý Thủ thư AI (Phím tắt: ⌘K / Ctrl+K)">
+    <div class="header-actions">
+      <span class="live-clock" id="clock-display">ĐÀ NẴNG 12:00:00</span>
+      <button class="btn-librarian" id="btn-open-studio">
+        <span>⌘K</span>
         <span>TRỢ LÝ THỦ THƯ AI</span>
-        <span class="key-badge">⌘K</span>
       </button>
     </div>
   </header>
 
-  <!-- ========================================================================
-       2. SECTION [01]: PROLOGUE / KHÔNG GIAN ĐỌC THÔNG MINH
-       ======================================================================== -->
   <main>
+    <!-- ========================================================================
+         2. SECTION [01]: KHÔNG GIAN ĐỌC THÔNG MINH
+         ======================================================================== -->
     <section class="section-prologue" id="prologue">
       <div class="section-index-tag">
         <span class="section-index-num">[01]</span>
@@ -1577,120 +1999,102 @@
       </div>
 
       <div class="hero-editorial-grid">
-        <div>
-          <h1 class="hero-headline">
-            Trí tuệ Nhân tạo <br>
-            <em>dẫn lối Tri thức Tinh hoa.</em>
-          </h1>
-          <div class="hero-quick-actions">
-            <a href="#catalog" class="btn-hero-primary">KHÁM PHÁ KHO SÁCH &darr;</a>
-            <button class="btn-hero-secondary" id="btn-hero-open-ai">MỞ TRỢ LÝ THỦ THƯ AI ⌘K</button>
+        <div class="hero-editorial-left">
+          <h1 class="hero-title">Trí tuệ Nhân tạo dẫn lối Tri thức Tinh hoa.</h1>
+          <p class="hero-lead-text">
+            Nền tảng Thư viện Số Thông minh tích hợp mô hình ngôn ngữ lớn và công nghệ Retrieval-Augmented Generation (RAG). 
+            Tra cứu sách theo ngữ nghĩa sâu, phân tích nội dung cốt lõi, quét ảnh bìa bằng thị giác AI và định vị không gian đọc thực tế.
+          </p>
+
+          <div class="hero-actions-row">
+            <a href="#catalog" class="btn-hero-primary">
+              <span>KHÁM PHÁ KHO SÁCH</span>
+              <span>&darr;</span>
+            </a>
+            <button class="btn-hero-secondary" id="btn-hero-ask-ai">
+              <span>HỎI THỦ THƯ AI</span>
+              <span>&rarr;</span>
+            </button>
           </div>
         </div>
-        <div class="hero-manifesto">
-          <p>
-            Nền tảng thư viện thông minh tích hợp trí tuệ nhân tạo thế hệ mới: 
-            Đề xuất sách cá nhân hóa RAG qua ChromaDB, thị giác máy tính nhận diện bìa sách đa chiều 
-            và bản đồ định vị điểm đọc thực tế.
-          </p>
-          <p class="mono-label">
-            HỆ THỐNG THƯ VIỆN SỐ CHUẨN MỰC · TRẢI NGHIỆM ĐỌC ĐA PHƯƠNG THỨC
-          </p>
-        </div>
-      </div>
 
-      <!-- 4-Column Architectural Metric Grid -->
-      <div class="metric-grid">
-        <div class="metric-cell">
-          <div class="metric-num" id="stat-total-books">209+</div>
-          <div class="metric-title">Tác phẩm kinh điển</div>
-          <div class="metric-desc">Ấn phẩm tinh tuyển được chuẩn hóa 26 trường siêu dữ liệu học thuật.</div>
-        </div>
-        <div class="metric-cell">
-          <div class="metric-num">100%</div>
-          <div class="metric-title">Vector hóa ngữ nghĩa</div>
-          <div class="metric-desc">Không gian vector 768 chiều nhúng bằng Gemini Embedding trong ChromaDB.</div>
-        </div>
-        <div class="metric-cell">
-          <div class="metric-num">0.8s</div>
-          <div class="metric-title">Tốc độ phản hồi</div>
-          <div class="metric-desc">Truy xuất thông tin tức thì, neo giữ dữ liệu nghiêm ngặt chống ảo giác.</div>
-        </div>
-        <div class="metric-cell">
-          <div class="metric-num">24/7</div>
-          <div class="metric-title">Trợ lý Thủ thư số</div>
-          <div class="metric-desc">Tương tác linh hoạt đa thể thức qua Văn bản, Ảnh bìa Vision và Giọng nói hai chiều.</div>
+        <div class="hero-metrics-box">
+          <span class="mono-label" style="display:block; margin-bottom:1.5rem;">CHỈ SỐ HỆ THỐNG TRỰC TIẾP</span>
+          <div class="metrics-grid">
+            <div>
+              <div class="metric-item-num" id="stat-total-books">209+</div>
+              <div class="metric-item-label">Ấn phẩm Chuẩn hóa</div>
+            </div>
+            <div>
+              <div class="metric-item-num">RAG</div>
+              <div class="metric-item-label">Tìm kiếm Ngữ nghĩa ChromaDB</div>
+            </div>
+            <div>
+              <div class="metric-item-num">VISION</div>
+              <div class="metric-item-label">Quét & Nhận diện Bìa sách</div>
+            </div>
+            <div>
+              <div class="metric-item-num">AUDIO</div>
+              <div class="metric-item-label">Giọng nói 2 chiều (STT/TTS)</div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
 
     <!-- ========================================================================
-         3. SECTION [02]: KHO SÁCH SỐ / TOÀN VĂN ẤN PHẨM
+         3. SECTION [02]: KHO SÁCH SỐ / CATALOGUE
          ======================================================================== -->
     <section class="section-catalog" id="catalog">
       <div class="section-index-tag">
         <span class="section-index-num">[02]</span>
-        <span class="section-index-title">KHO LƯU TRỮ / TOÀN VĂN ẤN PHẨM</span>
+        <span class="section-index-title">KHO SÁCH SỐ / TOÀN VĂN ẤN PHẨM</span>
       </div>
 
       <div class="catalog-header-bar">
-        <div>
-          <h2 class="catalog-title">Kho Lưu trữ Ấn phẩm</h2>
-          <p class="mono-label" id="catalog-count-label">HIỂN THỊ 24 TRÊN 209 ẤN PHẨM</p>
+        <div class="catalog-title-group">
+          <h2>Bộ sưu tập Tri thức</h2>
+          <p class="mono-label" id="catalog-count-label">ĐANG TẢI DỮ LIỆU ẤN PHẨM...</p>
         </div>
 
-        <div class="view-mode-toggle">
-          <button class="btn-view-mode active" id="btn-view-grid" title="Dạng lưới thẻ sách">DẠNG LƯỚI</button>
-          <button class="btn-view-mode" id="btn-view-index" title="Dạng bảng mục lục">DẠNG BẢNG</button>
+        <div style="display:flex; gap:0.5rem; align-items:center;">
+          <button class="btn-pagination active" id="btn-view-grid" title="Chế độ lưới ảnh">LƯỚI BÌA</button>
+          <button class="btn-pagination" id="btn-view-index" title="Chế độ danh mục chi tiết">MỤC LỤC</button>
         </div>
       </div>
 
-      <!-- Controls Toolbar with Difficulty & Mood -->
-      <div class="catalog-toolbar">
-        <div>
-          <input type="text" class="input-editorial" id="search-input" placeholder="TÌM THEO TÊN SÁCH, TÁC GIẢ HOẶC CHỦ ĐỀ...">
+      <!-- Filter Controls Bar -->
+      <div class="catalog-filter-controls">
+        <div class="search-input-wrap">
+          <input type="text" class="input-editorial" id="search-input" placeholder="Tìm kiếm tựa sách, tác giả, từ khóa tri thức...">
         </div>
-        <div>
-          <select class="select-editorial" id="filter-genre">
-            <option value="">TẤT CẢ THỂ LOẠI</option>
-          </select>
-        </div>
-        <div>
-          <select class="select-editorial" id="filter-difficulty">
-            <option value="">TẤT CẢ ĐỘ KHÓ</option>
-            <option value="Dễ đọc">DỄ ĐỌC</option>
-            <option value="Trung bình">TRUNG BÌNH</option>
-            <option value="Chuyên sâu">CHUYÊN SÂU</option>
-          </select>
-        </div>
-        <div>
-          <select class="select-editorial" id="filter-mood">
-            <option value="">TẤT CẢ TÂM TRẠNG</option>
-            <option value="Tích cực">TÍCH CỰC</option>
-            <option value="Muốn có động lực">MUỐN CÓ ĐỘNG LỰC</option>
-            <option value="Muốn học hỏi">MUỐN HỌC HỎI</option>
-            <option value="Muốn suy ngẫm">MUỐN SUY NGẪM</option>
-            <option value="Muốn thư giãn">MUỐN THƯ GIÃN</option>
-            <option value="Muốn tiến bộ">MUỐN TIẾN BỘ</option>
-            <option value="Muốn kết nối">MUỐN KẾT NỐI</option>
-            <option value="Mất động lực">MẤT ĐỘNG LỰC</option>
-          </select>
-        </div>
-        <div>
-          <select class="select-editorial" id="filter-sort">
-            <option value="Phù hợp">SẮP XẾP: TIÊU CHUẨN</option>
-            <option value="Đánh giá cao">ĐÁNH GIÁ CAO NHẤT</option>
-            <option value="Năm mới nhất">NĂM MỚI NHẤT</option>
-            <option value="Tên A-Z">TỰA ĐỀ A-Z</option>
-          </select>
-        </div>
-        <div>
-          <button class="btn-pagination" id="btn-reset-filters">ĐẶT LẠI</button>
-        </div>
+        <select class="select-editorial" id="filter-genre">
+          <option value="">TẤT CẢ THỂ LOẠI</option>
+        </select>
+        <select class="select-editorial" id="filter-difficulty">
+          <option value="">MỌI ĐỘ KHÓ</option>
+          <option value="Dễ">DỄ TIẾP CẬN</option>
+          <option value="Trung bình">TRUNG BÌNH</option>
+          <option value="Nâng cao">CHUYÊN SÂU</option>
+        </select>
+        <select class="select-editorial" id="filter-mood">
+          <option value="">MỌI TÂM TRẠNG / MỤC TIÊU</option>
+          <option value="Tập trung">TẬP TRUNG</option>
+          <option value="Truyền cảm hứng">TRUYỀN CẢM HỨNG</option>
+          <option value="Thư giãn">THƯ GIÃN</option>
+          <option value="Phát triển bản thân">PHÁT TRIỂN BẢN THÂN</option>
+        </select>
+        <select class="select-editorial" id="filter-sort">
+          <option value="Phù hợp">SẮP XẾP: PHÙ HỢP NHẤT</option>
+          <option value="Năm mới nhất">NĂM: MỚI NHẤT</option>
+          <option value="Đánh giá cao nhất">ĐÁNH GIÁ: CAO NHẤT</option>
+          <option value="Tiêu đề A-Z">TỰA ĐỀ: A &rarr; Z</option>
+        </select>
+        <button class="btn-pagination" id="btn-reset-filters">ĐẶT LẠI</button>
       </div>
 
-      <!-- Genre Pills -->
-      <div class="genre-filter-row" id="genre-pills-wrap">
+      <!-- Quick Genre Pills Bar -->
+      <div class="genre-pills-bar" id="genre-pills-wrap">
         <button class="genre-pill active" data-genre="">TẤT CẢ</button>
       </div>
 
@@ -1718,13 +2122,11 @@
         </tbody>
       </table>
 
-      <!-- Pagination Toolbar -->
-      <div class="catalog-pagination">
-        <span class="mono-label" id="pagination-page-label">TRANG 1 TRÊN 9</span>
-        <div style="display:flex; gap:0.6rem;">
-          <button class="btn-pagination" id="btn-prev-page" disabled>&larr; TRƯỚC</button>
-          <button class="btn-pagination" id="btn-next-page">TIẾP &rarr;</button>
-        </div>
+      <!-- Pagination -->
+      <div class="pagination-bar">
+        <button class="btn-pagination" id="btn-prev-page" disabled>&larr; TRANG TRƯỚC</button>
+        <span class="mono-label" id="pagination-page-label">TRANG 1 / 11</span>
+        <button class="btn-pagination" id="btn-next-page">TRANG SAU &rarr;</button>
       </div>
     </section>
 
@@ -1741,19 +2143,19 @@
         <!-- Cột Trái: Online Book Crawler -->
         <div class="crawler-card">
           <h3 style="font-size:1.8rem; margin-bottom:0.6rem;">Thu thập Dữ liệu Sách Trực tuyến</h3>
-          <p style="font-size:0.9rem; color:var(--color-charcoal); line-height:1.6;">
-            Truy vấn tự động từ các nguồn học thuật & thư viện số thế giới (Open Library, Google Books, Gutenberg...). 
-            Chuẩn hóa 26 trường siêu dữ liệu và nhập trực tiếp vào kho lưu trữ thư viện.
+          <p style="font-size:0.95rem; color:var(--color-charcoal); line-height:1.65;">
+            Truy vấn tự động từ các nguồn học thuật & thư viện số thế giới (Open Library, Google Books, Gutenberg, Apple Books). 
+            Chuẩn hóa 26 trường siêu dữ liệu, đối chiếu trùng lặp thông minh và nhập hàng loạt vào kho tri thức.
           </p>
 
           <div class="crawler-form-row">
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.35rem;">TỪ KHÓA TÌM KIẾM</label>
-              <input type="text" class="input-editorial" id="crawler-search-query" placeholder="Ví dụ: Nhà giả kim, Deep Work...">
+              <input type="text" class="input-editorial" id="crawler-search-query" placeholder="Ví dụ: Nhà giả kim, Deep Work, Vũ trụ...">
             </div>
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.35rem;">NGUỒN DỮ LIỆU</label>
-              <select class="select-editorial" id="crawler-source-select">
+              <select class="select-editorial" id="crawler-source-select" style="width:100%;">
                 <option value="all">TẤT CẢ NGUỒN</option>
                 <option value="google_books">GOOGLE BOOKS</option>
                 <option value="openlibrary">OPEN LIBRARY</option>
@@ -1764,7 +2166,7 @@
             </div>
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.35rem;">SỐ KẾT QUẢ</label>
-              <select class="select-editorial" id="crawler-limit-select">
+              <select class="select-editorial" id="crawler-limit-select" style="width:100%;">
                 <option value="5">5 KẾT QUẢ</option>
                 <option value="10" selected>10 KẾT QUẢ</option>
                 <option value="20">20 KẾT QUẢ</option>
@@ -1772,13 +2174,45 @@
             </div>
           </div>
 
-          <button class="btn-pagination" id="btn-crawler-search" style="background:var(--color-ink); color:var(--color-paper); width:100%; margin-top:1rem;">
+          <button class="btn-pagination" id="btn-crawler-search" style="background:var(--color-ink); color:var(--color-paper); width:100%; margin-top:1.1rem; padding:0.85rem;">
             TÌM KIẾM SÁCH MỚI &rarr;
           </button>
 
+          <!-- Duplicate Comparison Summary Bar -->
+          <div class="crawler-summary-bar" id="crawler-summary-bar" style="display:none;">
+            <div class="summary-pill total">
+              <span>TỔNG TÌM THẤY:</span>
+              <strong id="crawler-stat-total">0</strong>
+            </div>
+            <div class="summary-pill new">
+              <span>SÁCH MỚI CÓ THỂ NHẬP:</span>
+              <strong id="crawler-stat-new">0</strong>
+            </div>
+            <div class="summary-pill exists">
+              <span>ĐÃ CÓ TRONG KHO:</span>
+              <strong id="crawler-stat-exists">0</strong>
+            </div>
+          </div>
+
+          <!-- Selection & Filter Toolbar -->
+          <div class="crawler-toolbar" id="crawler-toolbar" style="display:none;">
+            <div class="crawler-filter-tabs">
+              <button class="crawler-filter-tab active" data-filter="all">TẤT CẢ (<span id="tab-cnt-all">0</span>)</button>
+              <button class="crawler-filter-tab" data-filter="new">CHỈ SÁCH MỚI (<span id="tab-cnt-new">0</span>)</button>
+              <button class="crawler-filter-tab" data-filter="exists">ĐÃ TRÙNG LẶP (<span id="tab-cnt-exists">0</span>)</button>
+            </div>
+            <div class="crawler-selection-actions">
+              <button class="btn-crawler-tool" id="btn-select-all-new">✓ Chọn tất cả mới</button>
+              <button class="btn-crawler-tool" id="btn-deselect-all">Bỏ chọn</button>
+              <button class="btn-crawler-batch-import" id="btn-batch-import" disabled>
+                + NHẬP (0) SÁCH ĐÃ CHỌN
+              </button>
+            </div>
+          </div>
+
           <!-- Crawler Results Container -->
-          <div class="crawler-results-list" id="crawler-results-container">
-            <div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1.5rem;">
+          <div class="crawler-results-list" id="crawler-results-container" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+            <div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1.25rem;">
               <p class="mono-label">NHẬP TỪ KHÓA VÀ NHẤN "TÌM KIẾM SÁCH MỚI" ĐỂ THU THẬP TỰ ĐỘNG</p>
             </div>
           </div>
@@ -1787,7 +2221,7 @@
         <!-- Cột Phải: Self-Healing ChromaDB Vector Sync -->
         <div class="crawler-card">
           <h3 style="font-size:1.8rem; margin-bottom:0.6rem;">Đồng bộ Vector Tự chữa lành</h3>
-          <p style="font-size:0.9rem; color:var(--color-charcoal); line-height:1.6;">
+          <p style="font-size:0.95rem; color:var(--color-charcoal); line-height:1.65;">
             Cơ chế Self-Healing tự động so sánh toàn bộ các đầu sách trong cơ sở dữ liệu CSV với không gian Vector ChromaDB 
             để phát hiện và đánh chỉ mục ngữ nghĩa cho các sách mới nhập.
           </p>
@@ -1811,57 +2245,52 @@
             </tr>
             <tr>
               <td>LẦN ĐỒNG BỘ GẦN NHẤT</td>
-              <td><span id="sync-stat-time" style="font-family:var(--font-mono); font-size:0.8rem; color:var(--color-lead);">--</span></td>
+              <td><span id="sync-stat-time" style="font-family:var(--font-mono); font-size:0.8125rem; color:var(--color-lead);">--</span></td>
             </tr>
           </table>
 
-          <button class="btn-pagination" id="btn-sync-chroma" style="background:var(--color-ink); color:var(--color-paper); width:100%; padding:0.9rem 1rem;">
+          <button class="btn-pagination" id="btn-sync-chroma" style="background:var(--color-ink); color:var(--color-paper); width:100%; padding:0.9rem 1rem; font-weight:700;">
             ĐỒNG BỘ VECTOR CHROMADB NGAY ↻
           </button>
-
-          <div id="sync-result-box" style="margin-top:1.2rem; display:none; padding:1rem; border:var(--border-dashed); background:var(--color-subtle); font-size:0.85rem;">
-            <!-- Sync status feedback -->
-          </div>
-
-          <div id="unindexed-books-preview" style="margin-top:1.5rem; display:none;">
-            <p class="mono-label" style="margin-bottom:0.6rem;">DANH SÁCH CHƯA ĐỒNG BỘ VECTOR:</p>
-            <div id="unindexed-list-items" style="max-height:160px; overflow-y:auto; border:1px solid var(--color-hairline); background:var(--color-subtle); padding:0.6rem;">
-            </div>
-          </div>
         </div>
       </div>
     </section>
 
     <!-- ========================================================================
-         5. SECTION [04]: LOCATIONS / CARTOGRAPHY
+         5. SECTION [04]: CARTOGRAPHY (LOCATIONS SEARCH)
          ======================================================================== -->
-    <section class="section-cartography" id="locations">
+    <section class="section-locations" id="locations">
       <div class="section-index-tag">
         <span class="section-index-num">[04]</span>
-        <span class="section-index-title">BẢN ĐỒ ĐỊA ĐIỂM / NHÀ SÁCH & THƯ VIỆN THỰC TẾ</span>
+        <span class="section-index-title">ĐỊNH VỊ NHÀ SÁCH & THƯ VIỆN THỰC TẾ</span>
+      </div>
+
+      <div class="catalog-title-group" style="margin-bottom:2rem;">
+        <h2>Bản đồ Điểm đọc Thực địa</h2>
+        <p style="font-size:1rem; color:var(--color-charcoal); line-height:1.65; max-width:760px;">
+          Tra cứu các nhà sách, thư viện công cộng và quán cà phê sách nổi bật tại Đà Nẵng, Hà Nội, TP.HCM và các thành phố lớn. 
+          Cung cấp chỉ đường trực tiếp qua Google Maps, đánh giá sao, số điện thoại và giờ mở cửa.
+        </p>
       </div>
 
       <div class="cartography-grid">
-        <div class="cartography-search-card">
-          <h2 style="font-size:2.2rem; margin-bottom:1rem;">Tra cứu Địa điểm Đọc</h2>
-          <p style="font-size:0.92rem; color:var(--color-charcoal); margin-bottom:1.8rem; line-height:1.6;">
-            Kết nối vị trí đời thực qua SerpApi & Google Maps. Định vị các nhà sách và thư viện công cộng lớn tại Đà Nẵng, Hà Nội, TP.HCM và các tỉnh thành.
-          </p>
+        <div class="cartography-sidebar">
+          <span class="mono-label" style="display:block; margin-bottom:1.25rem;">BỘ LỌC ĐỊA BÀN</span>
 
-          <div style="display:flex; flex-direction:column; gap:1rem;">
+          <div style="display:flex; flex-direction:column; gap:1.1rem;">
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.4rem;">KHU VỰC / THÀNH PHỐ</label>
               <input type="text" class="input-editorial" id="loc-input-city" value="Đà Nẵng" placeholder="Ví dụ: Đà Nẵng, Huế, Hà Nội, TP.HCM...">
             </div>
             <div>
               <label class="mono-label" style="display:block; margin-bottom:0.4rem;">LOẠI ĐỊA ĐIỂM</label>
-              <select class="select-editorial" id="loc-select-kind">
+              <select class="select-editorial" id="loc-select-kind" style="width:100%;">
                 <option value="all">TẤT CẢ (NHÀ SÁCH & THƯ VIỆN)</option>
                 <option value="bookstore">CHỈ NHÀ SÁCH</option>
                 <option value="library">CHỈ THƯ VIỆN</option>
               </select>
             </div>
-            <button class="btn-pagination" id="btn-search-locations" style="background:var(--color-ink); color:var(--color-paper); margin-top:0.6rem;">
+            <button class="btn-pagination" id="btn-search-locations" style="background:var(--color-ink); color:var(--color-paper); margin-top:0.4rem; padding:0.8rem;">
               TÌM KIẾM ĐỊA ĐIỂM &rarr;
             </button>
           </div>
@@ -1898,7 +2327,7 @@
        ======================================================================== -->
   <div class="studio-backdrop" id="studio-backdrop"></div>
 
-  <aside class="studio-drawer" id="studio-drawer" aria-hidden="true">
+  <aside class="studio-drawer" id="studio-drawer" aria-hidden="true" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
     <div class="drawer-header">
       <div class="drawer-title-wrap">
         <h3>Trợ lý Thủ thư AI</h3>
@@ -1932,10 +2361,10 @@
       <button class="drawer-tab-btn" data-tab="tab-prompts">[GỢI Ý TRA CỨU]</button>
     </div>
 
-    <div class="drawer-body">
+    <div class="drawer-body" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
       <!-- TAB 1: CHAT -->
-      <div id="tab-chat" class="drawer-tab-pane active">
-        <div class="chat-messages-container" id="chat-messages">
+      <div id="tab-chat" class="drawer-tab-pane active" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+        <div class="chat-messages-container" id="chat-messages" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
           <div class="chat-msg assistant">
             <div class="chat-msg-header">
               <span>THỦ THƯ AI (GEMINI RAG)</span>
@@ -1951,42 +2380,45 @@
       </div>
 
       <!-- TAB 2: HISTORY -->
-      <div id="tab-history" class="drawer-tab-pane">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.2rem;">
-          <span class="mono-label">CÁC PHIÊN TRÒ CHUYỆN ĐÃ LƯU</span>
-          <button class="btn-drawer-action" id="btn-clear-all-history" style="color:#ef4444;">Xóa tất cả</button>
+      <div id="tab-history" class="drawer-tab-pane" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.2rem; flex-wrap:wrap; gap:0.5rem;">
+          <span class="mono-label">LỊCH SỬ HỘI THOẠI (DATABASE & CỤC BỘ)</span>
+          <div style="display:flex; gap:0.5rem;">
+            <button class="btn-drawer-action" id="btn-sync-history" title="Đồng bộ lịch sử từ máy chủ">Đồng bộ lịch sử ↻</button>
+            <button class="btn-drawer-action" id="btn-clear-all-history" style="color:#ef4444;">Xóa tất cả</button>
+          </div>
         </div>
-        <div id="chat-history-list">
+        <div id="chat-history-list" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
           <!-- Rendered via JS -->
         </div>
       </div>
 
       <!-- TAB 3: VISION -->
-      <div id="tab-vision" class="drawer-tab-pane">
-        <p style="font-size:0.9rem; color:var(--color-charcoal); margin-bottom:1rem; line-height:1.6;">
+      <div id="tab-vision" class="drawer-tab-pane" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+        <p style="font-size:0.95rem; color:var(--color-charcoal); margin-bottom:1.1rem; line-height:1.65;">
           Tải lên hoặc kéo thả ảnh bìa sách (JPG, PNG). Mô hình Gemini Vision sẽ đọc ảnh, trích xuất tiêu đề, tác giả và tự động tra cứu trong thư viện:
         </p>
 
         <div class="vision-dropzone" id="vision-dropzone">
           <input type="file" id="vision-file-input" accept="image/jpeg,image/png,image/jpg" style="display:none;">
-          <p class="mono-label" style="font-size:0.85rem; margin-bottom:0.5rem;">KÉO THẢ ẢNH BÌA SÁCH VÀO ĐÂY</p>
-          <span style="font-size:0.8rem; color:var(--color-muted);">HOẶC NHẤP ĐỂ CHỌN ẢNH TỪ THIẾT BỊ (JPG/PNG &le; 8MB)</span>
+          <p class="mono-label" style="font-size:0.875rem; margin-bottom:0.5rem;">KÉO THẢ ẢNH BÌA SÁCH VÀO ĐÂY</p>
+          <span style="font-size:0.8125rem; color:var(--color-muted);">HOẶC NHẤP ĐỂ CHỌN ẢNH TỪ THIẾT BỊ (JPG/PNG &le; 8MB)</span>
           <img id="vision-preview" class="vision-preview-img" alt="Ảnh bìa xem trước">
         </div>
 
-        <button class="btn-pagination" id="btn-submit-vision" style="width:100%; margin-top:1.2rem; background:var(--color-ink); color:var(--color-paper);" disabled>
+        <button class="btn-pagination" id="btn-submit-vision" style="width:100%; margin-top:1.2rem; background:var(--color-ink); color:var(--color-paper); font-weight:700;" disabled>
           PHÂN TÍCH ẢNH BÌA BẰNG GEMINI VISION &rarr;
         </button>
 
         <div id="vision-result-box" style="margin-top:1.5rem; display:none; padding:1.2rem; border:var(--border-dashed); background:var(--color-subtle);">
           <span class="mono-label">KẾT QUẢ NHẬN DIỆN</span>
           <h4 id="vision-extracted-title" style="margin:0.5rem 0; font-size:1.2rem;"></h4>
-          <p id="vision-extracted-author" style="font-size:0.88rem; color:var(--color-lead); margin-bottom:0.8rem;"></p>
-          <div style="display:flex; gap:0.6rem;">
-            <button class="btn-dossier-primary" id="btn-vision-search-catalog" style="font-size:0.75rem; padding:0.5rem 1rem;">
+          <p id="vision-extracted-author" style="font-size:0.9375rem; color:var(--color-lead); margin-bottom:0.8rem;"></p>
+          <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+            <button class="btn-dossier-primary" id="btn-vision-search-catalog" style="font-size:0.8125rem; padding:0.5rem 1rem;">
               TÌM TRONG KHO SÁCH &rarr;
             </button>
-            <button class="btn-dossier-secondary" id="btn-vision-ask-ai" style="font-size:0.75rem; padding:0.5rem 1rem;">
+            <button class="btn-dossier-secondary" id="btn-vision-ask-ai" style="font-size:0.8125rem; padding:0.5rem 1rem;">
               HỎI THỦ THƯ VỀ SÁCH NÀY
             </button>
           </div>
@@ -1994,7 +2426,7 @@
       </div>
 
       <!-- TAB 4: PROMPTS -->
-      <div id="tab-prompts" class="drawer-tab-pane">
+      <div id="tab-prompts" class="drawer-tab-pane" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
         <span class="mono-label" style="display:block; margin-bottom:0.8rem;">GỢI Ý CÂU HỎI TRA CỨU TIÊU BIỂU</span>
         <div class="suggestion-chips-grid">
           <button class="suggestion-chip" data-prompt="Gợi ý cho tôi 3 cuốn sách phát triển bản thân sâu sắc và đáng đọc nhất.">
@@ -2034,8 +2466,8 @@
   <!-- ========================================================================
        8. BOOK DOSSIER MODAL (CHI TIẾT ẤN PHẨM)
        ======================================================================== -->
-  <div class="modal-backdrop" id="book-modal-backdrop">
-    <div class="book-dossier-card" role="dialog" aria-modal="true">
+  <div class="modal-backdrop" id="book-modal-backdrop" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+    <div class="book-dossier-card" role="dialog" aria-modal="true" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
       <div class="dossier-header">
         <span class="mono-label" id="modal-dossier-id">HỒ SƠ ẤN PHẨM</span>
         <button class="drawer-close-btn" id="btn-close-modal">ĐÓNG [ESC]</button>
@@ -2043,7 +2475,16 @@
 
       <div class="dossier-body">
         <div class="dossier-cover-col">
-          <img id="modal-cover-img" src="" alt="Bìa sách">
+          <div class="modal-cover-wrap" id="modal-cover-wrap">
+            <img id="modal-cover-img" class="dossier-cover-img" src="" alt="Bìa sách" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+            <div id="modal-cover-fallback" class="book-cover-fallback" style="display:none;">
+              <span class="fallback-icon">📖</span>
+              <span class="fallback-genre" id="modal-fallback-genre">SÁCH</span>
+              <span class="fallback-title" id="modal-fallback-title">Ấn phẩm</span>
+              <span class="fallback-brand">THƯ VIỆN SỐ AI</span>
+            </div>
+          </div>
+
           <div class="dossier-meta-list">
             <div class="dossier-meta-item">
               <span>NĂM XUẤT BẢN</span>
@@ -2083,12 +2524,12 @@
 
           <div class="dossier-text-block">
             <h4>TÓM TẮT CỐT LÕI (CORE THESIS)</h4>
-            <p id="modal-summary" style="font-size:0.95rem; line-height:1.65; color:var(--color-charcoal);"></p>
+            <p id="modal-summary" style="font-size:0.95rem; line-height:1.68; color:var(--color-charcoal);"></p>
           </div>
 
           <div class="dossier-text-block">
             <h4>MÔ TẢ CHI TIẾT</h4>
-            <p id="modal-description" style="font-size:0.92rem; line-height:1.65; color:var(--color-charcoal);"></p>
+            <p id="modal-description" style="font-size:0.95rem; line-height:1.68; color:var(--color-charcoal);"></p>
           </div>
 
           <div class="dossier-actions">
@@ -2098,7 +2539,7 @@
             <button class="btn-dossier-secondary" id="btn-read-sample" style="display:none;">
               📖 ĐỌC THỬ SÁCH MẪU
             </button>
-            <a href="#" target="_blank" class="btn-dossier-secondary" id="btn-buy-book">
+            <a href="#" target="_blank" rel="noopener noreferrer" class="btn-dossier-secondary" id="btn-buy-book">
               TÌM MUA SÁCH (TIKI / FAHASA)
             </a>
           </div>
@@ -2110,13 +2551,13 @@
   <!-- ========================================================================
        9. READING SAMPLE MODAL
        ======================================================================== -->
-  <div class="modal-backdrop" id="reading-modal-backdrop">
-    <div class="reading-modal-card" role="dialog" aria-modal="true">
+  <div class="modal-backdrop" id="reading-modal-backdrop" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
+    <div class="reading-modal-card" role="dialog" aria-modal="true" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
       <div class="dossier-header">
         <span class="mono-label" id="reading-modal-title">ĐỌC THỬ ẤN PHẨM MẪU</span>
         <button class="drawer-close-btn" id="btn-close-reading">ĐÓNG [ESC]</button>
       </div>
-      <div class="reading-modal-body" id="reading-modal-content">
+      <div class="reading-modal-body" id="reading-modal-content" data-lenis-prevent="true" data-lenis-prevent-wheel="true">
         <!-- Rendered sample content -->
       </div>
     </div>
@@ -2137,11 +2578,19 @@
   <script type="module">
     import Lenis from 'https://cdn.jsdelivr.net/npm/lenis@1.3.19/+esm';
 
-    // 1. Initialize Lenis Smooth Scroll
+    // 1. Initialize Lenis Smooth Scroll with unlocked inner containers
     const lenis = new Lenis({
       smoothWheel: true,
-      duration: 1.2,
+      duration: 1.1,
       easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+      prevent: (node) => {
+        // Allow native mouse wheel scrolling in all drawers, modals, and lists
+        return node && (
+          node.hasAttribute('data-lenis-prevent') ||
+          node.closest('[data-lenis-prevent]') !== null ||
+          node.classList.contains('lenis-prevent')
+        );
+      }
     });
 
     function raf(time) {
@@ -2171,6 +2620,9 @@
       mediaRecorder: null,
       audioChunks: [],
       currentTTSAudio: null,
+      crawlerResults: [],
+      crawlerSelectedIndices: new Set(),
+      crawlerCurrentFilter: 'all',
     };
     localStorage.setItem('library_active_session_id', state.sessionId);
 
@@ -2184,11 +2636,65 @@
     setInterval(updateLiveClock, 1000);
     updateLiveClock();
 
-    // Placeholder Cover Generator
-    function generatePlaceholderCover(title, genre) {
-      const safeTitle = (title || 'Thư viện Số AI').substring(0, 30);
-      const safeGenre = (genre || 'Ấn phẩm').substring(0, 20);
-      return `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450"><rect width="300" height="450" fill="%23191917"/><rect x="12" y="12" width="276" height="426" fill="none" stroke="%23f4f4f1" stroke-width="1.5" stroke-dasharray="4,4"/><text x="150" y="140" font-family="serif" font-size="34" fill="%23f4f4f1" text-anchor="middle">📖</text><text x="150" y="210" font-family="sans-serif" font-size="12" font-weight="700" fill="%2396968f" text-anchor="middle" letter-spacing="2">${encodeURIComponent(safeGenre.toUpperCase())}</text><text x="150" y="260" font-family="serif" font-size="18" font-weight="600" fill="%23ffffff" text-anchor="middle">${encodeURIComponent(safeTitle)}</text><text x="150" y="380" font-family="monospace" font-size="10" fill="%2396968f" text-anchor="middle" letter-spacing="3">THƯ VIỆN SỐ AI</text></svg>`;
+    // Escape HTML helper
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    // Markdown parser with Table & styling support
+    function formatMarkdownToHtml(md) {
+      if (!md) return '';
+      const lines = md.split('\n');
+      let inTable = false;
+      let tableHtml = '';
+      let processedLines = [];
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (line.startsWith('|') && line.endsWith('|')) {
+          if (!inTable) {
+            inTable = true;
+            tableHtml = '<div class="table-scroll-wrap"><table class="chat-md-table">';
+          }
+          if (/^\|[\s\-:|]+\|$/.test(line)) {
+            continue;
+          }
+          const cells = line.split('|').slice(1, -1);
+          const isHeader = !tableHtml.includes('<tbody>');
+          if (isHeader && !tableHtml.includes('<thead>')) {
+            tableHtml += '<thead><tr>' + cells.map(c => `<th>${escapeHtml(c.trim())}</th>`).join('') + '</tr></thead><tbody>';
+          } else {
+            tableHtml += '<tr>' + cells.map(c => `<td>${escapeHtml(c.trim())}</td>`).join('') + '</tr>';
+          }
+        } else {
+          if (inTable) {
+            inTable = false;
+            tableHtml += '</tbody></table></div>';
+            processedLines.push(tableHtml);
+            tableHtml = '';
+          }
+          processedLines.push(escapeHtml(line));
+        }
+      }
+      if (inTable) {
+        tableHtml += '</tbody></table></div>';
+        processedLines.push(tableHtml);
+      }
+
+      let text = processedLines.join('\n');
+      text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+      text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+      text = text.replace(/`([^`]+)`/g, '<code class="chat-inline-code">$1</code>');
+      text = text.replace(/^[\*\-]\s+(.*)$/gm, '<li class="chat-bullet">$1</li>');
+      text = text.replace(/\n\n+/g, '</p><p>');
+      text = text.replace(/\n/g, '<br>');
+      return `<p>${text}</p>`;
     }
 
     // ========================================================================
@@ -2215,7 +2721,6 @@
       fetchBooks();
       initCrawlerSyncStatus();
       searchLocations();
-      renderChatHistoryList();
     }
 
     function renderGenreOptions(genres) {
@@ -2281,6 +2786,7 @@
       }
     }
 
+    // Render Books Grid with CSS Fallback (Clean, un-broken, no quotes leakage)
     function renderBooksGrid(books) {
       const container = document.getElementById('books-grid-container');
       container.innerHTML = '';
@@ -2295,12 +2801,34 @@
       books.forEach(b => {
         const card = document.createElement('article');
         card.className = 'book-card';
-        const coverUrl = b.cover_url || generatePlaceholderCover(b.title, b.genre);
+        const hasCover = Boolean(b.cover_url && b.cover_url.trim().length > 5);
         const hasReading = b.reading_available || b.local_file;
+
+        let coverMarkup = '';
+        if (hasCover) {
+          coverMarkup = `
+            <img src="${encodeURI(b.cover_url)}" alt="${escapeHtml(b.title)}" class="book-card-cover-img" loading="lazy" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+            <div class="book-cover-fallback" style="display:none;">
+              <span class="fallback-icon">📖</span>
+              <span class="fallback-genre">${escapeHtml(b.genre || 'Ấn phẩm')}</span>
+              <span class="fallback-title">${escapeHtml(b.title)}</span>
+              <span class="fallback-brand">THƯ VIỆN SỐ AI</span>
+            </div>
+          `;
+        } else {
+          coverMarkup = `
+            <div class="book-cover-fallback" style="display:flex;">
+              <span class="fallback-icon">📖</span>
+              <span class="fallback-genre">${escapeHtml(b.genre || 'Ấn phẩm')}</span>
+              <span class="fallback-title">${escapeHtml(b.title)}</span>
+              <span class="fallback-brand">THƯ VIỆN SỐ AI</span>
+            </div>
+          `;
+        }
 
         card.innerHTML = `
           <div class="book-card-cover-wrap">
-            <img src="${coverUrl}" alt="${escapeHtml(b.title)}" class="book-card-cover-img" loading="lazy">
+            ${coverMarkup}
             ${hasReading ? '<span class="book-badge-reading">ĐỌC THỬ</span>' : ''}
           </div>
           <div class="book-card-content">
@@ -2347,7 +2875,21 @@
     function openBookModal(b) {
       state.activeBook = b;
       document.getElementById('modal-dossier-id').textContent = `HỒ SƠ ẤN PHẨM № ${b.book_id || '001'}`;
-      document.getElementById('modal-cover-img').src = b.cover_url || generatePlaceholderCover(b.title, b.genre);
+      
+      const coverImg = document.getElementById('modal-cover-img');
+      const coverFallback = document.getElementById('modal-cover-fallback');
+      document.getElementById('modal-fallback-genre').textContent = (b.genre || 'Ấn phẩm').toUpperCase();
+      document.getElementById('modal-fallback-title').textContent = b.title || 'Ấn phẩm';
+
+      if (b.cover_url && b.cover_url.trim().length > 5) {
+        coverImg.style.display = 'block';
+        coverFallback.style.display = 'none';
+        coverImg.src = encodeURI(b.cover_url);
+      } else {
+        coverImg.style.display = 'none';
+        coverFallback.style.display = 'flex';
+      }
+
       document.getElementById('modal-meta-year').textContent = b.year || '-';
       document.getElementById('modal-meta-diff').textContent = b.difficulty || 'Trung bình';
       document.getElementById('modal-meta-mood').textContent = b.mood || 'Phát triển bản thân';
@@ -2401,81 +2943,154 @@
       document.getElementById('reading-modal-title').textContent = `ĐỌC THỬ: ${b.title.toUpperCase()}`;
       const contentEl = document.getElementById('reading-modal-content');
       contentEl.innerHTML = `
-        <h2 style="font-size:2rem; margin-bottom:0.5rem;">${escapeHtml(b.title)}</h2>
-        <p class="mono-label" style="margin-bottom:2rem;">TÁC GIẢ: ${escapeHtml(b.author || '')} · NĂM ${b.year || ''}</p>
-        <div style="font-size:1.05rem; line-height:1.8; color:var(--color-charcoal);">
-          <p style="margin-bottom:1.5rem;"><strong>Lời tựa & Trích đoạn tác phẩm:</strong></p>
-          <p style="margin-bottom:1.2rem;">${escapeHtml(b.summary || b.description || 'Nội dung trích đoạn đang được số hóa...')}</p>
-          <p style="margin-bottom:1.2rem;">${escapeHtml(b.description || '')}</p>
-          <hr style="margin:2rem 0; border:none; border-top:1px dashed var(--color-hairline);">
-          <p class="mono-label">Bản quyền số hóa thuộc về Thư viện Số AI. Bạn có thể tìm đọc toàn văn tại các nhà sách đối tác hoặc hệ thống thư viện công cộng.</p>
+        <h3 style="margin-bottom:0.5rem;">${escapeHtml(b.title)}</h3>
+        <p class="mono-label" style="margin-bottom:1.5rem;">TÁC GIẢ: ${escapeHtml(b.author || 'Chưa rõ')}</p>
+        <div style="border-left:3px solid var(--color-ink); padding-left:1.5rem; margin-bottom:2rem; font-style:italic;">
+          "${escapeHtml(b.summary || 'Trích đoạn mẫu tác phẩm từ thư viện số...')}"
         </div>
+        <p>${escapeHtml(b.description || 'Nội dung chi tiết sách đang được chuẩn bị số hóa toàn văn...')}</p>
       `;
       document.getElementById('reading-modal-backdrop').classList.add('active');
     }
-    function closeReadingSample() {
+
+    function closeReadingModal() {
       document.getElementById('reading-modal-backdrop').classList.remove('active');
     }
-    document.getElementById('btn-close-reading').addEventListener('click', closeReadingSample);
+    document.getElementById('btn-close-reading').addEventListener('click', closeReadingModal);
     document.getElementById('reading-modal-backdrop').addEventListener('click', (e) => {
-      if (e.target.id === 'reading-modal-backdrop') closeReadingSample();
+      if (e.target.id === 'reading-modal-backdrop') closeReadingModal();
+    });
+
+    // Filters & Search Event Listeners
+    let searchDebounce;
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      clearTimeout(searchDebounce);
+      searchDebounce = setTimeout(() => {
+        state.query = e.target.value;
+        state.page = 1;
+        fetchBooks();
+      }, 350);
+    });
+
+    document.getElementById('filter-genre').addEventListener('change', (e) => {
+      state.genre = e.target.value;
+      state.page = 1;
+      document.querySelectorAll('.genre-pill').forEach(p => {
+        p.classList.toggle('active', p.dataset.genre === state.genre);
+      });
+      fetchBooks();
+    });
+
+    document.getElementById('filter-difficulty').addEventListener('change', (e) => {
+      state.difficulty = e.target.value;
+      state.page = 1;
+      fetchBooks();
+    });
+
+    document.getElementById('filter-mood').addEventListener('change', (e) => {
+      state.mood = e.target.value;
+      state.page = 1;
+      fetchBooks();
+    });
+
+    document.getElementById('filter-sort').addEventListener('change', (e) => {
+      state.sort = e.target.value;
+      state.page = 1;
+      fetchBooks();
+    });
+
+    document.getElementById('btn-reset-filters').addEventListener('click', () => {
+      state.query = '';
+      state.genre = '';
+      state.difficulty = '';
+      state.mood = '';
+      state.sort = 'Phù hợp';
+      state.page = 1;
+      document.getElementById('search-input').value = '';
+      document.getElementById('filter-genre').value = '';
+      document.getElementById('filter-difficulty').value = '';
+      document.getElementById('filter-mood').value = '';
+      document.getElementById('filter-sort').value = 'Phù hợp';
+      document.querySelectorAll('.genre-pill').forEach((p, idx) => {
+        p.classList.toggle('active', idx === 0);
+      });
+      fetchBooks();
+    });
+
+    // Pagination
+    document.getElementById('btn-prev-page').addEventListener('click', () => {
+      if (state.page > 1) {
+        state.page--;
+        fetchBooks();
+        lenis.scrollTo(document.getElementById('catalog'), { offset: -60 });
+      }
+    });
+    document.getElementById('btn-next-page').addEventListener('click', () => {
+      if (state.page < state.totalPages) {
+        state.page++;
+        fetchBooks();
+        lenis.scrollTo(document.getElementById('catalog'), { offset: -60 });
+      }
+    });
+
+    // View mode toggle
+    const btnGrid = document.getElementById('btn-view-grid');
+    const btnIndex = document.getElementById('btn-view-index');
+    const gridView = document.getElementById('books-grid-container');
+    const indexView = document.getElementById('books-index-table');
+
+    btnGrid.addEventListener('click', () => {
+      btnGrid.classList.add('active');
+      btnIndex.classList.remove('active');
+      gridView.style.display = 'grid';
+      indexView.style.display = 'none';
+      state.viewMode = 'grid';
+    });
+    btnIndex.addEventListener('click', () => {
+      btnIndex.classList.add('active');
+      btnGrid.classList.remove('active');
+      gridView.style.display = 'none';
+      indexView.style.display = 'table';
+      state.viewMode = 'index';
     });
 
     // ========================================================================
-    // 4. SECTION [03]: AI CRAWLER & SELF-HEALING CHROMADB SYNC
+    // 4. SECTION [03]: CRAWLER & VECTOR SYNC CONTROLLER
     // ========================================================================
     async function initCrawlerSyncStatus() {
       try {
         const res = await fetch(`${API_BASE}/crawler/unindexed`, {
-          headers: {
-            'X-Web-Client': 'editorial-monochrome',
-          }
+          headers: { 'X-Web-Client': 'editorial-monochrome' }
         });
         if (res.ok) {
           const data = await res.json();
-          document.getElementById('sync-stat-total').textContent = data.total_books || state.totalBooks;
-          document.getElementById('sync-stat-indexed').textContent = data.indexed_count || state.totalBooks;
-          document.getElementById('sync-stat-unindexed').textContent = data.count || 0;
+          document.getElementById('sync-stat-total').textContent = `${data.total_csv_books || state.totalBooks} cuốn`;
+          document.getElementById('sync-stat-indexed').textContent = `${data.chroma_indexed_count || state.totalBooks} vector`;
+          const unindexedEl = document.getElementById('sync-stat-unindexed');
+          unindexedEl.textContent = `${data.unindexed_count || 0} cuốn`;
 
-          const statusBadge = document.getElementById('sync-stat-status');
-          if (data.count === 0) {
-            statusBadge.className = 'sync-status-badge synced';
-            statusBadge.textContent = 'HOÀN TOÀN ĐỒNG BỘ';
+          const statusEl = document.getElementById('sync-stat-status');
+          if (data.is_fully_synced) {
+            statusEl.className = 'sync-status-badge synced';
+            statusEl.textContent = '✓ TOÀN VẸN 100%';
+            unindexedEl.style.color = '#047857';
           } else {
-            statusBadge.className = 'sync-status-badge pending';
-            statusBadge.textContent = `CẦN ĐỒNG BỘ (${data.count} SÁCH)`;
+            statusEl.className = 'sync-status-badge pending';
+            statusEl.textContent = '⚠️ CẦN ĐỒNG BỘ';
+            unindexedEl.style.color = '#d97706';
           }
-
-          document.getElementById('sync-stat-time').textContent = data.last_synced_at || 'Đã đồng bộ tự động';
-
-          // If unindexed books, show preview
-          const previewWrap = document.getElementById('unindexed-books-preview');
-          const listWrap = document.getElementById('unindexed-list-items');
-          if (data.count > 0 && data.unindexed_books && data.unindexed_books.length > 0) {
-            previewWrap.style.display = 'block';
-            listWrap.innerHTML = data.unindexed_books.map(ub => `
-              <div style="font-size:0.8rem; padding:0.25rem 0; border-bottom:1px dashed var(--color-hairline);">
-                <strong>${escapeHtml(ub.title)}</strong> - ${escapeHtml(ub.author || '')} (${ub.book_id})
-              </div>
-            `).join('');
-          } else {
-            previewWrap.style.display = 'none';
-          }
+          document.getElementById('sync-stat-time').textContent = new Date().toLocaleString('vi-VN');
         }
       } catch (e) {
-        console.warn('Sync status notice:', e);
+        console.warn('Sync status fetch notice:', e);
       }
     }
 
-    // Trigger ChromaDB Sync
+    // Sync ChromaDB Button
     document.getElementById('btn-sync-chroma').addEventListener('click', async () => {
       const btn = document.getElementById('btn-sync-chroma');
-      const resultBox = document.getElementById('sync-result-box');
       btn.disabled = true;
       btn.textContent = 'ĐANG ĐỒNG BỘ VECTOR CHROMADB...';
-      resultBox.style.display = 'block';
-      resultBox.innerHTML = '<p class="mono-label">TIẾN TRÌNH NHÚNG EMBEDDING ĐANG CHẠY TRÊN GEMINI...</p>';
-
       try {
         const res = await fetch(`${API_BASE}/crawler/sync-unindexed`, {
           method: 'POST',
@@ -2485,17 +3100,11 @@
           }
         });
         const data = await res.json();
-        if (res.ok) {
-          resultBox.innerHTML = `
-            <p style="color:#16a34a; font-weight:600; margin-bottom:0.4rem;">✓ ${data.message}</p>
-            <p class="mono-label">ĐÃ VECTOR HÓA: ${data.synced_count} | THẤT BẠI: ${data.failed_count || 0}</p>
-          `;
-          initCrawlerSyncStatus();
-        } else {
-          resultBox.innerHTML = `<p style="color:#ef4444;">✕ ${data.detail || 'Không thể đồng bộ'}</p>`;
-        }
+        alert(data.message || 'Đồng bộ ChromaDB hoàn tất!');
+        initCrawlerSyncStatus();
+        fetchBooks();
       } catch (err) {
-        resultBox.innerHTML = `<p style="color:#ef4444;">✕ Lỗi kết nối mạng khi đồng bộ vector.</p>`;
+        alert('Lỗi kết nối khi đồng bộ ChromaDB.');
       } finally {
         btn.disabled = false;
         btn.textContent = 'ĐỒNG BỘ VECTOR CHROMADB NGAY ↻';
@@ -2508,6 +3117,8 @@
       const source = document.getElementById('crawler-source-select').value;
       const limit = parseInt(document.getElementById('crawler-limit-select').value, 10) || 10;
       const container = document.getElementById('crawler-results-container');
+      const summaryBar = document.getElementById('crawler-summary-bar');
+      const toolbar = document.getElementById('crawler-toolbar');
 
       if (!q) {
         alert('Vui lòng nhập từ khóa sách hoặc tên tác giả để tìm kiếm.');
@@ -2515,6 +3126,8 @@
       }
 
       container.innerHTML = '<div style="padding:2.5rem; text-align:center;"><p class="mono-label">ĐANG TRUY VẤN NGUỒN DỮ LIỆU SỐ TOÀN CẦU...</p></div>';
+      summaryBar.style.display = 'none';
+      toolbar.style.display = 'none';
 
       try {
         const res = await fetch(`${API_BASE}/crawler/search`, {
@@ -2524,83 +3137,39 @@
         });
         if (!res.ok) throw new Error('Crawler search failed');
         const data = await res.json();
-        const results = data.results || [];
+        state.crawlerResults = data.results || [];
+        state.crawlerSelectedIndices = new Set();
+        state.crawlerCurrentFilter = 'all';
 
-        if (!results.length) {
+        if (!state.crawlerResults.length) {
           container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1rem;">
             <p class="mono-label">KHÔNG TÌM THẤY ẤN PHẨM PHÙ HỢP TỪ CÁC NGUỒN CRAWLER ĐÃ CHỌN.</p>
           </div>`;
           return;
         }
 
-        container.innerHTML = '';
-        results.forEach(cand => {
-          const card = document.createElement('div');
-          card.className = 'crawler-item-card';
-          const isExisting = cand.already_in_db;
+        // Calculate duplicate metrics
+        const total = state.crawlerResults.length;
+        const existsCount = state.crawlerResults.filter(c => c.already_in_db).length;
+        const newCount = total - existsCount;
 
-          card.innerHTML = `
-            <div class="crawler-item-header">
-              <div>
-                <h4 class="crawler-item-title">${escapeHtml(cand.title)}</h4>
-                <div style="font-size:0.85rem; color:var(--color-lead); margin-top:0.2rem;">
-                  Tác giả: <strong>${escapeHtml(cand.author || 'Chưa rõ')}</strong> · Năm: ${cand.year || '-'} · Nguồn: ${escapeHtml(cand.source_name || cand.source || 'Trực tuyến')}
-                </div>
-              </div>
-              <div>
-                ${isExisting ? '<span class="crawler-badge exists">ĐÃ CÓ TRONG KHO</span>' : '<span class="crawler-badge new">SÁCH MỚI</span>'}
-              </div>
-            </div>
-            <p style="font-size:0.85rem; color:var(--color-charcoal); line-height:1.5; margin-bottom:0.8rem;">
-              ${escapeHtml((cand.summary || cand.description || 'Không có mô tả sơ lược').substring(0, 180))}...
-            </p>
-            <div style="display:flex; justify-content:space-between; align-items:center;">
-              <span class="mono-label">ISBN: ${escapeHtml(cand.isbn || 'N/A')}</span>
-              <button class="btn-import-book" ${isExisting ? 'disabled' : ''}>
-                ${isExisting ? 'ĐÃ LƯU TRỮ' : '+ NHẬP VÀO KHO SÁCH'}
-              </button>
-            </div>
-          `;
+        document.getElementById('crawler-stat-total').textContent = total;
+        document.getElementById('crawler-stat-new').textContent = newCount;
+        document.getElementById('crawler-stat-exists').textContent = existsCount;
+        document.getElementById('tab-cnt-all').textContent = total;
+        document.getElementById('tab-cnt-new').textContent = newCount;
+        document.getElementById('tab-cnt-exists').textContent = existsCount;
 
-          const importBtn = card.querySelector('.btn-import-book');
-          if (!isExisting) {
-            importBtn.addEventListener('click', async () => {
-              importBtn.disabled = true;
-              importBtn.textContent = 'ĐANG NHẬP & VECTOR HÓA...';
-              try {
-                const impRes = await fetch(`${API_BASE}/crawler/import`, {
-                  method: 'POST',
-                  headers: {
-                    'Content-Type': 'application/json',
-                    'X-Web-Client': 'editorial-monochrome',
-                  },
-                  body: JSON.stringify({
-                    candidate: cand,
-                    upsert_chroma: true,
-                  })
-                });
-                const impData = await impRes.json();
-                if (impRes.ok && impData.success) {
-                  importBtn.textContent = '✓ ĐÃ NHẬP THÀNH CÔNG';
-                  card.querySelector('.crawler-badge').className = 'crawler-badge exists';
-                  card.querySelector('.crawler-badge').textContent = 'ĐÃ CÓ TRONG KHO';
-                  fetchBooks();
-                  initCrawlerSyncStatus();
-                } else {
-                  alert(impData.message || 'Không thể nhập cuốn sách này.');
-                  importBtn.disabled = false;
-                  importBtn.textContent = '+ NHẬP VÀO KHO SÁCH';
-                }
-              } catch (e) {
-                alert('Lỗi kết nối khi nhập sách.');
-                importBtn.disabled = false;
-                importBtn.textContent = '+ NHẬP VÀO KHO SÁCH';
-              }
-            });
-          }
+        summaryBar.style.display = 'flex';
+        toolbar.style.display = 'flex';
 
-          container.appendChild(card);
+        // Auto select all new books by default
+        state.crawlerResults.forEach((c, idx) => {
+          if (!c.already_in_db) state.crawlerSelectedIndices.add(idx);
         });
+
+        renderCrawlerResults();
+        updateBatchImportButton();
 
       } catch (err) {
         container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle); margin-top:1rem;">
@@ -2609,66 +3178,280 @@
       }
     });
 
+    // Render Crawler Results based on filter and state
+    function renderCrawlerResults() {
+      const container = document.getElementById('crawler-results-container');
+      container.innerHTML = '';
+
+      const filter = state.crawlerCurrentFilter;
+      const filtered = state.crawlerResults.map((cand, idx) => ({ cand, idx })).filter(item => {
+        if (filter === 'new') return !item.cand.already_in_db;
+        if (filter === 'exists') return item.cand.already_in_db;
+        return true;
+      });
+
+      if (!filtered.length) {
+        container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle);">
+          <p class="mono-label">KHÔNG CÓ ẤN PHẨM NÀO THUỘC BỘ LỌC HIỆN TẠI</p>
+        </div>`;
+        return;
+      }
+
+      filtered.forEach(({ cand, idx }) => {
+        const card = document.createElement('div');
+        const isExisting = Boolean(cand.already_in_db);
+        card.className = 'crawler-item-card' + (isExisting ? ' is-duplicate' : '');
+
+        const hasThumb = Boolean(cand.cover_url && cand.cover_url.trim().length > 5);
+        let thumbMarkup = '';
+        if (hasThumb) {
+          thumbMarkup = `
+            <img src="${encodeURI(cand.cover_url)}" alt="${escapeHtml(cand.title)}" class="crawler-thumb-img" onerror="this.style.display='none'; if(this.nextElementSibling) this.nextElementSibling.style.display='flex';">
+            <div class="book-cover-fallback" style="display:none; padding:0.4rem; justify-content:center;">
+              <span class="fallback-icon" style="font-size:1.2rem;">📖</span>
+            </div>
+          `;
+        } else {
+          thumbMarkup = `
+            <div class="book-cover-fallback" style="display:flex; padding:0.4rem; justify-content:center;">
+              <span class="fallback-icon" style="font-size:1.2rem;">📖</span>
+            </div>
+          `;
+        }
+
+        const isChecked = state.crawlerSelectedIndices.has(idx);
+
+        card.innerHTML = `
+          <input type="checkbox" class="crawler-item-checkbox" data-index="${idx}" ${isExisting ? 'disabled title="Đã tồn tại trong kho"' : (isChecked ? 'checked' : '')}>
+          <div class="crawler-thumb-wrap">
+            ${thumbMarkup}
+          </div>
+          <div class="crawler-item-details">
+            <div class="crawler-item-header">
+              <div>
+                <h4 class="crawler-item-title">${escapeHtml(cand.title)}</h4>
+                <div style="font-size:0.875rem; color:var(--color-lead); margin-top:0.2rem;">
+                  Tác giả: <strong>${escapeHtml(cand.author || 'Chưa rõ')}</strong> · Năm: ${cand.year || '-'} · Nguồn: ${escapeHtml(cand.source_name || cand.source || 'Trực tuyến')}
+                </div>
+              </div>
+              <div>
+                ${isExisting ? '<span class="crawler-badge exists">ĐÃ TỒN TẠI TRONG KHO</span>' : '<span class="crawler-badge new">SÁCH MỚI</span>'}
+              </div>
+            </div>
+            <p style="font-size:0.9rem; color:var(--color-charcoal); line-height:1.5; margin-bottom:0.75rem;">
+              ${escapeHtml((cand.summary || cand.description || 'Không có mô tả sơ lược').substring(0, 160))}...
+            </p>
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+              <span class="mono-label">ISBN: ${escapeHtml(cand.isbn || 'N/A')}</span>
+              <button class="btn-import-book" data-index="${idx}" ${isExisting ? 'disabled' : ''}>
+                ${isExisting ? '✓ ĐÃ CÓ TRONG KHO' : '+ Nhập cuốn này'}
+              </button>
+            </div>
+          </div>
+        `;
+
+        // Checkbox toggle
+        const checkbox = card.querySelector('.crawler-item-checkbox');
+        checkbox.addEventListener('change', (e) => {
+          if (e.target.checked) {
+            state.crawlerSelectedIndices.add(idx);
+          } else {
+            state.crawlerSelectedIndices.delete(idx);
+          }
+          updateBatchImportButton();
+        });
+
+        // Single import button
+        const singleBtn = card.querySelector('.btn-import-book');
+        if (!isExisting) {
+          singleBtn.addEventListener('click', async () => {
+            singleBtn.disabled = true;
+            singleBtn.textContent = 'ĐANG NHẬP...';
+            try {
+              const impRes = await fetch(`${API_BASE}/crawler/import`, {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'X-Web-Client': 'editorial-monochrome',
+                },
+                body: JSON.stringify({
+                  candidate: cand,
+                  upsert_chroma: true,
+                })
+              });
+              const impData = await impRes.json();
+              if (impRes.ok && impData.success) {
+                cand.already_in_db = true;
+                state.crawlerSelectedIndices.delete(idx);
+                renderCrawlerResults();
+                updateBatchImportButton();
+                fetchBooks();
+                initCrawlerSyncStatus();
+              } else {
+                alert(impData.message || 'Không thể nhập cuốn sách này.');
+                singleBtn.disabled = false;
+                singleBtn.textContent = '+ Nhập cuốn này';
+              }
+            } catch (e) {
+              alert('Lỗi kết nối khi nhập sách.');
+              singleBtn.disabled = false;
+              singleBtn.textContent = '+ Nhập cuốn này';
+            }
+          });
+        }
+
+        container.appendChild(card);
+      });
+    }
+
+    function updateBatchImportButton() {
+      const btn = document.getElementById('btn-batch-import');
+      const count = state.crawlerSelectedIndices.size;
+      btn.textContent = `+ NHẬP (${count}) SÁCH ĐÃ CHỌN`;
+      btn.disabled = count === 0;
+    }
+
+    // Filter tabs in crawler
+    document.querySelectorAll('.crawler-filter-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.crawler-filter-tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        state.crawlerCurrentFilter = tab.dataset.filter;
+        renderCrawlerResults();
+      });
+    });
+
+    // Select all new books
+    document.getElementById('btn-select-all-new').addEventListener('click', () => {
+      state.crawlerResults.forEach((c, idx) => {
+        if (!c.already_in_db) state.crawlerSelectedIndices.add(idx);
+      });
+      renderCrawlerResults();
+      updateBatchImportButton();
+    });
+
+    // Deselect all
+    document.getElementById('btn-deselect-all').addEventListener('click', () => {
+      state.crawlerSelectedIndices.clear();
+      renderCrawlerResults();
+      updateBatchImportButton();
+    });
+
+    // Batch Import Action
+    document.getElementById('btn-batch-import').addEventListener('click', async () => {
+      const selected = Array.from(state.crawlerSelectedIndices).map(idx => state.crawlerResults[idx]).filter(Boolean);
+      if (!selected.length) return;
+
+      const btn = document.getElementById('btn-batch-import');
+      btn.disabled = true;
+      btn.textContent = `ĐANG NHẬP (${selected.length}) SÁCH & VECTOR HÓA...`;
+
+      try {
+        const res = await fetch(`${API_BASE}/crawler/batch-import`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Web-Client': 'editorial-monochrome',
+          },
+          body: JSON.stringify({
+            candidates: selected,
+            upsert_chroma: true,
+          })
+        });
+        const data = await res.json();
+        if (res.ok) {
+          alert(`Đã nhập thành công ${data.imported_count || selected.length} sách mới vào kho!`);
+          selected.forEach(c => c.already_in_db = true);
+          state.crawlerSelectedIndices.clear();
+          renderCrawlerResults();
+          updateBatchImportButton();
+          fetchBooks();
+          initCrawlerSyncStatus();
+        } else {
+          alert(data.detail || 'Không thể hoàn tất nhập hàng loạt.');
+        }
+      } catch (err) {
+        alert('Lỗi kết nối khi nhập sách hàng loạt.');
+      } finally {
+        updateBatchImportButton();
+      }
+    });
+
     // ========================================================================
     // 5. SECTION [04]: CARTOGRAPHY (LOCATIONS SEARCH)
     // ========================================================================
-    async function searchLocations() {
+    async function searchLocations(highlightName = null) {
       const city = document.getElementById('loc-input-city').value.trim() || 'Đà Nẵng';
       const kind = document.getElementById('loc-select-kind').value || 'all';
       const container = document.getElementById('locations-results-container');
-      container.innerHTML = '<div style="padding:2.5rem; text-align:center; grid-column:1/-1;"><p class="mono-label">ĐANG TRA CỨU BẢN ĐỒ GOOGLE MAPS...</p></div>';
+      container.innerHTML = '<div style="padding:2.5rem; text-align:center; grid-column:1/-1;"><p class="mono-label">ĐANG TRA CỨU BẢN ĐỒ VÀ ĐỊA ĐIỂM...</p></div>';
 
       try {
-        const res = await fetch(`${API_BASE}/locations/search?location=${encodeURIComponent(city)}&kind=${kind}&limit=6`);
-        if (!res.ok) throw new Error('Location API error');
+        const params = new URLSearchParams({ city, kind });
+        const res = await fetch(`${API_BASE}/locations?${params.toString()}`);
+        if (!res.ok) throw new Error('Locations error');
         const data = await res.json();
-        const items = data.results || [];
+        const locs = data.locations || [];
 
-        if (!items.length) {
-          container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
-            <p class="mono-label">KHÔNG TÌM THẤY ĐỊA ĐIỂM NÀO PHÙ HỢP TẠI "${city.toUpperCase()}".</p>
+        if (!locs.length) {
+          container.innerHTML = `<div style="padding:3rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
+            <p class="mono-label">KHÔNG TÌM THẤY ĐỊA ĐIỂM PHÙ HỢP TẠI KHU VỰC "${city.toUpperCase()}".</p>
           </div>`;
           return;
         }
 
         container.innerHTML = '';
-        items.forEach(loc => {
+        locs.forEach(loc => {
+          const isHighlighted = highlightName && (
+            loc.name.toLowerCase().includes(highlightName.toLowerCase()) || 
+            highlightName.toLowerCase().includes(loc.name.toLowerCase())
+          );
           const card = document.createElement('div');
-          card.className = 'location-entry-card';
-          const mapsUrl = loc.directions_url || loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((loc.title || loc.name) + ' ' + (loc.address || city))}`;
+          card.className = 'location-card' + (isHighlighted ? ' highlighted-location' : '');
+          const mapsUrl = loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(loc.name + ' ' + (loc.address || ''))}`;
+
           card.innerHTML = `
-            <div>
-              <h3 class="location-name">${escapeHtml(loc.title || loc.name || 'Điểm đọc sách')}</h3>
-              <p class="location-addr">${escapeHtml(loc.address || 'Khu vực trung tâm thành phố')}</p>
-              <div class="location-details">
-                ${loc.rating ? `<span>⭐ ${loc.rating} (${loc.reviews || 0} đánh giá)</span>` : ''}
-                ${loc.open_state || loc.hours ? `<span>🕒 ${escapeHtml(loc.open_state || loc.hours)}</span>` : ''}
-                ${loc.phone ? `<span>☎️ ${escapeHtml(loc.phone)}</span>` : ''}
-              </div>
+            <div class="loc-card-header">
+              <span class="mono-label">${escapeHtml(loc.kind === 'library' ? 'THƯ VIỆN SỐ' : 'NHÀ SÁCH')}</span>
+              <span class="loc-rating">⭐ ${loc.rating || '4.5'}</span>
             </div>
-            <a href="${mapsUrl}" target="_blank" class="btn-maps-link">
-              <span>CHỈ ĐƯỜNG TRÊN GOOGLE MAPS</span>
-              <span>&rarr;</span>
-            </a>
+            <h4 class="loc-card-title">${escapeHtml(loc.name)}</h4>
+            <div class="loc-card-address">📍 ${escapeHtml(loc.address || '')}${loc.city ? ', ' + escapeHtml(loc.city) : ''}</div>
+            <div class="loc-card-meta">
+              <span>🕒 ${escapeHtml(loc.opening_hours || '08:00 - 22:00')}</span>
+              <span>📞 ${escapeHtml(loc.phone || 'Đang cập nhật')}</span>
+            </div>
+            <div class="loc-card-footer">
+              <a href="${mapsUrl}" target="_blank" rel="noopener noreferrer" class="btn-map-link">
+                CHỈ ĐƯỜNG GOOGLE MAPS &rarr;
+              </a>
+            </div>
           `;
           container.appendChild(card);
         });
+
+        if (highlightName) {
+          const hCard = container.querySelector('.highlighted-location');
+          if (hCard) {
+            hCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        }
       } catch (err) {
-        container.innerHTML = `<div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
-          <p class="mono-label" style="color:#ef4444;">KHÔNG THỂ TRUY VẤN DỮ LIỆU ĐỊA ĐIỂM LÚC NÀY.</p>
+        container.innerHTML = `<div style="padding:3rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
+          <p class="mono-label" style="color:#ef4444;">KHÔNG THỂ TẢI DỮ LIỆU ĐỊA ĐIỂM. VUI LÒNG KIỂM TRA LẠI.</p>
         </div>`;
       }
     }
-    document.getElementById('btn-search-locations').addEventListener('click', searchLocations);
+
+    document.getElementById('btn-search-locations').addEventListener('click', () => searchLocations());
 
     // ========================================================================
-    // 6. AI LIBRARIAN STUDIO (DRAWER) CONTROLLER
+    // 6. AI LIBRARIAN STUDIO DRAWER CONTROLLER
     // ========================================================================
     const drawer = document.getElementById('studio-drawer');
     const backdrop = document.getElementById('studio-backdrop');
 
     function openStudioDrawer(defaultTab = 'tab-chat') {
-      lenis.stop();
       drawer.classList.add('active');
       backdrop.classList.add('active');
       drawer.setAttribute('aria-hidden', 'false');
@@ -2679,14 +3462,14 @@
       drawer.classList.remove('active');
       backdrop.classList.remove('active');
       drawer.setAttribute('aria-hidden', 'true');
-      lenis.start();
     }
 
     document.getElementById('btn-open-studio').addEventListener('click', () => openStudioDrawer());
-    document.getElementById('btn-hero-open-ai').addEventListener('click', () => openStudioDrawer());
+    document.getElementById('btn-hero-ask-ai').addEventListener('click', () => openStudioDrawer());
     document.getElementById('btn-close-studio').addEventListener('click', closeStudioDrawer);
     backdrop.addEventListener('click', closeStudioDrawer);
 
+    // Keyboard Shortcut ⌘K / Ctrl+K & ESC
     window.addEventListener('keydown', (e) => {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
@@ -2696,7 +3479,7 @@
       if (e.key === 'Escape') {
         closeStudioDrawer();
         closeBookModal();
-        closeReadingSample();
+        closeReadingModal();
       }
     });
 
@@ -2718,7 +3501,7 @@
             <span>PHIÊN MỚI</span>
           </div>
           <div class="chat-bubble">
-            Tôi đã khởi tạo cuộc trò chuyện mới. Hãy đặt câu hỏi về các ấn phẩm, tác giả hoặc chủ đề bạn quan tâm!
+            Tôi đã khởi tạo cuộc trò chuyện mới. Hãy đặt câu hỏi về các ấn phẩm, tác giả hoặc địa điểm đọc sách bạn quan tâm!
           </div>
         </div>
       `;
@@ -2745,7 +3528,7 @@
         pane.classList.toggle('active', pane.id === tabId);
       });
       if (tabId === 'tab-history') {
-        renderChatHistoryList();
+        loadChatSessions();
       }
     }
     document.querySelectorAll('.drawer-tab-btn').forEach(btn => {
@@ -2801,7 +3584,7 @@
       localStorage.setItem(STORAGE_KEY_SESSIONS, JSON.stringify(sessions));
     }
 
-    function recordMessageInSession(role, content, sources = []) {
+    function recordMessageInSession(role, content, sources = [], locations = []) {
       let sessions = getLocalSessions();
       let sess = sessions.find(s => s.id === state.sessionId);
       const now = new Date();
@@ -2819,16 +3602,59 @@
         sessions.unshift(sess);
       }
 
-      sess.messages.push({ role, content, sources, timestamp: timeStr });
+      sess.messages.push({ role, content, sources, locations, timestamp: timeStr });
       sess.timestamp = timeStr;
       saveLocalSessions(sessions);
     }
 
-    function renderChatHistoryList() {
+    // Load Chat Sessions merged from Database & LocalStorage
+    async function loadChatSessions() {
       const container = document.getElementById('chat-history-list');
-      const sessions = getLocalSessions();
+      container.innerHTML = '<div style="padding:2.5rem; text-align:center;"><p class="mono-label">ĐANG ĐỒNG BỘ LỊCH SỬ TỪ MÁY CHỦ...</p></div>';
 
-      if (!sessions.length) {
+      let dbSessions = [];
+      try {
+        const res = await fetch(`${API_BASE}/chat/sessions?include_all=true`, {
+          headers: { 'X-Web-Client': 'editorial-monochrome' }
+        });
+        if (res.ok) {
+          const data = await res.json();
+          dbSessions = data.sessions || [];
+        }
+      } catch (e) {
+        console.warn('Backend chat sessions notice:', e);
+      }
+
+      const localSessions = getLocalSessions();
+      const sessionMap = new Map();
+
+      // Merge backend sessions
+      dbSessions.forEach(s => {
+        sessionMap.set(s.id, {
+          id: s.id,
+          title: s.title || s.last_message || 'Cuộc trò chuyện',
+          timestamp: s.timestamp || '',
+          message_count: s.message_count || 1,
+          isRemote: true
+        });
+      });
+
+      // Merge local sessions
+      localSessions.forEach(s => {
+        if (!sessionMap.has(s.id)) {
+          sessionMap.set(s.id, {
+            id: s.id,
+            title: s.title || 'Cuộc trò chuyện',
+            timestamp: s.timestamp || '',
+            message_count: s.messages ? s.messages.length : 1,
+            isRemote: false
+          });
+        }
+      });
+
+      const mergedSessions = Array.from(sessionMap.values());
+
+      if (!mergedSessions.length) {
         container.innerHTML = `
           <div style="padding:2.5rem; text-align:center; border:var(--border-dashed); background:var(--color-subtle);">
             <p class="mono-label">CHƯA CÓ LỊCH SỬ HỘI THOẠI ĐƯỢC LƯU TRỮ</p>
@@ -2838,38 +3664,58 @@
       }
 
       container.innerHTML = '';
-      sessions.forEach(s => {
+      mergedSessions.forEach(s => {
         const card = document.createElement('div');
         card.className = 'history-session-item';
         card.innerHTML = `
-          <div style="flex-grow:1; cursor:pointer;">
-            <div class="history-title">${escapeHtml(s.title || 'Cuộc trò chuyện')}</div>
-            <div class="history-meta">${s.timestamp || ''} · ${s.messages ? s.messages.length : 0} tin nhắn</div>
+          <div style="flex-grow:1; cursor:pointer;" class="history-content-col">
+            <div class="history-title">${escapeHtml(s.title)}</div>
+            <div class="history-meta">${escapeHtml(s.timestamp)} · ${s.message_count} tin nhắn ${s.isRemote ? '· Máy chủ' : ''}</div>
           </div>
           <div class="history-actions">
-            <button class="btn-drawer-action btn-restore-sess">Mở</button>
-            <button class="btn-drawer-action btn-del-sess" style="color:#ef4444;">✕</button>
+            <button class="btn-drawer-action btn-restore-sess">Mở &rarr;</button>
+            <button class="btn-drawer-action btn-del-sess" style="color:#ef4444;" title="Xóa phiên">✕</button>
           </div>
         `;
 
-        card.querySelector('.btn-restore-sess').addEventListener('click', () => restoreSession(s));
-        card.querySelector('div').addEventListener('click', () => restoreSession(s));
+        card.querySelector('.btn-restore-sess').addEventListener('click', () => openSessionHistory(s.id));
+        card.querySelector('.history-content-col').addEventListener('click', () => openSessionHistory(s.id));
         card.querySelector('.btn-del-sess').addEventListener('click', (e) => {
           e.stopPropagation();
-          deleteSession(s.id);
+          deleteSessionHistory(s.id);
         });
 
         container.appendChild(card);
       });
     }
 
-    function restoreSession(session) {
-      state.sessionId = session.id;
-      localStorage.setItem('library_active_session_id', session.id);
-      chatContainer.innerHTML = '';
+    // Restore Session by fetching full history from Backend
+    async function openSessionHistory(sessionId) {
+      state.sessionId = sessionId;
+      localStorage.setItem('library_active_session_id', sessionId);
+      chatContainer.innerHTML = '<div style="padding:2rem; text-align:center;"><p class="mono-label">ĐANG TẢI LỊCH SỬ HỘI THOẠI...</p></div>';
+      switchDrawerTab('tab-chat');
 
-      if (session.messages && session.messages.length > 0) {
-        session.messages.forEach(m => {
+      try {
+        const res = await fetch(`${API_BASE}/chat/history/${sessionId}`, {
+          headers: { 'X-Web-Client': 'editorial-monochrome' }
+        });
+        if (!res.ok) throw new Error('History error');
+        const data = await res.json();
+        const messages = data.messages || [];
+
+        chatContainer.innerHTML = '';
+        if (!messages.length) {
+          chatContainer.innerHTML = `
+            <div class="chat-msg assistant">
+              <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
+              <div class="chat-bubble">Đã mở phiên hội thoại nhưng chưa có tin nhắn nào.</div>
+            </div>
+          `;
+          return;
+        }
+
+        messages.forEach(m => {
           if (m.role === 'user') {
             const userMsgEl = document.createElement('div');
             userMsgEl.className = 'chat-msg user';
@@ -2882,41 +3728,58 @@
             const asstMsgEl = document.createElement('div');
             asstMsgEl.className = 'chat-msg assistant';
             asstMsgEl.innerHTML = `
-              <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
-              <div class="chat-bubble">${formatMarkdownToHtml(m.content)}</div>
+              <div class="chat-msg-header"><span>THỦ THƯ AI (GEMINI RAG)</span></div>
+              <div class="chat-bubble"></div>
             `;
-            const bubble = asstMsgEl.querySelector('.chat-bubble');
-            const ttsBtn = document.createElement('button');
-            ttsBtn.className = 'msg-tts-btn';
-            ttsBtn.innerHTML = '<span>🔊</span><span>NGHE TÓM TẮT (TTS)</span>';
-            ttsBtn.addEventListener('click', () => playTTS(m.content, ttsBtn));
-            bubble.appendChild(ttsBtn);
+            const bubbleEl = asstMsgEl.querySelector('.chat-bubble');
+            finalizeAssistantMessage(bubbleEl, m.content, m.sources || [], m.locations || []);
             chatContainer.appendChild(asstMsgEl);
           }
         });
-      } else {
-        chatContainer.innerHTML = `
-          <div class="chat-msg assistant">
-            <div class="chat-msg-header"><span>THỦ THƯ AI</span></div>
-            <div class="chat-bubble">Đã khôi phục phiên hội thoại trống.</div>
-          </div>
-        `;
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+
+      } catch (err) {
+        // Fallback to local session if backend fails
+        const localSess = getLocalSessions().find(s => s.id === sessionId);
+        chatContainer.innerHTML = '';
+        if (localSess && localSess.messages) {
+          localSess.messages.forEach(m => {
+            if (m.role === 'user') {
+              const el = document.createElement('div');
+              el.className = 'chat-msg user';
+              el.innerHTML = `<div class="chat-msg-header"><span>BẠN</span></div><div class="chat-bubble">${escapeHtml(m.content)}</div>`;
+              chatContainer.appendChild(el);
+            } else {
+              const el = document.createElement('div');
+              el.className = 'chat-msg assistant';
+              el.innerHTML = `<div class="chat-msg-header"><span>THỦ THƯ AI</span></div><div class="chat-bubble"></div>`;
+              finalizeAssistantMessage(el.querySelector('.chat-bubble'), m.content, m.sources || [], m.locations || []);
+              chatContainer.appendChild(el);
+            }
+          });
+        }
       }
-      switchDrawerTab('tab-chat');
-      chatContainer.scrollTop = chatContainer.scrollHeight;
     }
 
-    function deleteSession(id) {
-      let sessions = getLocalSessions().filter(s => s.id !== id);
+    async function deleteSessionHistory(sessionId) {
+      if (!confirm('Bạn có chắc chắn muốn xóa phiên hội thoại này không?')) return;
+      try {
+        await fetch(`${API_BASE}/chat/sessions/${sessionId}`, {
+          method: 'DELETE',
+          headers: { 'X-Web-Client': 'editorial-monochrome' }
+        });
+      } catch (e) {}
+
+      let sessions = getLocalSessions().filter(s => s.id !== sessionId);
       saveLocalSessions(sessions);
-      renderChatHistoryList();
-      fetch(`${API_BASE}/chat/sessions/${id}`, { method: 'DELETE' }).catch(() => {});
+      loadChatSessions();
     }
 
+    document.getElementById('btn-sync-history').addEventListener('click', () => loadChatSessions());
     document.getElementById('btn-clear-all-history').addEventListener('click', () => {
-      if (confirm('Bạn có chắc chắn muốn xóa toàn bộ lịch sử trò chuyện không?')) {
+      if (confirm('Bạn có chắc chắn muốn xóa toàn bộ lịch sử trò chuyện cục bộ không?')) {
         saveLocalSessions([]);
-        renderChatHistoryList();
+        loadChatSessions();
       }
     });
 
@@ -2939,7 +3802,7 @@
       assistantMsgEl.innerHTML = `
         <div class="chat-msg-header">
           <span>THỦ THƯ AI (GEMINI RAG)</span>
-          <span class="mono-label">ĐANG TRUY VẤN VECTOR...</span>
+          <span class="mono-label">ĐANG TRUY VẤN...</span>
         </div>
         <div class="chat-bubble"><em style="color:var(--color-muted);">Đang truy xuất không gian vector ChromaDB và phân tích ngữ cảnh...</em></div>
       `;
@@ -2965,6 +3828,7 @@
         const decoder = new TextDecoder('utf-8');
         let fullAnswer = '';
         let retrievedBooks = [];
+        let locations = [];
         let buffer = '';
 
         while (true) {
@@ -2987,14 +3851,15 @@
                 if (payload.done) {
                   fullAnswer = payload.answer || fullAnswer;
                   retrievedBooks = payload.books || [];
+                  locations = payload.locations || [];
                 }
               } catch (e) {}
             }
           }
         }
 
-        finalizeAssistantMessage(bubbleEl, fullAnswer, retrievedBooks);
-        recordMessageInSession('assistant', fullAnswer, retrievedBooks);
+        finalizeAssistantMessage(bubbleEl, fullAnswer, retrievedBooks, locations);
+        recordMessageInSession('assistant', fullAnswer, retrievedBooks, locations);
 
       } catch (err) {
         // Fallback POST /api/v1/chat
@@ -3010,8 +3875,8 @@
           });
           if (!fallbackRes.ok) throw new Error('Fallback failed');
           const data = await fallbackRes.json();
-          finalizeAssistantMessage(bubbleEl, data.answer, data.books || []);
-          recordMessageInSession('assistant', data.answer, data.books || []);
+          finalizeAssistantMessage(bubbleEl, data.answer, data.books || [], data.locations || []);
+          recordMessageInSession('assistant', data.answer, data.books || [], data.locations || []);
         } catch (e) {
           bubbleEl.innerHTML = `<p style="color:#ef4444;">Xin lỗi độc giả, máy chủ AI đang bận hoặc chưa thể xử lý yêu cầu lúc này. Vui lòng thử lại sau ít giây.</p>`;
         }
@@ -3019,7 +3884,8 @@
       chatContainer.scrollTop = chatContainer.scrollHeight;
     }
 
-    function finalizeAssistantMessage(bubbleEl, text, books) {
+    // Finalize assistant message with TTS, Grounding Sources & Location Cards
+    function finalizeAssistantMessage(bubbleEl, text, books = [], locations = []) {
       bubbleEl.innerHTML = formatMarkdownToHtml(text);
 
       // TTS Play button
@@ -3029,7 +3895,58 @@
       ttsBtn.addEventListener('click', () => playTTS(text, ttsBtn));
       bubbleEl.appendChild(ttsBtn);
 
-      // Grounding Sources
+      // Interactive Location Cards (Requirement 4)
+      if (locations && locations.length > 0) {
+        const locBox = document.createElement('div');
+        locBox.className = 'chat-locations-box';
+        locBox.innerHTML = `<div class="chat-locations-title">📍 ĐỊA ĐIỂM NHÀ SÁCH & THƯ VIỆN GỢI Ý (${locations.length} ĐỊA ĐIỂM):</div>`;
+
+        locations.forEach(loc => {
+          const mapsUrl = loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(loc.name + ' ' + (loc.address || ''))}`;
+          const distText = loc.distance_km ? ` · Cách ${loc.distance_km} km` : '';
+          const card = document.createElement('div');
+          card.className = 'chat-location-card';
+
+          card.innerHTML = `
+            <div class="chat-location-header">
+              <strong class="chat-location-name">${escapeHtml(loc.name)}</strong>
+              <span class="chat-location-rating">⭐ ${loc.rating || '4.5'}${distText}</span>
+            </div>
+            <div class="chat-location-info">
+              <div>📍 ${escapeHtml(loc.address || '')}${loc.city ? ', ' + escapeHtml(loc.city) : ''}</div>
+              <div style="color:var(--color-lead); font-size:0.85rem; margin-top:0.25rem;">
+                🕒 ${escapeHtml(loc.opening_hours || '08:00 - 22:00')} · 📞 ${escapeHtml(loc.phone || 'Đang cập nhật')}
+              </div>
+            </div>
+            <div class="chat-location-actions">
+              <a href="${mapsUrl}" target="_blank" rel="noopener noreferrer" class="chat-location-btn">
+                <span>📍</span> CHỈ ĐƯỜNG GOOGLE MAPS ↗
+              </a>
+              <button class="chat-location-btn btn-view-on-map">
+                <span>🗺️</span> XEM Ở MỤC ĐỊNH VỊ
+              </button>
+            </div>
+          `;
+
+          // Handle "Xem ở mục Định vị"
+          card.querySelector('.btn-view-on-map').addEventListener('click', () => {
+            closeStudioDrawer();
+            const locSection = document.getElementById('locations');
+            if (locSection) lenis.scrollTo(locSection, { offset: -60 });
+            if (loc.city) {
+              const cityInput = document.getElementById('loc-input-city');
+              if (cityInput) cityInput.value = loc.city;
+            }
+            searchLocations(loc.name);
+          });
+
+          locBox.appendChild(card);
+        });
+
+        bubbleEl.appendChild(locBox);
+      }
+
+      // Grounding Sources (ChromaDB Books)
       if (books && books.length > 0) {
         const groundingBox = document.createElement('div');
         groundingBox.className = 'grounding-box';
@@ -3104,7 +4021,7 @@
           player.style.display = 'none';
         };
       } catch (err) {
-        console.warn('Backend TTS error, falling back to Web Speech API:', err);
+        console.warn('Backend TTS notice, trying Web Speech API:', err);
         if ('speechSynthesis' in window) {
           const utter = new SpeechSynthesisUtterance(text.substring(0, 300));
           utter.lang = 'vi-VN';
@@ -3214,14 +4131,14 @@
     });
 
     function handleVisionFile(file) {
+      if (!file.type.startsWith('image/')) {
+        alert('Vui lòng chỉ chọn tệp hình ảnh (JPG, PNG).');
+        return;
+      }
       selectedVisionFile = file;
-      const reader = new FileReader();
-      reader.onload = (e) => {
-        previewImg.src = e.target.result;
-        previewImg.style.display = 'block';
-        submitVisionBtn.disabled = false;
-      };
-      reader.readAsDataURL(file);
+      previewImg.src = URL.createObjectURL(file);
+      previewImg.style.display = 'inline-block';
+      submitVisionBtn.disabled = false;
     }
 
     submitVisionBtn.addEventListener('click', async () => {
@@ -3233,202 +4150,45 @@
       formData.append('file', selectedVisionFile);
 
       try {
-        const res = await fetch(`${API_BASE}/books/recognize-cover`, {
+        const res = await fetch(`${API_BASE}/multimodal/book-cover`, {
           method: 'POST',
           body: formData,
         });
+        if (!res.ok) throw new Error('Vision error');
         const data = await res.json();
-        const resultBox = document.getElementById('vision-result-box');
-        resultBox.style.display = 'block';
 
+        const box = document.getElementById('vision-result-box');
         const titleEl = document.getElementById('vision-extracted-title');
         const authorEl = document.getElementById('vision-extracted-author');
 
-        if (data.title) {
-          titleEl.textContent = data.title;
-          authorEl.textContent = data.author ? `Tác giả: ${data.author}` : 'Tác giả chưa xác định';
-          
-          document.getElementById('btn-vision-search-catalog').onclick = () => {
-            closeStudioDrawer();
-            state.query = data.title;
-            document.getElementById('search-input').value = data.title;
-            state.page = 1;
-            fetchBooks();
-            const catSec = document.getElementById('catalog');
-            if (catSec) lenis.scrollTo(catSec);
-          };
+        const title = data.title || data.extracted_title || 'Tác phẩm chưa rõ';
+        const author = data.author || data.extracted_author || 'Tác giả chưa rõ';
 
-          document.getElementById('btn-vision-ask-ai').onclick = () => {
-            switchDrawerTab('tab-chat');
-            sendChatMessage(`Tôi vừa quét bìa cuốn sách '${data.title}'. Hãy giới thiệu tổng quan và tóm tắt những ý tưởng nổi bật của cuốn sách này.`);
-          };
-        } else {
-          titleEl.textContent = 'Không nhận diện được tên sách rõ ràng.';
-          authorEl.textContent = data.message || 'Hãy thử tải lên ảnh bìa có góc chụp thẳng và đủ ánh sáng.';
-        }
+        titleEl.textContent = title;
+        authorEl.textContent = `Tác giả nhận diện: ${author}`;
+        box.style.display = 'block';
+
+        document.getElementById('btn-vision-search-catalog').onclick = () => {
+          closeStudioDrawer();
+          state.query = title;
+          document.getElementById('search-input').value = title;
+          fetchBooks();
+          const catSec = document.getElementById('catalog');
+          if (catSec) lenis.scrollTo(catSec);
+        };
+
+        document.getElementById('btn-vision-ask-ai').onclick = () => {
+          switchDrawerTab('tab-chat');
+          sendChatMessage(`Hãy tóm tắt và phân tích giá trị của cuốn sách '${title}' do tác giả ${author} sáng tác.`);
+        };
+
       } catch (err) {
-        alert('Lỗi nhận diện ảnh bìa. Vui lòng kiểm tra lại kết nối.');
+        alert('Không thể nhận diện bìa sách lúc này. Vui lòng thử lại với ảnh rõ nét hơn.');
       } finally {
         submitVisionBtn.disabled = false;
-        submitVisionBtn.textContent = 'PHÂN TÍCH ẢNH BẰNG GEMINI VISION →';
+        submitVisionBtn.textContent = 'PHÂN TÍCH ẢNH BÌA BẰNG GEMINI VISION →';
       }
     });
-
-    // ========================================================================
-    // 9. EVENT LISTENERS: FILTERS, PAGINATION, VIEW TOGGLE
-    // ========================================================================
-    let searchTimeout = null;
-    document.getElementById('search-input').addEventListener('input', (e) => {
-      clearTimeout(searchTimeout);
-      searchTimeout = setTimeout(() => {
-        state.query = e.target.value;
-        state.page = 1;
-        fetchBooks();
-      }, 300);
-    });
-
-    document.getElementById('filter-genre').addEventListener('change', (e) => {
-      state.genre = e.target.value;
-      state.page = 1;
-      document.querySelectorAll('.genre-pill').forEach(p => {
-        p.classList.toggle('active', p.dataset.genre === state.genre);
-      });
-      fetchBooks();
-    });
-
-    document.getElementById('filter-difficulty').addEventListener('change', (e) => {
-      state.difficulty = e.target.value;
-      state.page = 1;
-      fetchBooks();
-    });
-
-    document.getElementById('filter-mood').addEventListener('change', (e) => {
-      state.mood = e.target.value;
-      state.page = 1;
-      fetchBooks();
-    });
-
-    document.getElementById('filter-sort').addEventListener('change', (e) => {
-      state.sort = e.target.value;
-      state.page = 1;
-      fetchBooks();
-    });
-
-    document.getElementById('btn-reset-filters').addEventListener('click', () => {
-      state.query = '';
-      state.genre = '';
-      state.difficulty = '';
-      state.mood = '';
-      state.sort = 'Phù hợp';
-      state.page = 1;
-      document.getElementById('search-input').value = '';
-      document.getElementById('filter-genre').value = '';
-      document.getElementById('filter-difficulty').value = '';
-      document.getElementById('filter-mood').value = '';
-      document.getElementById('filter-sort').value = 'Phù hợp';
-      document.querySelectorAll('.genre-pill').forEach((p, idx) => {
-        p.classList.toggle('active', idx === 0);
-      });
-      fetchBooks();
-    });
-
-    // Pagination
-    document.getElementById('btn-prev-page').addEventListener('click', () => {
-      if (state.page > 1) {
-        state.page--;
-        fetchBooks();
-        lenis.scrollTo(document.getElementById('catalog'), { offset: -60 });
-      }
-    });
-    document.getElementById('btn-next-page').addEventListener('click', () => {
-      if (state.page < state.totalPages) {
-        state.page++;
-        fetchBooks();
-        lenis.scrollTo(document.getElementById('catalog'), { offset: -60 });
-      }
-    });
-
-    // View mode toggle
-    const btnGrid = document.getElementById('btn-view-grid');
-    const btnIndex = document.getElementById('btn-view-index');
-    const gridView = document.getElementById('books-grid-container');
-    const indexView = document.getElementById('books-index-table');
-
-    btnGrid.addEventListener('click', () => {
-      btnGrid.classList.add('active');
-      btnIndex.classList.remove('active');
-      gridView.style.display = 'grid';
-      indexView.style.display = 'none';
-      state.viewMode = 'grid';
-    });
-    btnIndex.addEventListener('click', () => {
-      btnIndex.classList.add('active');
-      btnGrid.classList.remove('active');
-      gridView.style.display = 'none';
-      indexView.style.display = 'table';
-      state.viewMode = 'index';
-    });
-
-    // Utility Helpers
-    function escapeHtml(str) {
-      if (!str) return '';
-      return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#039;');
-    }
-
-    // Markdown-to-HTML parser with Table support
-    function formatMarkdownToHtml(md) {
-      if (!md) return '';
-      const lines = md.split('\n');
-      let inTable = false;
-      let tableHtml = '';
-      let processedLines = [];
-
-      for (let i = 0; i < lines.length; i++) {
-        const line = lines[i].trim();
-        if (line.startsWith('|') && line.endsWith('|')) {
-          if (!inTable) {
-            inTable = true;
-            tableHtml = '<div class="table-scroll-wrap"><table class="chat-md-table">';
-          }
-          if (/^\|[\s\-:|]+\|$/.test(line)) {
-            continue;
-          }
-          const cells = line.split('|').slice(1, -1);
-          const isHeader = !tableHtml.includes('<tbody>');
-          if (isHeader && !tableHtml.includes('<thead>')) {
-            tableHtml += '<thead><tr>' + cells.map(c => `<th>${escapeHtml(c.trim())}</th>`).join('') + '</tr></thead><tbody>';
-          } else {
-            tableHtml += '<tr>' + cells.map(c => `<td>${escapeHtml(c.trim())}</td>`).join('') + '</tr>';
-          }
-        } else {
-          if (inTable) {
-            inTable = false;
-            tableHtml += '</tbody></table></div>';
-            processedLines.push(tableHtml);
-            tableHtml = '';
-          }
-          processedLines.push(escapeHtml(line));
-        }
-      }
-      if (inTable) {
-        tableHtml += '</tbody></table></div>';
-        processedLines.push(tableHtml);
-      }
-
-      let text = processedLines.join('\n');
-      text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-      text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
-      text = text.replace(/`([^`]+)`/g, '<code class="chat-inline-code">$1</code>');
-      text = text.replace(/^[\*\-]\s+(.*)$/gm, '<li class="chat-bullet">$1</li>');
-      text = text.replace(/\n\n+/g, '</p><p>');
-      text = text.replace(/\n/g, '<br>');
-      return `<p>${text}</p>`;
-    }
 
     // Initialize application
     initLibraryData();
