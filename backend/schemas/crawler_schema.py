@@ -64,6 +64,7 @@ class CrawlImportResponse(BaseModel):
     message: str
     book_id: str | None = None
     vector_indexed: bool = False
+    vector_status: dict[str, Any] | None = None
 
 
 class CrawlBatchImportItemResult(BaseModel):
@@ -84,11 +85,18 @@ class CrawlBatchImportResponse(BaseModel):
     imported_count: int
     skipped_count: int
     results: list[CrawlBatchImportItemResult]
+    vector_status: dict[str, Any] | None = None
 
 
 class SyncChromaResponse(BaseModel):
     success: bool
     synced_count: int
-    total_unindexed: int
+    total_unindexed: int = 0
     failed_count: int = 0
     message: str
+    synced_titles: list[str] = []
+    total_csv_books: int = 0
+    total_chroma_vectors: int = 0
+    missing_vectors_count: int = 0
+    is_synced: bool = True
+    timestamp: str = ""

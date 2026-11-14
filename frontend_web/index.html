@@ -1103,8 +1103,11 @@
 
     .loc-card-footer {
       margin-top: auto;
-      padding-top: 0.75rem;
+      padding-top: 0.85rem;
       border-top: 1px dashed var(--color-hairline);
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
     }
 
     .btn-map-link {
@@ -1112,14 +1115,43 @@
       font-size: 0.8125rem;
       font-weight: 600;
       color: var(--color-ink);
+      border: 1px solid var(--color-ink);
+      background: transparent;
+      padding: 0.45rem 0.75rem;
+      text-align: center;
       display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: 0.35rem;
-      transition: color 0.2s ease;
+      text-decoration: none;
+      transition: all 0.2s ease;
     }
 
     .btn-map-link:hover {
-      text-decoration: underline;
+      background: var(--color-ink);
+      color: var(--color-paper);
+    }
+
+    .btn-ask-ai-loc {
+      font-family: var(--font-mono);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--color-paper);
+      background: var(--color-ink);
+      border: 1px solid var(--color-ink);
+      padding: 0.45rem 0.75rem;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.35rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-ask-ai-loc:hover {
+      background: var(--color-charcoal);
+      border-color: var(--color-charcoal);
     }
 
     /* ==========================================================================
@@ -1969,7 +2001,7 @@
   <header class="site-header">
     <div class="brand-wrap">
       <a href="#prologue" class="brand-title">THƯ VIỆN SỐ AI</a>
-      <span class="brand-badge" id="header-volume-tag">209 ẤN PHẨM</span>
+      <span class="brand-badge" id="header-volume-tag">211 ẤN PHẨM</span>
     </div>
 
     <nav class="site-nav">
@@ -2022,7 +2054,7 @@
           <span class="mono-label" style="display:block; margin-bottom:1.5rem;">CHỈ SỐ HỆ THỐNG TRỰC TIẾP</span>
           <div class="metrics-grid">
             <div>
-              <div class="metric-item-num" id="stat-total-books">209+</div>
+              <div class="metric-item-num" id="stat-total-books">211+</div>
               <div class="metric-item-label">Ấn phẩm Chuẩn hóa</div>
             </div>
             <div>
@@ -2249,9 +2281,20 @@
             </tr>
           </table>
 
-          <button class="btn-pagination" id="btn-sync-chroma" style="background:var(--color-ink); color:var(--color-paper); width:100%; padding:0.9rem 1rem; font-weight:700;">
+          <div id="sync-missing-list-box" style="display:none; margin-top:1.25rem; padding:1rem; background:var(--color-subtle); border:1px solid #f59e0b; border-radius:3px;">
+            <div style="font-family:var(--font-mono); font-size:0.75rem; font-weight:700; color:#b45309; letter-spacing:0.05em; margin-bottom:0.5rem; text-transform:uppercase;">
+              DANH SÁCH SÁCH CHƯA CÓ VECTOR (CHỜ ĐỒNG BỘ):
+            </div>
+            <ul id="sync-missing-items" style="margin:0; padding-left:1.25rem; font-size:0.875rem; color:var(--color-ink); max-height:120px; overflow-y:auto; line-height:1.5;">
+            </ul>
+          </div>
+
+          <button class="btn-pagination" id="btn-sync-chroma" style="background:var(--color-ink); color:var(--color-paper); width:100%; padding:0.9rem 1rem; font-weight:700; margin-top:1.25rem; cursor:pointer;">
             ĐỒNG BỘ VECTOR CHROMADB NGAY ↻
           </button>
+
+          <div id="sync-result-box" style="display:none; margin-top:1.25rem; padding:1.25rem; border:var(--border-dashed); background:var(--color-paper);">
+          </div>
         </div>
       </div>
     </section>
@@ -2372,7 +2415,7 @@
             </div>
             <div class="chat-bubble">
               Xin chào độc giả. Tôi là Trợ lý Thủ thư Số của Thư viện AI. 
-              Tôi được neo giữ tri thức vào hơn 209 đầu sách chuẩn hóa trong cơ sở dữ liệu ChromaDB. 
+              Tôi được neo giữ tri thức vào hơn 211 đầu sách chuẩn hóa trong cơ sở dữ liệu ChromaDB. 
               Bạn đang quan tâm đến tác phẩm, tác giả hay chủ đề nghiên cứu nào?
             </div>
           </div>
@@ -2603,7 +2646,7 @@
     const API_BASE = '/api/v1';
     const state = {
       books: [],
-      totalBooks: 209,
+      totalBooks: 211,
       page: 1,
       pageSize: 20,
       totalPages: 11,
@@ -2625,6 +2668,26 @@
       crawlerCurrentFilter: 'all',
     };
     localStorage.setItem('library_active_session_id', state.sessionId);
+
+    // Global Book Count Synchronizer
+    function updateGlobalBookCount(total) {
+      if (!total || isNaN(total)) return;
+      state.totalBooks = parseInt(total, 10);
+
+      // Header Volume Tag
+      const headerTag = document.getElementById('header-volume-tag');
+      if (headerTag) headerTag.textContent = `${state.totalBooks} ẤN PHẨM`;
+
+      // Hero Metric Counter
+      const statTotal = document.getElementById('stat-total-books');
+      if (statTotal) statTotal.textContent = `${state.totalBooks}+`;
+
+      // Initial Chatbot Greeting
+      const greetingP = document.querySelector('#chat-messages .chat-msg.assistant .chat-bubble') || document.querySelector('#chat-messages .chat-msg.assistant .chat-msg-body p');
+      if (greetingP && greetingP.textContent.includes('chuẩn hóa trong cơ sở dữ liệu')) {
+        greetingP.innerHTML = greetingP.innerHTML.replace(/\d+\s+đầu sách/g, `${state.totalBooks} đầu sách`);
+      }
+    }
 
     // Live Clock
     function updateLiveClock() {
@@ -2705,9 +2768,7 @@
         const statsRes = await fetch(`${API_BASE}/home/stats`);
         if (statsRes.ok) {
           const stats = await statsRes.json();
-          state.totalBooks = stats.total_books || 209;
-          document.getElementById('stat-total-books').textContent = `${state.totalBooks}+`;
-          document.getElementById('header-volume-tag').textContent = `${state.totalBooks} ẤN PHẨM`;
+          updateGlobalBookCount(stats.total_books);
         }
 
         const genresRes = await fetch(`${API_BASE}/genres`);
@@ -2769,7 +2830,10 @@
         if (!res.ok) throw new Error('API books error');
         const data = await res.json();
         state.books = data.items || [];
-        state.totalPages = data.total_pages || Math.ceil((data.total || 209) / state.pageSize);
+        state.totalPages = data.total_pages || Math.ceil((data.total || state.totalBooks) / state.pageSize);
+        if (data.total && !state.query && !state.genre && !state.difficulty && !state.mood) {
+          updateGlobalBookCount(data.total);
+        }
         document.getElementById('catalog-count-label').textContent = `HIỂN THỊ ${state.books.length} TRÊN ${data.total || state.totalBooks} ẤN PHẨM`;
         document.getElementById('pagination-page-label').textContent = `TRANG ${state.page} TRÊN ${state.totalPages || 1}`;
         document.getElementById('btn-prev-page').disabled = state.page <= 1;
@@ -3059,27 +3123,50 @@
     // ========================================================================
     async function initCrawlerSyncStatus() {
       try {
-        const res = await fetch(`${API_BASE}/crawler/unindexed`, {
+        const res = await fetch(`${API_BASE}/crawler/vector-status`, {
           headers: { 'X-Web-Client': 'editorial-monochrome' }
         });
         if (res.ok) {
           const data = await res.json();
-          document.getElementById('sync-stat-total').textContent = `${data.total_csv_books || state.totalBooks} cuốn`;
-          document.getElementById('sync-stat-indexed').textContent = `${data.chroma_indexed_count || state.totalBooks} vector`;
+          const totalCsv = data.total_csv_books || data.total_books || state.totalBooks;
+          const totalChroma = (data.total_chroma_vectors !== undefined) ? data.total_chroma_vectors : (data.chroma_indexed_count || data.indexed_count || 0);
+          const missingCount = (data.missing_vectors_count !== undefined) ? data.missing_vectors_count : (data.unindexed_count ?? data.count ?? 0);
+          const isSynced = Boolean(data.is_synced !== undefined ? data.is_synced : data.is_fully_synced);
+
+          updateGlobalBookCount(totalCsv);
+
+          document.getElementById('sync-stat-total').textContent = `${totalCsv} cuốn`;
+          document.getElementById('sync-stat-indexed').textContent = `${totalChroma} vector`;
           const unindexedEl = document.getElementById('sync-stat-unindexed');
-          unindexedEl.textContent = `${data.unindexed_count || 0} cuốn`;
+          unindexedEl.textContent = `${missingCount} cuốn`;
 
           const statusEl = document.getElementById('sync-stat-status');
-          if (data.is_fully_synced) {
+          const missingBox = document.getElementById('sync-missing-list-box');
+          const missingList = document.getElementById('sync-missing-items');
+
+          if (isSynced && missingCount === 0) {
             statusEl.className = 'sync-status-badge synced';
             statusEl.textContent = '✓ TOÀN VẸN 100%';
             unindexedEl.style.color = '#047857';
+            if (missingBox) missingBox.style.display = 'none';
           } else {
             statusEl.className = 'sync-status-badge pending';
-            statusEl.textContent = '⚠️ CẦN ĐỒNG BỘ';
+            statusEl.textContent = `⚠️ CẦN ĐỒNG BỘ (${missingCount} THIẾU)`;
             unindexedEl.style.color = '#d97706';
+
+            if (missingBox && missingList) {
+              const missingBooks = data.missing_books || data.unindexed_books || [];
+              if (missingBooks.length > 0) {
+                missingList.innerHTML = missingBooks.map(b => `
+                  <li><strong>${escapeHtml(b.title)}</strong> (${escapeHtml(b.author || 'Chưa rõ tác giả')}) — <em>${escapeHtml(b.id || b.book_id)}</em></li>
+                `).join('');
+                missingBox.style.display = 'block';
+              } else {
+                missingBox.style.display = 'none';
+              }
+            }
           }
-          document.getElementById('sync-stat-time').textContent = new Date().toLocaleString('vi-VN');
+          document.getElementById('sync-stat-time').textContent = data.last_synced_at || new Date().toLocaleString('vi-VN');
         }
       } catch (e) {
         console.warn('Sync status fetch notice:', e);
@@ -3089,10 +3176,24 @@
     // Sync ChromaDB Button
     document.getElementById('btn-sync-chroma').addEventListener('click', async () => {
       const btn = document.getElementById('btn-sync-chroma');
+      const resultBox = document.getElementById('sync-result-box');
       btn.disabled = true;
-      btn.textContent = 'ĐANG ĐỒNG BỘ VECTOR CHROMADB...';
+      btn.textContent = '⏳ ĐANG NHÚNG VECTOR 768-D...';
+
+      if (resultBox) {
+        resultBox.style.display = 'block';
+        resultBox.innerHTML = `
+          <div style="font-family:var(--font-mono); font-size:0.75rem; font-weight:700; color:var(--color-lead); margin-bottom:0.5rem;">
+            TIẾN TRÌNH ĐỒNG BỘ ĐANG CHẠY...
+          </div>
+          <p style="font-size:0.875rem; color:var(--color-ink); margin:0;">
+            Hệ thống đang trích xuất văn bản từ CSV, tính toán embedding 768 chiều qua mô hình Gemini Embedding và nạp vào ChromaDB Persistent Client. Vui lòng chờ trong giây lát...
+          </p>
+        `;
+      }
+
       try {
-        const res = await fetch(`${API_BASE}/crawler/sync-unindexed`, {
+        const res = await fetch(`${API_BASE}/crawler/vector-sync`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -3100,16 +3201,95 @@
           }
         });
         const data = await res.json();
-        alert(data.message || 'Đồng bộ ChromaDB hoàn tất!');
-        initCrawlerSyncStatus();
-        fetchBooks();
+
+        if (res.ok && data.success) {
+          const syncedCount = data.synced_count || 0;
+          const totalVectors = data.total_chroma_vectors || (data.total_csv_books || state.totalBooks);
+          const timeStr = data.timestamp || new Date().toLocaleString('vi-VN');
+
+          let titlesMarkup = '';
+          if (data.synced_titles && data.synced_titles.length > 0) {
+            titlesMarkup = `
+              <div style="margin-top:0.6rem;">
+                <span class="mono-label" style="font-size:0.75rem;">DANH SÁCH SÁCH VỪA VECTOR HÓA:</span>
+                <ul style="margin:0.25rem 0 0 1.25rem; font-size:0.8125rem; color:var(--color-ink);">
+                  ${data.synced_titles.map(t => `<li>✓ ${escapeHtml(t)}</li>`).join('')}
+                </ul>
+              </div>
+            `;
+          }
+
+          if (resultBox) {
+            resultBox.innerHTML = `
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;">
+                <span class="mono-label" style="font-size:0.8125rem; font-weight:700;">NHẬT KÝ ĐỒNG BỘ VECTOR CHROMADB</span>
+                <span class="sync-status-badge synced">✓ THÀNH CÔNG</span>
+              </div>
+              <p style="font-size:0.9375rem; color:var(--color-ink); margin-bottom:0.5rem; line-height:1.6;">
+                <strong>${escapeHtml(data.message)}</strong>
+              </p>
+              <div style="font-family:var(--font-mono); font-size:0.8125rem; color:var(--color-lead); display:flex; flex-direction:column; gap:0.25rem;">
+                <div>• Sách mới được vector hóa: <strong>${syncedCount} cuốn</strong></div>
+                <div>• Tổng vector hiện có trong ChromaDB: <strong>${totalVectors} vector (768-D)</strong></div>
+                <div>• Thời gian thực thi: <strong>${escapeHtml(timeStr)}</strong></div>
+              </div>
+              ${titlesMarkup}
+            `;
+          }
+
+          await initCrawlerSyncStatus();
+          await fetchBooks();
+        } else {
+          if (resultBox) {
+            resultBox.innerHTML = `
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+                <span class="mono-label" style="font-size:0.8125rem; font-weight:700;">NHẬT KÝ ĐỒNG BỘ VECTOR CHROMADB</span>
+                <span class="sync-status-badge pending">⚠️ THẤT BẠI</span>
+              </div>
+              <p style="font-size:0.875rem; color:#ef4444; margin:0;">
+                ${escapeHtml(data.detail || data.message || 'Đồng bộ không thành công. Vui lòng kiểm tra lại cấu hình.')}
+              </p>
+            `;
+          }
+        }
       } catch (err) {
-        alert('Lỗi kết nối khi đồng bộ ChromaDB.');
+        if (resultBox) {
+          resultBox.innerHTML = `
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+              <span class="mono-label" style="font-size:0.8125rem; font-weight:700;">NHẬT KÝ ĐỒNG BỘ VECTOR CHROMADB</span>
+              <span class="sync-status-badge pending">⚠️ LỖI KẾT NỐI</span>
+            </div>
+            <p style="font-size:0.875rem; color:#ef4444; margin:0;">
+              Lỗi kết nối khi gửi yêu cầu đồng bộ vector tới máy chủ.
+            </p>
+          `;
+        }
       } finally {
         btn.disabled = false;
         btn.textContent = 'ĐỒNG BỘ VECTOR CHROMADB NGAY ↻';
       }
     });
+
+    // Helper: update crawler duplicate summary bar & tabs
+    function updateCrawlerSummaryBar() {
+      const total = state.crawlerResults.length;
+      const existsCount = state.crawlerResults.filter(c => Boolean(c.already_in_db || c.already_exists || c.is_duplicate || c.status === 'duplicate' || c.status === 'uncertain')).length;
+      const newCount = Math.max(0, total - existsCount);
+
+      const statTotal = document.getElementById('crawler-stat-total');
+      const statNew = document.getElementById('crawler-stat-new');
+      const statExists = document.getElementById('crawler-stat-exists');
+      const tabAll = document.getElementById('tab-cnt-all');
+      const tabNew = document.getElementById('tab-cnt-new');
+      const tabExists = document.getElementById('tab-cnt-exists');
+
+      if (statTotal) statTotal.textContent = total;
+      if (statNew) statNew.textContent = newCount;
+      if (statExists) statExists.textContent = existsCount;
+      if (tabAll) tabAll.textContent = total;
+      if (tabNew) tabNew.textContent = newCount;
+      if (tabExists) tabExists.textContent = existsCount;
+    }
 
     // Crawler Search
     document.getElementById('btn-crawler-search').addEventListener('click', async () => {
@@ -3148,24 +3328,15 @@
           return;
         }
 
-        // Calculate duplicate metrics
-        const total = state.crawlerResults.length;
-        const existsCount = state.crawlerResults.filter(c => c.already_in_db).length;
-        const newCount = total - existsCount;
-
-        document.getElementById('crawler-stat-total').textContent = total;
-        document.getElementById('crawler-stat-new').textContent = newCount;
-        document.getElementById('crawler-stat-exists').textContent = existsCount;
-        document.getElementById('tab-cnt-all').textContent = total;
-        document.getElementById('tab-cnt-new').textContent = newCount;
-        document.getElementById('tab-cnt-exists').textContent = existsCount;
+        updateCrawlerSummaryBar();
 
         summaryBar.style.display = 'flex';
         toolbar.style.display = 'flex';
 
         // Auto select all new books by default
         state.crawlerResults.forEach((c, idx) => {
-          if (!c.already_in_db) state.crawlerSelectedIndices.add(idx);
+          const isDup = Boolean(c.already_in_db || c.already_exists || c.is_duplicate || c.status === 'duplicate' || c.status === 'uncertain');
+          if (!isDup) state.crawlerSelectedIndices.add(idx);
         });
 
         renderCrawlerResults();
@@ -3185,8 +3356,9 @@
 
       const filter = state.crawlerCurrentFilter;
       const filtered = state.crawlerResults.map((cand, idx) => ({ cand, idx })).filter(item => {
-        if (filter === 'new') return !item.cand.already_in_db;
-        if (filter === 'exists') return item.cand.already_in_db;
+        const isDup = Boolean(item.cand.already_in_db || item.cand.already_exists || item.cand.is_duplicate || item.cand.status === 'duplicate' || item.cand.status === 'uncertain');
+        if (filter === 'new') return !isDup;
+        if (filter === 'exists') return isDup;
         return true;
       });
 
@@ -3199,7 +3371,7 @@
 
       filtered.forEach(({ cand, idx }) => {
         const card = document.createElement('div');
-        const isExisting = Boolean(cand.already_in_db);
+        const isExisting = Boolean(cand.already_in_db || cand.already_exists || cand.is_duplicate || cand.status === 'duplicate' || cand.status === 'uncertain');
         card.className = 'crawler-item-card' + (isExisting ? ' is-duplicate' : '');
 
         const hasThumb = Boolean(cand.cover_url && cand.cover_url.trim().length > 5);
@@ -3282,7 +3454,11 @@
               const impData = await impRes.json();
               if (impRes.ok && impData.success) {
                 cand.already_in_db = true;
+                cand.already_exists = true;
+                cand.is_duplicate = true;
+                cand.status = 'duplicate';
                 state.crawlerSelectedIndices.delete(idx);
+                updateCrawlerSummaryBar();
                 renderCrawlerResults();
                 updateBatchImportButton();
                 fetchBooks();
@@ -3324,7 +3500,8 @@
     // Select all new books
     document.getElementById('btn-select-all-new').addEventListener('click', () => {
       state.crawlerResults.forEach((c, idx) => {
-        if (!c.already_in_db) state.crawlerSelectedIndices.add(idx);
+        const isDup = Boolean(c.already_in_db || c.already_exists || c.is_duplicate || c.status === 'duplicate' || c.status === 'uncertain');
+        if (!isDup) state.crawlerSelectedIndices.add(idx);
       });
       renderCrawlerResults();
       updateBatchImportButton();
@@ -3361,8 +3538,14 @@
         const data = await res.json();
         if (res.ok) {
           alert(`Đã nhập thành công ${data.imported_count || selected.length} sách mới vào kho!`);
-          selected.forEach(c => c.already_in_db = true);
+          selected.forEach(c => {
+            c.already_in_db = true;
+            c.already_exists = true;
+            c.is_duplicate = true;
+            c.status = 'duplicate';
+          });
           state.crawlerSelectedIndices.clear();
+          updateCrawlerSummaryBar();
           renderCrawlerResults();
           updateBatchImportButton();
           fetchBooks();
@@ -3391,7 +3574,7 @@
         const res = await fetch(`${API_BASE}/locations?${params.toString()}`);
         if (!res.ok) throw new Error('Locations error');
         const data = await res.json();
-        const locs = data.locations || [];
+        const locs = data.locations || data.results || [];
 
         if (!locs.length) {
           container.innerHTML = `<div style="padding:3rem; text-align:center; border:var(--border-dashed); background:var(--color-paper); grid-column:1/-1;">
@@ -3402,32 +3585,54 @@
 
         container.innerHTML = '';
         locs.forEach(loc => {
+          const locName = loc.title || loc.name || 'Địa điểm đọc';
           const isHighlighted = highlightName && (
-            loc.name.toLowerCase().includes(highlightName.toLowerCase()) || 
-            highlightName.toLowerCase().includes(loc.name.toLowerCase())
+            locName.toLowerCase().includes(highlightName.toLowerCase()) || 
+            highlightName.toLowerCase().includes(locName.toLowerCase())
           );
           const card = document.createElement('div');
           card.className = 'location-card' + (isHighlighted ? ' highlighted-location' : '');
-          const mapsUrl = loc.google_maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(loc.name + ' ' + (loc.address || ''))}`;
+          const mapsUrl = loc.google_maps_url || loc.maps_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(locName + ' ' + (loc.address || ''))}`;
+          const isLibrary = (loc.kind === 'library' || loc.type === 'library');
 
           card.innerHTML = `
             <div class="loc-card-header">
-              <span class="mono-label">${escapeHtml(loc.kind === 'library' ? 'THƯ VIỆN SỐ' : 'NHÀ SÁCH')}</span>
+              <span class="mono-label">${escapeHtml(isLibrary ? 'THƯ VIỆN SÁCH' : 'NHÀ SÁCH THỰC ĐỊA')}</span>
               <span class="loc-rating">⭐ ${loc.rating || '4.5'}</span>
             </div>
-            <h4 class="loc-card-title">${escapeHtml(loc.name)}</h4>
-            <div class="loc-card-address">📍 ${escapeHtml(loc.address || '')}${loc.city ? ', ' + escapeHtml(loc.city) : ''}</div>
+            <h4 class="loc-card-title">${escapeHtml(locName)}</h4>
+            <div class="loc-card-address">📍 ${escapeHtml(loc.address || '')}${loc.city && !loc.address.includes(loc.city) ? ', ' + escapeHtml(loc.city) : ''}</div>
             <div class="loc-card-meta">
-              <span>🕒 ${escapeHtml(loc.opening_hours || '08:00 - 22:00')}</span>
-              <span>📞 ${escapeHtml(loc.phone || 'Đang cập nhật')}</span>
+              <span>🕒 ${escapeHtml(loc.opening_hours || loc.hours || '08:00 - 22:00')}</span>
+              <span>📞 ${escapeHtml(loc.phone || '0236 3822 935')}</span>
             </div>
+            ${loc.description ? `<p style="font-size:0.875rem; color:var(--color-charcoal); line-height:1.5; margin:0.5rem 0 0.75rem 0;">${escapeHtml(loc.description)}</p>` : ''}
             <div class="loc-card-footer">
               <a href="${mapsUrl}" target="_blank" rel="noopener noreferrer" class="btn-map-link">
-                CHỈ ĐƯỜNG GOOGLE MAPS &rarr;
+                📍 MỞ CHỈ ĐƯỜNG GOOGLE MAPS ↗
               </a>
+              <button class="btn-ask-ai-loc" data-name="${escapeHtml(locName)}" data-address="${escapeHtml(loc.address || '')}">
+                💬 HỎI THỦ THƯ AI VỀ ĐỊA ĐIỂM NÀY
+              </button>
             </div>
           `;
           container.appendChild(card);
+        });
+
+        // Add event listeners for "Hỏi thủ thư AI về địa điểm này"
+        container.querySelectorAll('.btn-ask-ai-loc').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const name = btn.dataset.name;
+            const address = btn.dataset.address;
+            openStudioDrawer('tab-chat');
+            const chatInput = document.getElementById('chat-input-text');
+            if (chatInput) {
+              chatInput.value = `Cho tôi biết thông tin chi tiết về ${name} tại ${address}, ở đây có không gian đọc sách yên tĩnh và những đầu sách gì nổi bật?`;
+              const sendBtn = document.getElementById('btn-chat-send');
+              if (sendBtn) sendBtn.click();
+            }
+          });
         });
 
         if (highlightName) {

@@ -22,8 +22,11 @@ class LocationItem(BaseModel):
 
 
 class LocationSearchResponse(BaseModel):
-    location: str
-    kind: str
-    results: list[dict[str, Any]]
+    location: str = ""
+    city: str = ""
+    kind: str = "all"
+    total: int = 0
+    results: list[dict[str, Any]] = []
+    locations: list[dict[str, Any]] = []
     fallback_urls: dict[str, str] = {}
 

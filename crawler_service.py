@@ -769,6 +769,11 @@ def detect_duplicates(
             c["status"] = _NEW_STATUS
             c["match_reason"] = ""
 
+        is_dup = c["status"] in (_DUPLICATE_STATUS, _UNCERTAIN_STATUS)
+        c["already_in_db"] = is_dup
+        c["already_exists"] = is_dup
+        c["is_duplicate"] = is_dup
+
     return candidates
 
 
@@ -1042,22 +1047,41 @@ def get_unindexed_books(
     """Find books present in CSV that do not have an embedding in ChromaDB."""
     if not csv_path.exists():
         return []
-    df = pd.read_csv(csv_path).fillna("")
+    try:
+        df = pd.read_csv(csv_path).fillna("")
+    except Exception:
+        return []
     if df.empty or "book_id" not in df.columns:
         return []
 
-    sqlite_file = chroma_path / "chroma.sqlite3"
     indexed_ids: set[str] = set()
-    if sqlite_file.exists():
-        try:
-            import sqlite3
-            conn = sqlite3.connect(str(sqlite_file))
-            cur = conn.cursor()
-            cur.execute("SELECT embedding_id FROM embeddings")
-            indexed_ids = {str(row[0]) for row in cur.fetchall()}
-            conn.close()
-        except Exception as exc:
-            LOGGER.warning("Could not read ChromaDB SQLite: %s", exc)
+
+    # 1. Try querying ChromaDB collection directly via chromadb client
+    try:
+        import chromadb
+        chroma_client = chromadb.PersistentClient(path=str(chroma_path))
+        existing_collections = [col.name for col in chroma_client.list_collections()]
+        if COLLECTION_NAME in existing_collections:
+            collection = chroma_client.get_collection(name=COLLECTION_NAME)
+            col_data = collection.get(include=[])
+            if col_data and "ids" in col_data:
+                indexed_ids = set(str(i) for i in col_data["ids"])
+    except Exception as exc:
+        LOGGER.warning("Could not query ChromaDB collection directly: %s", exc)
+
+    # 2. Fallback to SQLite check if client collection was not found or failed
+    if not indexed_ids:
+        sqlite_file = chroma_path / "chroma.sqlite3"
+        if sqlite_file.exists():
+            try:
+                import sqlite3
+                conn = sqlite3.connect(str(sqlite_file))
+                cur = conn.cursor()
+                cur.execute("SELECT embedding_id FROM embeddings")
+                indexed_ids = {str(row[0]) for row in cur.fetchall()}
+                conn.close()
+            except Exception as exc:
+                LOGGER.warning("Could not read ChromaDB SQLite: %s", exc)
 
     unindexed: list[dict] = []
     for _, row in df.iterrows():
