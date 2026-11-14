@@ -15,11 +15,23 @@ import uuid
 import textwrap
 
 import google.generativeai as genai
-from gtts import gTTS
 import pandas as pd
-import PIL.Image
 import streamlit as st
-from streamlit_mic_recorder import speech_to_text
+
+try:
+    from gtts import gTTS
+except ImportError:
+    gTTS = None
+
+try:
+    import PIL.Image
+except ImportError:
+    PIL = None
+
+try:
+    from streamlit_mic_recorder import speech_to_text
+except ImportError:
+    speech_to_text = None
 
 from author_service import get_author, load_authors, search_authors
 from book_service import (

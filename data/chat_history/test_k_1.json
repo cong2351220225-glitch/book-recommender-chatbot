@@ -1,7 +1,7 @@
 {
   "id": "test_k_1",
   "title": "alo",
-  "timestamp": "2026-11-13 23:56:35",
+  "timestamp": "2026-11-14 13:41:29",
   "messages": [
     {
       "role": "user",
@@ -116,6 +116,19 @@
       "role": "assistant",
       "content": "Dạ, mình nghe rất rõ đây ạ! Bạn đang cần hỗ trợ về học tập, viết lách, giải đáp thắc mắc hay tìm kiếm thông tin gì không? Bạn cứ tự nhiên chia sẻ nhé!",
       "timestamp": "23:55",
+      "sources": [],
+      "locations": [],
+      "intent": "small_talk"
+    },
+    {
+      "role": "user",
+      "content": "alo",
+      "timestamp": "13:41"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Mình là AI Thủ thư Thư viện số. Mình luôn sẵn sàng giúp bạn tìm sách, tra cứu thông tin tác giả, hoặc tìm kiếm nhà sách và thư viện gần bạn. Bạn cần hỗ trợ gì nhé?",
+      "timestamp": "13:41",
       "sources": [],
       "locations": [],
       "intent": "small_talk"

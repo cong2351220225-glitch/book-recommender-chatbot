@@ -5,7 +5,10 @@ import logging
 import re
 from typing import Any, Dict
 
-from gtts import gTTS
+try:
+    from gtts import gTTS
+except ImportError:
+    gTTS = None
 from google.genai import types
 
 from rag_engine import get_gemini_client, GENERATION_MODEL
@@ -91,6 +94,9 @@ def generate_tts_audio_bytes(text: str, lang: str = "vi") -> bytes:
     clean_text = clean_markdown_for_speech(text)
     if not clean_text:
         clean_text = "Nội dung câu trả lời rỗng."
+
+    if gTTS is None:
+        raise RuntimeError("Thư viện gTTS chưa được cài đặt trên máy chủ.")
 
     fp = io.BytesIO()
     try:

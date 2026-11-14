@@ -1,7 +1,7 @@
 {
   "id": "sess_k_5",
   "title": "Gợi ý sách lập trình hay nhất",
-  "timestamp": "2026-11-03 21:49:04",
+  "timestamp": "2026-11-14 13:41:55",
   "messages": [
     {
       "role": "user",
@@ -120,6 +120,24 @@
       "role": "assistant",
       "content": "Gợi ý sách mẫu",
       "timestamp": "21:49",
+      "sources": [
+        {
+          "id": "book1",
+          "title": "Sách 1"
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    },
+    {
+      "role": "user",
+      "content": "Gợi ý sách lập trình hay nhất",
+      "timestamp": "13:41"
+    },
+    {
+      "role": "assistant",
+      "content": "Gợi ý sách mẫu",
+      "timestamp": "13:41",
       "sources": [
         {
           "id": "book1",

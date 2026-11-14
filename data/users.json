@@ -10107,5 +10107,475 @@
     "password": "CommunityPass123!",
     "hashed_password": "$2b$12$bh.xojOnwhfX3CKe/P.DeerlcfuVvZuGg8hBTuY10YsyM5nK.fG8a",
     "role": "user"
+  },
+  "hotfix_user_699a4b": {
+    "password": "HotfixPassword123!",
+    "hashed_password": "$2b$12$S6cgCJ1tIA3A4oNQtgPtXuVeSbN2yu2KcmRP/bHBi5QChXG.J9vQK",
+    "role": "user"
+  },
+  "verify_dislike_7f80c0": {
+    "password": "SecurePass123!",
+    "hashed_password": "$2b$12$ypxG.XDRt1Qyjyol9TXRLeSiTzKqjjA5WAPAc7oqM18RXYJwV8CcO",
+    "role": "user"
+  },
+  "verify_alpha_5c38f8": {
+    "password": "StrongPassword456!",
+    "hashed_password": "$2b$12$c7gFmi0.n3/ljAuduXD8Z.KqnKPPXsc0/UqFKPxjuPTguKyfvOXVO",
+    "role": "user"
+  },
+  "verify_beta_5f9701": {
+    "password": "StrongPassword456!",
+    "hashed_password": "$2b$12$VDdzE.Z2/DlIz4j1jRwGwOTAdwZgOPyzrFso2zGaKF5pWXoTytsD2",
+    "role": "user"
+  },
+  "verify_reader_c39f6f": {
+    "password": "ReaderPassword789!",
+    "hashed_password": "$2b$12$OBFi1QMMKnKElmtOVtYsKewF8PL5M3SxSLCamtkyDnEPYEdoit4MO",
+    "role": "user"
+  },
+  "reviewer_3dcc4ec9": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$kG1LhU4QsM8wx61FoTiYWuuZhyqLBNSFW8QMfx73u1FwzlZEXzxRC",
+    "role": "user"
+  },
+  "dup_user_71449cfc": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$4V7smN07PlfnGwI9AmZXJ.swyaU88hmnxU5Um4HicIYPXcpeWVa4e",
+    "role": "user"
+  },
+  "nonexist_book_user_988f3e12": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$XU6Ip5PxNaHDkKG4RbzOm.xAYSlL3HvIuKMDCZmKgB0Ah/UlI7Mra",
+    "role": "user"
+  },
+  "rev_author_c6420ac3": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$LKTrB3nduXC/UpIjx7ruPO/6/YKEHD1p5.GeMt8XQQq5U6Kr6woAG",
+    "role": "user"
+  },
+  "commenter_81c89a20": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Fq9SE4BrmwIrX8jwe1VJvObLWKj2.U48A57qIy.XtCoG90gI3mLbK",
+    "role": "user"
+  },
+  "bad_reply_user_68ba9429": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$DeTLi4BLbRNtlt4ysj4ZV.tgFjM8nU/4y8/KGPL5zMl0G.PXHMNYy",
+    "role": "user"
+  },
+  "author_like_632d133f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$H6ARWWmeYhfYVz2cmL7bHO44Af04U3DvX3VBA2nWmI6Jes18hVJ82",
+    "role": "user"
+  },
+  "liker_b_cd537c98": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$FkXox7rGesIyqZNY0Y4AVuSmLjWNQinKPLklFmyK.NpVkZmg/VXN.",
+    "role": "user"
+  },
+  "owner_user_9946d001": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$vNzjC0yB0cK1DP4wz/dCk.vY5HEdpDznFzh4f.LKB2/Rdyq5EyTX2",
+    "role": "user"
+  },
+  "attacker_user_40bef89b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$w0qLyA96FPUJZTYzLcLize0PfFc9hY0k/QjryaAtMrpAsmjGw6s/6",
+    "role": "user"
+  },
+  "violator_user_a1d9019e": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$oNi2OpyFPmOU1pwp9UbwYOotv9RWpV4lK7jPZ3XVlta8/cKVauQ5e",
+    "role": "user"
+  },
+  "profile_tester_d1c43e59": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$scuzVOsWyzW/dgVBmv4T0Onkw2Hckjn7qh7CDkmiySX6aaUjwmAyi",
+    "role": "user"
+  },
+  "concur_author_97e55438": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$gRQbolwNOsys7iMVXhoeiubTzB9PKTIQrps0BCKgHdDhzAM4Kcqqa",
+    "role": "user"
+  },
+  "liker_0_a05e320f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$jJglGECIY6aFtdfYU9bZP.vmSfRNpmW0CGO2HFn2u8Y89ja.Qqu5G",
+    "role": "user"
+  },
+  "liker_1_9f4a0e46": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$8SociMW06rEhVXJGGdtrIe./g5s6cWYQa54M/kAbfaBx7hQHicHsW",
+    "role": "user"
+  },
+  "liker_2_6a03a961": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$FyMpzoh8lKHR7/FjhOfGnuN5gxWAs9ox/d823IVrpUxHPGuwb5fiK",
+    "role": "user"
+  },
+  "liker_3_a83a9c78": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$pjsHtLWnRxeiriSOeH9PQe8m5yGs5ud6a9LV4y.sOFAaUuu1sz9FG",
+    "role": "user"
+  },
+  "liker_4_9270c342": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$pnHr73g3CS62gQWo3eRA/uyxnxCYPtQD/jmNO2wgsIstPDHYZfeCu",
+    "role": "user"
+  },
+  "limit_user_e93a1229": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$AjeXluGT813zXVs.L5I1/eyDP2OLeuI.6cWD5z45DZIEJWpfXVi3m",
+    "role": "user"
+  },
+  "sqli_tester_c404434f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$PdmSJI.9dbODhOdfAkv3heuvmCqV1kV41M41cKLObPymxBwoMfi52",
+    "role": "user"
+  },
+  "persist_user_705c20a4": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$nJp2hTulQW0hQTyC./BlMe2IybmeymCLo3twaEU3AOX3xNm0RZJZG",
+    "role": "user"
+  },
+  "follower_fc131b5e": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$/b2pIaFlO9Nh8JFoqWXhDu6ARmqVR7zqTlc9CfBtmzjhC0SgW8KJ6",
+    "role": "user"
+  },
+  "target_bc9104b8": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$zF4U54P0JTm4uG52K346iu9ISzHoibLvl7dCG96ZKrF65gxOFfpoe",
+    "role": "user"
+  },
+  "val_user_c16004b3": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Lr.LuMDecIPRaKzH3JU5d.ij03x/pAD/4Jv.zcME3jUq0.nYUqxN.",
+    "role": "user"
+  },
+  "val_target_3b1fb484": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$riSH.jlXJ4YveP5XYNmuiOVkcpJR.43GVnkS3W.nipbt17ACYYuru",
+    "role": "user"
+  },
+  "influencer_01c49e0d": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$./3WkQ7Mxp.ouQmz5w9lR.rHXPav08cwxFYVsGrCiVDfloT2LINJO",
+    "role": "user"
+  },
+  "fan_026dfc92": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$kSVZU4lcLvzoWH9vh2D7iud4kANeqS8jMBmv9xbxlKrPIAS.diwx6",
+    "role": "user"
+  },
+  "fan_e6b06c59": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$1ch6nAJODgoPLpqD08xAdeNzhY2TK9y3b4TIhanhBQq9lInFDh/na",
+    "role": "user"
+  },
+  "fan_7da39e71": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Ka.YI9fQ3/pDigKVsZdUruXrLNsGjXPgckRx4nCYcsMP1zsbYhFWa",
+    "role": "user"
+  },
+  "fan_e234ae7c": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$TgroG1O.8c5vUTmOMe3uqu.Q99x/LrWeb5qZermsyMul5RhdXUGCK",
+    "role": "user"
+  },
+  "fan_48b8bc6c": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$T9PDpNi9e80C6dz0kX1mzOsRxSarWRsRt7dP/BjxINgbFegMKhKu6",
+    "role": "user"
+  },
+  "alice_e1968d1b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$CtBuFLUaQYWhJQQgrZFt6eJyn8rh08mMFLwzCJ6l4N8xst3ZlKBBm",
+    "role": "user"
+  },
+  "bob_8872a046": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$JAZOMkLKPJ8jdVdlnFCo9OCjfPXu9dgvK04vDEAi2fMATxxTM8Myu",
+    "role": "user"
+  },
+  "charlie_e7b433f0": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$QHZvc/PNqHYfqZ//NtQKreSOtvQr4/bclUQFU2I2fwwpdsG8ZVM9e",
+    "role": "user"
+  },
+  "priv_user_5a2da4b4": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$RcwTuhMGh/dvgxz8WNszR.5Hyu1PhzXvZbhfZ2V4hgdYcmGfdAKVu",
+    "role": "user"
+  },
+  "shelf_owner_1520ed53": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$VHzXBb2xHpT6FqOR.yYdBu5aqtKLsoC44bVaUaERWaQ0kVOAm647q",
+    "role": "user"
+  },
+  "shelf_stranger_fd7d5b09": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$wbY4C4k96VmvPDazj8pLpunVPQl8D306G7wBlSC4/Mi08FRrACMRu",
+    "role": "user"
+  },
+  "shelf_friend_b1313b1b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$FZ1KHQgKwlSyIyCaXySB1.aE13HBBWGvtCQiS7D0G.d1HABmGYJM2",
+    "role": "user"
+  },
+  "feed_reader_2b412e16": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$8DtFuXt83qALEukG5C43L.XF19R56jNMYOhTklOH1IseOy4xRGRqy",
+    "role": "user"
+  },
+  "feed_author_b_67d323ad": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$YLapFOIH3Jayiy3x5ra6zOV0Sts2nFMKogKY1Jra6im3P4kIob/Ya",
+    "role": "user"
+  },
+  "feed_author_c_d1dd80d9": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$h6scvV2CQvEHEbyW6yN13edzudZlijeV/WbkCscX4dzJhKz2YCepe",
+    "role": "user"
+  },
+  "feed_listener_2154ad7b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$eYbwi0lZXUHNEc11w/rbfu1upPGMXoAN0MnyGVVEGKRXf2s8cPcAq",
+    "role": "user"
+  },
+  "feed_writer_dc2326c7": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$zduLLhIcwYwpMyqNqbiaBOqK0lL/2NiayRZuQKGKC7I9FoSFA9Dt6",
+    "role": "user"
+  },
+  "feed_sub_22470d8b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$py9xB5MG/29iwtpj26e0nurY/8SHfdrDTQxoKojpFraGtcTyqT.Bq",
+    "role": "user"
+  },
+  "feed_pub_5c5f27f7": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$lv78j630EEFuMDKGlMu.yutbPaQwbwCzwdTtSbFznGVrsg8zUZz3y",
+    "role": "user"
+  },
+  "feed_a_8fffd466": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$nLZXNyXO.ZhhrUfoAZdz/eHOOOeQ/uD1PLXTtet02Tn.Ukhg5AKXu",
+    "role": "user"
+  },
+  "feed_b_d2b96e1f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$MGpXzDeXQ7RrL32OxziwJOAQQ4.k2d/cifAImjgMgJEwlQhBYXZru",
+    "role": "user"
+  },
+  "concurrent_target_0f40ec1c": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$4bk6QVxz9RZ/6I56Qac/sOpqIn.w9EUbbNXwJNgENlFgeyUZhdOgu",
+    "role": "user"
+  },
+  "c_fan_0_b8efa5d2": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$qyJVuYlR3PWpiox7PxR5oO1/5m.RKik8hN5zEHGPSPPHIdMmN.UiS",
+    "role": "user"
+  },
+  "c_fan_1_2c1c7e7d": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$3fhdNmM9aumTVFbg6p.2luyWykX8jDOGsXF6tX27Gw7oaeejYPHtW",
+    "role": "user"
+  },
+  "c_fan_2_202f2da9": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$l0ocHJyEFO4js01iS9qX6eYuD4BGfzT6arJzjpPpYmV30iDHFtzJG",
+    "role": "user"
+  },
+  "c_fan_3_21cc4e6f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$NA.oVP9yZvYaPYwYp.uQdOZ7W47cfaUa0iO0O0vsBUAsz/pTlyqHi",
+    "role": "user"
+  },
+  "c_fan_4_4b643e27": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$ueqlarDowhcCvTNRikbMl.DA1Fq75tD6Epuxua/KE0gjh2MvrhLAm",
+    "role": "user"
+  },
+  "c_fan_5_af9d30a6": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$j8CWYyUBasKMMJGY6TEigeq2l1Scg1jnyn59QnRrwmCcqNDeUsK0u",
+    "role": "user"
+  },
+  "author_1cb3f45c": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Bmn1vDljujd8S/7Ft/E5bOkQo7Jf5kfFJzd8h/KFrxoy4QXje1/nW",
+    "role": "user"
+  },
+  "reporter_ba44511d": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$mIOOnXA3uj9woPSJ7mZQXOx1CHjA396Nma4.ptEAtxrTRVy6JRaq.",
+    "role": "user"
+  },
+  "rev_author_fbdd180c": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$z0P7psY9YYhWJWQBTWD/hud/h/NsyHPo93n0RSCUWTYJ6H8A1PhVS",
+    "role": "user"
+  },
+  "commenter_9dc63e54": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$DihFfV63oZeJkQcrl/j5heAoDXS79qCKGDS4V074tSBhoTfHX0WFy",
+    "role": "user"
+  },
+  "comm_reporter_408e2ef1": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$zO6/dDi5W9XZ2skDDB847.tS0JRPUIeoM9BbhhIXL44Mk4nlDv5fS",
+    "role": "user"
+  },
+  "rep_404_b3d3940e": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$LbIcACSfwTpxFOEXjfRMQ.m/0naGmDe9oQGPC4AknlH/Pr7UXJkAe",
+    "role": "user"
+  },
+  "self_rep_2a78d6c1": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$q6QJug2NM4plaWqPl6vo.Oy8vLbXTmX0sx42qNkK8NAM6JWr6s71y",
+    "role": "user"
+  },
+  "author_dup_8b3fcaaa": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$20FZ7uJKHtnPGyubQQwC4uYp3opl2AnE9F9HbivK5ROTrzHLyu6O2",
+    "role": "user"
+  },
+  "reporter_dup_08e9778d": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$pPUMRh7pkk7ALmPCblPaSOAWrKNXSUPvyXFMdVXcEFjvM9IxYln1S",
+    "role": "user"
+  },
+  "regular_user_f5398acb": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$yr02uuQNpx24QfmOZXoZYuLMc//wX8lZWjntdTN5DCSmM9mc6PaGO",
+    "role": "user"
+  },
+  "dt_author_5a29416f": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$d1/ZBbE74TYPgl4SsdGoM.c3i2/QbtP06j67K1G7NTBA9KoYA5IYK",
+    "role": "user"
+  },
+  "dt_reporter_6c1af3cc": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$7f.sYbKVWTBfTVteSYYZtOsVn5TfuRdRu50DBeMFtA2er.z1HpMGK",
+    "role": "user"
+  },
+  "claim_author_9e9a7210": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$A72Z7.zqkq1zbMoqkYAiR.XDWiXVUxuxTJiDhCX6b9Krzs4SKr7Ry",
+    "role": "user"
+  },
+  "claim_reporter_258fc475": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$/9HnzpyXigDCbSUVwtK7vOTaMKmggVpXr.7ctITby2/RsDWznvQdy",
+    "role": "user"
+  },
+  "dism_author_c4c20cc0": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$0a0d0ROvJR0PJVOSw3hfa.ldcTezdHnHgELNI.48A/0WzHq8qujEq",
+    "role": "user"
+  },
+  "dism_reporter_36a2ab90": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$zj3SYdMhexK.ZYX1xarBCu0ZBS3eLrYpNL1qJlA/4gv.gCB1cgS3C",
+    "role": "user"
+  },
+  "hide_author_39686bca": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$HAZBzptM6ISglCYE9q/hYO9R7FR2aXRrUzp7x/0E/Gab4P2ZvuOK6",
+    "role": "user"
+  },
+  "hide_reporter_870398d1": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$sjjATF5F/b7V/GDI/5riieYT5ioxkZD5xZpijRyWVOPr0aMhxXIHK",
+    "role": "user"
+  },
+  "c_rev_author_8675f076": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$BNAEXx04ESw2n.qX7oFXpuZ/aK5/zZIbCNQF3pFDpDgku.dT23Izu",
+    "role": "user"
+  },
+  "c_bad_user_f7fc8497": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$BlFLW9i.DA.qABof5rc6EuW64zaleMJFK0qNFT.Heb0OZqNHHhad.",
+    "role": "user"
+  },
+  "c_rep_user_9d2e91ef": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$fD5vld88tXSvLPovFtD66.ScF2u2qPLcEojVbBiHwuMKLtJ9gmsRm",
+    "role": "user"
+  },
+  "del_author_4157776b": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$i.W6mF4a9TGj6NXza2IY0uwkFR6FrZDpy7YpiEzEaSzOUqWHY5CKm",
+    "role": "user"
+  },
+  "del_reporter_adc10699": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Y7lwhsWlU1XSF8Yv/9y2quXCXxSXXYYtPbuhYnfRVi6M5Kkp1bd.6",
+    "role": "user"
+  },
+  "priv_reporter_931ef7c1": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$Xo58J210T99QkO3Oj/lqQukuc9yDXAvPav64Wicc0ReccTJ07Fntm",
+    "role": "user"
+  },
+  "other_eavesdropper_1b772306": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$n2szj59jXywwcO6lvFkRXuxrgwwyUqZHRLXAIQwSQl6BhgoGstWNK",
+    "role": "user"
+  },
+  "priv_author_bf648dec": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$zCDSvka.NrL9Qiw3GBPJieJM.X0P/S1f2irp1VUCxU5uT3ptDp0z6",
+    "role": "user"
+  },
+  "hacker_user_83077145": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$HR3jqUXfN9.VdKW.Z/WJs.7zS8x716.tO7QGsEMbKMnAUDhdES.A.",
+    "role": "user"
+  },
+  "feed_author_mod_9aa87d92": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$R7TMjQCQBPorAq55OtdYSev8WnwZWmhJrkUBli/Hg7IACRyQ8Twxi",
+    "role": "user"
+  },
+  "feed_follower_mod_6d552d45": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$750W6vZvTHddfxRzqy77ROAQcIOX6AyaPg5UBbLKajjOBihvfq2Oq",
+    "role": "user"
+  },
+  "rep_feed_010e77f6": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$H3AgJ9Ssv9OfR2hSnRAH6eVJxB6rPuBD9miwh3GyFwelkfI3wlDdO",
+    "role": "user"
+  },
+  "race_author_2ec0343a": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$nakPVKqGn2MDBos2iQPUzeZu0jVCyIZd53QTywGK/sVvU7iYTc26q",
+    "role": "user"
+  },
+  "race_reporter_c00c9a8a": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$VNYCmTutOArw9uwa5IDUiu1DbeEWNmDgyjVk45Pcaza8OzJRywXMy",
+    "role": "user"
+  },
+  "multi_author_e84a67d7": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$/82AhQJ9Ctk3mGMT4/N4feJo22Yn7G9U.nB8KVXxV1MJ/HdhuUpAy",
+    "role": "user"
+  },
+  "multi_rep1_27727052": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$tz4PUrI3MhSLud3K/LG9kuv5uCLys11.0fvjDL6ZQo0WCSQjjt5aS",
+    "role": "user"
+  },
+  "multi_rep2_acb7e402": {
+    "password": "CommunityPass123!",
+    "hashed_password": "$2b$12$gZHkqj0WVMR9xcmQwkMJVuZqYLQ1JcIk4XyK/7v9VjMDiJ1R45QWW",
+    "role": "user"
   }
 }

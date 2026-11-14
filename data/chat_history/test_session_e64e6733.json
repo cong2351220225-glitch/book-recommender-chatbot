@@ -1,0 +1,20 @@
+{
+  "id": "test_session_e64e6733",
+  "title": "Xin chào thư viện!",
+  "timestamp": "2026-11-14 13:40:05",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Xin chào thư viện!",
+      "timestamp": "13:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm nhà sách hoặc thư viện ở khu vực nào? Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn.",
+      "timestamp": "13:40",
+      "sources": [],
+      "locations": [],
+      "intent": "location_library"
+    }
+  ]
+}

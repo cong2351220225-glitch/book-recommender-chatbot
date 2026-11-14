@@ -1,0 +1,96 @@
+{
+  "id": "dee3649f-d236-4622-9707-cb8b9146434a",
+  "title": "Tìm nhà sách ở Đà Nẵng.",
+  "timestamp": "2026-11-14 13:55:07",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tìm nhà sách ở Đà Nẵng.",
+      "timestamp": "13:55"
+    },
+    {
+      "role": "assistant",
+      "content": "Mình đã tìm thấy **3** nhà sách gần khu vực **Đà Nẵng** dành cho bạn:\n\n1. **Nhà Sách FAHASA Đà Nẵng** ⭐ 4.4 — 300 Lê Duẩn, Thanh Khê, Đà Nẵng 550000, Việt Nam, Đang mở cửa · Đóng cửa vào 22:00, +84 236 3647 707\n2. **Nhà Sách Đà Nẵng** ⭐ 4.1 — 78 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Việt Nam, Đang mở cửa · Đóng cửa vào 21:00, +84 236 3849 707\n3. **Nhà sách Phương Nam** ⭐ 4.4 — 153 Phan Châu Trinh, Hải Châu, Đà Nẵng 550000, Việt Nam, Đang mở cửa · Đóng cửa vào 21:30, +84 906 414 566",
+      "timestamp": "13:55",
+      "sources": [],
+      "locations": [
+        {
+          "title": "Nhà Sách FAHASA Đà Nẵng",
+          "name": "Nhà Sách FAHASA Đà Nẵng",
+          "address": "300 Lê Duẩn, Thanh Khê, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.4,
+          "reviews": 2691,
+          "type": "Hiệu sách",
+          "kind": "bookstore",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đang mở cửa · Đóng cửa vào 22:00",
+          "hours": "Đang mở cửa · Đóng cửa vào 22:00",
+          "opening_hours": "Đang mở cửa · Đóng cửa vào 22:00",
+          "phone": "+84 236 3647 707",
+          "website": "http://fahasasg.com.vn/",
+          "description": "",
+          "latitude": 16.0696862,
+          "longitude": 108.21040889999999,
+          "place_id": "ChIJVQoJz0sYQjERz40FhQkJR9w",
+          "data_id": "0x3142184bcf090a55:0xdc47090985058dcf",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaJ3cl1_eWKuh1tFercMYwkugYIzZQL8PPIpiEZli_eluTfHdgbIv3tOCBs6W3-FWWFBvl0tt__0SFkJHeU9JBufami33DZl74YCHxAis_K6Kedq5deLGvEWX71-1HnfQhwLx7fw=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+FAHASA+%C4%90%C3%A0+N%E1%BA%B5ng%2C+300+L%C3%AA+Du%E1%BA%A9n%2C+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        },
+        {
+          "title": "Nhà Sách Đà Nẵng",
+          "name": "Nhà Sách Đà Nẵng",
+          "address": "78 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.1,
+          "reviews": 929,
+          "type": "Hiệu sách",
+          "kind": "bookstore",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đang mở cửa · Đóng cửa vào 21:00",
+          "hours": "Đang mở cửa · Đóng cửa vào 21:00",
+          "opening_hours": "Đang mở cửa · Đóng cửa vào 21:00",
+          "phone": "+84 236 3849 707",
+          "website": "http://www.danangbook.com/",
+          "description": "Hiệu sách nhà nước bán sách giáo khoa. Hiệu sách nhà nước chuyên cung cấp các đầu sách cho giáo viên và học sinh cùng một số đồ dùng học tập.",
+          "latitude": 16.0695244,
+          "longitude": 108.2248224,
+          "place_id": "ChIJa-zOEzIYQjERSB3fZBeziVQ",
+          "data_id": "0x3142183213ceec6b:0x5489b31764df1d48",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0jjCOiWuTyPfbH1y7qXdBc4T5rEkYhRfJTd2uoOzjHirL4nZzrm7F1KzcKv5Qs9Jpx7sjma_dBBnN8i2FuLZuJd58BYrS5wARgZ2jeVPBHKzVP5G87HTsvax3N2DK-SIfckUDuA=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+S%C3%A1ch+%C4%90%C3%A0+N%C4%83%CC%83ng%2C+78+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        },
+        {
+          "title": "Nhà sách Phương Nam",
+          "name": "Nhà sách Phương Nam",
+          "address": "153 Phan Châu Trinh, Hải Châu, Đà Nẵng 550000, Việt Nam",
+          "rating": 4.4,
+          "reviews": 801,
+          "type": "Hiệu sách",
+          "kind": "bookstore",
+          "types": [
+            "Hiệu sách"
+          ],
+          "open_state": "Đang mở cửa · Đóng cửa vào 21:30",
+          "hours": "Đang mở cửa · Đóng cửa vào 21:30",
+          "opening_hours": "Đang mở cửa · Đóng cửa vào 21:30",
+          "phone": "+84 906 414 566",
+          "website": "https://nhasachphuongnam.com/",
+          "description": "",
+          "latitude": 16.0645,
+          "longitude": 108.220079,
+          "place_id": "ChIJybANfzMYQjERAaIvEG6ktAs",
+          "data_id": "0x314218337f0db0c9:0xbb4a46e102fa201",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4DcqYt1sPGbORv0wuJ6Xo-qdVJ1nGJsdn4554Ps11R8rXtJuM18JuH0v8OHmimpCcunpmpkF-eVS2sypgUr3rQEq6dIA-gljp8sMn3aENd-32WaWOn14gZdsee6t9-9bfGiwO=w1000-h1000-c-n",
+          "directions_url": "https://www.google.com/maps/dir/v%E1%BB%8B+tr%C3%AD+c%E1%BB%A7a+t%C3%B4i/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam",
+          "google_maps_url": "https://www.google.com/maps/search/Nh%C3%A0+s%C3%A1ch+Ph%C6%B0%C6%A1ng+Nam%2C+153+Phan+Ch%C3%A2u+Trinh%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+550000%2C+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "intent": "location_bookstore"
+    }
+  ]
+}

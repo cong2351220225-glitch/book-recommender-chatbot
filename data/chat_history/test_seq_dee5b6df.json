@@ -1,0 +1,70 @@
+{
+  "id": "test_seq_dee5b6df",
+  "title": "Thư viện có sách nào về công nghệ không?",
+  "timestamp": "2026-11-14 13:40:19",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Thư viện có sách nào về công nghệ không?",
+      "timestamp": "13:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn muốn tìm nhà sách hoặc thư viện ở khu vực nào? Ví dụ: Hà Nội, Đà Nẵng, TP.HCM hoặc quận của bạn.",
+      "timestamp": "13:40",
+      "sources": [],
+      "locations": [],
+      "intent": "location_library"
+    },
+    {
+      "role": "user",
+      "content": "Cuốn đầu tiên có tác giả là ai?",
+      "timestamp": "13:40"
+    },
+    {
+      "role": "assistant",
+      "content": "Dựa trên kho sách của thư viện, các tác phẩm phù hợp với câu hỏi của bạn là:\n- 'Flower Fables' (Louisa May Alcott, Khoa học viễn tưởng)\n- 'Chinh Phục Vũ Trụ Tập 1 (Volume 1)' (TH Group, Kho Lưu Trữ Số)\n\nThông tin chi tiết: Title: Flower Fables\nAuthor: Louisa May Alcott\nGenre: Khoa học viễn tưởng\nPublication year: 1854\nTags: Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: Louisa May Alcott was twenty-one when she published this, her first book. A collection of fairy stories and poems she originally told to Ralph Waldo Emerson's daughter Ellen, Flower Fables is a charming and delightful achievement from the hand that would eventually craft the timeless classic Little Women. Flower Fables is presented here in large print for easier reading by children and adults of any age.",
+      "timestamp": "13:40",
+      "sources": [
+        {
+          "document": "Title: Flower Fables\nAuthor: Louisa May Alcott\nGenre: Khoa học viễn tưởng\nPublication year: 1854\nTags: Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections\nTarget audience: nan\nMood: nan\nDifficulty: nan\nSummary: nan\nDescription: Louisa May Alcott was twenty-one when she published this, her first book. A collection of fairy stories and poems she originally told to Ralph Waldo Emerson's daughter Ellen, Flower Fables is a charming and delightful achievement from the hand that would eventually craft the timeless classic Little Women. Flower Fables is presented here in large print for easier reading by children and adults of any age.",
+          "metadata": {
+            "author": "Louisa May Alcott",
+            "featured": false,
+            "title": "Flower Fables",
+            "tags": "Fairy tales, Fairies, Flowers, Literary collections, Poetry, Fiction, Children's stories, American, Short stories, Classic Literature, Conduct of life, Juvenile literature, Children's fiction, Flowers, fiction, JUVENILE FICTION / Fairy Tales & Folklore / General, American fiction (fictional works by one author), Literature, collections",
+            "target_audience": "nan",
+            "difficulty": "nan",
+            "author_id": "ol26680a",
+            "mood": "nan",
+            "year": 1854,
+            "book_id": "book_126",
+            "rating": 0.0,
+            "genre": "Khoa học viễn tưởng"
+          },
+          "distance": 0.2983282804489136
+        },
+        {
+          "document": "Title: Chinh Phục Vũ Trụ Tập 1 (Volume 1)\nAuthor: TH Group\nGenre: Kho Lưu Trữ Số\nPublication year: 2013\nTags: Kho lưu trữ số\nTarget audience: Mọi độc giả\nMood: Muốn học hỏi\nDifficulty: Trung bình\nSummary: An original Vietnamese comic produced by TH Group , a Vietnamese milk company. Only the 1st volume out of 4 have a digital version, I edited the images for conventional book reading.\nDescription: An original Vietnamese comic produced by TH Group , a Vietnamese milk company. Only the 1st volume out of 4 have a digital version, I edited the images for conventional book reading.",
+          "metadata": {
+            "target_audience": "Mọi độc giả",
+            "year": 2013,
+            "title": "Chinh Phục Vũ Trụ Tập 1 (Volume 1)",
+            "featured": false,
+            "author_id": "",
+            "author": "TH Group",
+            "difficulty": "Trung bình",
+            "rating": 4.2,
+            "book_id": "book_210",
+            "tags": "Kho lưu trữ số",
+            "genre": "Kho Lưu Trữ Số",
+            "mood": "Muốn học hỏi"
+          },
+          "distance": 0.310996413230896
+        }
+      ],
+      "locations": [],
+      "intent": "book_query"
+    }
+  ]
+}
